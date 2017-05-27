@@ -1,0 +1,822 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document doc_name="30_10ecbplus.xml">
+  <token t_id="1" sentence="0" number="0">http</token>
+  <token t_id="2" sentence="0" number="1">:</token>
+  <token t_id="3" sentence="0" number="2">/</token>
+  <token t_id="4" sentence="0" number="3">/</token>
+  <token t_id="5" sentence="0" number="4">mybroadband</token>
+  <token t_id="6" sentence="0" number="5">.</token>
+  <token t_id="7" sentence="0" number="6">co</token>
+  <token t_id="8" sentence="0" number="7">.</token>
+  <token t_id="9" sentence="0" number="8">za</token>
+  <token t_id="10" sentence="0" number="9">/</token>
+  <token t_id="11" sentence="0" number="10">news</token>
+  <token t_id="12" sentence="0" number="11">/</token>
+  <token t_id="13" sentence="0" number="12">broadband</token>
+  <token t_id="14" sentence="0" number="13">/</token>
+  <token t_id="15" sentence="0" number="14">36092</token>
+  <token t_id="16" sentence="0" number="15">-</token>
+  <token t_id="17" sentence="0" number="16">seacom</token>
+  <token t_id="18" sentence="0" number="17">-</token>
+  <token t_id="19" sentence="0" number="18">restored</token>
+  <token t_id="20" sentence="0" number="19">-</token>
+  <token t_id="21" sentence="0" number="20">for</token>
+  <token t_id="22" sentence="0" number="21">-</token>
+  <token t_id="23" sentence="0" number="22">commercial</token>
+  <token t_id="24" sentence="0" number="23">-</token>
+  <token t_id="25" sentence="0" number="24">isps</token>
+  <token t_id="26" sentence="0" number="25">-</token>
+  <token t_id="27" sentence="0" number="26">on</token>
+  <token t_id="28" sentence="0" number="27">-</token>
+  <token t_id="29" sentence="0" number="28">alternate</token>
+  <token t_id="30" sentence="0" number="29">-</token>
+  <token t_id="31" sentence="0" number="30">routes</token>
+  <token t_id="32" sentence="0" number="31">.</token>
+  <token t_id="33" sentence="0" number="32">html</token>
+  <token t_id="34" sentence="1" number="0">Seacom</token>
+  <token t_id="35" sentence="1" number="1">restored</token>
+  <token t_id="36" sentence="1" number="2">for</token>
+  <token t_id="37" sentence="1" number="3">commercial</token>
+  <token t_id="38" sentence="1" number="4">ISPs</token>
+  <token t_id="39" sentence="1" number="5">on</token>
+  <token t_id="40" sentence="1" number="6">alternate</token>
+  <token t_id="41" sentence="1" number="7">routes</token>
+  <token t_id="42" sentence="2" number="0">Seacom's</token>
+  <token t_id="43" sentence="2" number="1">business</token>
+  <token t_id="44" sentence="2" number="2">customers</token>
+  <token t_id="45" sentence="2" number="3">,</token>
+  <token t_id="46" sentence="2" number="4">including</token>
+  <token t_id="47" sentence="2" number="5">commercial</token>
+  <token t_id="48" sentence="2" number="6">Internet</token>
+  <token t_id="49" sentence="2" number="7">Service</token>
+  <token t_id="50" sentence="2" number="8">Providers</token>
+  <token t_id="51" sentence="2" number="9">,</token>
+  <token t_id="52" sentence="2" number="10">have</token>
+  <token t_id="53" sentence="2" number="11">had</token>
+  <token t_id="54" sentence="2" number="12">their</token>
+  <token t_id="55" sentence="2" number="13">services</token>
+  <token t_id="56" sentence="2" number="14">restored</token>
+  <token t_id="57" sentence="2" number="15">via</token>
+  <token t_id="58" sentence="2" number="16">alternative</token>
+  <token t_id="59" sentence="2" number="17">routes</token>
+  <token t_id="60" sentence="2" number="18">,</token>
+  <token t_id="61" sentence="2" number="19">Seacom</token>
+  <token t_id="62" sentence="2" number="20">announced</token>
+  <token t_id="63" sentence="2" number="21">today</token>
+  <token t_id="64" sentence="3" number="0">October</token>
+  <token t_id="65" sentence="3" number="1">14</token>
+  <token t_id="66" sentence="3" number="2">,</token>
+  <token t_id="67" sentence="3" number="3">2011</token>
+  <token t_id="68" sentence="4" number="0">Subsea</token>
+  <token t_id="69" sentence="4" number="1">cable</token>
+  <token t_id="70" sentence="4" number="2">operator</token>
+  <token t_id="71" sentence="4" number="3">Seacom</token>
+  <token t_id="72" sentence="4" number="4">announced</token>
+  <token t_id="73" sentence="4" number="5">on</token>
+  <token t_id="74" sentence="4" number="6">Twitter</token>
+  <token t_id="75" sentence="4" number="7">today</token>
+  <token t_id="76" sentence="4" number="8">(</token>
+  <token t_id="77" sentence="4" number="9">14</token>
+  <token t_id="78" sentence="4" number="10">October</token>
+  <token t_id="79" sentence="4" number="11">2011</token>
+  <token t_id="80" sentence="4" number="12">)</token>
+  <token t_id="81" sentence="4" number="13">that</token>
+  <token t_id="82" sentence="4" number="14">they</token>
+  <token t_id="83" sentence="4" number="15">have</token>
+  <token t_id="84" sentence="4" number="16">restored</token>
+  <token t_id="85" sentence="4" number="17">all</token>
+  <token t_id="86" sentence="4" number="18">their</token>
+  <token t_id="87" sentence="4" number="19">business</token>
+  <token t_id="88" sentence="4" number="20">customers</token>
+  <token t_id="89" sentence="4" number="21">on</token>
+  <token t_id="90" sentence="4" number="22">alternate</token>
+  <token t_id="91" sentence="4" number="23">routes</token>
+  <token t_id="92" sentence="4" number="24">following</token>
+  <token t_id="93" sentence="4" number="25">an</token>
+  <token t_id="94" sentence="4" number="26">outage</token>
+  <token t_id="95" sentence="4" number="27">expected</token>
+  <token t_id="96" sentence="4" number="28">to</token>
+  <token t_id="97" sentence="4" number="29">extend</token>
+  <token t_id="98" sentence="4" number="30">into</token>
+  <token t_id="99" sentence="4" number="31">next</token>
+  <token t_id="100" sentence="4" number="32">week</token>
+  <token t_id="101" sentence="4" number="33">.</token>
+  <token t_id="102" sentence="5" number="0">This</token>
+  <token t_id="103" sentence="5" number="1">includes</token>
+  <token t_id="104" sentence="5" number="2">commercial</token>
+  <token t_id="105" sentence="5" number="3">Internet</token>
+  <token t_id="106" sentence="5" number="4">service</token>
+  <token t_id="107" sentence="5" number="5">providers</token>
+  <token t_id="108" sentence="5" number="6">,</token>
+  <token t_id="109" sentence="5" number="7">according</token>
+  <token t_id="110" sentence="5" number="8">to</token>
+  <token t_id="111" sentence="5" number="9">Seacom's</token>
+  <token t_id="112" sentence="5" number="10">tweet</token>
+  <token t_id="113" sentence="5" number="11">,</token>
+  <token t_id="114" sentence="5" number="12">which</token>
+  <token t_id="115" sentence="5" number="13">said</token>
+  <token t_id="116" sentence="5" number="14">that</token>
+  <token t_id="117" sentence="5" number="15">all</token>
+  <token t_id="118" sentence="5" number="16">such</token>
+  <token t_id="119" sentence="5" number="17">ISPs</token>
+  <token t_id="120" sentence="5" number="18">using</token>
+  <token t_id="121" sentence="5" number="19">Seacom</token>
+  <token t_id="122" sentence="5" number="20">capacity</token>
+  <token t_id="123" sentence="5" number="21">are</token>
+  <token t_id="124" sentence="5" number="22">no</token>
+  <token t_id="125" sentence="5" number="23">longer</token>
+  <token t_id="126" sentence="5" number="24">affected</token>
+  <token t_id="127" sentence="5" number="25">by</token>
+  <token t_id="128" sentence="5" number="26">the</token>
+  <token t_id="129" sentence="5" number="27">outage</token>
+  <token t_id="130" sentence="5" number="28">.</token>
+  <token t_id="131" sentence="6" number="0">Seacom</token>
+  <token t_id="132" sentence="6" number="1">started</token>
+  <token t_id="133" sentence="6" number="2">to</token>
+  <token t_id="134" sentence="6" number="3">experience</token>
+  <token t_id="135" sentence="6" number="4">problems</token>
+  <token t_id="136" sentence="6" number="5">on</token>
+  <token t_id="137" sentence="6" number="6">Saturday</token>
+  <token t_id="138" sentence="6" number="7">,</token>
+  <token t_id="139" sentence="6" number="8">8</token>
+  <token t_id="140" sentence="6" number="9">October</token>
+  <token t_id="141" sentence="6" number="10">2011</token>
+  <token t_id="142" sentence="6" number="11">,</token>
+  <token t_id="143" sentence="6" number="12">which</token>
+  <token t_id="144" sentence="6" number="13">it</token>
+  <token t_id="145" sentence="6" number="14">said</token>
+  <token t_id="146" sentence="6" number="15">was</token>
+  <token t_id="147" sentence="6" number="16">caused</token>
+  <token t_id="148" sentence="6" number="17">by</token>
+  <token t_id="149" sentence="6" number="18">a</token>
+  <token t_id="150" sentence="6" number="19">problem</token>
+  <token t_id="151" sentence="6" number="20">on</token>
+  <token t_id="152" sentence="6" number="21">a</token>
+  <token t_id="153" sentence="6" number="22">cable</token>
+  <token t_id="154" sentence="6" number="23">between</token>
+  <token t_id="155" sentence="6" number="24">Abu</token>
+  <token t_id="156" sentence="6" number="25">Talat</token>
+  <token t_id="157" sentence="6" number="26">in</token>
+  <token t_id="158" sentence="6" number="27">Egypt</token>
+  <token t_id="159" sentence="6" number="28">and</token>
+  <token t_id="160" sentence="6" number="29">Marseilles</token>
+  <token t_id="161" sentence="6" number="30">in</token>
+  <token t_id="162" sentence="6" number="31">France</token>
+  <token t_id="163" sentence="6" number="32">.</token>
+  <token t_id="164" sentence="7" number="0">In</token>
+  <token t_id="165" sentence="7" number="1">an</token>
+  <token t_id="166" sentence="7" number="2">official</token>
+  <token t_id="167" sentence="7" number="3">statement</token>
+  <token t_id="168" sentence="7" number="4">from</token>
+  <token t_id="169" sentence="7" number="5">Seacom</token>
+  <token t_id="170" sentence="7" number="6">said</token>
+  <token t_id="171" sentence="7" number="7">that</token>
+  <token t_id="172" sentence="7" number="8">their</token>
+  <token t_id="173" sentence="7" number="9">initial</token>
+  <token t_id="174" sentence="7" number="10">estimates</token>
+  <token t_id="175" sentence="7" number="11">were</token>
+  <token t_id="176" sentence="7" number="12">that</token>
+  <token t_id="177" sentence="7" number="13">it</token>
+  <token t_id="178" sentence="7" number="14">would</token>
+  <token t_id="179" sentence="7" number="15">take</token>
+  <token t_id="180" sentence="7" number="16">12</token>
+  <token t_id="181" sentence="7" number="17">days</token>
+  <token t_id="182" sentence="7" number="18">to</token>
+  <token t_id="183" sentence="7" number="19">repair</token>
+  <token t_id="184" sentence="7" number="20">the</token>
+  <token t_id="185" sentence="7" number="21">cable</token>
+  <token t_id="186" sentence="7" number="22">,</token>
+  <token t_id="187" sentence="7" number="23">depending</token>
+  <token t_id="188" sentence="7" number="24">on</token>
+  <token t_id="189" sentence="7" number="25">weather</token>
+  <token t_id="190" sentence="7" number="26">conditions</token>
+  <token t_id="191" sentence="7" number="27">.</token>
+  <token t_id="192" sentence="8" number="0">Mweb</token>
+  <token t_id="193" sentence="8" number="1">announced</token>
+  <token t_id="194" sentence="8" number="2">on</token>
+  <token t_id="195" sentence="8" number="3">12</token>
+  <token t_id="196" sentence="8" number="4">October</token>
+  <token t_id="197" sentence="8" number="5">2011</token>
+  <token t_id="198" sentence="8" number="6">that</token>
+  <token t_id="199" sentence="8" number="7">their</token>
+  <token t_id="200" sentence="8" number="8">services</token>
+  <token t_id="201" sentence="8" number="9">through</token>
+  <token t_id="202" sentence="8" number="10">Seacom</token>
+  <token t_id="203" sentence="8" number="11">were</token>
+  <token t_id="204" sentence="8" number="12">running</token>
+  <token t_id="205" sentence="8" number="13">at</token>
+  <token t_id="206" sentence="8" number="14">full</token>
+  <token t_id="207" sentence="8" number="15">capacity</token>
+  <token t_id="208" sentence="8" number="16">again</token>
+  <token t_id="209" sentence="8" number="17">.</token>
+  <token t_id="210" sentence="9" number="0">Cybersmart</token>
+  <token t_id="211" sentence="9" number="1">posted</token>
+  <token t_id="212" sentence="9" number="2">on</token>
+  <token t_id="213" sentence="9" number="3">its</token>
+  <token t_id="214" sentence="9" number="4">website</token>
+  <token t_id="215" sentence="9" number="5">that</token>
+  <token t_id="216" sentence="9" number="6">their</token>
+  <token t_id="217" sentence="9" number="7">Seacom</token>
+  <token t_id="218" sentence="9" number="8">service</token>
+  <token t_id="219" sentence="9" number="9">was</token>
+  <token t_id="220" sentence="9" number="10">restored</token>
+  <token t_id="221" sentence="9" number="11">at</token>
+  <token t_id="222" sentence="9" number="12">10</token>
+  <token t_id="223" sentence="9" number="13">:</token>
+  <token t_id="224" sentence="9" number="14">57</token>
+  <token t_id="225" sentence="9" number="15">on</token>
+  <token t_id="226" sentence="9" number="16">11</token>
+  <token t_id="227" sentence="9" number="17">October</token>
+  <token t_id="228" sentence="9" number="18">2011</token>
+  <token t_id="229" sentence="9" number="19">.</token>
+  <token t_id="230" sentence="10" number="0">Openweb</token>
+  <token t_id="231" sentence="10" number="1">CEO</token>
+  <token t_id="232" sentence="10" number="2">Keoma</token>
+  <token t_id="233" sentence="10" number="3">Wright</token>
+  <token t_id="234" sentence="10" number="4">said</token>
+  <token t_id="235" sentence="10" number="5">that</token>
+  <token t_id="236" sentence="10" number="6">99%</token>
+  <token t_id="237" sentence="10" number="7">of</token>
+  <token t_id="238" sentence="10" number="8">their</token>
+  <token t_id="239" sentence="10" number="9">supplier</token>
+  <token t_id="240" sentence="10" number="10">traffic</token>
+  <token t_id="241" sentence="10" number="11">has</token>
+  <token t_id="242" sentence="10" number="12">been</token>
+  <token t_id="243" sentence="10" number="13">restored</token>
+  <token t_id="244" sentence="10" number="14">.</token>
+  <token t_id="245" sentence="11" number="0">"We</token>
+  <token t_id="246" sentence="11" number="1">however</token>
+  <token t_id="247" sentence="11" number="2">were</token>
+  <token t_id="248" sentence="11" number="3">not</token>
+  <token t_id="249" sentence="11" number="4">severely</token>
+  <token t_id="250" sentence="11" number="5">affected</token>
+  <token t_id="251" sentence="11" number="6">due</token>
+  <token t_id="252" sentence="11" number="7">to</token>
+  <token t_id="253" sentence="11" number="8">the</token>
+  <token t_id="254" sentence="11" number="9">SAT3</token>
+  <token t_id="255" sentence="11" number="10">backup</token>
+  <token t_id="256" sentence="11" number="11">in</token>
+  <token t_id="257" sentence="11" number="12">place</token>
+  <token t_id="258" sentence="11" number="13">on</token>
+  <token t_id="259" sentence="11" number="14">all</token>
+  <token t_id="260" sentence="11" number="15">our</token>
+  <token t_id="261" sentence="11" number="16">offerings</token>
+  <token t_id="262" sentence="11" number="17">,</token>
+  <token t_id="263" sentence="11" number="18">"</token>
+  <token t_id="264" sentence="11" number="19">Wright</token>
+  <token t_id="265" sentence="11" number="20">added</token>
+  <token t_id="266" sentence="11" number="21">.</token>
+  <token t_id="267" sentence="12" number="0">At</token>
+  <token t_id="268" sentence="12" number="1">the</token>
+  <token t_id="269" sentence="12" number="2">time</token>
+  <token t_id="270" sentence="12" number="3">of</token>
+  <token t_id="271" sentence="12" number="4">writing</token>
+  <token t_id="272" sentence="12" number="5">the</token>
+  <token t_id="273" sentence="12" number="6">websites</token>
+  <token t_id="274" sentence="12" number="7">of</token>
+  <token t_id="275" sentence="12" number="8">Axxess</token>
+  <token t_id="276" sentence="12" number="9">and</token>
+  <token t_id="277" sentence="12" number="10">Afrihost</token>
+  <token t_id="278" sentence="12" number="11">still</token>
+  <token t_id="279" sentence="12" number="12">said</token>
+  <token t_id="280" sentence="12" number="13">that</token>
+  <token t_id="281" sentence="12" number="14">they</token>
+  <token t_id="282" sentence="12" number="15">were</token>
+  <token t_id="283" sentence="12" number="16">experiencing</token>
+  <token t_id="284" sentence="12" number="17">degraded</token>
+  <token t_id="285" sentence="12" number="18">ADSL</token>
+  <token t_id="286" sentence="12" number="19">service</token>
+  <token t_id="287" sentence="12" number="20">.</token>
+  <token t_id="288" sentence="13" number="0">Neither</token>
+  <token t_id="289" sentence="13" number="1">ISP</token>
+  <token t_id="290" sentence="13" number="2">provided</token>
+  <token t_id="291" sentence="13" number="3">feedback</token>
+  <token t_id="292" sentence="13" number="4">as</token>
+  <token t_id="293" sentence="13" number="5">to</token>
+  <token t_id="294" sentence="13" number="6">whether</token>
+  <token t_id="295" sentence="13" number="7">their</token>
+  <token t_id="296" sentence="13" number="8">Seacom</token>
+  <token t_id="297" sentence="13" number="9">capacity</token>
+  <token t_id="298" sentence="13" number="10">had</token>
+  <token t_id="299" sentence="13" number="11">been</token>
+  <token t_id="300" sentence="13" number="12">restored</token>
+  <token t_id="301" sentence="13" number="13">.</token>
+  <Markables>
+    <ACTION_ASPECTUAL m_id="1" comment="">
+      <token_anchor t_id="132"/>
+    </ACTION_ASPECTUAL>
+    <ACTION_CAUSATIVE m_id="2">
+      <token_anchor t_id="147"/>
+    </ACTION_CAUSATIVE>
+    <ACTION_OCCURRENCE m_id="65" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="55"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="66" climaxEvent="FALSE" comment="BT: annotation error">
+      <token_anchor t_id="34"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="3" climaxEvent="TRUE" comment="">
+      <token_anchor t_id="35"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="4" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="56"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="5" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="84"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="70" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="121"/>
+      <token_anchor t_id="122"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="6" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="94"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="7" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="95"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="8" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="97"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="9" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="120"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="10" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="129"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="11" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="134"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="12" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="135"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="13" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="150"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="14" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="174"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="15" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="200"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="16" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="183"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="17" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="204"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="18" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="187"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="19" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="220"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="20" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="189"/>
+      <token_anchor t_id="190"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="21" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="218"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="22" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="206"/>
+      <token_anchor t_id="207"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_OCCURRENCE m_id="23" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="179"/>
+    </ACTION_OCCURRENCE>
+    <ACTION_REPORTING m_id="29">
+      <token_anchor t_id="145"/>
+    </ACTION_REPORTING>
+    <ACTION_REPORTING m_id="30">
+      <token_anchor t_id="112"/>
+    </ACTION_REPORTING>
+    <ACTION_REPORTING m_id="31">
+      <token_anchor t_id="114"/>
+    </ACTION_REPORTING>
+    <ACTION_REPORTING m_id="32">
+      <token_anchor t_id="109"/>
+      <token_anchor t_id="110"/>
+    </ACTION_REPORTING>
+    <ACTION_REPORTING m_id="33">
+      <token_anchor t_id="62"/>
+    </ACTION_REPORTING>
+    <ACTION_REPORTING m_id="34">
+      <token_anchor t_id="72"/>
+    </ACTION_REPORTING>
+    <ACTION_REPORTING m_id="24">
+      <token_anchor t_id="167"/>
+    </ACTION_REPORTING>
+    <ACTION_REPORTING m_id="25">
+      <token_anchor t_id="170"/>
+    </ACTION_REPORTING>
+    <ACTION_REPORTING m_id="26">
+      <token_anchor t_id="193"/>
+    </ACTION_REPORTING>
+    <ACTION_REPORTING m_id="27">
+      <token_anchor t_id="211"/>
+    </ACTION_REPORTING>
+    <ACTION_REPORTING m_id="28">
+      <token_anchor t_id="115"/>
+    </ACTION_REPORTING>
+    <HUMAN_PART_ORG m_id="35">
+      <token_anchor t_id="37"/>
+      <token_anchor t_id="38"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="36">
+      <token_anchor t_id="104"/>
+      <token_anchor t_id="105"/>
+      <token_anchor t_id="106"/>
+      <token_anchor t_id="107"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="68">
+      <token_anchor t_id="82"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="37">
+      <token_anchor t_id="111"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="38">
+      <token_anchor t_id="47"/>
+      <token_anchor t_id="48"/>
+      <token_anchor t_id="49"/>
+      <token_anchor t_id="50"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="39">
+      <token_anchor t_id="42"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="40">
+      <token_anchor t_id="71"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="41">
+      <token_anchor t_id="131"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="42">
+      <token_anchor t_id="210"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="43">
+      <token_anchor t_id="144"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="44">
+      <token_anchor t_id="61"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="45">
+      <token_anchor t_id="169"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="46">
+      <token_anchor t_id="119"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="47">
+      <token_anchor t_id="192"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="48">
+      <token_anchor t_id="202"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_ORG m_id="49">
+      <token_anchor t_id="217"/>
+    </HUMAN_PART_ORG>
+    <HUMAN_PART_PER m_id="50" comment="">
+      <token_anchor t_id="43"/>
+      <token_anchor t_id="44"/>
+    </HUMAN_PART_PER>
+    <HUMAN_PART_PER m_id="51" comment="">
+      <token_anchor t_id="87"/>
+      <token_anchor t_id="88"/>
+    </HUMAN_PART_PER>
+    <LOC_GEO m_id="69" comment="">
+      <token_anchor t_id="151"/>
+      <token_anchor t_id="152"/>
+      <token_anchor t_id="153"/>
+      <token_anchor t_id="154"/>
+      <token_anchor t_id="155"/>
+      <token_anchor t_id="156"/>
+      <token_anchor t_id="157"/>
+      <token_anchor t_id="158"/>
+      <token_anchor t_id="159"/>
+      <token_anchor t_id="160"/>
+      <token_anchor t_id="161"/>
+      <token_anchor t_id="162"/>
+    </LOC_GEO>
+    <LOC_OTHER m_id="52">
+      <token_anchor t_id="73"/>
+      <token_anchor t_id="74"/>
+    </LOC_OTHER>
+    <LOC_OTHER m_id="53">
+      <token_anchor t_id="212"/>
+      <token_anchor t_id="213"/>
+      <token_anchor t_id="214"/>
+    </LOC_OTHER>
+    <NEG_ACTION_OCCURRENCE m_id="54" comment="" climaxEvent="FALSE">
+      <token_anchor t_id="126"/>
+    </NEG_ACTION_OCCURRENCE>
+    <NON_HUMAN_PART m_id="55" comment="">
+      <token_anchor t_id="90"/>
+      <token_anchor t_id="91"/>
+    </NON_HUMAN_PART>
+    <NON_HUMAN_PART m_id="56" comment="">
+      <token_anchor t_id="58"/>
+      <token_anchor t_id="59"/>
+    </NON_HUMAN_PART>
+    <NON_HUMAN_PART m_id="57" comment="">
+      <token_anchor t_id="185"/>
+    </NON_HUMAN_PART>
+    <NON_HUMAN_PART m_id="58" comment="">
+      <token_anchor t_id="40"/>
+      <token_anchor t_id="41"/>
+    </NON_HUMAN_PART>
+    <TIME_DATE m_id="59" comment="" DCT="FALSE" value="2011-10-08" anchorTimeID="">
+      <token_anchor t_id="136"/>
+      <token_anchor t_id="137"/>
+      <token_anchor t_id="138"/>
+      <token_anchor t_id="139"/>
+      <token_anchor t_id="140"/>
+      <token_anchor t_id="141"/>
+    </TIME_DATE>
+    <TIME_DATE m_id="60" comment="" DCT="FALSE" value="2011-10-14" anchorTimeID="">
+      <token_anchor t_id="75"/>
+      <token_anchor t_id="76"/>
+      <token_anchor t_id="77"/>
+      <token_anchor t_id="78"/>
+      <token_anchor t_id="79"/>
+    </TIME_DATE>
+    <TIME_DURATION m_id="61" value="" anchorTimeID="" begin="" endPoint="">
+      <token_anchor t_id="180"/>
+      <token_anchor t_id="181"/>
+    </TIME_DURATION>
+    <TIME_DURATION m_id="67" value="" anchorTimeID="" begin="" endPoint="">
+      <token_anchor t_id="98"/>
+      <token_anchor t_id="99"/>
+      <token_anchor t_id="100"/>
+    </TIME_DURATION>
+    <TIME_OF_THE_DAY m_id="62" DCT="FALSE" value="2011-10-12" anchorTimeID="">
+      <token_anchor t_id="194"/>
+      <token_anchor t_id="195"/>
+      <token_anchor t_id="196"/>
+      <token_anchor t_id="197"/>
+    </TIME_OF_THE_DAY>
+    <TIME_OF_THE_DAY m_id="63" DCT="FALSE" value="2011-10-11T10:57" anchorTimeID="">
+      <token_anchor t_id="221"/>
+      <token_anchor t_id="222"/>
+      <token_anchor t_id="223"/>
+      <token_anchor t_id="224"/>
+      <token_anchor t_id="225"/>
+      <token_anchor t_id="226"/>
+      <token_anchor t_id="227"/>
+      <token_anchor t_id="228"/>
+    </TIME_OF_THE_DAY>
+    <TIME_OF_THE_DAY m_id="64" DCT="TRUE" value="2011-10-14" anchorTimeID="">
+      <token_anchor t_id="64"/>
+      <token_anchor t_id="65"/>
+      <token_anchor t_id="66"/>
+      <token_anchor t_id="67"/>
+    </TIME_OF_THE_DAY>
+    <ACTION_OCCURRENCE m_id="71" RELATED_TO="" TAG_DESCRIPTOR="t30_restored_service_alternate_routes" comment="" climaxEvent="FALSE"/>
+    <TIME_DURATION m_id="72" RELATED_TO="" TAG_DESCRIPTOR="t30_few_days" value="" anchorTimeID="" begin="" endPoint=""/>
+    <HUMAN_PART_PER m_id="73" RELATED_TO="" TAG_DESCRIPTOR="t30_customers" comment=""/>
+    <HUMAN_PART_ORG m_id="74" RELATED_TO="" TAG_DESCRIPTOR="t30_other_IPS"/>
+    <ACTION_REPORTING m_id="75" RELATED_TO="" TAG_DESCRIPTOR="t30_seacom_said_problems_14days"/>
+    <LOC_GEO m_id="76" RELATED_TO="" TAG_DESCRIPTOR="t30_bw_abutalat_marseilles" comment=""/>
+    <ACTION_REPORTING m_id="77" RELATED_TO="30" TAG_DESCRIPTOR="tweet"/>
+    <NON_HUMAN_PART m_id="78" RELATED_TO="" TAG_DESCRIPTOR="t30_alternate_routes" comment=""/>
+    <LOC_OTHER m_id="79" RELATED_TO="" TAG_DESCRIPTOR="t30_on_twitter"/>
+    <ACTION_OCCURRENCE m_id="80" RELATED_TO="" TAG_DESCRIPTOR="t30_uses_seacom_cable" comment="" climaxEvent="FALSE"/>
+    <HUMAN_PART_ORG m_id="81" RELATED_TO="" TAG_DESCRIPTOR="t30_seacom"/>
+    <ACTION_OCCURRENCE m_id="82" RELATED_TO="" TAG_DESCRIPTOR="t30_downtime" comment="" climaxEvent="FALSE"/>
+    <ACTION_OCCURRENCE m_id="83" RELATED_TO="" TAG_DESCRIPTOR="t30_seacom_services" comment="" climaxEvent="FALSE"/>
+  </Markables>
+  <Relations>
+    <TLINK r_id="155022" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="64"/>
+      <target m_id="3"/>
+    </TLINK>
+    <TLINK r_id="155023" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="64"/>
+      <target m_id="65"/>
+    </TLINK>
+    <TLINK r_id="155026" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="6"/>
+    </TLINK>
+    <TLINK r_id="155027" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="7"/>
+    </TLINK>
+    <TLINK r_id="155028" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="8"/>
+    </TLINK>
+    <TLINK r_id="155029" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="64"/>
+      <target m_id="30"/>
+    </TLINK>
+    <TLINK r_id="155030" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="64"/>
+      <target m_id="9"/>
+    </TLINK>
+    <TLINK r_id="155031" contextualModality="" relType="OVERLAP" comment="">
+      <source m_id="64"/>
+      <target m_id="70"/>
+    </TLINK>
+    <TLINK r_id="155032" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="64"/>
+      <target m_id="54"/>
+    </TLINK>
+    <TLINK r_id="155033" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="64"/>
+      <target m_id="10"/>
+    </TLINK>
+    <TLINK r_id="155034" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="11"/>
+    </TLINK>
+    <TLINK r_id="155035" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="12"/>
+    </TLINK>
+    <TLINK r_id="155036" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="2"/>
+    </TLINK>
+    <TLINK r_id="155037" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="13"/>
+    </TLINK>
+    <TLINK r_id="155038" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="64"/>
+      <target m_id="24"/>
+    </TLINK>
+    <TLINK r_id="155039" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="14"/>
+    </TLINK>
+    <TLINK r_id="155040" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="16"/>
+    </TLINK>
+    <TLINK r_id="155041" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="20"/>
+    </TLINK>
+    <TLINK r_id="155042" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="15"/>
+    </TLINK>
+    <TLINK r_id="155043" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="17"/>
+    </TLINK>
+    <TLINK r_id="155044" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="22"/>
+    </TLINK>
+    <TLINK r_id="155045" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="21"/>
+    </TLINK>
+    <TLINK r_id="155046" contextualModality="" relType="AFTER" comment="">
+      <source m_id="64"/>
+      <target m_id="19"/>
+    </TLINK>
+    <TLINK r_id="155047" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="60"/>
+      <target m_id="3"/>
+    </TLINK>
+    <TLINK r_id="155048" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="60"/>
+      <target m_id="65"/>
+    </TLINK>
+    <TLINK r_id="155049" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="60"/>
+      <target m_id="4"/>
+    </TLINK>
+    <TLINK r_id="155050" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="60"/>
+      <target m_id="5"/>
+    </TLINK>
+    <TLINK r_id="155051" contextualModality="" relType="AFTER" comment="">
+      <source m_id="60"/>
+      <target m_id="6"/>
+    </TLINK>
+    <TLINK r_id="155052" contextualModality="" relType="AFTER" comment="">
+      <source m_id="60"/>
+      <target m_id="7"/>
+    </TLINK>
+    <TLINK r_id="155053" contextualModality="" relType="OVERLAP" comment="">
+      <source m_id="60"/>
+      <target m_id="8"/>
+    </TLINK>
+    <TLINK r_id="155054" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="64"/>
+      <target m_id="4"/>
+    </TLINK>
+    <TLINK r_id="155055" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="60"/>
+      <target m_id="30"/>
+    </TLINK>
+    <TLINK r_id="155056" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="60"/>
+      <target m_id="9"/>
+    </TLINK>
+    <TLINK r_id="155057" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="60"/>
+      <target m_id="70"/>
+    </TLINK>
+    <TLINK r_id="155058" contextualModality="" relType="AFTER" comment="">
+      <source m_id="60"/>
+      <target m_id="54"/>
+    </TLINK>
+    <TLINK r_id="155059" contextualModality="" relType="AFTER" comment="">
+      <source m_id="60"/>
+      <target m_id="10"/>
+    </TLINK>
+    <TLINK r_id="155060" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="59"/>
+      <target m_id="11"/>
+    </TLINK>
+    <TLINK r_id="155061" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="59"/>
+      <target m_id="12"/>
+    </TLINK>
+    <TLINK r_id="155062" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="59"/>
+      <target m_id="2"/>
+    </TLINK>
+    <TLINK r_id="155063" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="59"/>
+      <target m_id="13"/>
+    </TLINK>
+    <TLINK r_id="155064" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="59"/>
+      <target m_id="24"/>
+    </TLINK>
+    <TLINK r_id="155065" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="59"/>
+      <target m_id="14"/>
+    </TLINK>
+    <TLINK r_id="155066" contextualModality="" relType="BEFORE" comment="">
+      <source m_id="59"/>
+      <target m_id="16"/>
+    </TLINK>
+    <TLINK r_id="155067" contextualModality="" relType="OVERLAP" comment="">
+      <source m_id="59"/>
+      <target m_id="20"/>
+    </TLINK>
+    <TLINK r_id="155069" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="62"/>
+      <target m_id="15"/>
+    </TLINK>
+    <TLINK r_id="155070" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="62"/>
+      <target m_id="17"/>
+    </TLINK>
+    <TLINK r_id="155071" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="62"/>
+      <target m_id="22"/>
+    </TLINK>
+    <TLINK r_id="155072" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="63"/>
+      <target m_id="27"/>
+    </TLINK>
+    <TLINK r_id="155073" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="63"/>
+      <target m_id="21"/>
+    </TLINK>
+    <TLINK r_id="155074" contextualModality="" relType="CONTAINS" comment="">
+      <source m_id="63"/>
+      <target m_id="19"/>
+    </TLINK>
+    <PLOT_LINK r_id="155075" SIGNAL="" relType="FALLING_ACTION" CAUSES="FALSE" CAUSED_BY="FALSE">
+      <source m_id="3"/>
+      <target m_id="6"/>
+    </PLOT_LINK>
+    <PLOT_LINK r_id="155076" SIGNAL="" relType="FALLING_ACTION" CAUSES="FALSE" CAUSED_BY="FALSE">
+      <source m_id="4"/>
+      <target m_id="6"/>
+    </PLOT_LINK>
+    <PLOT_LINK r_id="155077" SIGNAL="" relType="FALLING_ACTION" CAUSES="FALSE" CAUSED_BY="FALSE">
+      <source m_id="5"/>
+      <target m_id="6"/>
+    </PLOT_LINK>
+    <PLOT_LINK r_id="155078" SIGNAL="" relType="FALLING_ACTION" CAUSES="FALSE" CAUSED_BY="FALSE">
+      <source m_id="54"/>
+      <target m_id="10"/>
+    </PLOT_LINK>
+    <PLOT_LINK r_id="155079" SIGNAL="2" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="TRUE">
+      <source m_id="12"/>
+      <target m_id="13"/>
+    </PLOT_LINK>
+    <PLOT_LINK r_id="155080" SIGNAL="" relType="FALLING_ACTION" CAUSES="FALSE" CAUSED_BY="FALSE">
+      <source m_id="6"/>
+      <target m_id="13"/>
+    </PLOT_LINK>
+    <PLOT_LINK r_id="155081" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE">
+      <source m_id="6"/>
+      <target m_id="16"/>
+    </PLOT_LINK>
+    <PLOT_LINK r_id="155082" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE">
+      <source m_id="16"/>
+      <target m_id="17"/>
+    </PLOT_LINK>
+    <PLOT_LINK r_id="155083" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE">
+      <source m_id="16"/>
+      <target m_id="19"/>
+    </PLOT_LINK>
+  </Relations>
+</Document>
