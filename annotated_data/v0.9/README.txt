@@ -1,4 +1,4 @@
-README - Event Storyline Corpus v1.0
+README - Event Storyline Corpus v0.9
 
 The corpus is structured in folders. Each folder corresponds to a topic from the ECB+ corpus. Only the files from the + portion of each topic/seminal event have been annotated.
 
