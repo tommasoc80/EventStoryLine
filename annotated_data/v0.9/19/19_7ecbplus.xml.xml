@@ -2012,7 +2012,7 @@
       <token_anchor t_id="105"/>
       <token_anchor t_id="106"/>
     </TIME_DATE>
-    <TIME_OF_THE_DAY m_id="45" DCT="FALSE" value="2013-03-09" anchorTimeID="">
+    <TIME_DATE m_id="45" DCT="FALSE" value="2013-03-09" anchorTimeID="44">
       <token_anchor t_id="245"/>
       <token_anchor t_id="246"/>
       <token_anchor t_id="247"/>
@@ -2024,7 +2024,7 @@
       <token_anchor t_id="253"/>
       <token_anchor t_id="254"/>
       <token_anchor t_id="255"/>
-    </TIME_OF_THE_DAY>
+    </TIME_DATE>
     <ACTION_OCCURRENCE m_id="49" RELATED_TO="" TAG_DESCRIPTOR="t19_shot" comment="" climaxEvent="FALSE"/>
     <ACTION_REPORTING m_id="50" RELATED_TO="" TAG_DESCRIPTOR="t19_police_said"/>
     <NON_HUMAN_PART m_id="51" RELATED_TO="" TAG_DESCRIPTOR="t19_gun" comment=""/>

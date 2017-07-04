@@ -570,21 +570,18 @@
       <token_anchor t_id="109"/>
     </NON_HUMAN_PART>
     <TIME_DATE m_id="41" comment="" DCT="FALSE" value="2013-03-09" anchorTimeID="44">
-      <token_anchor t_id="99"/>
       <token_anchor t_id="100"/>
       <token_anchor t_id="101"/>
     </TIME_DATE>
-    <TIME_DATE m_id="42" value="" anchorTimeID="" DCT="FALSE" comment="">
-      <token_anchor t_id="54"/>
+    <TIME_DURATION m_id="42" value="" anchorTimeID="" DCT="FALSE" comment="">
       <token_anchor t_id="55"/>
       <token_anchor t_id="56"/>
-    </TIME_DATE>
-    <TIME_DATE m_id="43" value="" anchorTimeID="" DCT="FALSE" comment="">
-      <token_anchor t_id="318"/>
+    </TIME_DURATION>
+    <TIME_DURATION m_id="43" value="" anchorTimeID="" DCT="FALSE" comment="">
       <token_anchor t_id="319"/>
       <token_anchor t_id="320"/>
-    </TIME_DATE>
-    <TIME_OF_THE_DAY m_id="44" DCT="TRUE" value="2013-03-17T17:00" anchorTimeID="44">
+    </TIME_DURATION>
+    <TIME_OF_THE_DAY m_id="44" DCT="TRUE" value="2013-03-17T17:00" anchorTimeID="">
       <token_anchor t_id="33"/>
       <token_anchor t_id="34"/>
       <token_anchor t_id="35"/>
