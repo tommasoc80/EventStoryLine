@@ -1,0 +1,37 @@
+Project: NewsReader
+Project number: ICT 316404
+Funded by the EU: FP7 2011.4.4 -ICT Objective ‘Cooperation‘ – Research theme: ‘Information and communication technologies’.
+website: http://www.newsreader-project.eu/
+Start date: 1/1/2013
+End date: 1/1/2016
+
+This annotation of the ECB+ corpus is free data; you can redistribute it and/or modify it
+under the terms of the Creative Commons Attribution 3.0 Unported License,
+as published by the Creative Commons Association:
+http://creativecommons.org/licenses/by/3.0/legalcode
+   
+This data is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the Creative Commons Attribution 3.0 Unported License
+for more details.
+
+You should have received a copy of the Creative Commons Attribution 3.0 Unported License, 
+along with this data in the file COPYING-CC.TXT; if not, write to the 
+   
+Mountain View Office
+Creative Commons
+444 Castro Street, Suite 900
+Mountain View, CA 94041, USA
+phone: 1-650-294-4732
+fax: 1-650-965-1605
+                                    -*-
+If you use ECB+ annotations in your scientific research, please cite it
+appropriately as you would cite a journal or a book. This includes papers
+published in regular or electronic journals, usage of annotations.training.DSC in any software, 
+distribution of annotations.training.DSC to others. Include the following citation:
+
+Agata Cybulska and Piek Vossen. 2014. Using a sledgehammer to crack a nut? Lexical diversity and event coreference resolution. 
+In Proceedings of the 9th international conference on Language Resources and Evaluation (LREC2014)
+
+ECB+ annotation is held copyright by Agata Cybulska, Piek Vossen and the VU University of Amsterdam.
+    

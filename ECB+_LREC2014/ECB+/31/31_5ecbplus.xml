@@ -1,0 +1,494 @@
+<Document doc_name="31_5ecbplus.xml" doc_id="DOC15652033523350641">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">www</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">mvc</token>
+<token t_id="8" sentence="0" number="7">-</token>
+<token t_id="9" sentence="0" number="8">sports</token>
+<token t_id="10" sentence="0" number="9">.</token>
+<token t_id="11" sentence="0" number="10">com</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">mbasketball</token>
+<token t_id="14" sentence="0" number="13">/</token>
+<token t_id="15" sentence="0" number="14">news</token>
+<token t_id="16" sentence="0" number="15">/</token>
+<token t_id="17" sentence="0" number="16">2012</token>
+<token t_id="18" sentence="0" number="17">-</token>
+<token t_id="19" sentence="0" number="18">13</token>
+<token t_id="20" sentence="0" number="19">/</token>
+<token t_id="21" sentence="0" number="20">6527</token>
+<token t_id="22" sentence="0" number="21">/</token>
+<token t_id="23" sentence="0" number="22">arch</token>
+<token t_id="24" sentence="0" number="23">-</token>
+<token t_id="25" sentence="0" number="24">madness</token>
+<token t_id="26" sentence="0" number="25">-</token>
+<token t_id="27" sentence="0" number="26">creighton</token>
+<token t_id="28" sentence="0" number="27">-</token>
+<token t_id="29" sentence="0" number="28">65</token>
+<token t_id="30" sentence="0" number="29">-</token>
+<token t_id="31" sentence="0" number="30">drake</token>
+<token t_id="32" sentence="0" number="31">-</token>
+<token t_id="33" sentence="0" number="32">53</token>
+<token t_id="34" sentence="0" number="33">/</token>
+<token t_id="35" sentence="1" number="0">Friday</token>
+<token t_id="36" sentence="1" number="1">,</token>
+<token t_id="37" sentence="1" number="2">March</token>
+<token t_id="38" sentence="1" number="3">08</token>
+<token t_id="39" sentence="1" number="4">,</token>
+<token t_id="40" sentence="1" number="5">2013</token>
+<token t_id="41" sentence="2" number="0">Arch</token>
+<token t_id="42" sentence="2" number="1">Madness</token>
+<token t_id="43" sentence="2" number="2">:</token>
+<token t_id="44" sentence="2" number="3">Creighton</token>
+<token t_id="45" sentence="2" number="4">65</token>
+<token t_id="46" sentence="2" number="5">,</token>
+<token t_id="47" sentence="2" number="6">Drake</token>
+<token t_id="48" sentence="2" number="7">5</token>
+<token t_id="49" sentence="3" number="0">Doug</token>
+<token t_id="50" sentence="3" number="1">McDermott</token>
+<token t_id="51" sentence="3" number="2">scored</token>
+<token t_id="52" sentence="3" number="3">23</token>
+<token t_id="53" sentence="3" number="4">points</token>
+<token t_id="54" sentence="3" number="5">to</token>
+<token t_id="55" sentence="3" number="6">become</token>
+<token t_id="56" sentence="3" number="7">Creighton's</token>
+<token t_id="57" sentence="3" number="8">all</token>
+<token t_id="58" sentence="3" number="9">-</token>
+<token t_id="59" sentence="3" number="10">time</token>
+<token t_id="60" sentence="3" number="11">scoring</token>
+<token t_id="61" sentence="3" number="12">leader</token>
+<token t_id="62" sentence="3" number="13">and</token>
+<token t_id="63" sentence="3" number="14">the</token>
+<token t_id="64" sentence="3" number="15">top</token>
+<token t_id="65" sentence="3" number="16">-</token>
+<token t_id="66" sentence="3" number="17">seeded</token>
+<token t_id="67" sentence="3" number="18">Bluejays</token>
+<token t_id="68" sentence="3" number="19">defeated</token>
+<token t_id="69" sentence="3" number="20">Drake</token>
+<token t_id="70" sentence="3" number="21">65</token>
+<token t_id="71" sentence="3" number="22">-</token>
+<token t_id="72" sentence="3" number="23">53</token>
+<token t_id="73" sentence="3" number="24">on</token>
+<token t_id="74" sentence="3" number="25">Friday</token>
+<token t_id="75" sentence="3" number="26">in</token>
+<token t_id="76" sentence="3" number="27">the</token>
+<token t_id="77" sentence="3" number="28">quarterfinals</token>
+<token t_id="78" sentence="3" number="29">of</token>
+<token t_id="79" sentence="3" number="30">the</token>
+<token t_id="80" sentence="3" number="31">Missouri</token>
+<token t_id="81" sentence="3" number="32">Valley</token>
+<token t_id="82" sentence="3" number="33">Conference</token>
+<token t_id="83" sentence="3" number="34">tournament</token>
+<token t_id="84" sentence="3" number="35">.</token>
+<token t_id="85" sentence="4" number="0">Creighton</token>
+<token t_id="86" sentence="4" number="1">(</token>
+<token t_id="87" sentence="4" number="2">25</token>
+<token t_id="88" sentence="4" number="3">-</token>
+<token t_id="89" sentence="4" number="4">7</token>
+<token t_id="90" sentence="4" number="5">)</token>
+<token t_id="91" sentence="4" number="6">will</token>
+<token t_id="92" sentence="4" number="7">play</token>
+<token t_id="93" sentence="4" number="8">the</token>
+<token t_id="94" sentence="4" number="9">winner</token>
+<token t_id="95" sentence="4" number="10">of</token>
+<token t_id="96" sentence="4" number="11">Friday's</token>
+<token t_id="97" sentence="4" number="12">second</token>
+<token t_id="98" sentence="4" number="13">semifinal</token>
+<token t_id="99" sentence="4" number="14">between</token>
+<token t_id="100" sentence="4" number="15">Evansville</token>
+<token t_id="101" sentence="4" number="16">and</token>
+<token t_id="102" sentence="4" number="17">Indiana</token>
+<token t_id="103" sentence="4" number="18">State</token>
+<token t_id="104" sentence="4" number="19">.</token>
+<token t_id="105" sentence="5" number="0">Will</token>
+<token t_id="106" sentence="5" number="1">Artino</token>
+<token t_id="107" sentence="5" number="2">scored</token>
+<token t_id="108" sentence="5" number="3">14</token>
+<token t_id="109" sentence="5" number="4">points</token>
+<token t_id="110" sentence="5" number="5">off</token>
+<token t_id="111" sentence="5" number="6">the</token>
+<token t_id="112" sentence="5" number="7">bench</token>
+<token t_id="113" sentence="5" number="8">and</token>
+<token t_id="114" sentence="5" number="9">Gregory</token>
+<token t_id="115" sentence="5" number="10">Echenique</token>
+<token t_id="116" sentence="5" number="11">had</token>
+<token t_id="117" sentence="5" number="12">11</token>
+<token t_id="118" sentence="5" number="13">points</token>
+<token t_id="119" sentence="5" number="14">,</token>
+<token t_id="120" sentence="5" number="15">11</token>
+<token t_id="121" sentence="5" number="16">rebounds</token>
+<token t_id="122" sentence="5" number="17">and</token>
+<token t_id="123" sentence="5" number="18">six</token>
+<token t_id="124" sentence="5" number="19">blocked</token>
+<token t_id="125" sentence="5" number="20">shots</token>
+<token t_id="126" sentence="5" number="21">for</token>
+<token t_id="127" sentence="5" number="22">Creighton</token>
+<token t_id="128" sentence="5" number="23">,</token>
+<token t_id="129" sentence="5" number="24">which</token>
+<token t_id="130" sentence="5" number="25">enjoyed</token>
+<token t_id="131" sentence="5" number="26">a</token>
+<token t_id="132" sentence="5" number="27">44</token>
+<token t_id="133" sentence="5" number="28">-</token>
+<token t_id="134" sentence="5" number="29">26</token>
+<token t_id="135" sentence="5" number="30">rebounding</token>
+<token t_id="136" sentence="5" number="31">edge</token>
+<token t_id="137" sentence="5" number="32">.</token>
+<token t_id="138" sentence="6" number="0">Grant</token>
+<token t_id="139" sentence="6" number="1">Gibbs</token>
+<token t_id="140" sentence="6" number="2">had</token>
+<token t_id="141" sentence="6" number="3">eight</token>
+<token t_id="142" sentence="6" number="4">of</token>
+<token t_id="143" sentence="6" number="5">the</token>
+<token t_id="144" sentence="6" number="6">Bluejays'</token>
+<token t_id="145" sentence="6" number="7">11</token>
+<token t_id="146" sentence="6" number="8">assists</token>
+<token t_id="147" sentence="6" number="9">.</token>
+<token t_id="148" sentence="7" number="0">McDermott</token>
+<token t_id="149" sentence="7" number="1">,</token>
+<token t_id="150" sentence="7" number="2">a</token>
+<token t_id="151" sentence="7" number="3">junior</token>
+<token t_id="152" sentence="7" number="4">,</token>
+<token t_id="153" sentence="7" number="5">now</token>
+<token t_id="154" sentence="7" number="6">has</token>
+<token t_id="155" sentence="7" number="7">2</token>
+<token t_id="156" sentence="7" number="8">,</token>
+<token t_id="157" sentence="7" number="9">129</token>
+<token t_id="158" sentence="7" number="10">points</token>
+<token t_id="159" sentence="7" number="11">-</token>
+<token t_id="160" sentence="7" number="12">-</token>
+<token t_id="161" sentence="7" number="13">13</token>
+<token t_id="162" sentence="7" number="14">more</token>
+<token t_id="163" sentence="7" number="15">than</token>
+<token t_id="164" sentence="7" number="16">Rodney</token>
+<token t_id="165" sentence="7" number="17">Buford</token>
+<token t_id="166" sentence="7" number="18">,</token>
+<token t_id="167" sentence="7" number="19">who</token>
+<token t_id="168" sentence="7" number="20">played</token>
+<token t_id="169" sentence="7" number="21">for</token>
+<token t_id="170" sentence="7" number="22">the</token>
+<token t_id="171" sentence="7" number="23">Bluejays</token>
+<token t_id="172" sentence="7" number="24">from</token>
+<token t_id="173" sentence="7" number="25">1995</token>
+<token t_id="174" sentence="7" number="26">-</token>
+<token t_id="175" sentence="7" number="27">99</token>
+<token t_id="176" sentence="7" number="28">.</token>
+<token t_id="177" sentence="8" number="0">Richard</token>
+<token t_id="178" sentence="8" number="1">Carter</token>
+<token t_id="179" sentence="8" number="2">scored</token>
+<token t_id="180" sentence="8" number="3">14</token>
+<token t_id="181" sentence="8" number="4">points</token>
+<token t_id="182" sentence="8" number="5">and</token>
+<token t_id="183" sentence="8" number="6">Seth</token>
+<token t_id="184" sentence="8" number="7">VanDeest</token>
+<token t_id="185" sentence="8" number="8">scored</token>
+<token t_id="186" sentence="8" number="9">13</token>
+<token t_id="187" sentence="8" number="10">for</token>
+<token t_id="188" sentence="8" number="11">the</token>
+<token t_id="189" sentence="8" number="12">ninth</token>
+<token t_id="190" sentence="8" number="13">-</token>
+<token t_id="191" sentence="8" number="14">seeded</token>
+<token t_id="192" sentence="8" number="15">Bulldogs</token>
+<token t_id="193" sentence="8" number="16">(</token>
+<token t_id="194" sentence="8" number="17">15</token>
+<token t_id="195" sentence="8" number="18">-</token>
+<token t_id="196" sentence="8" number="19">17</token>
+<token t_id="197" sentence="8" number="20">)</token>
+<token t_id="198" sentence="8" number="21">.</token>
+<token t_id="199" sentence="9" number="0">Jordan</token>
+<token t_id="200" sentence="9" number="1">Clarke</token>
+<token t_id="201" sentence="9" number="2">had</token>
+<token t_id="202" sentence="9" number="3">10</token>
+<token t_id="203" sentence="9" number="4">rebounds</token>
+<token t_id="204" sentence="9" number="5">for</token>
+<token t_id="205" sentence="9" number="6">Drake</token>
+<token t_id="206" sentence="9" number="7">,</token>
+<token t_id="207" sentence="9" number="8">which</token>
+<token t_id="208" sentence="9" number="9">reached</token>
+<token t_id="209" sentence="9" number="10">the</token>
+<token t_id="210" sentence="9" number="11">quarterfinal</token>
+<token t_id="211" sentence="9" number="12">by</token>
+<token t_id="212" sentence="9" number="13">beating</token>
+<token t_id="213" sentence="9" number="14">Bradley</token>
+<token t_id="214" sentence="9" number="15">on</token>
+<token t_id="215" sentence="9" number="16">Thursday</token>
+<token t_id="216" sentence="9" number="17">night</token>
+<token t_id="217" sentence="9" number="18">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="50"  >
+  <token_anchor t_id="55"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="18"  >
+  <token_anchor t_id="51"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="19"  >
+  <token_anchor t_id="68"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="20"  >
+  <token_anchor t_id="77"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="21"  >
+  <token_anchor t_id="80"/>
+  <token_anchor t_id="81"/>
+  <token_anchor t_id="82"/>
+  <token_anchor t_id="83"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="22"  >
+  <token_anchor t_id="92"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="23"  >
+  <token_anchor t_id="97"/>
+  <token_anchor t_id="98"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="24"  >
+  <token_anchor t_id="107"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="25"  >
+  <token_anchor t_id="120"/>
+  <token_anchor t_id="121"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="26"  >
+  <token_anchor t_id="123"/>
+  <token_anchor t_id="124"/>
+  <token_anchor t_id="125"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="27"  >
+  <token_anchor t_id="130"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="28"  >
+  <token_anchor t_id="135"/>
+  <token_anchor t_id="136"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="29"  >
+  <token_anchor t_id="168"/>
+</ACTION_OCCURRENCE>
+<ACTION_STATE m_id="47"  >
+  <token_anchor t_id="64"/>
+  <token_anchor t_id="65"/>
+  <token_anchor t_id="66"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="37"  >
+  <token_anchor t_id="110"/>
+  <token_anchor t_id="111"/>
+  <token_anchor t_id="112"/>
+</ACTION_STATE>
+<HUMAN_PART_ORG m_id="9"  >
+  <token_anchor t_id="171"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="43"  >
+  <token_anchor t_id="56"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="16"  >
+  <token_anchor t_id="129"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="1"  >
+  <token_anchor t_id="44"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="2"  >
+  <token_anchor t_id="47"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="3"  >
+  <token_anchor t_id="67"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="4"  >
+  <token_anchor t_id="69"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="5"  >
+  <token_anchor t_id="85"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="6"  >
+  <token_anchor t_id="102"/>
+  <token_anchor t_id="103"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="7"  >
+  <token_anchor t_id="100"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="8"  >
+  <token_anchor t_id="127"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="13"  >
+  <token_anchor t_id="49"/>
+  <token_anchor t_id="50"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="14"  >
+  <token_anchor t_id="105"/>
+  <token_anchor t_id="106"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="15"  >
+  <token_anchor t_id="114"/>
+  <token_anchor t_id="115"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="30"  >
+  <token_anchor t_id="167"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="31"  >
+  <token_anchor t_id="164"/>
+  <token_anchor t_id="165"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="32"  >
+  <token_anchor t_id="148"/>
+</HUMAN_PART_PER>
+<NON_HUMAN_PART m_id="41"  >
+  <token_anchor t_id="48"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="33"  >
+  <token_anchor t_id="155"/>
+  <token_anchor t_id="156"/>
+  <token_anchor t_id="157"/>
+  <token_anchor t_id="158"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="34"  >
+  <token_anchor t_id="161"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="35"  >
+  <token_anchor t_id="108"/>
+  <token_anchor t_id="109"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="36"  >
+  <token_anchor t_id="117"/>
+  <token_anchor t_id="118"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="39"  >
+  <token_anchor t_id="52"/>
+  <token_anchor t_id="53"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="40"  >
+  <token_anchor t_id="45"/>
+</NON_HUMAN_PART>
+<TIME_DATE m_id="10"  >
+  <token_anchor t_id="35"/>
+  <token_anchor t_id="36"/>
+  <token_anchor t_id="37"/>
+  <token_anchor t_id="38"/>
+  <token_anchor t_id="39"/>
+  <token_anchor t_id="40"/>
+</TIME_DATE>
+<TIME_DURATION m_id="12"  >
+  <token_anchor t_id="172"/>
+  <token_anchor t_id="173"/>
+  <token_anchor t_id="174"/>
+  <token_anchor t_id="175"/>
+</TIME_DURATION>
+
+
+<TIME_OF_THE_DAY m_id="51" note="byCROMER" >
+  <token_anchor t_id="96"/>
+</TIME_OF_THE_DAY>
+<HUMAN_PART_GENERIC m_id="52" note="byCROMER" >
+  <token_anchor t_id="94"/>
+</HUMAN_PART_GENERIC>
+<NON_HUMAN_PART m_id="53" note="byCROMER" >
+  <token_anchor t_id="70"/>
+  <token_anchor t_id="71"/>
+  <token_anchor t_id="72"/>
+</NON_HUMAN_PART>
+<TIME_OF_THE_DAY m_id="54" note="byCROMER" >
+  <token_anchor t_id="73"/>
+  <token_anchor t_id="74"/>
+</TIME_OF_THE_DAY>
+<HUMAN_PART_PER m_id="55" note="byCROMER" >
+  <token_anchor t_id="60"/>
+  <token_anchor t_id="61"/>
+</HUMAN_PART_PER>
+
+
+<HUMAN_PART_ORG m_id="69" RELATED_TO="" TAG_DESCRIPTOR="t31_indiana" instance_id="HUM17059028282226589" />
+<ACTION_OCCURRENCE m_id="68" RELATED_TO="" TAG_DESCRIPTOR="t31_scoring" instance_id="ACT17056641488563122" />
+<NON_HUMAN_PART m_id="67" RELATED_TO="" TAG_DESCRIPTOR="t31_65_53win" instance_id="NON28615296895917737" />
+<ACTION_OCCURRENCE m_id="66" RELATED_TO="" TAG_DESCRIPTOR="t31_will_play_winner" instance_id="ACT17058949434598844" />
+<HUMAN_PART_PER m_id="65" RELATED_TO="" TAG_DESCRIPTOR="t31_mcdermott" instance_id="HUM17050506835932990" />
+<ACTION_OCCURRENCE m_id="64" RELATED_TO="" TAG_DESCRIPTOR="t31_MVC_tournament" instance_id="ACT17050389329655175" />
+<HUMAN_PART_GENERIC m_id="63" RELATED_TO="" TAG_DESCRIPTOR="t31_winner_of_match" instance_id="HUM17058832719925992" />
+<ACTION_OCCURRENCE m_id="62" RELATED_TO="" TAG_DESCRIPTOR="t31_quarterfinals" instance_id="ACT17050375060246939" />
+<ACTION_OCCURRENCE m_id="61" RELATED_TO="" TAG_DESCRIPTOR="t31_creighton_victory" instance_id="ACT17050360599920138" />
+<HUMAN_PART_ORG m_id="60" RELATED_TO="" TAG_DESCRIPTOR="t31_creighton_bluejays" instance_id="HUM17050646930855993" />
+<TIME_OF_THE_DAY m_id="72" RELATED_TO="" TAG_DESCRIPTOR="t31_friday_afternoon" instance_id="TIM17050678146372469" />
+<HUMAN_PART_PER m_id="71" RELATED_TO="" TAG_DESCRIPTOR="t31_buford" instance_id="HUM17050524992259008" />
+<NON_HUMAN_PART m_id="70" RELATED_TO="" TAG_DESCRIPTOR="t31_23_points" instance_id="NON17056449806118867" />
+<HUMAN_PART_ORG m_id="59" RELATED_TO="" TAG_DESCRIPTOR="t31b_evansville" instance_id="HUM17050711112380985" />
+<HUMAN_PART_ORG m_id="58" RELATED_TO="" TAG_DESCRIPTOR="t31_drake" instance_id="HUM17050657724986898" />
+<ACTION_OCCURRENCE m_id="57" RELATED_TO="" TAG_DESCRIPTOR="t31_he_became_leader" instance_id="ACT28614969156794017" />
+<ACTION_OCCURRENCE m_id="56" RELATED_TO="" TAG_DESCRIPTOR="t31_semifinals" instance_id="ACT17058653732218010" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="37799" note="ACT17058653732218010" >
+  <source m_id="23" />
+  <target m_id="56" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37800" note="ACT28614969156794017" >
+  <source m_id="50" />
+  <target m_id="57" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37801" note="HUM17050657724986898" >
+  <source m_id="4" />
+  <target m_id="58" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37802" note="HUM17050711112380985" >
+  <source m_id="7" />
+  <target m_id="59" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37803" note="HUM17050646930855993" >
+  <source m_id="3" />
+  <source m_id="43" />
+  <source m_id="9" />
+  <source m_id="5" />
+  <target m_id="60" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37804" note="ACT17050360599920138" >
+  <source m_id="19" />
+  <target m_id="61" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37805" note="ACT17050375060246939" >
+  <source m_id="20" />
+  <target m_id="62" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37806" note="HUM17058832719925992" >
+  <source m_id="52" />
+  <target m_id="63" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37807" note="ACT17050389329655175" >
+  <source m_id="21" />
+  <target m_id="64" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37808" note="HUM17050506835932990" >
+  <source m_id="32" />
+  <source m_id="55" />
+  <source m_id="13" />
+  <target m_id="65" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37809" note="ACT17058949434598844" >
+  <source m_id="22" />
+  <target m_id="66" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37810" note="NON28615296895917737" >
+  <source m_id="53" />
+  <target m_id="67" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37811" note="ACT17056641488563122" >
+  <source m_id="18" />
+  <target m_id="68" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37812" note="HUM17059028282226589" >
+  <source m_id="6" />
+  <target m_id="69" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37813" note="NON17056449806118867" >
+  <source m_id="39" />
+  <target m_id="70" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37814" note="HUM17050524992259008" >
+  <source m_id="31" />
+  <source m_id="30" />
+  <target m_id="71" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37815" note="TIM17050678146372469" >
+  <source m_id="51" />
+  <source m_id="54" />
+  <target m_id="72" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

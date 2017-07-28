@@ -1,0 +1,140 @@
+<Document doc_name="23_7ecb.xml" doc_id="DOC15654677777973077">
+<token t_id="1" sentence="0" number="0">A</token>
+<token t_id="2" sentence="0" number="1">Perth</token>
+<token t_id="3" sentence="0" number="2">man</token>
+<token t_id="4" sentence="0" number="3">has</token>
+<token t_id="5" sentence="0" number="4">survived</token>
+<token t_id="6" sentence="0" number="5">after</token>
+<token t_id="7" sentence="0" number="6">spending</token>
+<token t_id="8" sentence="0" number="7">up</token>
+<token t_id="9" sentence="0" number="8">to</token>
+<token t_id="10" sentence="0" number="9">two</token>
+<token t_id="11" sentence="0" number="10">nights</token>
+<token t_id="12" sentence="0" number="11">in</token>
+<token t_id="13" sentence="0" number="12">an</token>
+<token t_id="14" sentence="0" number="13">ice</token>
+<token t_id="15" sentence="0" number="14">cave</token>
+<token t_id="16" sentence="0" number="15">on</token>
+<token t_id="17" sentence="0" number="16">New</token>
+<token t_id="18" sentence="0" number="17">Zealand</token>
+<token t_id="19" sentence="0" number="18">'s</token>
+<token t_id="20" sentence="0" number="19">Mt</token>
+<token t_id="21" sentence="0" number="20">Cook</token>
+<token t_id="22" sentence="0" number="21">after</token>
+<token t_id="23" sentence="0" number="22">seeing</token>
+<token t_id="24" sentence="0" number="23">his</token>
+<token t_id="25" sentence="0" number="24">brother</token>
+<token t_id="26" sentence="0" number="25">fall</token>
+<token t_id="27" sentence="0" number="26">to</token>
+<token t_id="28" sentence="0" number="27">his</token>
+<token t_id="29" sentence="0" number="28">death</token>
+<token t_id="30" sentence="0" number="29">from</token>
+<token t_id="31" sentence="0" number="30">the</token>
+<token t_id="32" sentence="0" number="31">country</token>
+<token t_id="33" sentence="0" number="32">'s</token>
+<token t_id="34" sentence="0" number="33">highest</token>
+<token t_id="35" sentence="0" number="34">peak</token>
+<token t_id="36" sentence="0" number="35">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="19"  >
+  <token_anchor t_id="5"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="20"  >
+  <token_anchor t_id="7"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="21"  >
+  <token_anchor t_id="26"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="22"  >
+  <token_anchor t_id="29"/>
+</ACTION_OCCURRENCE>
+<ACTION_PERCEPTION m_id="23"  >
+  <token_anchor t_id="23"/>
+</ACTION_PERCEPTION>
+<HUMAN_PART_PER m_id="17"  >
+  <token_anchor t_id="3"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="18"  >
+  <token_anchor t_id="25"/>
+</HUMAN_PART_PER>
+<LOC_GEO m_id="25"  >
+  <token_anchor t_id="31"/>
+  <token_anchor t_id="32"/>
+  <token_anchor t_id="33"/>
+  <token_anchor t_id="34"/>
+  <token_anchor t_id="35"/>
+</LOC_GEO>
+<LOC_GEO m_id="26"  >
+  <token_anchor t_id="12"/>
+  <token_anchor t_id="13"/>
+  <token_anchor t_id="14"/>
+  <token_anchor t_id="15"/>
+  <token_anchor t_id="16"/>
+  <token_anchor t_id="17"/>
+  <token_anchor t_id="18"/>
+  <token_anchor t_id="19"/>
+  <token_anchor t_id="20"/>
+  <token_anchor t_id="21"/>
+</LOC_GEO>
+<LOC_GEO m_id="24"  >
+  <token_anchor t_id="2"/>
+</LOC_GEO>
+<TIME_DURATION m_id="27"  >
+  <token_anchor t_id="10"/>
+  <token_anchor t_id="11"/>
+</TIME_DURATION>
+
+
+
+
+<TIME_DURATION m_id="37" RELATED_TO="" TAG_DESCRIPTOR="t23b_two_nights" instance_id="TIM18319758995099143" />
+<ACTION_OCCURRENCE m_id="36" RELATED_TO="" TAG_DESCRIPTOR="t23b_survived" instance_id="ACT27332451779822896" />
+<ACTION_PERCEPTION m_id="35" RELATED_TO="" TAG_DESCRIPTOR="t23b_watched_bro_fall" instance_id="ACT27332138770482467" />
+<HUMAN_PART_PER m_id="34" RELATED_TO="" TAG_DESCRIPTOR="t23b_brother" instance_id="HUM18319674083945732" />
+<HUMAN_PART_PER m_id="33" RELATED_TO="" TAG_DESCRIPTOR="t23b_climber" instance_id="HUM18319688289991189" />
+<ACTION_OCCURRENCE m_id="32" RELATED_TO="" TAG_DESCRIPTOR="t23b_died" instance_id="ACT18319700214698432" />
+<LOC_GEO m_id="31" RELATED_TO="" TAG_DESCRIPTOR="t23b_perth" instance_id="LOC18319737183409910" />
+<ACTION_OCCURRENCE m_id="30" RELATED_TO="" TAG_DESCRIPTOR="t23b_fall" instance_id="ACT18319724293841208" />
+<LOC_GEO m_id="29" RELATED_TO="" TAG_DESCRIPTOR="t23_cook" instance_id="LOC18241315453418084" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="47724" note="LOC18241315453418084" >
+  <source m_id="25" />
+  <target m_id="29" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47725" note="ACT18319724293841208" >
+  <source m_id="21" />
+  <target m_id="30" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47726" note="LOC18319737183409910" >
+  <source m_id="24" />
+  <target m_id="31" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47727" note="ACT18319700214698432" >
+  <source m_id="22" />
+  <target m_id="32" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47728" note="HUM18319688289991189" >
+  <source m_id="17" />
+  <target m_id="33" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47729" note="HUM18319674083945732" >
+  <source m_id="18" />
+  <target m_id="34" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47730" note="ACT27332138770482467" >
+  <source m_id="23" />
+  <target m_id="35" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47731" note="ACT27332451779822896" >
+  <source m_id="19" />
+  <target m_id="36" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47732" note="TIM18319758995099143" >
+  <source m_id="27" />
+  <target m_id="37" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

@@ -212,7 +212,7 @@ def main(argv=None):
         argv = sys.argv
 
     if len(argv) < 4:
-        print("Usage python3 merge_data.py ECBplusTopic ECBstarTopic outfolder")
+        print("Usage python3 create_gold_document.py ECBplusTopic ECBstarTopic outfolder")
     else:
         merge_annotations(argv[1], argv[2], argv[3])
 

@@ -1,0 +1,110 @@
+<Document doc_name="24_2ecb.xml" doc_id="DOC15654729832543069">
+<token t_id="1" sentence="0" number="0">ARMED</token>
+<token t_id="2" sentence="0" number="1">robbers</token>
+<token t_id="3" sentence="0" number="2">in</token>
+<token t_id="4" sentence="0" number="3">drag</token>
+<token t_id="5" sentence="0" number="4">carried</token>
+<token t_id="6" sentence="0" number="5">out</token>
+<token t_id="7" sentence="0" number="6">one</token>
+<token t_id="8" sentence="0" number="7">of</token>
+<token t_id="9" sentence="0" number="8">the</token>
+<token t_id="10" sentence="0" number="9">biggest</token>
+<token t_id="11" sentence="0" number="10">jewel</token>
+<token t_id="12" sentence="0" number="11">heists</token>
+<token t_id="13" sentence="0" number="12">in</token>
+<token t_id="14" sentence="0" number="13">history</token>
+<token t_id="15" sentence="0" number="14">,</token>
+<token t_id="16" sentence="0" number="15">snatching</token>
+<token t_id="17" sentence="0" number="16">p74million</token>
+<token t_id="18" sentence="0" number="17">of</token>
+<token t_id="19" sentence="0" number="18">diamond</token>
+<token t_id="20" sentence="0" number="19">rings</token>
+<token t_id="21" sentence="0" number="20">,</token>
+<token t_id="22" sentence="0" number="21">necklaces</token>
+<token t_id="23" sentence="0" number="22">and</token>
+<token t_id="24" sentence="0" number="23">luxury</token>
+<token t_id="25" sentence="0" number="24">watches</token>
+<token t_id="26" sentence="0" number="25">from</token>
+<token t_id="27" sentence="0" number="26">a</token>
+<token t_id="28" sentence="0" number="27">boutique</token>
+<token t_id="29" sentence="0" number="28">in</token>
+<token t_id="30" sentence="0" number="29">Paris</token>
+<token t_id="31" sentence="0" number="30">.</token>
+<Markables>
+<HUMAN_PART_PER m_id="10"  >
+  <token_anchor t_id="2"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="17"  >
+  <token_anchor t_id="27"/>
+  <token_anchor t_id="28"/>
+  <token_anchor t_id="29"/>
+  <token_anchor t_id="30"/>
+</LOC_FAC>
+<NON_HUMAN_PART m_id="14"  >
+  <token_anchor t_id="20"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="15"  >
+  <token_anchor t_id="22"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="16"  >
+  <token_anchor t_id="25"/>
+</NON_HUMAN_PART>
+
+
+<ACTION_OCCURRENCE m_id="19" note="byCROMER" >
+  <token_anchor t_id="16"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="20" note="byCROMER" >
+  <token_anchor t_id="14"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="21" note="byCROMER" >
+  <token_anchor t_id="12"/>
+</ACTION_OCCURRENCE>
+
+
+<LOC_FAC m_id="29" RELATED_TO="" TAG_DESCRIPTOR="t24b_boutique" instance_id="LOC18318468151124403" />
+<ACTION_OCCURRENCE m_id="28" RELATED_TO="" TAG_DESCRIPTOR="t24b_heists" instance_id="ACT18319060730104657" />
+<NON_HUMAN_PART m_id="27" RELATED_TO="" TAG_DESCRIPTOR="t24b_necklaces" instance_id="NON18318574010373485" />
+<NON_HUMAN_PART m_id="26" RELATED_TO="" TAG_DESCRIPTOR="t24b_rings" instance_id="NON18318591593829926" />
+<ACTION_OCCURRENCE m_id="25" RELATED_TO="" TAG_DESCRIPTOR="t24b_stole" instance_id="ACT18318437865031754" />
+<HUMAN_PART_PER m_id="24" RELATED_TO="" TAG_DESCRIPTOR="t24b_robbers" instance_id="HUM18318452306120227" />
+<NON_HUMAN_PART m_id="23" RELATED_TO="" TAG_DESCRIPTOR="t24b_watches" instance_id="NON18318605282714241" />
+<ACTION_OCCURRENCE m_id="22" RELATED_TO="" TAG_DESCRIPTOR="t24b_history" instance_id="ACT18318561630191908" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="47726" note="ACT18318561630191908" >
+  <source m_id="20" />
+  <target m_id="22" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47727" note="NON18318605282714241" >
+  <source m_id="16" />
+  <target m_id="23" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47728" note="HUM18318452306120227" >
+  <source m_id="10" />
+  <target m_id="24" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47729" note="ACT18318437865031754" >
+  <source m_id="19" />
+  <target m_id="25" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47730" note="NON18318591593829926" >
+  <source m_id="14" />
+  <target m_id="26" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47731" note="NON18318574010373485" >
+  <source m_id="15" />
+  <target m_id="27" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47732" note="ACT18319060730104657" >
+  <source m_id="21" />
+  <target m_id="28" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="47733" note="LOC18318468151124403" >
+  <source m_id="17" />
+  <target m_id="29" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

@@ -1,0 +1,902 @@
+<Document doc_name="29_11ecbplus.xml" doc_id="DOC15651942691066497">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">www</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">examiner</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<token t_id="9" sentence="0" number="8">com</token>
+<token t_id="10" sentence="0" number="9">/</token>
+<token t_id="11" sentence="0" number="10">article</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">indianapolis</token>
+<token t_id="14" sentence="0" number="13">-</token>
+<token t_id="15" sentence="0" number="14">colts</token>
+<token t_id="16" sentence="0" number="15">-</token>
+<token t_id="17" sentence="0" number="16">clinch</token>
+<token t_id="18" sentence="0" number="17">-</token>
+<token t_id="19" sentence="0" number="18">playoff</token>
+<token t_id="20" sentence="0" number="19">-</token>
+<token t_id="21" sentence="0" number="20">berth</token>
+<token t_id="22" sentence="0" number="21">-</token>
+<token t_id="23" sentence="0" number="22">with</token>
+<token t_id="24" sentence="0" number="23">-</token>
+<token t_id="25" sentence="0" number="24">win</token>
+<token t_id="26" sentence="0" number="25">-</token>
+<token t_id="27" sentence="0" number="26">over</token>
+<token t_id="28" sentence="0" number="27">-</token>
+<token t_id="29" sentence="0" number="28">kansas</token>
+<token t_id="30" sentence="0" number="29">-</token>
+<token t_id="31" sentence="0" number="30">city</token>
+<token t_id="32" sentence="0" number="31">-</token>
+<token t_id="33" sentence="0" number="32">chiefs</token>
+<token t_id="34" sentence="1" number="0">Indianapolis</token>
+<token t_id="35" sentence="1" number="1">Colts</token>
+<token t_id="36" sentence="1" number="2">clinch</token>
+<token t_id="37" sentence="1" number="3">playoff</token>
+<token t_id="38" sentence="1" number="4">berth</token>
+<token t_id="39" sentence="1" number="5">with</token>
+<token t_id="40" sentence="1" number="6">win</token>
+<token t_id="41" sentence="1" number="7">over</token>
+<token t_id="42" sentence="1" number="8">Kansas</token>
+<token t_id="43" sentence="1" number="9">City</token>
+<token t_id="44" sentence="1" number="10">Chiefs</token>
+<token t_id="45" sentence="2" number="0">December</token>
+<token t_id="46" sentence="2" number="1">23</token>
+<token t_id="47" sentence="2" number="2">,</token>
+<token t_id="48" sentence="2" number="3">2012</token>
+<token t_id="49" sentence="3" number="0">Going</token>
+<token t_id="50" sentence="3" number="1">into</token>
+<token t_id="51" sentence="3" number="2">week</token>
+<token t_id="52" sentence="3" number="3">16</token>
+<token t_id="53" sentence="3" number="4">,</token>
+<token t_id="54" sentence="3" number="5">the</token>
+<token t_id="55" sentence="3" number="6">Indianapolis</token>
+<token t_id="56" sentence="3" number="7">Colts</token>
+<token t_id="57" sentence="3" number="8">controlled</token>
+<token t_id="58" sentence="3" number="9">their</token>
+<token t_id="59" sentence="3" number="10">own</token>
+<token t_id="60" sentence="3" number="11">destiny</token>
+<token t_id="61" sentence="3" number="12">of</token>
+<token t_id="62" sentence="3" number="13">making</token>
+<token t_id="63" sentence="3" number="14">it</token>
+<token t_id="64" sentence="3" number="15">to</token>
+<token t_id="65" sentence="3" number="16">post</token>
+<token t_id="66" sentence="3" number="17">-</token>
+<token t_id="67" sentence="3" number="18">season</token>
+<token t_id="68" sentence="3" number="19">play</token>
+<token t_id="69" sentence="3" number="20">.</token>
+<token t_id="70" sentence="4" number="0">The</token>
+<token t_id="71" sentence="4" number="1">Colts</token>
+<token t_id="72" sentence="4" number="2">could</token>
+<token t_id="73" sentence="4" number="3">clinch</token>
+<token t_id="74" sentence="4" number="4">a</token>
+<token t_id="75" sentence="4" number="5">playoff</token>
+<token t_id="76" sentence="4" number="6">berth</token>
+<token t_id="77" sentence="4" number="7">with</token>
+<token t_id="78" sentence="4" number="8">a</token>
+<token t_id="79" sentence="4" number="9">win</token>
+<token t_id="80" sentence="4" number="10">over</token>
+<token t_id="81" sentence="4" number="11">the</token>
+<token t_id="82" sentence="4" number="12">Kansas</token>
+<token t_id="83" sentence="4" number="13">City</token>
+<token t_id="84" sentence="4" number="14">Chiefs</token>
+<token t_id="85" sentence="4" number="15">or</token>
+<token t_id="86" sentence="4" number="16">a</token>
+<token t_id="87" sentence="4" number="17">Pittsburgh</token>
+<token t_id="88" sentence="4" number="18">Steelers</token>
+<token t_id="89" sentence="4" number="19">loss</token>
+<token t_id="90" sentence="4" number="20">.</token>
+<token t_id="91" sentence="5" number="0">As</token>
+<token t_id="92" sentence="5" number="1">they</token>
+<token t_id="93" sentence="5" number="2">have</token>
+<token t_id="94" sentence="5" number="3">done</token>
+<token t_id="95" sentence="5" number="4">all</token>
+<token t_id="96" sentence="5" number="5">season</token>
+<token t_id="97" sentence="5" number="6">,</token>
+<token t_id="98" sentence="5" number="7">the</token>
+<token t_id="99" sentence="5" number="8">Colts</token>
+<token t_id="100" sentence="5" number="9">refused</token>
+<token t_id="101" sentence="5" number="10">to</token>
+<token t_id="102" sentence="5" number="11">let</token>
+<token t_id="103" sentence="5" number="12">their</token>
+<token t_id="104" sentence="5" number="13">fate</token>
+<token t_id="105" sentence="5" number="14">be</token>
+<token t_id="106" sentence="5" number="15">decided</token>
+<token t_id="107" sentence="5" number="16">by</token>
+<token t_id="108" sentence="5" number="17">anyone</token>
+<token t_id="109" sentence="5" number="18">other</token>
+<token t_id="110" sentence="5" number="19">than</token>
+<token t_id="111" sentence="5" number="20">themselves</token>
+<token t_id="112" sentence="5" number="21">.</token>
+<token t_id="113" sentence="6" number="0">The</token>
+<token t_id="114" sentence="6" number="1">young</token>
+<token t_id="115" sentence="6" number="2">team</token>
+<token t_id="116" sentence="6" number="3">fought</token>
+<token t_id="117" sentence="6" number="4">hard</token>
+<token t_id="118" sentence="6" number="5">to</token>
+<token t_id="119" sentence="6" number="6">defeat</token>
+<token t_id="120" sentence="6" number="7">the</token>
+<token t_id="121" sentence="6" number="8">Chiefs</token>
+<token t_id="122" sentence="6" number="9">in</token>
+<token t_id="123" sentence="6" number="10">another</token>
+<token t_id="124" sentence="6" number="11">fourth</token>
+<token t_id="125" sentence="6" number="12">quarter</token>
+<token t_id="126" sentence="6" number="13">victory</token>
+<token t_id="127" sentence="6" number="14">,</token>
+<token t_id="128" sentence="6" number="15">20</token>
+<token t_id="129" sentence="6" number="16">-</token>
+<token t_id="130" sentence="6" number="17">13</token>
+<token t_id="131" sentence="6" number="18">.</token>
+<token t_id="132" sentence="7" number="0">Although</token>
+<token t_id="133" sentence="7" number="1">they</token>
+<token t_id="134" sentence="7" number="2">started</token>
+<token t_id="135" sentence="7" number="3">the</token>
+<token t_id="136" sentence="7" number="4">game</token>
+<token t_id="137" sentence="7" number="5">with</token>
+<token t_id="138" sentence="7" number="6">a</token>
+<token t_id="139" sentence="7" number="7">three</token>
+<token t_id="140" sentence="7" number="8">-</token>
+<token t_id="141" sentence="7" number="9">and</token>
+<token t_id="142" sentence="7" number="10">-</token>
+<token t_id="143" sentence="7" number="11">out</token>
+<token t_id="144" sentence="7" number="12">,</token>
+<token t_id="145" sentence="7" number="13">the</token>
+<token t_id="146" sentence="7" number="14">Colts</token>
+<token t_id="147" sentence="7" number="15">were</token>
+<token t_id="148" sentence="7" number="16">able</token>
+<token t_id="149" sentence="7" number="17">to</token>
+<token t_id="150" sentence="7" number="18">light</token>
+<token t_id="151" sentence="7" number="19">up</token>
+<token t_id="152" sentence="7" number="20">the</token>
+<token t_id="153" sentence="7" number="21">scoreboard</token>
+<token t_id="154" sentence="7" number="22">first</token>
+<token t_id="155" sentence="7" number="23">.</token>
+<token t_id="156" sentence="8" number="0">Corner</token>
+<token t_id="157" sentence="8" number="1">back</token>
+<token t_id="158" sentence="8" number="2">Darius</token>
+<token t_id="159" sentence="8" number="3">Butler</token>
+<token t_id="160" sentence="8" number="4">intercepted</token>
+<token t_id="161" sentence="8" number="5">Brady</token>
+<token t_id="162" sentence="8" number="6">Quinn</token>
+<token t_id="163" sentence="8" number="7">for</token>
+<token t_id="164" sentence="8" number="8">a</token>
+<token t_id="165" sentence="8" number="9">32</token>
+<token t_id="166" sentence="8" number="10">yard</token>
+<token t_id="167" sentence="8" number="11">defensive</token>
+<token t_id="168" sentence="8" number="12">touchdown</token>
+<token t_id="169" sentence="8" number="13">.</token>
+<token t_id="170" sentence="9" number="0">This</token>
+<token t_id="171" sentence="9" number="1">was</token>
+<token t_id="172" sentence="9" number="2">Butler's</token>
+<token t_id="173" sentence="9" number="3">second</token>
+<token t_id="174" sentence="9" number="4">pick</token>
+<token t_id="175" sentence="9" number="5">-</token>
+<token t_id="176" sentence="9" number="6">six</token>
+<token t_id="177" sentence="9" number="7">of</token>
+<token t_id="178" sentence="9" number="8">the</token>
+<token t_id="179" sentence="9" number="9">season</token>
+<token t_id="180" sentence="9" number="10">,</token>
+<token t_id="181" sentence="9" number="11">his</token>
+<token t_id="182" sentence="9" number="12">first</token>
+<token t_id="183" sentence="9" number="13">against</token>
+<token t_id="184" sentence="9" number="14">the</token>
+<token t_id="185" sentence="9" number="15">Jacksonville</token>
+<token t_id="186" sentence="9" number="16">Jaguars</token>
+<token t_id="187" sentence="9" number="17">.</token>
+<token t_id="188" sentence="10" number="0">The</token>
+<token t_id="189" sentence="10" number="1">Colts</token>
+<token t_id="190" sentence="10" number="2">defense</token>
+<token t_id="191" sentence="10" number="3">was</token>
+<token t_id="192" sentence="10" number="4">able</token>
+<token t_id="193" sentence="10" number="5">to</token>
+<token t_id="194" sentence="10" number="6">keep</token>
+<token t_id="195" sentence="10" number="7">the</token>
+<token t_id="196" sentence="10" number="8">Chiefs</token>
+<token t_id="197" sentence="10" number="9">out</token>
+<token t_id="198" sentence="10" number="10">of</token>
+<token t_id="199" sentence="10" number="11">the</token>
+<token t_id="200" sentence="10" number="12">end</token>
+<token t_id="201" sentence="10" number="13">zone</token>
+<token t_id="202" sentence="10" number="14">in</token>
+<token t_id="203" sentence="10" number="15">the</token>
+<token t_id="204" sentence="10" number="16">first</token>
+<token t_id="205" sentence="10" number="17">half</token>
+<token t_id="206" sentence="10" number="18">.</token>
+<token t_id="207" sentence="11" number="0">Throughout</token>
+<token t_id="208" sentence="11" number="1">the</token>
+<token t_id="209" sentence="11" number="2">game</token>
+<token t_id="210" sentence="11" number="3">,</token>
+<token t_id="211" sentence="11" number="4">the</token>
+<token t_id="212" sentence="11" number="5">Chiefs</token>
+<token t_id="213" sentence="11" number="6">defense</token>
+<token t_id="214" sentence="11" number="7">and</token>
+<token t_id="215" sentence="11" number="8">running</token>
+<token t_id="216" sentence="11" number="9">game</token>
+<token t_id="217" sentence="11" number="10">posed</token>
+<token t_id="218" sentence="11" number="11">a</token>
+<token t_id="219" sentence="11" number="12">serious</token>
+<token t_id="220" sentence="11" number="13">threat</token>
+<token t_id="221" sentence="11" number="14">to</token>
+<token t_id="222" sentence="11" number="15">the</token>
+<token t_id="223" sentence="11" number="16">Colts</token>
+<token t_id="224" sentence="11" number="17">shot</token>
+<token t_id="225" sentence="11" number="18">at</token>
+<token t_id="226" sentence="11" number="19">the</token>
+<token t_id="227" sentence="11" number="20">playoffs</token>
+<token t_id="228" sentence="11" number="21">.</token>
+<token t_id="229" sentence="12" number="0">The</token>
+<token t_id="230" sentence="12" number="1">Chiefs</token>
+<token t_id="231" sentence="12" number="2">rushed</token>
+<token t_id="232" sentence="12" number="3">for</token>
+<token t_id="233" sentence="12" number="4">over</token>
+<token t_id="234" sentence="12" number="5">350</token>
+<token t_id="235" sentence="12" number="6">yards</token>
+<token t_id="236" sentence="12" number="7">giving</token>
+<token t_id="237" sentence="12" number="8">their</token>
+<token t_id="238" sentence="12" number="9">two</token>
+<token t_id="239" sentence="12" number="10">leading</token>
+<token t_id="240" sentence="12" number="11">running</token>
+<token t_id="241" sentence="12" number="12">backs</token>
+<token t_id="242" sentence="12" number="13">over</token>
+<token t_id="243" sentence="12" number="14">100</token>
+<token t_id="244" sentence="12" number="15">yards</token>
+<token t_id="245" sentence="12" number="16">each</token>
+<token t_id="246" sentence="12" number="17">.</token>
+<token t_id="247" sentence="13" number="0">Jamaal</token>
+<token t_id="248" sentence="13" number="1">Charles</token>
+<token t_id="249" sentence="13" number="2">rushed</token>
+<token t_id="250" sentence="13" number="3">for</token>
+<token t_id="251" sentence="13" number="4">226</token>
+<token t_id="252" sentence="13" number="5">yards</token>
+<token t_id="253" sentence="13" number="6">while</token>
+<token t_id="254" sentence="13" number="7">Peyton</token>
+<token t_id="255" sentence="13" number="8">Hillis</token>
+<token t_id="256" sentence="13" number="9">added</token>
+<token t_id="257" sentence="13" number="10">101</token>
+<token t_id="258" sentence="13" number="11">.</token>
+<token t_id="259" sentence="14" number="0">Kansas</token>
+<token t_id="260" sentence="14" number="1">City</token>
+<token t_id="261" sentence="14" number="2">emerged</token>
+<token t_id="262" sentence="14" number="3">from</token>
+<token t_id="263" sentence="14" number="4">the</token>
+<token t_id="264" sentence="14" number="5">locker</token>
+<token t_id="265" sentence="14" number="6">room</token>
+<token t_id="266" sentence="14" number="7">with</token>
+<token t_id="267" sentence="14" number="8">an</token>
+<token t_id="268" sentence="14" number="9">extra</token>
+<token t_id="269" sentence="14" number="10">burst</token>
+<token t_id="270" sentence="14" number="11">of</token>
+<token t_id="271" sentence="14" number="12">energy</token>
+<token t_id="272" sentence="14" number="13">.</token>
+<token t_id="273" sentence="15" number="0">Charles</token>
+<token t_id="274" sentence="15" number="1">kicked</token>
+<token t_id="275" sentence="15" number="2">off</token>
+<token t_id="276" sentence="15" number="3">the</token>
+<token t_id="277" sentence="15" number="4">second</token>
+<token t_id="278" sentence="15" number="5">half</token>
+<token t_id="279" sentence="15" number="6">with</token>
+<token t_id="280" sentence="15" number="7">an</token>
+<token t_id="281" sentence="15" number="8">86</token>
+<token t_id="282" sentence="15" number="9">yard</token>
+<token t_id="283" sentence="15" number="10">rushing</token>
+<token t_id="284" sentence="15" number="11">touchdown</token>
+<token t_id="285" sentence="15" number="12">.</token>
+<token t_id="286" sentence="16" number="0">Despite</token>
+<token t_id="287" sentence="16" number="1">their</token>
+<token t_id="288" sentence="16" number="2">intimidating</token>
+<token t_id="289" sentence="16" number="3">numbers</token>
+<token t_id="290" sentence="16" number="4">on</token>
+<token t_id="291" sentence="16" number="5">the</token>
+<token t_id="292" sentence="16" number="6">ground</token>
+<token t_id="293" sentence="16" number="7">,</token>
+<token t_id="294" sentence="16" number="8">the</token>
+<token t_id="295" sentence="16" number="9">Chiefs</token>
+<token t_id="296" sentence="16" number="10">were</token>
+<token t_id="297" sentence="16" number="11">not</token>
+<token t_id="298" sentence="16" number="12">able</token>
+<token t_id="299" sentence="16" number="13">to</token>
+<token t_id="300" sentence="16" number="14">find</token>
+<token t_id="301" sentence="16" number="15">any</token>
+<token t_id="302" sentence="16" number="16">consistency</token>
+<token t_id="303" sentence="16" number="17">in</token>
+<token t_id="304" sentence="16" number="18">their</token>
+<token t_id="305" sentence="16" number="19">passing</token>
+<token t_id="306" sentence="16" number="20">game</token>
+<token t_id="307" sentence="16" number="21">.</token>
+<token t_id="308" sentence="17" number="0">Aside</token>
+<token t_id="309" sentence="17" number="1">from</token>
+<token t_id="310" sentence="17" number="2">Charles'</token>
+<token t_id="311" sentence="17" number="3">second</token>
+<token t_id="312" sentence="17" number="4">quarter</token>
+<token t_id="313" sentence="17" number="5">score</token>
+<token t_id="314" sentence="17" number="6">,</token>
+<token t_id="315" sentence="17" number="7">Kansas</token>
+<token t_id="316" sentence="17" number="8">City</token>
+<token t_id="317" sentence="17" number="9">failed</token>
+<token t_id="318" sentence="17" number="10">to</token>
+<token t_id="319" sentence="17" number="11">find</token>
+<token t_id="320" sentence="17" number="12">themselves</token>
+<token t_id="321" sentence="17" number="13">in</token>
+<token t_id="322" sentence="17" number="14">the</token>
+<token t_id="323" sentence="17" number="15">end</token>
+<token t_id="324" sentence="17" number="16">zone</token>
+<token t_id="325" sentence="17" number="17">.</token>
+<token t_id="326" sentence="18" number="0">A</token>
+<token t_id="327" sentence="18" number="1">Ryan</token>
+<token t_id="328" sentence="18" number="2">Succop</token>
+<token t_id="329" sentence="18" number="3">field</token>
+<token t_id="330" sentence="18" number="4">goal</token>
+<token t_id="331" sentence="18" number="5">tied</token>
+<token t_id="332" sentence="18" number="6">the</token>
+<token t_id="333" sentence="18" number="7">game</token>
+<token t_id="334" sentence="18" number="8">at</token>
+<token t_id="335" sentence="18" number="9">13</token>
+<token t_id="336" sentence="18" number="10">late</token>
+<token t_id="337" sentence="18" number="11">in</token>
+<token t_id="338" sentence="18" number="12">the</token>
+<token t_id="339" sentence="18" number="13">third</token>
+<token t_id="340" sentence="18" number="14">quarter</token>
+<token t_id="341" sentence="18" number="15">.</token>
+<token t_id="342" sentence="19" number="0">After</token>
+<token t_id="343" sentence="19" number="1">failing</token>
+<token t_id="344" sentence="19" number="2">to</token>
+<token t_id="345" sentence="19" number="3">convert</token>
+<token t_id="346" sentence="19" number="4">on</token>
+<token t_id="347" sentence="19" number="5">a</token>
+<token t_id="348" sentence="19" number="6">crucial</token>
+<token t_id="349" sentence="19" number="7">fourth</token>
+<token t_id="350" sentence="19" number="8">down</token>
+<token t_id="351" sentence="19" number="9">,</token>
+<token t_id="352" sentence="19" number="10">the</token>
+<token t_id="353" sentence="19" number="11">Chiefs</token>
+<token t_id="354" sentence="19" number="12">gave</token>
+<token t_id="355" sentence="19" number="13">the</token>
+<token t_id="356" sentence="19" number="14">Colts</token>
+<token t_id="357" sentence="19" number="15">possession</token>
+<token t_id="358" sentence="19" number="16">early</token>
+<token t_id="359" sentence="19" number="17">in</token>
+<token t_id="360" sentence="19" number="18">the</token>
+<token t_id="361" sentence="19" number="19">fourth</token>
+<token t_id="362" sentence="19" number="20">.</token>
+<token t_id="363" sentence="20" number="0">As</token>
+<token t_id="364" sentence="20" number="1">they</token>
+<token t_id="365" sentence="20" number="2">have</token>
+<token t_id="366" sentence="20" number="3">done</token>
+<token t_id="367" sentence="20" number="4">a</token>
+<token t_id="368" sentence="20" number="5">number</token>
+<token t_id="369" sentence="20" number="6">of</token>
+<token t_id="370" sentence="20" number="7">times</token>
+<token t_id="371" sentence="20" number="8">in</token>
+<token t_id="372" sentence="20" number="9">the</token>
+<token t_id="373" sentence="20" number="10">fourth</token>
+<token t_id="374" sentence="20" number="11">quarter</token>
+<token t_id="375" sentence="20" number="12">,</token>
+<token t_id="376" sentence="20" number="13">the</token>
+<token t_id="377" sentence="20" number="14">Colts</token>
+<token t_id="378" sentence="20" number="15">capitalized</token>
+<token t_id="379" sentence="20" number="16">on</token>
+<token t_id="380" sentence="20" number="17">this</token>
+<token t_id="381" sentence="20" number="18">opportunity</token>
+<token t_id="382" sentence="20" number="19">.</token>
+<token t_id="383" sentence="21" number="0">Andrew</token>
+<token t_id="384" sentence="21" number="1">Luck</token>
+<token t_id="385" sentence="21" number="2">completed</token>
+<token t_id="386" sentence="21" number="3">his</token>
+<token t_id="387" sentence="21" number="4">first</token>
+<token t_id="388" sentence="21" number="5">and</token>
+<token t_id="389" sentence="21" number="6">only</token>
+<token t_id="390" sentence="21" number="7">touchdown</token>
+<token t_id="391" sentence="21" number="8">pass</token>
+<token t_id="392" sentence="21" number="9">of</token>
+<token t_id="393" sentence="21" number="10">the</token>
+<token t_id="394" sentence="21" number="11">day</token>
+<token t_id="395" sentence="21" number="12">to</token>
+<token t_id="396" sentence="21" number="13">Reggie</token>
+<token t_id="397" sentence="21" number="14">Wayne</token>
+<token t_id="398" sentence="21" number="15">,</token>
+<token t_id="399" sentence="21" number="16">putting</token>
+<token t_id="400" sentence="21" number="17">the</token>
+<token t_id="401" sentence="21" number="18">Colts</token>
+<token t_id="402" sentence="21" number="19">up</token>
+<token t_id="403" sentence="21" number="20">once</token>
+<token t_id="404" sentence="21" number="21">again</token>
+<token t_id="405" sentence="21" number="22">.</token>
+<token t_id="406" sentence="22" number="0">In</token>
+<token t_id="407" sentence="22" number="1">the</token>
+<token t_id="408" sentence="22" number="2">end</token>
+<token t_id="409" sentence="22" number="3">,</token>
+<token t_id="410" sentence="22" number="4">the</token>
+<token t_id="411" sentence="22" number="5">Colts</token>
+<token t_id="412" sentence="22" number="6">held</token>
+<token t_id="413" sentence="22" number="7">on</token>
+<token t_id="414" sentence="22" number="8">to</token>
+<token t_id="415" sentence="22" number="9">their</token>
+<token t_id="416" sentence="22" number="10">20</token>
+<token t_id="417" sentence="22" number="11">-</token>
+<token t_id="418" sentence="22" number="12">13</token>
+<token t_id="419" sentence="22" number="13">lead</token>
+<token t_id="420" sentence="22" number="14">,</token>
+<token t_id="421" sentence="22" number="15">winning</token>
+<token t_id="422" sentence="22" number="16">the</token>
+<token t_id="423" sentence="22" number="17">game</token>
+<token t_id="424" sentence="22" number="18">and</token>
+<token t_id="425" sentence="22" number="19">securing</token>
+<token t_id="426" sentence="22" number="20">a</token>
+<token t_id="427" sentence="22" number="21">spot</token>
+<token t_id="428" sentence="22" number="22">in</token>
+<token t_id="429" sentence="22" number="23">the</token>
+<token t_id="430" sentence="22" number="24">playoffs</token>
+<token t_id="431" sentence="22" number="25">.</token>
+<token t_id="432" sentence="23" number="0">The</token>
+<token t_id="433" sentence="23" number="1">Colts</token>
+<token t_id="434" sentence="23" number="2">now</token>
+<token t_id="435" sentence="23" number="3">will</token>
+<token t_id="436" sentence="23" number="4">end</token>
+<token t_id="437" sentence="23" number="5">the</token>
+<token t_id="438" sentence="23" number="6">season</token>
+<token t_id="439" sentence="23" number="7">with</token>
+<token t_id="440" sentence="23" number="8">a</token>
+<token t_id="441" sentence="23" number="9">double</token>
+<token t_id="442" sentence="23" number="10">digit</token>
+<token t_id="443" sentence="23" number="11">number</token>
+<token t_id="444" sentence="23" number="12">in</token>
+<token t_id="445" sentence="23" number="13">the</token>
+<token t_id="446" sentence="23" number="14">win</token>
+<token t_id="447" sentence="23" number="15">column</token>
+<token t_id="448" sentence="23" number="16">,</token>
+<token t_id="449" sentence="23" number="17">five</token>
+<token t_id="450" sentence="23" number="18">times</token>
+<token t_id="451" sentence="23" number="19">as</token>
+<token t_id="452" sentence="23" number="20">many</token>
+<token t_id="453" sentence="23" number="21">as</token>
+<token t_id="454" sentence="23" number="22">last</token>
+<token t_id="455" sentence="23" number="23">season</token>
+<token t_id="456" sentence="23" number="24">.</token>
+<token t_id="457" sentence="24" number="0">Indianapolis'</token>
+<token t_id="458" sentence="24" number="1">head</token>
+<token t_id="459" sentence="24" number="2">coach</token>
+<token t_id="460" sentence="24" number="3">Chuck</token>
+<token t_id="461" sentence="24" number="4">Pagano</token>
+<token t_id="462" sentence="24" number="5">,</token>
+<token t_id="463" sentence="24" number="6">is</token>
+<token t_id="464" sentence="24" number="7">expected</token>
+<token t_id="465" sentence="24" number="8">to</token>
+<token t_id="466" sentence="24" number="9">rejoin</token>
+<token t_id="467" sentence="24" number="10">his</token>
+<token t_id="468" sentence="24" number="11">team</token>
+<token t_id="469" sentence="24" number="12">just</token>
+<token t_id="470" sentence="24" number="13">as</token>
+<token t_id="471" sentence="24" number="14">they</token>
+<token t_id="472" sentence="24" number="15">prepare</token>
+<token t_id="473" sentence="24" number="16">for</token>
+<token t_id="474" sentence="24" number="17">the</token>
+<token t_id="475" sentence="24" number="18">post</token>
+<token t_id="476" sentence="24" number="19">-</token>
+<token t_id="477" sentence="24" number="20">season</token>
+<token t_id="478" sentence="24" number="21">.</token>
+<token t_id="479" sentence="25" number="0">Pagano</token>
+<token t_id="480" sentence="25" number="1">has</token>
+<token t_id="481" sentence="25" number="2">proven</token>
+<token t_id="482" sentence="25" number="3">to</token>
+<token t_id="483" sentence="25" number="4">be</token>
+<token t_id="484" sentence="25" number="5">a</token>
+<token t_id="485" sentence="25" number="6">source</token>
+<token t_id="486" sentence="25" number="7">of</token>
+<token t_id="487" sentence="25" number="8">motivation</token>
+<token t_id="488" sentence="25" number="9">and</token>
+<token t_id="489" sentence="25" number="10">inspiration</token>
+<token t_id="490" sentence="25" number="11">to</token>
+<token t_id="491" sentence="25" number="12">the</token>
+<token t_id="492" sentence="25" number="13">Colts</token>
+<token t_id="493" sentence="25" number="14">this</token>
+<token t_id="494" sentence="25" number="15">season</token>
+<token t_id="495" sentence="25" number="16">.</token>
+<token t_id="496" sentence="26" number="0">The</token>
+<token t_id="497" sentence="26" number="1">odds</token>
+<token t_id="498" sentence="26" number="2">may</token>
+<token t_id="499" sentence="26" number="3">be</token>
+<token t_id="500" sentence="26" number="4">stacked</token>
+<token t_id="501" sentence="26" number="5">against</token>
+<token t_id="502" sentence="26" number="6">them</token>
+<token t_id="503" sentence="26" number="7">,</token>
+<token t_id="504" sentence="26" number="8">the</token>
+<token t_id="505" sentence="26" number="9">Colts</token>
+<token t_id="506" sentence="26" number="10">certainly</token>
+<token t_id="507" sentence="26" number="11">have</token>
+<token t_id="508" sentence="26" number="12">what</token>
+<token t_id="509" sentence="26" number="13">it</token>
+<token t_id="510" sentence="26" number="14">takes</token>
+<token t_id="511" sentence="26" number="15">to</token>
+<token t_id="512" sentence="26" number="16">make</token>
+<token t_id="513" sentence="26" number="17">the</token>
+<token t_id="514" sentence="26" number="18">unbelievable</token>
+<token t_id="515" sentence="26" number="19">happen</token>
+<token t_id="516" sentence="26" number="20">.</token>
+<token t_id="517" sentence="27" number="0">They</token>
+<token t_id="518" sentence="27" number="1">have</token>
+<token t_id="519" sentence="27" number="2">overcome</token>
+<token t_id="520" sentence="27" number="3">a</token>
+<token t_id="521" sentence="27" number="4">number</token>
+<token t_id="522" sentence="27" number="5">of</token>
+<token t_id="523" sentence="27" number="6">obstacles</token>
+<token t_id="524" sentence="27" number="7">this</token>
+<token t_id="525" sentence="27" number="8">season</token>
+<token t_id="526" sentence="27" number="9">,</token>
+<token t_id="527" sentence="27" number="10">far</token>
+<token t_id="528" sentence="27" number="11">surpassing</token>
+<token t_id="529" sentence="27" number="12">any</token>
+<token t_id="530" sentence="27" number="13">expectations</token>
+<token t_id="531" sentence="27" number="14">placed</token>
+<token t_id="532" sentence="27" number="15">upon</token>
+<token t_id="533" sentence="27" number="16">them</token>
+<token t_id="534" sentence="27" number="17">.</token>
+<token t_id="535" sentence="28" number="0">The</token>
+<token t_id="536" sentence="28" number="1">Colts</token>
+<token t_id="537" sentence="28" number="2">will</token>
+<token t_id="538" sentence="28" number="3">face</token>
+<token t_id="539" sentence="28" number="4">their</token>
+<token t_id="540" sentence="28" number="5">division</token>
+<token t_id="541" sentence="28" number="6">rivals</token>
+<token t_id="542" sentence="28" number="7">,</token>
+<token t_id="543" sentence="28" number="8">the</token>
+<token t_id="544" sentence="28" number="9">Houston</token>
+<token t_id="545" sentence="28" number="10">Texans</token>
+<token t_id="546" sentence="28" number="11">,</token>
+<token t_id="547" sentence="28" number="12">at</token>
+<token t_id="548" sentence="28" number="13">home</token>
+<token t_id="549" sentence="28" number="14">in</token>
+<token t_id="550" sentence="28" number="15">Indianapolis</token>
+<token t_id="551" sentence="28" number="16">for</token>
+<token t_id="552" sentence="28" number="17">their</token>
+<token t_id="553" sentence="28" number="18">final</token>
+<token t_id="554" sentence="28" number="19">game</token>
+<token t_id="555" sentence="28" number="20">of</token>
+<token t_id="556" sentence="28" number="21">the</token>
+<token t_id="557" sentence="28" number="22">regular</token>
+<token t_id="558" sentence="28" number="23">season</token>
+<token t_id="559" sentence="28" number="24">.</token>
+<token t_id="560" sentence="29" number="0">The</token>
+<token t_id="561" sentence="29" number="1">Colts</token>
+<token t_id="562" sentence="29" number="2">were</token>
+<token t_id="563" sentence="29" number="3">defeated</token>
+<token t_id="564" sentence="29" number="4">by</token>
+<token t_id="565" sentence="29" number="5">the</token>
+<token t_id="566" sentence="29" number="6">Texans</token>
+<token t_id="567" sentence="29" number="7">in</token>
+<token t_id="568" sentence="29" number="8">week</token>
+<token t_id="569" sentence="29" number="9">14</token>
+<token t_id="570" sentence="29" number="10">.</token>
+<token t_id="571" sentence="30" number="0">With</token>
+<token t_id="572" sentence="30" number="1">a</token>
+<token t_id="573" sentence="30" number="2">clinched</token>
+<token t_id="574" sentence="30" number="3">playoff</token>
+<token t_id="575" sentence="30" number="4">berth</token>
+<token t_id="576" sentence="30" number="5">,</token>
+<token t_id="577" sentence="30" number="6">the</token>
+<token t_id="578" sentence="30" number="7">Colts</token>
+<token t_id="579" sentence="30" number="8">can</token>
+<token t_id="580" sentence="30" number="9">focus</token>
+<token t_id="581" sentence="30" number="10">on</token>
+<token t_id="582" sentence="30" number="11">how</token>
+<token t_id="583" sentence="30" number="12">they</token>
+<token t_id="584" sentence="30" number="13">will</token>
+<token t_id="585" sentence="30" number="14">match</token>
+<token t_id="586" sentence="30" number="15">up</token>
+<token t_id="587" sentence="30" number="16">against</token>
+<token t_id="588" sentence="30" number="17">a</token>
+<token t_id="589" sentence="30" number="18">playoff</token>
+<token t_id="590" sentence="30" number="19">-</token>
+<token t_id="591" sentence="30" number="20">caliber</token>
+<token t_id="592" sentence="30" number="21">team</token>
+<token t_id="593" sentence="30" number="22">before</token>
+<token t_id="594" sentence="30" number="23">Wildcard</token>
+<token t_id="595" sentence="30" number="24">Weekend</token>
+<token t_id="596" sentence="30" number="25">.</token>
+<Markables>
+<ACTION_ASPECTUAL m_id="34"  >
+  <token_anchor t_id="385"/>
+</ACTION_ASPECTUAL>
+<ACTION_ASPECTUAL m_id="35"  >
+  <token_anchor t_id="134"/>
+</ACTION_ASPECTUAL>
+<ACTION_OCCURRENCE m_id="41"  >
+  <token_anchor t_id="167"/>
+  <token_anchor t_id="168"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="13"  >
+  <token_anchor t_id="36"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="14"  >
+  <token_anchor t_id="40"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="15"  >
+  <token_anchor t_id="57"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="16"  >
+  <token_anchor t_id="62"/>
+  <token_anchor t_id="63"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="17"  >
+  <token_anchor t_id="65"/>
+  <token_anchor t_id="66"/>
+  <token_anchor t_id="67"/>
+  <token_anchor t_id="68"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="18"  >
+  <token_anchor t_id="73"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="19"  >
+  <token_anchor t_id="79"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="20"  >
+  <token_anchor t_id="102"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="21"  >
+  <token_anchor t_id="106"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="56"  >
+  <token_anchor t_id="412"/>
+  <token_anchor t_id="413"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="22"  >
+  <token_anchor t_id="116"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="57"  >
+  <token_anchor t_id="416"/>
+  <token_anchor t_id="417"/>
+  <token_anchor t_id="418"/>
+  <token_anchor t_id="419"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="23"  >
+  <token_anchor t_id="119"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="58"  >
+  <token_anchor t_id="421"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="24"  >
+  <token_anchor t_id="126"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="59"  >
+  <token_anchor t_id="423"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="25"  >
+  <token_anchor t_id="139"/>
+  <token_anchor t_id="140"/>
+  <token_anchor t_id="141"/>
+  <token_anchor t_id="142"/>
+  <token_anchor t_id="143"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="60"  >
+  <token_anchor t_id="430"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="26"  >
+  <token_anchor t_id="150"/>
+  <token_anchor t_id="151"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="61"  >
+  <token_anchor t_id="425"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="27"  >
+  <token_anchor t_id="160"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="63"  >
+  <token_anchor t_id="37"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="28"  >
+  <token_anchor t_id="390"/>
+  <token_anchor t_id="391"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="64"  >
+  <token_anchor t_id="75"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="29"  >
+  <token_anchor t_id="399"/>
+  <token_anchor t_id="402"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="36"  >
+  <token_anchor t_id="136"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="40"  >
+  <token_anchor t_id="89"/>
+</ACTION_OCCURRENCE>
+<ACTION_STATE m_id="42"  >
+  <token_anchor t_id="165"/>
+  <token_anchor t_id="166"/>
+</ACTION_STATE>
+<HUMAN_PART_GENERIC m_id="46"  >
+  <token_anchor t_id="108"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_ORG m_id="9"  >
+  <token_anchor t_id="115"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="10"  >
+  <token_anchor t_id="121"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="11"  >
+  <token_anchor t_id="146"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="12"  >
+  <token_anchor t_id="133"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="54"  >
+  <token_anchor t_id="411"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="55"  >
+  <token_anchor t_id="415"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="1"  >
+  <token_anchor t_id="34"/>
+  <token_anchor t_id="35"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="33"  >
+  <token_anchor t_id="401"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="2"  >
+  <token_anchor t_id="42"/>
+  <token_anchor t_id="43"/>
+  <token_anchor t_id="44"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="3"  >
+  <token_anchor t_id="55"/>
+  <token_anchor t_id="56"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="4"  >
+  <token_anchor t_id="71"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="5"  >
+  <token_anchor t_id="82"/>
+  <token_anchor t_id="83"/>
+  <token_anchor t_id="84"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="6"  >
+  <token_anchor t_id="87"/>
+  <token_anchor t_id="88"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="7"  >
+  <token_anchor t_id="99"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="8"  >
+  <token_anchor t_id="111"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="48"  >
+  <token_anchor t_id="158"/>
+  <token_anchor t_id="159"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="49"  >
+  <token_anchor t_id="161"/>
+  <token_anchor t_id="162"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="31"  >
+  <token_anchor t_id="383"/>
+  <token_anchor t_id="384"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="32"  >
+  <token_anchor t_id="396"/>
+  <token_anchor t_id="397"/>
+</HUMAN_PART_PER>
+<NEG_ACTION_OCCURRENCE m_id="43"  >
+  <token_anchor t_id="100"/>
+</NEG_ACTION_OCCURRENCE>
+<NEG_ACTION_STATE m_id="47"  >
+  <token_anchor t_id="109"/>
+  <token_anchor t_id="110"/>
+</NEG_ACTION_STATE>
+<NON_HUMAN_PART m_id="66"  >
+  <token_anchor t_id="38"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="67"  >
+  <token_anchor t_id="76"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="69"  >
+  <token_anchor t_id="427"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="37"  >
+  <token_anchor t_id="153"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART_GENERIC m_id="38"  >
+  <token_anchor t_id="60"/>
+</NON_HUMAN_PART_GENERIC>
+<NON_HUMAN_PART_GENERIC m_id="39"  >
+  <token_anchor t_id="104"/>
+</NON_HUMAN_PART_GENERIC>
+<TIME_DATE m_id="44"  >
+  <token_anchor t_id="45"/>
+  <token_anchor t_id="46"/>
+  <token_anchor t_id="47"/>
+  <token_anchor t_id="48"/>
+</TIME_DATE>
+<TIME_DATE m_id="45"  >
+  <token_anchor t_id="51"/>
+  <token_anchor t_id="52"/>
+</TIME_DATE>
+<TIME_DURATION m_id="50"  >
+  <token_anchor t_id="95"/>
+  <token_anchor t_id="96"/>
+</TIME_DURATION>
+<TIME_REPETITION m_id="30"  >
+  <token_anchor t_id="403"/>
+  <token_anchor t_id="404"/>
+</TIME_REPETITION>
+
+
+<NON_HUMAN_PART m_id="70" note="byCROMER" >
+  <token_anchor t_id="128"/>
+  <token_anchor t_id="129"/>
+  <token_anchor t_id="130"/>
+</NON_HUMAN_PART>
+
+
+<HUMAN_PART_ORG m_id="79" RELATED_TO="" TAG_DESCRIPTOR="t29_colts" instance_id="HUM18524150423965861" />
+<ACTION_OCCURRENCE m_id="80" RELATED_TO="" TAG_DESCRIPTOR="t29_colts_victory" instance_id="ACT16976684395747580" />
+<ACTION_OCCURRENCE m_id="78" RELATED_TO="" TAG_DESCRIPTOR="t29_game" instance_id="ACT16977099887799938" />
+<NON_HUMAN_PART m_id="77" RELATED_TO="" TAG_DESCRIPTOR="t29_playoff_berth" instance_id="NON16976915577800368" />
+<HUMAN_PART_PER m_id="76" RELATED_TO="" TAG_DESCRIPTOR="t29_luck" instance_id="HUM16976884072437799" />
+<HUMAN_PART_ORG m_id="75" RELATED_TO="" TAG_DESCRIPTOR="t29_chiefs" instance_id="HUM18263750557257525" />
+<ACTION_OCCURRENCE m_id="74" RELATED_TO="" TAG_DESCRIPTOR="t29_playing_the_game" instance_id="ACT28598252083953076" />
+<ACTION_OCCURRENCE m_id="73" RELATED_TO="" TAG_DESCRIPTOR="t29_clinch" instance_id="ACT16976816649304572" />
+<ACTION_OCCURRENCE m_id="72" RELATED_TO="" TAG_DESCRIPTOR="t29_2012_playoffs" instance_id="ACT16976828207985668" />
+<NON_HUMAN_PART m_id="71" RELATED_TO="" TAG_DESCRIPTOR="t29_20_13" instance_id="NON28597088168559097" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="38592" note="NON28597088168559097" >
+  <source m_id="70" />
+  <target m_id="71" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="38593" note="ACT16976828207985668" >
+  <source m_id="63" />
+  <source m_id="60" />
+  <source m_id="64" />
+  <target m_id="72" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="38594" note="ACT16976816649304572" >
+  <source m_id="13" />
+  <source m_id="18" />
+  <source m_id="61" />
+  <target m_id="73" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="38595" note="ACT28598252083953076" >
+  <source m_id="22" />
+  <target m_id="74" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="38596" note="HUM18263750557257525" >
+  <source m_id="5" />
+  <source m_id="10" />
+  <source m_id="2" />
+  <target m_id="75" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="38597" note="HUM16976884072437799" >
+  <source m_id="31" />
+  <target m_id="76" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="38598" note="NON16976915577800368" >
+  <source m_id="66" />
+  <source m_id="69" />
+  <source m_id="67" />
+  <target m_id="77" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="38599" note="ACT16977099887799938" >
+  <source m_id="59" />
+  <target m_id="78" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="38600" note="HUM18524150423965861" >
+  <source m_id="9" />
+  <source m_id="1" />
+  <source m_id="55" />
+  <source m_id="54" />
+  <source m_id="4" />
+  <target m_id="79" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="38601" note="ACT16976684395747580" >
+  <source m_id="23" />
+  <source m_id="14" />
+  <source m_id="24" />
+  <source m_id="58" />
+  <target m_id="80" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

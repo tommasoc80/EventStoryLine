@@ -1,0 +1,161 @@
+<Document doc_name="4_3ecbplus.xml" doc_id="DOC15646006954070480">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">cir</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">ca</token>
+<token t_id="8" sentence="0" number="7">/</token>
+<token t_id="9" sentence="0" number="8">news</token>
+<token t_id="10" sentence="0" number="9">/</token>
+<token t_id="11" sentence="0" number="10">esther</token>
+<token t_id="12" sentence="0" number="11">-</token>
+<token t_id="13" sentence="0" number="12">williams</token>
+<token t_id="14" sentence="0" number="13">-</token>
+<token t_id="15" sentence="0" number="14">obituary</token>
+<token t_id="16" sentence="1" number="0">Esther</token>
+<token t_id="17" sentence="1" number="1">Williams</token>
+<token t_id="18" sentence="1" number="2">,</token>
+<token t_id="19" sentence="1" number="3">who</token>
+<token t_id="20" sentence="1" number="4">swam</token>
+<token t_id="21" sentence="1" number="5">to</token>
+<token t_id="22" sentence="1" number="6">stardom</token>
+<token t_id="23" sentence="1" number="7">in</token>
+<token t_id="24" sentence="1" number="8">the</token>
+<token t_id="25" sentence="1" number="9">1940's</token>
+<token t_id="26" sentence="1" number="10">,</token>
+<token t_id="27" sentence="1" number="11">dies</token>
+<token t_id="28" sentence="1" number="12">at</token>
+<token t_id="29" sentence="1" number="13">91</token>
+<token t_id="30" sentence="2" number="0">JUNE</token>
+<token t_id="31" sentence="2" number="1">6</token>
+<token t_id="32" sentence="2" number="2">,</token>
+<token t_id="33" sentence="2" number="3">2013</token>
+<token t_id="34" sentence="2" number="4">11</token>
+<token t_id="35" sentence="2" number="5">:</token>
+<token t_id="36" sentence="2" number="6">34PM</token>
+<token t_id="37" sentence="3" number="0">Pinup</token>
+<token t_id="38" sentence="3" number="1">girl</token>
+<token t_id="39" sentence="3" number="2">Williams</token>
+<token t_id="40" sentence="3" number="3">was</token>
+<token t_id="41" sentence="3" number="4">the</token>
+<token t_id="42" sentence="3" number="5">star</token>
+<token t_id="43" sentence="3" number="6">of</token>
+<token t_id="44" sentence="3" number="7">WWII</token>
+<token t_id="45" sentence="3" number="8">-</token>
+<token t_id="46" sentence="3" number="9">era</token>
+<token t_id="47" sentence="3" number="10">"aquatic</token>
+<token t_id="48" sentence="3" number="11">musicals"</token>
+<token t_id="49" sentence="3" number="12">and</token>
+<token t_id="50" sentence="3" number="13">helped</token>
+<token t_id="51" sentence="3" number="14">make</token>
+<token t_id="52" sentence="3" number="15">the</token>
+<token t_id="53" sentence="3" number="16">sport</token>
+<token t_id="54" sentence="3" number="17">of</token>
+<token t_id="55" sentence="3" number="18">synchronized</token>
+<token t_id="56" sentence="3" number="19">swimming</token>
+<token t_id="57" sentence="3" number="20">popular</token>
+<token t_id="58" sentence="3" number="21">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="15"  >
+  <token_anchor t_id="51"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="16"  >
+  <token_anchor t_id="48"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="4"  >
+  <token_anchor t_id="20"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="5"  >
+  <token_anchor t_id="50"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="6"  >
+  <token_anchor t_id="56"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="8"  >
+  <token_anchor t_id="27"/>
+</ACTION_OCCURRENCE>
+<ACTION_STATE m_id="10"  >
+  <token_anchor t_id="22"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="7"  >
+  <token_anchor t_id="57"/>
+</ACTION_STATE>
+<HUMAN_PART_PER m_id="12"  >
+  <token_anchor t_id="42"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="1"  >
+  <token_anchor t_id="16"/>
+  <token_anchor t_id="17"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="2"  >
+  <token_anchor t_id="19"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="3"  >
+  <token_anchor t_id="39"/>
+</HUMAN_PART_PER>
+<TIME_DATE m_id="11"  >
+  <token_anchor t_id="23"/>
+  <token_anchor t_id="24"/>
+  <token_anchor t_id="25"/>
+</TIME_DATE>
+<TIME_DATE m_id="14"  >
+  <token_anchor t_id="44"/>
+  <token_anchor t_id="45"/>
+  <token_anchor t_id="46"/>
+</TIME_DATE>
+<TIME_OF_THE_DAY m_id="9"  >
+  <token_anchor t_id="30"/>
+  <token_anchor t_id="31"/>
+  <token_anchor t_id="32"/>
+  <token_anchor t_id="33"/>
+  <token_anchor t_id="34"/>
+  <token_anchor t_id="35"/>
+  <token_anchor t_id="36"/>
+</TIME_OF_THE_DAY>
+
+
+
+
+<ACTION_OCCURRENCE m_id="23" RELATED_TO="" TAG_DESCRIPTOR="t4_musicals" instance_id="ACT16370926357063583" />
+<ACTION_STATE m_id="22" RELATED_TO="" TAG_DESCRIPTOR="t4_popularity" instance_id="ACT16194738632499848" />
+<ACTION_OCCURRENCE m_id="21" RELATED_TO="" TAG_DESCRIPTOR="t4_swimming_skills" instance_id="ACT16194712249800679" />
+<TIME_DATE m_id="20" RELATED_TO="" TAG_DESCRIPTOR="t4_the_1940s_and_1950s" instance_id="TIM16410555964454980" />
+<ACTION_OCCURRENCE m_id="19" RELATED_TO="" TAG_DESCRIPTOR="t4_dies" instance_id="ACT16194654011907361" />
+<HUMAN_PART_PER m_id="18" RELATED_TO="" TAG_DESCRIPTOR="t4_esther_wills" instance_id="HUM16195623414690294" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="22310" note="HUM16195623414690294" >
+  <source m_id="1" />
+  <source m_id="12" />
+  <source m_id="2" />
+  <source m_id="3" />
+  <target m_id="18" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="22311" note="ACT16194654011907361" >
+  <source m_id="8" />
+  <target m_id="19" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="22312" note="TIM16410555964454980" >
+  <source m_id="11" />
+  <source m_id="14" />
+  <target m_id="20" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="22313" note="ACT16194712249800679" >
+  <source m_id="4" />
+  <source m_id="6" />
+  <target m_id="21" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="22314" note="ACT16194738632499848" >
+  <source m_id="7" />
+  <target m_id="22" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="22315" note="ACT16370926357063583" >
+  <source m_id="16" />
+  <target m_id="23" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

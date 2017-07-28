@@ -1,0 +1,197 @@
+<Document doc_name="26_8ecb.xml" doc_id="DOC15654841132686866">
+<token t_id="1" sentence="0" number="0">A</token>
+<token t_id="2" sentence="0" number="1">suspected</token>
+<token t_id="3" sentence="0" number="2">Mafia</token>
+<token t_id="4" sentence="0" number="3">leader</token>
+<token t_id="5" sentence="0" number="4">committed</token>
+<token t_id="6" sentence="0" number="5">suicide</token>
+<token t_id="7" sentence="0" number="6">overnight</token>
+<token t_id="8" sentence="0" number="7">after</token>
+<token t_id="9" sentence="0" number="8">being</token>
+<token t_id="10" sentence="0" number="9">arrested</token>
+<token t_id="11" sentence="0" number="10">in</token>
+<token t_id="12" sentence="0" number="11">a</token>
+<token t_id="13" sentence="0" number="12">major</token>
+<token t_id="14" sentence="0" number="13">police</token>
+<token t_id="15" sentence="0" number="14">sweep</token>
+<token t_id="16" sentence="0" number="15">,</token>
+<token t_id="17" sentence="0" number="16">police</token>
+<token t_id="18" sentence="0" number="17">in</token>
+<token t_id="19" sentence="0" number="18">Palermo</token>
+<token t_id="20" sentence="0" number="19">,</token>
+<token t_id="21" sentence="0" number="20">Sicily</token>
+<token t_id="22" sentence="0" number="21">,</token>
+<token t_id="23" sentence="0" number="22">said</token>
+<token t_id="24" sentence="0" number="23">on</token>
+<token t_id="25" sentence="0" number="24">Wednesday</token>
+<token t_id="26" sentence="0" number="25">.</token>
+<token t_id="27" sentence="1" number="0">He</token>
+<token t_id="28" sentence="1" number="1">may</token>
+<token t_id="29" sentence="1" number="2">have</token>
+<token t_id="30" sentence="1" number="3">been</token>
+<token t_id="31" sentence="1" number="4">driven</token>
+<token t_id="32" sentence="1" number="5">to</token>
+<token t_id="33" sentence="1" number="6">suicide</token>
+<token t_id="34" sentence="1" number="7">because</token>
+<token t_id="35" sentence="1" number="8">wiretapped</token>
+<token t_id="36" sentence="1" number="9">conversations</token>
+<token t_id="37" sentence="1" number="10">between</token>
+<token t_id="38" sentence="1" number="11">him</token>
+<token t_id="39" sentence="1" number="12">and</token>
+<token t_id="40" sentence="1" number="13">other</token>
+<token t_id="41" sentence="1" number="14">Mafia</token>
+<token t_id="42" sentence="1" number="15">bosses</token>
+<token t_id="43" sentence="1" number="16">helped</token>
+<token t_id="44" sentence="1" number="17">lead</token>
+<token t_id="45" sentence="1" number="18">to</token>
+<token t_id="46" sentence="1" number="19">the</token>
+<token t_id="47" sentence="1" number="20">police</token>
+<token t_id="48" sentence="1" number="21">sweep</token>
+<token t_id="49" sentence="1" number="22">on</token>
+<token t_id="50" sentence="1" number="23">Tuesday</token>
+<token t_id="51" sentence="1" number="24">in</token>
+<token t_id="52" sentence="1" number="25">which</token>
+<token t_id="53" sentence="1" number="26">89</token>
+<token t_id="54" sentence="1" number="27">people</token>
+<token t_id="55" sentence="1" number="28">were</token>
+<token t_id="56" sentence="1" number="29">arrested</token>
+<token t_id="57" sentence="1" number="30">following</token>
+<token t_id="58" sentence="1" number="31">a</token>
+<token t_id="59" sentence="1" number="32">nine-month</token>
+<token t_id="60" sentence="1" number="33">probe</token>
+<token t_id="61" sentence="1" number="34">,</token>
+<token t_id="62" sentence="1" number="35">the</token>
+<token t_id="63" sentence="1" number="36">Ansa</token>
+<token t_id="64" sentence="1" number="37">news</token>
+<token t_id="65" sentence="1" number="38">agency</token>
+<token t_id="66" sentence="1" number="39">reported</token>
+<token t_id="67" sentence="1" number="40">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="32"  >
+  <token_anchor t_id="44"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="33"  >
+  <token_anchor t_id="48"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="34"  >
+  <token_anchor t_id="56"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="35"  >
+  <token_anchor t_id="60"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="36"  >
+  <token_anchor t_id="10"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="28"  >
+  <token_anchor t_id="6"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="29"  >
+  <token_anchor t_id="15"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="30"  >
+  <token_anchor t_id="31"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="31"  >
+  <token_anchor t_id="33"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="37"  >
+  <token_anchor t_id="66"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="38"  >
+  <token_anchor t_id="23"/>
+</ACTION_REPORTING>
+<HUMAN_PART_ORG m_id="39"  >
+  <token_anchor t_id="17"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="40"  >
+  <token_anchor t_id="62"/>
+  <token_anchor t_id="63"/>
+  <token_anchor t_id="64"/>
+  <token_anchor t_id="65"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="41"  >
+  <token_anchor t_id="41"/>
+  <token_anchor t_id="42"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="42"  >
+  <token_anchor t_id="54"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="24"  >
+  <token_anchor t_id="3"/>
+  <token_anchor t_id="4"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="25"  >
+  <token_anchor t_id="27"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="26"  >
+  <token_anchor t_id="38"/>
+</HUMAN_PART_PER>
+<LOC_GEO m_id="43"  >
+  <token_anchor t_id="18"/>
+  <token_anchor t_id="19"/>
+  <token_anchor t_id="20"/>
+  <token_anchor t_id="21"/>
+</LOC_GEO>
+<NON_HUMAN_PART m_id="27"  >
+  <token_anchor t_id="36"/>
+</NON_HUMAN_PART>
+<TIME_DATE m_id="44"  >
+  <token_anchor t_id="25"/>
+</TIME_DATE>
+<TIME_DATE m_id="45"  >
+  <token_anchor t_id="50"/>
+</TIME_DATE>
+
+
+
+
+<ACTION_OCCURRENCE m_id="50" RELATED_TO="" TAG_DESCRIPTOR="t26b_arrest" instance_id="ACT18441937963352466" />
+<HUMAN_PART_PER m_id="49" RELATED_TO="" TAG_DESCRIPTOR="t26b_presti" instance_id="HUM18441890442259339" />
+<ACTION_REPORTING m_id="48" RELATED_TO="" TAG_DESCRIPTOR="26b_police_statement" instance_id="ACT27338400145348157" />
+<TIME_DATE m_id="47" RELATED_TO="" TAG_DESCRIPTOR="t26b_wednesday" instance_id="TIM18442419387533474" />
+<HUMAN_PART_ORG m_id="46" RELATED_TO="" TAG_DESCRIPTOR="t26b_police" instance_id="HUM18441875401449335" />
+<ACTION_OCCURRENCE m_id="53" RELATED_TO="" TAG_DESCRIPTOR="t26b_police_raid" instance_id="ACT27337443408187958" />
+<ACTION_OCCURRENCE m_id="52" RELATED_TO="" TAG_DESCRIPTOR="t26b_hanged" instance_id="ACT18441863532401006" />
+<TIME_DATE m_id="51" RELATED_TO="" TAG_DESCRIPTOR="t26b_yesterday" instance_id="TIM18441916830092148" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="32705" note="HUM18441875401449335" >
+  <source m_id="39" />
+  <target m_id="46" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32706" note="TIM18442419387533474" >
+  <source m_id="44" />
+  <target m_id="47" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32707" note="ACT27338400145348157" >
+  <source m_id="38" />
+  <target m_id="48" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32708" note="HUM18441890442259339" >
+  <source m_id="24" />
+  <source m_id="25" />
+  <source m_id="26" />
+  <target m_id="49" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32709" note="ACT18441937963352466" >
+  <source m_id="36" />
+  <target m_id="50" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32710" note="TIM18441916830092148" >
+  <source m_id="45" />
+  <target m_id="51" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32711" note="ACT18441863532401006" >
+  <source m_id="28" />
+  <source m_id="31" />
+  <target m_id="52" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32712" note="ACT27337443408187958" >
+  <source m_id="33" />
+  <source m_id="29" />
+  <target m_id="53" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

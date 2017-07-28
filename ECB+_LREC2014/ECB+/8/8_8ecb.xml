@@ -1,0 +1,119 @@
+<Document doc_name="8_8ecb.xml" doc_id="DOC15653975658214035">
+<token t_id="1" sentence="0" number="0">Senior</token>
+<token t_id="2" sentence="0" number="1">Trooper</token>
+<token t_id="3" sentence="0" number="2">William</token>
+<token t_id="4" sentence="0" number="3">Hakim</token>
+<token t_id="5" sentence="0" number="4">,</token>
+<token t_id="6" sentence="0" number="5">a</token>
+<token t_id="7" sentence="0" number="6">bomb</token>
+<token t_id="8" sentence="0" number="7">squad</token>
+<token t_id="9" sentence="0" number="8">technician</token>
+<token t_id="10" sentence="0" number="9">with</token>
+<token t_id="11" sentence="0" number="10">the</token>
+<token t_id="12" sentence="0" number="11">Oregon</token>
+<token t_id="13" sentence="0" number="12">State</token>
+<token t_id="14" sentence="0" number="13">Police</token>
+<token t_id="15" sentence="0" number="14">,</token>
+<token t_id="16" sentence="0" number="15">and</token>
+<token t_id="17" sentence="0" number="16">Capt.</token>
+<token t_id="18" sentence="0" number="17">Tom</token>
+<token t_id="19" sentence="0" number="18">Tennant</token>
+<token t_id="20" sentence="0" number="19">of</token>
+<token t_id="21" sentence="0" number="20">the</token>
+<token t_id="22" sentence="0" number="21">Woodburn</token>
+<token t_id="23" sentence="0" number="22">Police</token>
+<token t_id="24" sentence="0" number="23">Department</token>
+<token t_id="25" sentence="0" number="24">were</token>
+<token t_id="26" sentence="0" number="25">killed</token>
+<token t_id="27" sentence="0" number="26">when</token>
+<token t_id="28" sentence="0" number="27">a</token>
+<token t_id="29" sentence="0" number="28">bomb</token>
+<token t_id="30" sentence="0" number="29">exploded</token>
+<token t_id="31" sentence="0" number="30">at</token>
+<token t_id="32" sentence="0" number="31">a</token>
+<token t_id="33" sentence="0" number="32">West</token>
+<token t_id="34" sentence="0" number="33">Coast</token>
+<token t_id="35" sentence="0" number="34">Bank</token>
+<token t_id="36" sentence="0" number="35">branch</token>
+<token t_id="37" sentence="0" number="36">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="12"  >
+  <token_anchor t_id="26"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="13"  >
+  <token_anchor t_id="30"/>
+</ACTION_OCCURRENCE>
+<HUMAN_PART_ORG m_id="16"  >
+  <token_anchor t_id="11"/>
+  <token_anchor t_id="12"/>
+  <token_anchor t_id="13"/>
+  <token_anchor t_id="14"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="17"  >
+  <token_anchor t_id="22"/>
+  <token_anchor t_id="23"/>
+  <token_anchor t_id="24"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="10"  >
+  <token_anchor t_id="3"/>
+  <token_anchor t_id="4"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="11"  >
+  <token_anchor t_id="18"/>
+  <token_anchor t_id="19"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="15"  >
+  <token_anchor t_id="32"/>
+  <token_anchor t_id="33"/>
+  <token_anchor t_id="34"/>
+  <token_anchor t_id="35"/>
+  <token_anchor t_id="36"/>
+</LOC_FAC>
+<NON_HUMAN_PART m_id="14"  >
+  <token_anchor t_id="29"/>
+</NON_HUMAN_PART>
+
+
+
+
+<ACTION_OCCURRENCE m_id="24" RELATED_TO="" TAG_DESCRIPTOR="t8b_killing" instance_id="ACT17206723524309312" />
+<HUMAN_PART_PER m_id="23" RELATED_TO="" TAG_DESCRIPTOR="t8b_police_chief" instance_id="HUM17206639469762991" />
+<HUMAN_PART_ORG m_id="22" RELATED_TO="" TAG_DESCRIPTOR="t8b_oregon_state_police" instance_id="HUM17206788861448936" />
+<NON_HUMAN_PART m_id="21" RELATED_TO="" TAG_DESCRIPTOR="t8b_bomb" instance_id="NON17206663029716676" />
+<LOC_FAC m_id="19" RELATED_TO="" TAG_DESCRIPTOR="t8b_bank" instance_id="LOC17206603958467338" />
+<HUMAN_PART_PER m_id="20" RELATED_TO="" TAG_DESCRIPTOR="t8b_technician" instance_id="HUM17206650157888542" />
+<ACTION_OCCURRENCE m_id="18" RELATED_TO="" TAG_DESCRIPTOR="t8b_exploded" instance_id="ACT17206714799734156" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="31987" note="ACT17206714799734156" >
+  <source m_id="13" />
+  <target m_id="18" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31988" note="LOC17206603958467338" >
+  <source m_id="15" />
+  <target m_id="19" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31989" note="HUM17206650157888542" >
+  <source m_id="10" />
+  <target m_id="20" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31990" note="NON17206663029716676" >
+  <source m_id="14" />
+  <target m_id="21" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31991" note="HUM17206788861448936" >
+  <source m_id="16" />
+  <target m_id="22" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31992" note="HUM17206639469762991" >
+  <source m_id="11" />
+  <target m_id="23" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31993" note="ACT17206723524309312" >
+  <source m_id="12" />
+  <target m_id="24" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

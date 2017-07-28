@@ -1,0 +1,674 @@
+<Document doc_name="26_3ecbplus.xml" doc_id="DOC15646399550839941">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">www</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">nbcnews</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<token t_id="9" sentence="0" number="8">com</token>
+<token t_id="10" sentence="0" number="9">/</token>
+<token t_id="11" sentence="0" number="10">id</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">10533911</token>
+<token t_id="14" sentence="0" number="13">/</token>
+<token t_id="15" sentence="0" number="14">ns</token>
+<token t_id="16" sentence="0" number="15">/</token>
+<token t_id="17" sentence="0" number="16">us</token>
+<token t_id="18" sentence="0" number="17">_</token>
+<token t_id="19" sentence="0" number="18">news</token>
+<token t_id="20" sentence="0" number="19">-</token>
+<token t_id="21" sentence="0" number="20">crime</token>
+<token t_id="22" sentence="0" number="21">_</token>
+<token t_id="23" sentence="0" number="22">and</token>
+<token t_id="24" sentence="0" number="23">_</token>
+<token t_id="25" sentence="0" number="24">courts</token>
+<token t_id="26" sentence="0" number="25">/</token>
+<token t_id="27" sentence="0" number="26">t</token>
+<token t_id="28" sentence="0" number="27">/</token>
+<token t_id="29" sentence="0" number="28">ex</token>
+<token t_id="30" sentence="0" number="29">-</token>
+<token t_id="31" sentence="0" number="30">mafia</token>
+<token t_id="32" sentence="0" number="31">-</token>
+<token t_id="33" sentence="0" number="32">boss</token>
+<token t_id="34" sentence="0" number="33">-</token>
+<token t_id="35" sentence="0" number="34">vincent</token>
+<token t_id="36" sentence="0" number="35">-</token>
+<token t_id="37" sentence="0" number="36">gigante</token>
+<token t_id="38" sentence="0" number="37">-</token>
+<token t_id="39" sentence="0" number="38">dies</token>
+<token t_id="40" sentence="0" number="39">-</token>
+<token t_id="41" sentence="0" number="40">prison</token>
+<token t_id="42" sentence="0" number="41">/</token>
+<token t_id="43" sentence="1" number="0">Ex</token>
+<token t_id="44" sentence="1" number="1">-</token>
+<token t_id="45" sentence="1" number="2">Mafia</token>
+<token t_id="46" sentence="1" number="3">boss</token>
+<token t_id="47" sentence="1" number="4">Vincent</token>
+<token t_id="48" sentence="1" number="5">Gigante</token>
+<token t_id="49" sentence="1" number="6">dies</token>
+<token t_id="50" sentence="1" number="7">in</token>
+<token t_id="51" sentence="1" number="8">prison</token>
+<token t_id="52" sentence="2" number="0">He</token>
+<token t_id="53" sentence="2" number="1">was</token>
+<token t_id="54" sentence="2" number="2">known</token>
+<token t_id="55" sentence="2" number="3">as</token>
+<token t_id="56" sentence="2" number="4">the</token>
+<token t_id="57" sentence="2" number="5">'Oddfather'</token>
+<token t_id="58" sentence="2" number="6">for</token>
+<token t_id="59" sentence="2" number="7">faking</token>
+<token t_id="60" sentence="2" number="8">mental</token>
+<token t_id="61" sentence="2" number="9">illness</token>
+<token t_id="62" sentence="2" number="10">to</token>
+<token t_id="63" sentence="2" number="11">beat</token>
+<token t_id="64" sentence="2" number="12">raps</token>
+<token t_id="65" sentence="3" number="0">updated</token>
+<token t_id="66" sentence="3" number="1">12</token>
+<token t_id="67" sentence="3" number="2">/</token>
+<token t_id="68" sentence="3" number="3">19</token>
+<token t_id="69" sentence="3" number="4">/</token>
+<token t_id="70" sentence="3" number="5">2005</token>
+<token t_id="71" sentence="3" number="6">2</token>
+<token t_id="72" sentence="3" number="7">:</token>
+<token t_id="73" sentence="3" number="8">48</token>
+<token t_id="74" sentence="3" number="9">:</token>
+<token t_id="75" sentence="3" number="10">40</token>
+<token t_id="76" sentence="3" number="11">PM</token>
+<token t_id="77" sentence="3" number="12">ET</token>
+<token t_id="78" sentence="4" number="0">Mob</token>
+<token t_id="79" sentence="4" number="1">boss</token>
+<token t_id="80" sentence="4" number="2">Vincent</token>
+<token t_id="81" sentence="4" number="3">"The</token>
+<token t_id="82" sentence="4" number="4">Chin"</token>
+<token t_id="83" sentence="4" number="5">Gigante</token>
+<token t_id="84" sentence="4" number="6">,</token>
+<token t_id="85" sentence="4" number="7">the</token>
+<token t_id="86" sentence="4" number="8">powerful</token>
+<token t_id="87" sentence="4" number="9">Mafioso</token>
+<token t_id="88" sentence="4" number="10">who</token>
+<token t_id="89" sentence="4" number="11">avoided</token>
+<token t_id="90" sentence="4" number="12">jail</token>
+<token t_id="91" sentence="4" number="13">for</token>
+<token t_id="92" sentence="4" number="14">decades</token>
+<token t_id="93" sentence="4" number="15">by</token>
+<token t_id="94" sentence="4" number="16">wandering</token>
+<token t_id="95" sentence="4" number="17">the</token>
+<token t_id="96" sentence="4" number="18">streets</token>
+<token t_id="97" sentence="4" number="19">in</token>
+<token t_id="98" sentence="4" number="20">a</token>
+<token t_id="99" sentence="4" number="21">ratty</token>
+<token t_id="100" sentence="4" number="22">bathrobe</token>
+<token t_id="101" sentence="4" number="23">and</token>
+<token t_id="102" sentence="4" number="24">slippers</token>
+<token t_id="103" sentence="4" number="25">,</token>
+<token t_id="104" sentence="4" number="26">feigning</token>
+<token t_id="105" sentence="4" number="27">mental</token>
+<token t_id="106" sentence="4" number="28">illness</token>
+<token t_id="107" sentence="4" number="29">,</token>
+<token t_id="108" sentence="4" number="30">died</token>
+<token t_id="109" sentence="4" number="31">Monday</token>
+<token t_id="110" sentence="4" number="32">in</token>
+<token t_id="111" sentence="4" number="33">prison</token>
+<token t_id="112" sentence="4" number="34">,</token>
+<token t_id="113" sentence="4" number="35">officials</token>
+<token t_id="114" sentence="4" number="36">said</token>
+<token t_id="115" sentence="4" number="37">.</token>
+<token t_id="116" sentence="5" number="0">He</token>
+<token t_id="117" sentence="5" number="1">was</token>
+<token t_id="118" sentence="5" number="2">77</token>
+<token t_id="119" sentence="5" number="3">.</token>
+<token t_id="120" sentence="6" number="0">Gigante</token>
+<token t_id="121" sentence="6" number="1">,</token>
+<token t_id="122" sentence="6" number="2">who</token>
+<token t_id="123" sentence="6" number="3">had</token>
+<token t_id="124" sentence="6" number="4">suffered</token>
+<token t_id="125" sentence="6" number="5">from</token>
+<token t_id="126" sentence="6" number="6">heart</token>
+<token t_id="127" sentence="6" number="7">disease</token>
+<token t_id="128" sentence="6" number="8">,</token>
+<token t_id="129" sentence="6" number="9">died</token>
+<token t_id="130" sentence="6" number="10">at</token>
+<token t_id="131" sentence="6" number="11">the</token>
+<token t_id="132" sentence="6" number="12">federal</token>
+<token t_id="133" sentence="6" number="13">prison</token>
+<token t_id="134" sentence="6" number="14">in</token>
+<token t_id="135" sentence="6" number="15">Springfield</token>
+<token t_id="136" sentence="6" number="16">,</token>
+<token t_id="137" sentence="6" number="17">Mo</token>
+<token t_id="138" sentence="6" number="18">.</token>
+<token t_id="139" sentence="6" number="19">,</token>
+<token t_id="140" sentence="6" number="20">said</token>
+<token t_id="141" sentence="6" number="21">prison</token>
+<token t_id="142" sentence="6" number="22">spokesman</token>
+<token t_id="143" sentence="6" number="23">Al</token>
+<token t_id="144" sentence="6" number="24">Quintero</token>
+<token t_id="145" sentence="6" number="25">.</token>
+<token t_id="146" sentence="7" number="0">Gigante</token>
+<token t_id="147" sentence="7" number="1">,</token>
+<token t_id="148" sentence="7" number="2">head</token>
+<token t_id="149" sentence="7" number="3">of</token>
+<token t_id="150" sentence="7" number="4">the</token>
+<token t_id="151" sentence="7" number="5">Genovese</token>
+<token t_id="152" sentence="7" number="6">crime</token>
+<token t_id="153" sentence="7" number="7">family</token>
+<token t_id="154" sentence="7" number="8">,</token>
+<token t_id="155" sentence="7" number="9">had</token>
+<token t_id="156" sentence="7" number="10">scored</token>
+<token t_id="157" sentence="7" number="11">a</token>
+<token t_id="158" sentence="7" number="12">lengthy</token>
+<token t_id="159" sentence="7" number="13">string</token>
+<token t_id="160" sentence="7" number="14">of</token>
+<token t_id="161" sentence="7" number="15">victories</token>
+<token t_id="162" sentence="7" number="16">over</token>
+<token t_id="163" sentence="7" number="17">prosecutors</token>
+<token t_id="164" sentence="7" number="18">,</token>
+<token t_id="165" sentence="7" number="19">but</token>
+<token t_id="166" sentence="7" number="20">it</token>
+<token t_id="167" sentence="7" number="21">ended</token>
+<token t_id="168" sentence="7" number="22">with</token>
+<token t_id="169" sentence="7" number="23">a</token>
+<token t_id="170" sentence="7" number="24">July</token>
+<token t_id="171" sentence="7" number="25">1997</token>
+<token t_id="172" sentence="7" number="26">racketeering</token>
+<token t_id="173" sentence="7" number="27">conviction</token>
+<token t_id="174" sentence="7" number="28">.</token>
+<token t_id="175" sentence="8" number="0">After</token>
+<token t_id="176" sentence="8" number="1">nearly</token>
+<token t_id="177" sentence="8" number="2">a</token>
+<token t_id="178" sentence="8" number="3">quarter</token>
+<token t_id="179" sentence="8" number="4">-</token>
+<token t_id="180" sentence="8" number="5">century</token>
+<token t_id="181" sentence="8" number="6">of</token>
+<token t_id="182" sentence="8" number="7">public</token>
+<token t_id="183" sentence="8" number="8">craziness</token>
+<token t_id="184" sentence="8" number="9">,</token>
+<token t_id="185" sentence="8" number="10">he</token>
+<token t_id="186" sentence="8" number="11">finally</token>
+<token t_id="187" sentence="8" number="12">admitted</token>
+<token t_id="188" sentence="8" number="13">his</token>
+<token t_id="189" sentence="8" number="14">insanity</token>
+<token t_id="190" sentence="8" number="15">ruse</token>
+<token t_id="191" sentence="8" number="16">at</token>
+<token t_id="192" sentence="8" number="17">an</token>
+<token t_id="193" sentence="8" number="18">April</token>
+<token t_id="194" sentence="8" number="19">2003</token>
+<token t_id="195" sentence="8" number="20">federal</token>
+<token t_id="196" sentence="8" number="21">hearing</token>
+<token t_id="197" sentence="8" number="22">in</token>
+<token t_id="198" sentence="8" number="23">which</token>
+<token t_id="199" sentence="8" number="24">the</token>
+<token t_id="200" sentence="8" number="25">man</token>
+<token t_id="201" sentence="8" number="26">dubbed</token>
+<token t_id="202" sentence="8" number="27">the</token>
+<token t_id="203" sentence="8" number="28">"Oddfather"</token>
+<token t_id="204" sentence="8" number="29">by</token>
+<token t_id="205" sentence="8" number="30">tabloid</token>
+<token t_id="206" sentence="8" number="31">newspapers</token>
+<token t_id="207" sentence="8" number="32">calmly</token>
+<token t_id="208" sentence="8" number="33">pleaded</token>
+<token t_id="209" sentence="8" number="34">guilty</token>
+<token t_id="210" sentence="8" number="35">to</token>
+<token t_id="211" sentence="8" number="36">obstruction</token>
+<token t_id="212" sentence="8" number="37">of</token>
+<token t_id="213" sentence="8" number="38">justice</token>
+<token t_id="214" sentence="8" number="39">.</token>
+<token t_id="215" sentence="9" number="0">At</token>
+<token t_id="216" sentence="9" number="1">the</token>
+<token t_id="217" sentence="9" number="2">height</token>
+<token t_id="218" sentence="9" number="3">of</token>
+<token t_id="219" sentence="9" number="4">his</token>
+<token t_id="220" sentence="9" number="5">power</token>
+<token t_id="221" sentence="9" number="6">,</token>
+<token t_id="222" sentence="9" number="7">Gigante's</token>
+<token t_id="223" sentence="9" number="8">empire</token>
+<token t_id="224" sentence="9" number="9">stretched</token>
+<token t_id="225" sentence="9" number="10">from</token>
+<token t_id="226" sentence="9" number="11">Little</token>
+<token t_id="227" sentence="9" number="12">Italy</token>
+<token t_id="228" sentence="9" number="13">to</token>
+<token t_id="229" sentence="9" number="14">the</token>
+<token t_id="230" sentence="9" number="15">docks</token>
+<token t_id="231" sentence="9" number="16">of</token>
+<token t_id="232" sentence="9" number="17">Miami</token>
+<token t_id="233" sentence="9" number="18">.</token>
+<token t_id="234" sentence="10" number="0">Denying</token>
+<token t_id="235" sentence="10" number="1">he</token>
+<token t_id="236" sentence="10" number="2">was</token>
+<token t_id="237" sentence="10" number="3">a</token>
+<token t_id="238" sentence="10" number="4">gangster</token>
+<token t_id="239" sentence="10" number="5">,</token>
+<token t_id="240" sentence="10" number="6">Gigante</token>
+<token t_id="241" sentence="10" number="7">would</token>
+<token t_id="242" sentence="10" number="8">wander</token>
+<token t_id="243" sentence="10" number="9">the</token>
+<token t_id="244" sentence="10" number="10">streets</token>
+<token t_id="245" sentence="10" number="11">of</token>
+<token t_id="246" sentence="10" number="12">the</token>
+<token t_id="247" sentence="10" number="13">Greenwich</token>
+<token t_id="248" sentence="10" number="14">Village</token>
+<token t_id="249" sentence="10" number="15">neighborhood</token>
+<token t_id="250" sentence="10" number="16">in</token>
+<token t_id="251" sentence="10" number="17">nightclothes</token>
+<token t_id="252" sentence="10" number="18">,</token>
+<token t_id="253" sentence="10" number="19">muttering</token>
+<token t_id="254" sentence="10" number="20">incoherently</token>
+<token t_id="255" sentence="10" number="21">.</token>
+<token t_id="256" sentence="11" number="0">Relatives</token>
+<token t_id="257" sentence="11" number="1">,</token>
+<token t_id="258" sentence="11" number="2">including</token>
+<token t_id="259" sentence="11" number="3">a</token>
+<token t_id="260" sentence="11" number="4">brother</token>
+<token t_id="261" sentence="11" number="5">was</token>
+<token t_id="262" sentence="11" number="6">who</token>
+<token t_id="263" sentence="11" number="7">a</token>
+<token t_id="264" sentence="11" number="8">Roman</token>
+<token t_id="265" sentence="11" number="9">Catholic</token>
+<token t_id="266" sentence="11" number="10">priest</token>
+<token t_id="267" sentence="11" number="11">,</token>
+<token t_id="268" sentence="11" number="12">insisted</token>
+<token t_id="269" sentence="11" number="13">Gigante</token>
+<token t_id="270" sentence="11" number="14">suffered</token>
+<token t_id="271" sentence="11" number="15">from</token>
+<token t_id="272" sentence="11" number="16">paranoid</token>
+<token t_id="273" sentence="11" number="17">schizophrenia</token>
+<token t_id="274" sentence="11" number="18">,</token>
+<token t_id="275" sentence="11" number="19">dementia</token>
+<token t_id="276" sentence="11" number="20">and</token>
+<token t_id="277" sentence="11" number="21">Alzheimer's</token>
+<token t_id="278" sentence="11" number="22">disease</token>
+<token t_id="279" sentence="11" number="23">.</token>
+<token t_id="280" sentence="12" number="0">Authorities</token>
+<token t_id="281" sentence="12" number="1">charged</token>
+<token t_id="282" sentence="12" number="2">it</token>
+<token t_id="283" sentence="12" number="3">was</token>
+<token t_id="284" sentence="12" number="4">a</token>
+<token t_id="285" sentence="12" number="5">brazen</token>
+<token t_id="286" sentence="12" number="6">act</token>
+<token t_id="287" sentence="12" number="7">to</token>
+<token t_id="288" sentence="12" number="8">avoid</token>
+<token t_id="289" sentence="12" number="9">the</token>
+<token t_id="290" sentence="12" number="10">law</token>
+<token t_id="291" sentence="12" number="11">-</token>
+<token t_id="292" sentence="12" number="12">although</token>
+<token t_id="293" sentence="12" number="13">it</token>
+<token t_id="294" sentence="12" number="14">wasn't</token>
+<token t_id="295" sentence="12" number="15">until</token>
+<token t_id="296" sentence="12" number="16">1997</token>
+<token t_id="297" sentence="12" number="17">that</token>
+<token t_id="298" sentence="12" number="18">a</token>
+<token t_id="299" sentence="12" number="19">jury</token>
+<token t_id="300" sentence="12" number="20">agreed</token>
+<token t_id="301" sentence="12" number="21">,</token>
+<token t_id="302" sentence="12" number="22">and</token>
+<token t_id="303" sentence="12" number="23">it</token>
+<token t_id="304" sentence="12" number="24">took</token>
+<token t_id="305" sentence="12" number="25">another</token>
+<token t_id="306" sentence="12" number="26">six</token>
+<token t_id="307" sentence="12" number="27">years</token>
+<token t_id="308" sentence="12" number="28">for</token>
+<token t_id="309" sentence="12" number="29">Gigante</token>
+<token t_id="310" sentence="12" number="30">to</token>
+<token t_id="311" sentence="12" number="31">concede</token>
+<token t_id="312" sentence="12" number="32">his</token>
+<token t_id="313" sentence="12" number="33">subterfuge</token>
+<token t_id="314" sentence="12" number="34">.</token>
+<token t_id="315" sentence="13" number="0">Born</token>
+<token t_id="316" sentence="13" number="1">in</token>
+<token t_id="317" sentence="13" number="2">the</token>
+<token t_id="318" sentence="13" number="3">Bronx</token>
+<token t_id="319" sentence="13" number="4">in</token>
+<token t_id="320" sentence="13" number="5">1928</token>
+<token t_id="321" sentence="13" number="6">,</token>
+<token t_id="322" sentence="13" number="7">one</token>
+<token t_id="323" sentence="13" number="8">of</token>
+<token t_id="324" sentence="13" number="9">five</token>
+<token t_id="325" sentence="13" number="10">sons</token>
+<token t_id="326" sentence="13" number="11">of</token>
+<token t_id="327" sentence="13" number="12">Italian</token>
+<token t_id="328" sentence="13" number="13">immigrant</token>
+<token t_id="329" sentence="13" number="14">parents</token>
+<token t_id="330" sentence="13" number="15">,</token>
+<token t_id="331" sentence="13" number="16">Gigante</token>
+<token t_id="332" sentence="13" number="17">became</token>
+<token t_id="333" sentence="13" number="18">a</token>
+<token t_id="334" sentence="13" number="19">small</token>
+<token t_id="335" sentence="13" number="20">-</token>
+<token t_id="336" sentence="13" number="21">time</token>
+<token t_id="337" sentence="13" number="22">boxer</token>
+<token t_id="338" sentence="13" number="23">and</token>
+<token t_id="339" sentence="13" number="24">drifted</token>
+<token t_id="340" sentence="13" number="25">into</token>
+<token t_id="341" sentence="13" number="26">the</token>
+<token t_id="342" sentence="13" number="27">crime</token>
+<token t_id="343" sentence="13" number="28">family</token>
+<token t_id="344" sentence="13" number="29">founded</token>
+<token t_id="345" sentence="13" number="30">in</token>
+<token t_id="346" sentence="13" number="31">1931</token>
+<token t_id="347" sentence="13" number="32">by</token>
+<token t_id="348" sentence="13" number="33">legendary</token>
+<token t_id="349" sentence="13" number="34">gangster</token>
+<token t_id="350" sentence="13" number="35">Charles</token>
+<token t_id="351" sentence="13" number="36">"Lucky"</token>
+<token t_id="352" sentence="13" number="37">Luciano</token>
+<token t_id="353" sentence="13" number="38">.</token>
+<token t_id="354" sentence="14" number="0">In</token>
+<token t_id="355" sentence="14" number="1">1957</token>
+<token t_id="356" sentence="14" number="2">,</token>
+<token t_id="357" sentence="14" number="3">Gigante</token>
+<token t_id="358" sentence="14" number="4">was</token>
+<token t_id="359" sentence="14" number="5">the</token>
+<token t_id="360" sentence="14" number="6">hitman</token>
+<token t_id="361" sentence="14" number="7">in</token>
+<token t_id="362" sentence="14" number="8">a</token>
+<token t_id="363" sentence="14" number="9">botched</token>
+<token t_id="364" sentence="14" number="10">attempt</token>
+<token t_id="365" sentence="14" number="11">to</token>
+<token t_id="366" sentence="14" number="12">assassinate</token>
+<token t_id="367" sentence="14" number="13">then</token>
+<token t_id="368" sentence="14" number="14">-</token>
+<token t_id="369" sentence="14" number="15">boss</token>
+<token t_id="370" sentence="14" number="16">Frank</token>
+<token t_id="371" sentence="14" number="17">Costello</token>
+<token t_id="372" sentence="14" number="18">.</token>
+<token t_id="373" sentence="15" number="0">After</token>
+<token t_id="374" sentence="15" number="1">refusing</token>
+<token t_id="375" sentence="15" number="2">to</token>
+<token t_id="376" sentence="15" number="3">name</token>
+<token t_id="377" sentence="15" number="4">his</token>
+<token t_id="378" sentence="15" number="5">attacker</token>
+<token t_id="379" sentence="15" number="6">in</token>
+<token t_id="380" sentence="15" number="7">court</token>
+<token t_id="381" sentence="15" number="8">,</token>
+<token t_id="382" sentence="15" number="9">the</token>
+<token t_id="383" sentence="15" number="10">shaken</token>
+<token t_id="384" sentence="15" number="11">Costello</token>
+<token t_id="385" sentence="15" number="12">retired</token>
+<token t_id="386" sentence="15" number="13">,</token>
+<token t_id="387" sentence="15" number="14">making</token>
+<token t_id="388" sentence="15" number="15">Gigante's</token>
+<token t_id="389" sentence="15" number="16">patron</token>
+<token t_id="390" sentence="15" number="17">,</token>
+<token t_id="391" sentence="15" number="18">Vito</token>
+<token t_id="392" sentence="15" number="19">Genovese</token>
+<token t_id="393" sentence="15" number="20">,</token>
+<token t_id="394" sentence="15" number="21">kingpin</token>
+<token t_id="395" sentence="15" number="22">of</token>
+<token t_id="396" sentence="15" number="23">the</token>
+<token t_id="397" sentence="15" number="24">family</token>
+<token t_id="398" sentence="15" number="25">that</token>
+<token t_id="399" sentence="15" number="26">still</token>
+<token t_id="400" sentence="15" number="27">bears</token>
+<token t_id="401" sentence="15" number="28">his</token>
+<token t_id="402" sentence="15" number="29">name</token>
+<token t_id="403" sentence="15" number="30">.</token>
+<token t_id="404" sentence="16" number="0">Over</token>
+<token t_id="405" sentence="16" number="1">time</token>
+<token t_id="406" sentence="16" number="2">,</token>
+<token t_id="407" sentence="16" number="3">Gigante</token>
+<token t_id="408" sentence="16" number="4">proved</token>
+<token t_id="409" sentence="16" number="5">better</token>
+<token t_id="410" sentence="16" number="6">at</token>
+<token t_id="411" sentence="16" number="7">beating</token>
+<token t_id="412" sentence="16" number="8">the</token>
+<token t_id="413" sentence="16" number="9">law</token>
+<token t_id="414" sentence="16" number="10">than</token>
+<token t_id="415" sentence="16" number="11">John</token>
+<token t_id="416" sentence="16" number="12">Gotti</token>
+<token t_id="417" sentence="16" number="13">,</token>
+<token t_id="418" sentence="16" number="14">the</token>
+<token t_id="419" sentence="16" number="15">so</token>
+<token t_id="420" sentence="16" number="16">-</token>
+<token t_id="421" sentence="16" number="17">called</token>
+<token t_id="422" sentence="16" number="18">"Teflon</token>
+<token t_id="423" sentence="16" number="19">Don"</token>
+<token t_id="424" sentence="16" number="20">who</token>
+<token t_id="425" sentence="16" number="21">won</token>
+<token t_id="426" sentence="16" number="22">two</token>
+<token t_id="427" sentence="16" number="23">acquittals</token>
+<token t_id="428" sentence="16" number="24">before</token>
+<token t_id="429" sentence="16" number="25">tapes</token>
+<token t_id="430" sentence="16" number="26">and</token>
+<token t_id="431" sentence="16" number="27">turncoats</token>
+<token t_id="432" sentence="16" number="28">sent</token>
+<token t_id="433" sentence="16" number="29">him</token>
+<token t_id="434" sentence="16" number="30">to</token>
+<token t_id="435" sentence="16" number="31">prison</token>
+<token t_id="436" sentence="16" number="32">for</token>
+<token t_id="437" sentence="16" number="33">life</token>
+<token t_id="438" sentence="16" number="34">.</token>
+<token t_id="439" sentence="17" number="0">Gotti</token>
+<token t_id="440" sentence="17" number="1">died</token>
+<token t_id="441" sentence="17" number="2">in</token>
+<token t_id="442" sentence="17" number="3">2002</token>
+<token t_id="443" sentence="17" number="4">at</token>
+<token t_id="444" sentence="17" number="5">age</token>
+<token t_id="445" sentence="17" number="6">61</token>
+<token t_id="446" sentence="17" number="7">.</token>
+<token t_id="447" sentence="18" number="0">Before</token>
+<token t_id="448" sentence="18" number="1">1997</token>
+<token t_id="449" sentence="18" number="2">,</token>
+<token t_id="450" sentence="18" number="3">Gigante</token>
+<token t_id="451" sentence="18" number="4">had</token>
+<token t_id="452" sentence="18" number="5">served</token>
+<token t_id="453" sentence="18" number="6">only</token>
+<token t_id="454" sentence="18" number="7">a</token>
+<token t_id="455" sentence="18" number="8">five</token>
+<token t_id="456" sentence="18" number="9">-</token>
+<token t_id="457" sentence="18" number="10">year</token>
+<token t_id="458" sentence="18" number="11">heroin</token>
+<token t_id="459" sentence="18" number="12">rap</token>
+<token t_id="460" sentence="18" number="13">in</token>
+<token t_id="461" sentence="18" number="14">1959</token>
+<token t_id="462" sentence="18" number="15">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="9"  >
+  <token_anchor t_id="49"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="10"  >
+  <token_anchor t_id="89"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="11"  >
+  <token_anchor t_id="94"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="12"  >
+  <token_anchor t_id="104"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="13"  >
+  <token_anchor t_id="124"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="14"  >
+  <token_anchor t_id="129"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="24"  >
+  <token_anchor t_id="108"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="22"  >
+  <token_anchor t_id="140"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="25"  >
+  <token_anchor t_id="114"/>
+</ACTION_REPORTING>
+<ACTION_STATE m_id="20"  >
+  <token_anchor t_id="126"/>
+  <token_anchor t_id="127"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="21"  >
+  <token_anchor t_id="105"/>
+  <token_anchor t_id="106"/>
+</ACTION_STATE>
+<HUMAN_PART_PER m_id="1"  >
+  <token_anchor t_id="47"/>
+  <token_anchor t_id="48"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="2"  >
+  <token_anchor t_id="80"/>
+  <token_anchor t_id="81"/>
+  <token_anchor t_id="82"/>
+  <token_anchor t_id="83"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="3"  >
+  <token_anchor t_id="120"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="4"  >
+  <token_anchor t_id="143"/>
+  <token_anchor t_id="144"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="7"  >
+  <token_anchor t_id="113"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="8"  >
+  <token_anchor t_id="87"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="15"  >
+  <token_anchor t_id="50"/>
+  <token_anchor t_id="51"/>
+</LOC_FAC>
+<LOC_FAC m_id="17"  >
+  <token_anchor t_id="110"/>
+  <token_anchor t_id="111"/>
+</LOC_FAC>
+<LOC_FAC m_id="18"  >
+  <token_anchor t_id="131"/>
+  <token_anchor t_id="132"/>
+  <token_anchor t_id="133"/>
+  <token_anchor t_id="134"/>
+  <token_anchor t_id="135"/>
+  <token_anchor t_id="136"/>
+  <token_anchor t_id="137"/>
+</LOC_FAC>
+<LOC_FAC m_id="19"  >
+  <token_anchor t_id="95"/>
+  <token_anchor t_id="96"/>
+</LOC_FAC>
+<NON_HUMAN_PART m_id="26"  >
+  <token_anchor t_id="100"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="27"  >
+  <token_anchor t_id="102"/>
+</NON_HUMAN_PART>
+<TIME_DATE m_id="6"  >
+  <token_anchor t_id="109"/>
+</TIME_DATE>
+<TIME_DURATION m_id="23"  >
+  <token_anchor t_id="92"/>
+</TIME_DURATION>
+<TIME_OF_THE_DAY m_id="5"  >
+  <token_anchor t_id="66"/>
+  <token_anchor t_id="67"/>
+  <token_anchor t_id="68"/>
+  <token_anchor t_id="69"/>
+  <token_anchor t_id="70"/>
+  <token_anchor t_id="71"/>
+  <token_anchor t_id="72"/>
+  <token_anchor t_id="73"/>
+  <token_anchor t_id="74"/>
+  <token_anchor t_id="75"/>
+  <token_anchor t_id="76"/>
+  <token_anchor t_id="77"/>
+</TIME_OF_THE_DAY>
+
+
+<NEG_ACTION_OCCURRENCE m_id="31" note="byCROMER" >
+  <token_anchor t_id="90"/>
+</NEG_ACTION_OCCURRENCE>
+
+
+<TIME_DURATION m_id="39" RELATED_TO="" TAG_DESCRIPTOR="t26_decades" instance_id="TIM18440826675897964" />
+<LOC_FAC m_id="38" RELATED_TO="" TAG_DESCRIPTOR="t26_prison" instance_id="LOC18440750306982431" />
+<NON_HUMAN_PART m_id="37" RELATED_TO="" TAG_DESCRIPTOR="t26_bathrobe" instance_id="NON18440775683576631" />
+<NEG_ACTION_OCCURRENCE m_id="36" RELATED_TO="" TAG_DESCRIPTOR="t26_going_to_jail" instance_id="NEG28451243429836369" />
+<ACTION_STATE m_id="35" RELATED_TO="" TAG_DESCRIPTOR="t26_heart_disease" instance_id="ACT18440655322799332" />
+<LOC_FAC m_id="34" RELATED_TO="" TAG_DESCRIPTOR="t26_streets" instance_id="LOC18440762931534969" />
+<ACTION_OCCURRENCE m_id="33" RELATED_TO="" TAG_DESCRIPTOR="t26_feigning" instance_id="ACT18440603446786525" />
+<TIME_DATE m_id="32" RELATED_TO="" TAG_DESCRIPTOR="t26_monday" instance_id="TIM18440801253239963" />
+<ACTION_STATE m_id="48" RELATED_TO="" TAG_DESCRIPTOR="t26_mental_illness" instance_id="ACT18440672179378046" />
+<ACTION_OCCURRENCE m_id="47" RELATED_TO="" TAG_DESCRIPTOR="t26_died" instance_id="ACT18440577880137709" />
+<NON_HUMAN_PART m_id="46" RELATED_TO="" TAG_DESCRIPTOR="t26_slippers" instance_id="NON18440790227167183" />
+<ACTION_OCCURRENCE m_id="45" RELATED_TO="" TAG_DESCRIPTOR="t26_avoided_jail" instance_id="ACT18440590596898814" />
+<HUMAN_PART_PER m_id="44" RELATED_TO="" TAG_DESCRIPTOR="t26_quintero" instance_id="HUM18440722716468597" />
+<ACTION_REPORTING m_id="43" RELATED_TO="" TAG_DESCRIPTOR="t26_said_quintero" instance_id="ACT28450088385472026" />
+<ACTION_OCCURRENCE m_id="42" RELATED_TO="" TAG_DESCRIPTOR="t26_wandering_streets" instance_id="ACT18440640282544111" />
+<HUMAN_PART_PER m_id="41" RELATED_TO="" TAG_DESCRIPTOR="t26_gigante" instance_id="HUM18440698565277092" />
+<ACTION_OCCURRENCE m_id="40" RELATED_TO="" TAG_DESCRIPTOR="t26_suffered_heart_attack" instance_id="ACT18440623861291848" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="40751" note="TIM18440801253239963" >
+  <source m_id="6" />
+  <target m_id="32" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40752" note="ACT18440603446786525" >
+  <source m_id="12" />
+  <target m_id="33" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40753" note="LOC18440762931534969" >
+  <source m_id="19" />
+  <target m_id="34" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40754" note="ACT18440655322799332" >
+  <source m_id="20" />
+  <target m_id="35" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40755" note="NEG28451243429836369" >
+  <source m_id="31" />
+  <target m_id="36" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40756" note="NON18440775683576631" >
+  <source m_id="26" />
+  <target m_id="37" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40757" note="LOC18440750306982431" >
+  <source m_id="18" />
+  <source m_id="17" />
+  <source m_id="15" />
+  <target m_id="38" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40758" note="TIM18440826675897964" >
+  <source m_id="23" />
+  <target m_id="39" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40759" note="ACT18440623861291848" >
+  <source m_id="13" />
+  <target m_id="40" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40760" note="HUM18440698565277092" >
+  <source m_id="2" />
+  <source m_id="3" />
+  <source m_id="8" />
+  <source m_id="1" />
+  <target m_id="41" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40761" note="ACT18440640282544111" >
+  <source m_id="11" />
+  <target m_id="42" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40762" note="ACT28450088385472026" >
+  <source m_id="22" />
+  <target m_id="43" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40763" note="HUM18440722716468597" >
+  <source m_id="4" />
+  <target m_id="44" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40764" note="ACT18440590596898814" >
+  <source m_id="10" />
+  <target m_id="45" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40765" note="NON18440790227167183" >
+  <source m_id="27" />
+  <target m_id="46" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40766" note="ACT18440577880137709" >
+  <source m_id="9" />
+  <source m_id="14" />
+  <source m_id="24" />
+  <target m_id="47" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40767" note="ACT18440672179378046" >
+  <source m_id="21" />
+  <target m_id="48" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

@@ -1,0 +1,189 @@
+<Document doc_name="9_9ecb.xml" doc_id="DOC15654007365151824">
+<token t_id="1" sentence="0" number="0">In</token>
+<token t_id="2" sentence="0" number="1">a</token>
+<token t_id="3" sentence="0" number="2">move</token>
+<token t_id="4" sentence="0" number="3">environmental</token>
+<token t_id="5" sentence="0" number="4">groups</token>
+<token t_id="6" sentence="0" number="5">says</token>
+<token t_id="7" sentence="0" number="6">strikes</token>
+<token t_id="8" sentence="0" number="7">at</token>
+<token t_id="9" sentence="0" number="8">the</token>
+<token t_id="10" sentence="0" number="9">heart</token>
+<token t_id="11" sentence="0" number="10">of</token>
+<token t_id="12" sentence="0" number="11">the</token>
+<token t_id="13" sentence="0" number="12">Endangered</token>
+<token t_id="14" sentence="0" number="13">Species</token>
+<token t_id="15" sentence="0" number="14">Act</token>
+<token t_id="16" sentence="0" number="15">,</token>
+<token t_id="17" sentence="0" number="16">the</token>
+<token t_id="18" sentence="0" number="17">Bush</token>
+<token t_id="19" sentence="0" number="18">administration</token>
+<token t_id="20" sentence="0" number="19">on</token>
+<token t_id="21" sentence="0" number="20">Thursday</token>
+<token t_id="22" sentence="0" number="21">announced</token>
+<token t_id="23" sentence="0" number="22">a</token>
+<token t_id="24" sentence="0" number="23">new</token>
+<token t_id="25" sentence="0" number="24">rule</token>
+<token t_id="26" sentence="0" number="25">that</token>
+<token t_id="27" sentence="0" number="26">would</token>
+<token t_id="28" sentence="0" number="27">let</token>
+<token t_id="29" sentence="0" number="28">federal</token>
+<token t_id="30" sentence="0" number="29">agencies</token>
+<token t_id="31" sentence="0" number="30">decide</token>
+<token t_id="32" sentence="0" number="31">on</token>
+<token t_id="33" sentence="0" number="32">their</token>
+<token t_id="34" sentence="0" number="33">own</token>
+<token t_id="35" sentence="0" number="34">whether</token>
+<token t_id="36" sentence="0" number="35">their</token>
+<token t_id="37" sentence="0" number="36">projects</token>
+<token t_id="38" sentence="0" number="37">harm</token>
+<token t_id="39" sentence="0" number="38">endangered</token>
+<token t_id="40" sentence="0" number="39">species</token>
+<token t_id="41" sentence="0" number="40">,</token>
+<token t_id="42" sentence="0" number="41">instead</token>
+<token t_id="43" sentence="0" number="42">of</token>
+<token t_id="44" sentence="0" number="43">requiring</token>
+<token t_id="45" sentence="0" number="44">them</token>
+<token t_id="46" sentence="0" number="45">in</token>
+<token t_id="47" sentence="0" number="46">many</token>
+<token t_id="48" sentence="0" number="47">cases</token>
+<token t_id="49" sentence="0" number="48">to</token>
+<token t_id="50" sentence="0" number="49">get</token>
+<token t_id="51" sentence="0" number="50">a</token>
+<token t_id="52" sentence="0" number="51">second</token>
+<token t_id="53" sentence="0" number="52">opinion</token>
+<token t_id="54" sentence="0" number="53">from</token>
+<token t_id="55" sentence="0" number="54">federal</token>
+<token t_id="56" sentence="0" number="55">wildlife</token>
+<token t_id="57" sentence="0" number="56">experts</token>
+<token t_id="58" sentence="0" number="57">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="32"  >
+  <token_anchor t_id="7"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="33"  >
+  <token_anchor t_id="31"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="34"  >
+  <token_anchor t_id="38"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="35"  >
+  <token_anchor t_id="44"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="36"  >
+  <token_anchor t_id="50"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="30"  >
+  <token_anchor t_id="6"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="31"  >
+  <token_anchor t_id="22"/>
+</ACTION_REPORTING>
+<HUMAN_PART_ORG m_id="37"  >
+  <token_anchor t_id="45"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="21"  >
+  <token_anchor t_id="4"/>
+  <token_anchor t_id="5"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="22"  >
+  <token_anchor t_id="18"/>
+  <token_anchor t_id="19"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="26"  >
+  <token_anchor t_id="29"/>
+  <token_anchor t_id="30"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="27"  >
+  <token_anchor t_id="57"/>
+</HUMAN_PART_PER>
+<NON_HUMAN_PART m_id="29"  >
+  <token_anchor t_id="37"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="39"  >
+  <token_anchor t_id="48"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="23"  >
+  <token_anchor t_id="25"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="24"  >
+  <token_anchor t_id="40"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="25"  >
+  <token_anchor t_id="53"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="28"  >
+  <token_anchor t_id="13"/>
+  <token_anchor t_id="14"/>
+  <token_anchor t_id="15"/>
+</NON_HUMAN_PART>
+<TIME_DATE m_id="38"  >
+  <token_anchor t_id="21"/>
+</TIME_DATE>
+
+
+
+
+<HUMAN_PART_ORG m_id="49" RELATED_TO="" TAG_DESCRIPTOR="t9_federal_agencies" instance_id="HUM17209496877975579" />
+<NON_HUMAN_PART m_id="48" RELATED_TO="" TAG_DESCRIPTOR="t9b_endangered_species" instance_id="NON17210820571952572" />
+<NON_HUMAN_PART m_id="47" RELATED_TO="" TAG_DESCRIPTOR="t9_endangered_species_act" instance_id="NON17207548339630127" />
+<HUMAN_PART_ORG m_id="46" RELATED_TO="" TAG_DESCRIPTOR="t9b_environmental_groups" instance_id="HUM17209547407557455" />
+<HUMAN_PART_PER m_id="45" RELATED_TO="" TAG_DESCRIPTOR="t9b_scientists" instance_id="HUM17209507366594611" />
+<TIME_DATE m_id="44" RELATED_TO="" TAG_DESCRIPTOR="t9b_thursday" instance_id="TIM17209521604168567" />
+<NON_HUMAN_PART m_id="43" RELATED_TO="" TAG_DESCRIPTOR="t9_regulations" instance_id="NON17210019876807755" />
+<HUMAN_PART_ORG m_id="42" RELATED_TO="" TAG_DESCRIPTOR="t9_bush_administration" instance_id="HUM17209377647266249" />
+<ACTION_REPORTING m_id="41" RELATED_TO="" TAG_DESCRIPTOR="t9b_bush_administration_accounced" instance_id="ACT17211096951463910" />
+<NON_HUMAN_PART m_id="40" RELATED_TO="" TAG_DESCRIPTOR="t9_project" instance_id="NON17210710922110328" />
+<UNKNOWN_INSTANCE_TAG m_id="6" RELATED_TO="" TAG_DESCRIPTOR="" />
+</Markables>
+
+<Relations>
+<INTRA_DOC_COREF r_id="32120" >
+<source m_id="33" />
+<source m_id="35" />
+<target m_id="6" />
+</INTRA_DOC_COREF>
+<CROSS_DOC_COREF r_id="32125" note="NON17210710922110328" >
+  <source m_id="29" />
+  <target m_id="40" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32126" note="ACT17211096951463910" >
+  <source m_id="31" />
+  <target m_id="41" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32127" note="HUM17209377647266249" >
+  <source m_id="22" />
+  <target m_id="42" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32128" note="NON17210019876807755" >
+  <source m_id="23" />
+  <target m_id="43" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32129" note="TIM17209521604168567" >
+  <source m_id="38" />
+  <target m_id="44" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32130" note="HUM17209507366594611" >
+  <source m_id="27" />
+  <target m_id="45" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32131" note="HUM17209547407557455" >
+  <source m_id="21" />
+  <target m_id="46" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32132" note="NON17207548339630127" >
+  <source m_id="28" />
+  <target m_id="47" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32133" note="NON17210820571952572" >
+  <source m_id="24" />
+  <target m_id="48" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32134" note="HUM17209496877975579" >
+  <source m_id="37" />
+  <source m_id="26" />
+  <target m_id="49" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

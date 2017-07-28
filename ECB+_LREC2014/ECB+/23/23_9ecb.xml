@@ -1,0 +1,110 @@
+<Document doc_name="23_9ecb.xml" doc_id="DOC15654677322782978">
+<token t_id="1" sentence="0" number="0">An</token>
+<token t_id="2" sentence="0" number="1">Australian</token>
+<token t_id="3" sentence="0" number="2">climber</token>
+<token t_id="4" sentence="0" number="3">who</token>
+<token t_id="5" sentence="0" number="4">survived</token>
+<token t_id="6" sentence="0" number="5">two</token>
+<token t_id="7" sentence="0" number="6">nights</token>
+<token t_id="8" sentence="0" number="7">stuck</token>
+<token t_id="9" sentence="0" number="8">on</token>
+<token t_id="10" sentence="0" number="9">Mount</token>
+<token t_id="11" sentence="0" number="10">Cook</token>
+<token t_id="12" sentence="0" number="11">after</token>
+<token t_id="13" sentence="0" number="12">seeing</token>
+<token t_id="14" sentence="0" number="13">his</token>
+<token t_id="15" sentence="0" number="14">brother</token>
+<token t_id="16" sentence="0" number="15">die</token>
+<token t_id="17" sentence="0" number="16">also</token>
+<token t_id="18" sentence="0" number="17">narrowly</token>
+<token t_id="19" sentence="0" number="18">escaped</token>
+<token t_id="20" sentence="0" number="19">being</token>
+<token t_id="21" sentence="0" number="20">buried</token>
+<token t_id="22" sentence="0" number="21">alive</token>
+<token t_id="23" sentence="0" number="22">himself</token>
+<token t_id="24" sentence="0" number="23">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="20"  >
+  <token_anchor t_id="21"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="17"  >
+  <token_anchor t_id="5"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="18"  >
+  <token_anchor t_id="16"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="19"  >
+  <token_anchor t_id="19"/>
+</ACTION_OCCURRENCE>
+<ACTION_PERCEPTION m_id="21"  >
+  <token_anchor t_id="13"/>
+</ACTION_PERCEPTION>
+<HUMAN_PART_PER m_id="12"  >
+  <token_anchor t_id="3"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="13"  >
+  <token_anchor t_id="15"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="14"  >
+  <token_anchor t_id="23"/>
+</HUMAN_PART_PER>
+<LOC_GEO m_id="15"  >
+  <token_anchor t_id="10"/>
+  <token_anchor t_id="11"/>
+</LOC_GEO>
+<TIME_DURATION m_id="16"  >
+  <token_anchor t_id="6"/>
+  <token_anchor t_id="7"/>
+</TIME_DURATION>
+
+
+
+
+<TIME_DURATION m_id="29" RELATED_TO="" TAG_DESCRIPTOR="t23b_two_nights" instance_id="TIM18319758995099143" />
+<ACTION_OCCURRENCE m_id="28" RELATED_TO="" TAG_DESCRIPTOR="t23b_survived" instance_id="ACT27332451779822896" />
+<ACTION_PERCEPTION m_id="27" RELATED_TO="" TAG_DESCRIPTOR="t23b_watched_bro_fall" instance_id="ACT27332138770482467" />
+<ACTION_OCCURRENCE m_id="26" RELATED_TO="" TAG_DESCRIPTOR="t23b_buried" instance_id="ACT18319782456174232" />
+<HUMAN_PART_PER m_id="25" RELATED_TO="" TAG_DESCRIPTOR="t23b_brother" instance_id="HUM18319674083945732" />
+<HUMAN_PART_PER m_id="24" RELATED_TO="" TAG_DESCRIPTOR="t23b_climber" instance_id="HUM18319688289991189" />
+<ACTION_OCCURRENCE m_id="23" RELATED_TO="" TAG_DESCRIPTOR="t23b_died" instance_id="ACT18319700214698432" />
+<LOC_GEO m_id="22" RELATED_TO="" TAG_DESCRIPTOR="t23_cook" instance_id="LOC18241315453418084" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="32774" note="LOC18241315453418084" >
+  <source m_id="15" />
+  <target m_id="22" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32775" note="ACT18319700214698432" >
+  <source m_id="18" />
+  <target m_id="23" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32776" note="HUM18319688289991189" >
+  <source m_id="12" />
+  <source m_id="14" />
+  <target m_id="24" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32777" note="HUM18319674083945732" >
+  <source m_id="13" />
+  <target m_id="25" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32778" note="ACT18319782456174232" >
+  <source m_id="20" />
+  <target m_id="26" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32779" note="ACT27332138770482467" >
+  <source m_id="21" />
+  <target m_id="27" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32780" note="ACT27332451779822896" >
+  <source m_id="19" />
+  <source m_id="17" />
+  <target m_id="28" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32781" note="TIM18319758995099143" >
+  <source m_id="16" />
+  <target m_id="29" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

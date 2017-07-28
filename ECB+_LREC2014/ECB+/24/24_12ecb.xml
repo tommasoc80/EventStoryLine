@@ -1,0 +1,75 @@
+<Document doc_name="24_12ecb.xml" doc_id="DOC15654730818083241">
+<token t_id="1" sentence="0" number="0">Harry</token>
+<token t_id="2" sentence="0" number="1">Winston</token>
+<token t_id="3" sentence="0" number="2">Diamond</token>
+<token t_id="4" sentence="0" number="3">Corp.</token>
+<token t_id="5" sentence="0" number="4">'s</token>
+<token t_id="6" sentence="0" number="5">prestigious</token>
+<token t_id="7" sentence="0" number="6">Paris</token>
+<token t_id="8" sentence="0" number="7">jewellery</token>
+<token t_id="9" sentence="0" number="8">store</token>
+<token t_id="10" sentence="0" number="9">near</token>
+<token t_id="11" sentence="0" number="10">the</token>
+<token t_id="12" sentence="0" number="11">Champs-Elysee</token>
+<token t_id="13" sentence="0" number="12">was</token>
+<token t_id="14" sentence="0" number="13">stormed</token>
+<token t_id="15" sentence="0" number="14">by</token>
+<token t_id="16" sentence="0" number="15">as</token>
+<token t_id="17" sentence="0" number="16">many</token>
+<token t_id="18" sentence="0" number="17">as</token>
+<token t_id="19" sentence="0" number="18">four</token>
+<token t_id="20" sentence="0" number="19">robbers</token>
+<token t_id="21" sentence="0" number="20">on</token>
+<token t_id="22" sentence="0" number="21">Thursday</token>
+<token t_id="23" sentence="0" number="22">afternoon</token>
+<token t_id="24" sentence="0" number="23">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="13"  >
+  <token_anchor t_id="14"/>
+</ACTION_OCCURRENCE>
+<HUMAN_PART_ORG m_id="11"  >
+  <token_anchor t_id="1"/>
+  <token_anchor t_id="2"/>
+  <token_anchor t_id="3"/>
+  <token_anchor t_id="4"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="9"  >
+  <token_anchor t_id="20"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="12"  >
+  <token_anchor t_id="7"/>
+  <token_anchor t_id="8"/>
+  <token_anchor t_id="9"/>
+  <token_anchor t_id="10"/>
+  <token_anchor t_id="11"/>
+  <token_anchor t_id="12"/>
+</LOC_FAC>
+<TIME_OF_THE_DAY m_id="10"  >
+  <token_anchor t_id="22"/>
+  <token_anchor t_id="23"/>
+</TIME_OF_THE_DAY>
+
+
+
+
+<LOC_FAC m_id="16" RELATED_TO="" TAG_DESCRIPTOR="t24b_boutique" instance_id="LOC18318468151124403" />
+<TIME_OF_THE_DAY m_id="15" RELATED_TO="" TAG_DESCRIPTOR="t24b_late_thursday" instance_id="TIM18318870850066558" />
+<HUMAN_PART_PER m_id="14" RELATED_TO="" TAG_DESCRIPTOR="t24b_robbers" instance_id="HUM18318452306120227" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="32875" note="HUM18318452306120227" >
+  <source m_id="9" />
+  <target m_id="14" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32876" note="TIM18318870850066558" >
+  <source m_id="10" />
+  <target m_id="15" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32877" note="LOC18318468151124403" >
+  <source m_id="12" />
+  <target m_id="16" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

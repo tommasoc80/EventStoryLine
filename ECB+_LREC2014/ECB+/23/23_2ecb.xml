@@ -1,0 +1,81 @@
+<Document doc_name="23_2ecb.xml" doc_id="DOC15654677020179085">
+<token t_id="1" sentence="0" number="0">Dr</token>
+<token t_id="2" sentence="0" number="1">Mark</token>
+<token t_id="3" sentence="0" number="2">Vinar</token>
+<token t_id="4" sentence="0" number="3">,</token>
+<token t_id="5" sentence="0" number="4">43</token>
+<token t_id="6" sentence="0" number="5">,</token>
+<token t_id="7" sentence="0" number="6">is</token>
+<token t_id="8" sentence="0" number="7">presumed</token>
+<token t_id="9" sentence="0" number="8">dead</token>
+<token t_id="10" sentence="0" number="9">after</token>
+<token t_id="11" sentence="0" number="10">disappearing</token>
+<token t_id="12" sentence="0" number="11">off</token>
+<token t_id="13" sentence="0" number="12">Zurbriggens</token>
+<token t_id="14" sentence="0" number="13">Ridge</token>
+<token t_id="15" sentence="0" number="14">,</token>
+<token t_id="16" sentence="0" number="15">on</token>
+<token t_id="17" sentence="0" number="16">Mt</token>
+<token t_id="18" sentence="0" number="17">Cook</token>
+<token t_id="19" sentence="0" number="18">,</token>
+<token t_id="20" sentence="0" number="19">on</token>
+<token t_id="21" sentence="0" number="20">Thursday</token>
+<token t_id="22" sentence="0" number="21">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="7"  >
+  <token_anchor t_id="11"/>
+</ACTION_OCCURRENCE>
+<HUMAN_PART_PER m_id="6"  >
+  <token_anchor t_id="2"/>
+  <token_anchor t_id="3"/>
+</HUMAN_PART_PER>
+<LOC_GEO m_id="9"  >
+  <token_anchor t_id="12"/>
+  <token_anchor t_id="13"/>
+  <token_anchor t_id="14"/>
+  <token_anchor t_id="15"/>
+  <token_anchor t_id="16"/>
+  <token_anchor t_id="17"/>
+  <token_anchor t_id="18"/>
+</LOC_GEO>
+<TIME_DATE m_id="8"  >
+  <token_anchor t_id="21"/>
+</TIME_DATE>
+
+
+<ACTION_OCCURRENCE m_id="10" note="byCROMER" >
+  <token_anchor t_id="9"/>
+</ACTION_OCCURRENCE>
+
+
+<TIME_DATE m_id="15" RELATED_TO="" TAG_DESCRIPTOR="t23b_thursday" instance_id="TIM18320015216897145" />
+<HUMAN_PART_PER m_id="14" RELATED_TO="" TAG_DESCRIPTOR="t23b_brother" instance_id="HUM18319674083945732" />
+<ACTION_OCCURRENCE m_id="13" RELATED_TO="" TAG_DESCRIPTOR="t23b_died" instance_id="ACT18319700214698432" />
+<LOC_GEO m_id="12" RELATED_TO="" TAG_DESCRIPTOR="t23_ridge" instance_id="LOC18241156396879727" />
+<ACTION_OCCURRENCE m_id="11" RELATED_TO="" TAG_DESCRIPTOR="t23b_fall" instance_id="ACT18319724293841208" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="33291" note="ACT18319724293841208" >
+  <source m_id="7" />
+  <target m_id="11" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33292" note="LOC18241156396879727" >
+  <source m_id="9" />
+  <target m_id="12" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33293" note="ACT18319700214698432" >
+  <source m_id="10" />
+  <target m_id="13" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33294" note="HUM18319674083945732" >
+  <source m_id="6" />
+  <target m_id="14" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33295" note="TIM18320015216897145" >
+  <source m_id="8" />
+  <target m_id="15" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

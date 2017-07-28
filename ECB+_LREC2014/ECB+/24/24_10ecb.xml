@@ -1,0 +1,62 @@
+<Document doc_name="24_10ecb.xml" doc_id="DOC15654730624857389">
+<token t_id="1" sentence="0" number="0">Robbers</token>
+<token t_id="2" sentence="0" number="1">in</token>
+<token t_id="3" sentence="0" number="2">drag</token>
+<token t_id="4" sentence="0" number="3">steal</token>
+<token t_id="5" sentence="0" number="4">e80</token>
+<token t_id="6" sentence="0" number="5">million</token>
+<token t_id="7" sentence="0" number="6">from</token>
+<token t_id="8" sentence="0" number="7">Paris</token>
+<token t_id="9" sentence="0" number="8">diamond</token>
+<token t_id="10" sentence="0" number="9">store</token>
+<token t_id="11" sentence="0" number="10">in</token>
+<token t_id="12" sentence="0" number="11">biggest</token>
+<token t_id="13" sentence="0" number="12">French</token>
+<token t_id="14" sentence="0" number="13">heist</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="1"  >
+  <token_anchor t_id="14"/>
+</ACTION_OCCURRENCE>
+<NON_HUMAN_PART m_id="2"  >
+  <token_anchor t_id="5"/>
+  <token_anchor t_id="6"/>
+</NON_HUMAN_PART>
+
+
+<LOC_FAC m_id="3" note="byCROMER" >
+  <token_anchor t_id="10"/>
+</LOC_FAC>
+<HUMAN_PART_PER m_id="4" note="byCROMER" >
+  <token_anchor t_id="1"/>
+</HUMAN_PART_PER>
+<ACTION_OCCURRENCE m_id="5" note="byCROMER" >
+  <token_anchor t_id="4"/>
+</ACTION_OCCURRENCE>
+
+
+<ACTION_OCCURRENCE m_id="6" RELATED_TO="" TAG_DESCRIPTOR="t24b_robbery" instance_id="ACT18319049821521663" />
+<LOC_FAC m_id="9" RELATED_TO="" TAG_DESCRIPTOR="t24b_boutique" instance_id="LOC18318468151124403" />
+<ACTION_OCCURRENCE m_id="8" RELATED_TO="" TAG_DESCRIPTOR="t24b_stole" instance_id="ACT18318437865031754" />
+<HUMAN_PART_PER m_id="7" RELATED_TO="" TAG_DESCRIPTOR="t24b_robbers" instance_id="HUM18318452306120227" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="1" note="ACT18319049821521663" >
+  <source m_id="1" />
+  <target m_id="6" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="2" note="HUM18318452306120227" >
+  <source m_id="4" />
+  <target m_id="7" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="3" note="ACT18318437865031754" >
+  <source m_id="5" />
+  <target m_id="8" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="4" note="LOC18318468151124403" >
+  <source m_id="3" />
+  <target m_id="9" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

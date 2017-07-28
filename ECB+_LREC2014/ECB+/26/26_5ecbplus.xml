@@ -1,0 +1,96 @@
+<Document doc_name="26_5ecbplus.xml" doc_id="DOC15646399409557369">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">wiki</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">answers</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<token t_id="9" sentence="0" number="8">com</token>
+<token t_id="10" sentence="0" number="9">/</token>
+<token t_id="11" sentence="0" number="10">Q</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">Is</token>
+<token t_id="14" sentence="0" number="13">_</token>
+<token t_id="15" sentence="0" number="14">Vincent</token>
+<token t_id="16" sentence="0" number="15">_</token>
+<token t_id="17" sentence="0" number="16">'The</token>
+<token t_id="18" sentence="0" number="17">_</token>
+<token t_id="19" sentence="0" number="18">Chin'</token>
+<token t_id="20" sentence="0" number="19">_</token>
+<token t_id="21" sentence="0" number="20">Gigante</token>
+<token t_id="22" sentence="0" number="21">_</token>
+<token t_id="23" sentence="0" number="22">still</token>
+<token t_id="24" sentence="0" number="23">_</token>
+<token t_id="25" sentence="0" number="24">in</token>
+<token t_id="26" sentence="0" number="25">_</token>
+<token t_id="27" sentence="0" number="26">prison</token>
+<token t_id="28" sentence="1" number="0">Vincent</token>
+<token t_id="29" sentence="1" number="1">'The</token>
+<token t_id="30" sentence="1" number="2">Chin'</token>
+<token t_id="31" sentence="1" number="3">Gigante</token>
+<token t_id="32" sentence="1" number="4">died</token>
+<token t_id="33" sentence="1" number="5">while</token>
+<token t_id="34" sentence="1" number="6">in</token>
+<token t_id="35" sentence="1" number="7">prison</token>
+<token t_id="36" sentence="1" number="8">custody</token>
+<token t_id="37" sentence="1" number="9">on</token>
+<token t_id="38" sentence="1" number="10">December</token>
+<token t_id="39" sentence="1" number="11">19</token>
+<token t_id="40" sentence="1" number="12">,</token>
+<token t_id="41" sentence="1" number="13">2005</token>
+<token t_id="42" sentence="1" number="14">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="3"  >
+  <token_anchor t_id="32"/>
+</ACTION_OCCURRENCE>
+<ACTION_STATE m_id="4"  >
+  <token_anchor t_id="36"/>
+</ACTION_STATE>
+<HUMAN_PART_PER m_id="1"  >
+  <token_anchor t_id="28"/>
+  <token_anchor t_id="29"/>
+  <token_anchor t_id="30"/>
+  <token_anchor t_id="31"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="5"  >
+  <token_anchor t_id="35"/>
+</LOC_FAC>
+<TIME_DATE m_id="2"  >
+  <token_anchor t_id="37"/>
+  <token_anchor t_id="38"/>
+  <token_anchor t_id="39"/>
+  <token_anchor t_id="40"/>
+  <token_anchor t_id="41"/>
+</TIME_DATE>
+
+
+
+
+<TIME_DATE m_id="6" RELATED_TO="" TAG_DESCRIPTOR="t26_monday" instance_id="TIM18440801253239963" />
+<LOC_FAC m_id="9" RELATED_TO="" TAG_DESCRIPTOR="t26_prison" instance_id="LOC18440750306982431" />
+<ACTION_OCCURRENCE m_id="8" RELATED_TO="" TAG_DESCRIPTOR="t26_died" instance_id="ACT18440577880137709" />
+<HUMAN_PART_PER m_id="7" RELATED_TO="" TAG_DESCRIPTOR="t26_gigante" instance_id="HUM18440698565277092" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="1" note="TIM18440801253239963" >
+  <source m_id="2" />
+  <target m_id="6" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="2" note="HUM18440698565277092" >
+  <source m_id="1" />
+  <target m_id="7" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="3" note="ACT18440577880137709" >
+  <source m_id="3" />
+  <target m_id="8" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="4" note="LOC18440750306982431" >
+  <source m_id="5" />
+  <target m_id="9" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

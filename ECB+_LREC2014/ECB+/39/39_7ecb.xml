@@ -1,0 +1,79 @@
+<Document doc_name="39_7ecb.xml" doc_id="DOC15655448137289290">
+<token t_id="1" sentence="0" number="0">When</token>
+<token t_id="2" sentence="0" number="1">the</token>
+<token t_id="3" sentence="0" number="2">26-year-old</token>
+<token t_id="4" sentence="0" number="3">unknown</token>
+<token t_id="5" sentence="0" number="4">was</token>
+<token t_id="6" sentence="0" number="5">unveiled</token>
+<token t_id="7" sentence="0" number="6">as</token>
+<token t_id="8" sentence="0" number="7">the</token>
+<token t_id="9" sentence="0" number="8">11th</token>
+<token t_id="10" sentence="0" number="9">Doctor</token>
+<token t_id="11" sentence="0" number="10">on</token>
+<token t_id="12" sentence="0" number="11">Saturday</token>
+<token t_id="13" sentence="0" number="12">evening</token>
+<token t_id="14" sentence="0" number="13">,</token>
+<token t_id="15" sentence="0" number="14">it</token>
+<token t_id="16" sentence="0" number="15">took</token>
+<token t_id="17" sentence="0" number="16">most</token>
+<token t_id="18" sentence="0" number="17">viewers</token>
+<token t_id="19" sentence="0" number="18">by</token>
+<token t_id="20" sentence="0" number="19">surprise</token>
+<token t_id="21" sentence="0" number="20">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="11"  >
+  <token_anchor t_id="16"/>
+  <token_anchor t_id="20"/>
+</ACTION_OCCURRENCE>
+<HUMAN_PART_PER m_id="8"  >
+  <token_anchor t_id="9"/>
+  <token_anchor t_id="10"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="9"  >
+  <token_anchor t_id="4"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="10"  >
+  <token_anchor t_id="18"/>
+</HUMAN_PART_PER>
+<TIME_OF_THE_DAY m_id="13"  >
+  <token_anchor t_id="11"/>
+  <token_anchor t_id="12"/>
+  <token_anchor t_id="13"/>
+</TIME_OF_THE_DAY>
+
+
+<ACTION_REPORTING m_id="14" note="byCROMER" >
+  <token_anchor t_id="6"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="15" note="byCROMER" >
+  <token_anchor t_id="15"/>
+</ACTION_REPORTING>
+
+
+<HUMAN_PART_PER m_id="19" RELATED_TO="" TAG_DESCRIPTOR="t39_matt_smith" instance_id="HUM17744873373187694" />
+<TIME_OF_THE_DAY m_id="18" RELATED_TO="" TAG_DESCRIPTOR="t39b_saturday_evening" instance_id="TIM17752021552455108" />
+<ACTION_REPORTING m_id="17" RELATED_TO="" TAG_DESCRIPTOR="t39b_announcement_smith_cast" instance_id="ACT17745451267577520" />
+<HUMAN_PART_PER m_id="16" RELATED_TO="" TAG_DESCRIPTOR="t39b_11th_doc" instance_id="HUM17744980524113734" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="35696" note="HUM17744980524113734" >
+  <source m_id="8" />
+  <target m_id="16" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35697" note="ACT17745451267577520" >
+  <source m_id="14" />
+  <source m_id="15" />
+  <target m_id="17" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35698" note="TIM17752021552455108" >
+  <source m_id="13" />
+  <target m_id="18" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35699" note="HUM17744873373187694" >
+  <source m_id="9" />
+  <target m_id="19" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

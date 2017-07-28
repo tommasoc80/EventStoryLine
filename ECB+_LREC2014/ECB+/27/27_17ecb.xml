@@ -1,0 +1,593 @@
+<Document doc_name="27_17ecb.xml" doc_id="DOC15654894580168195">
+<token t_id="1" sentence="0" number="0">Microsoft</token>
+<token t_id="2" sentence="0" number="1">releases</token>
+<token t_id="3" sentence="0" number="2">emergency</token>
+<token t_id="4" sentence="0" number="3">patch</token>
+<token t_id="5" sentence="0" number="4">for</token>
+<token t_id="6" sentence="0" number="5">Web</token>
+<token t_id="7" sentence="0" number="6">browser</token>
+<token t_id="8" sentence="1" number="0">Microsoft</token>
+<token t_id="9" sentence="1" number="1">was</token>
+<token t_id="10" sentence="1" number="2">to</token>
+<token t_id="11" sentence="1" number="3">release</token>
+<token t_id="12" sentence="1" number="4">an</token>
+<token t_id="13" sentence="1" number="5">emergency</token>
+<token t_id="14" sentence="1" number="6">patch</token>
+<token t_id="15" sentence="1" number="7">yesterday</token>
+<token t_id="16" sentence="1" number="8">to</token>
+<token t_id="17" sentence="1" number="9">fix</token>
+<token t_id="18" sentence="1" number="10">a</token>
+<token t_id="19" sentence="1" number="11">perilous</token>
+<token t_id="20" sentence="1" number="12">software</token>
+<token t_id="21" sentence="1" number="13">flaw</token>
+<token t_id="22" sentence="1" number="14">allowing</token>
+<token t_id="23" sentence="1" number="15">hackers</token>
+<token t_id="24" sentence="1" number="16">to</token>
+<token t_id="25" sentence="1" number="17">hijack</token>
+<token t_id="26" sentence="1" number="18">Internet</token>
+<token t_id="27" sentence="1" number="19">Explorer</token>
+<token t_id="28" sentence="1" number="20">(</token>
+<token t_id="29" sentence="1" number="21">IE</token>
+<token t_id="30" sentence="1" number="22">)</token>
+<token t_id="31" sentence="1" number="23">browsers</token>
+<token t_id="32" sentence="1" number="24">and</token>
+<token t_id="33" sentence="1" number="25">take</token>
+<token t_id="34" sentence="1" number="26">over</token>
+<token t_id="35" sentence="1" number="27">computers</token>
+<token t_id="36" sentence="1" number="28">.</token>
+<token t_id="37" sentence="2" number="0">The</token>
+<token t_id="38" sentence="2" number="1">US</token>
+<token t_id="39" sentence="2" number="2">software</token>
+<token t_id="40" sentence="2" number="3">giant</token>
+<token t_id="41" sentence="2" number="4">said</token>
+<token t_id="42" sentence="2" number="5">on</token>
+<token t_id="43" sentence="2" number="6">Tuesday</token>
+<token t_id="44" sentence="2" number="7">that</token>
+<token t_id="45" sentence="2" number="8">in</token>
+<token t_id="46" sentence="2" number="9">response</token>
+<token t_id="47" sentence="2" number="10">to</token>
+<token t_id="48" sentence="2" number="11">``</token>
+<token t_id="49" sentence="2" number="12">the</token>
+<token t_id="50" sentence="2" number="13">threat</token>
+<token t_id="51" sentence="2" number="14">to</token>
+<token t_id="52" sentence="2" number="15">customers</token>
+<token t_id="53" sentence="2" number="16">''</token>
+<token t_id="54" sentence="2" number="17">it</token>
+<token t_id="55" sentence="2" number="18">immediately</token>
+<token t_id="56" sentence="2" number="19">mobilized</token>
+<token t_id="57" sentence="2" number="20">security</token>
+<token t_id="58" sentence="2" number="21">engineering</token>
+<token t_id="59" sentence="2" number="22">teams</token>
+<token t_id="60" sentence="2" number="23">worldwide</token>
+<token t_id="61" sentence="2" number="24">to</token>
+<token t_id="62" sentence="2" number="25">deliver</token>
+<token t_id="63" sentence="2" number="26">a</token>
+<token t_id="64" sentence="2" number="27">software</token>
+<token t_id="65" sentence="2" number="28">cure</token>
+<token t_id="66" sentence="2" number="29">``</token>
+<token t_id="67" sentence="2" number="30">in</token>
+<token t_id="68" sentence="2" number="31">the</token>
+<token t_id="69" sentence="2" number="32">unprecedented</token>
+<token t_id="70" sentence="2" number="33">time</token>
+<token t_id="71" sentence="2" number="34">of</token>
+<token t_id="72" sentence="2" number="35">eight</token>
+<token t_id="73" sentence="2" number="36">days</token>
+<token t_id="74" sentence="2" number="37">.</token>
+<token t_id="75" sentence="2" number="38">''</token>
+<token t_id="76" sentence="3" number="0">Researchers</token>
+<token t_id="77" sentence="3" number="1">at</token>
+<token t_id="78" sentence="3" number="2">software</token>
+<token t_id="79" sentence="3" number="3">security</token>
+<token t_id="80" sentence="3" number="4">firm</token>
+<token t_id="81" sentence="3" number="5">Trend</token>
+<token t_id="82" sentence="3" number="6">Micro</token>
+<token t_id="83" sentence="3" number="7">say</token>
+<token t_id="84" sentence="3" number="8">attacks</token>
+<token t_id="85" sentence="3" number="9">based</token>
+<token t_id="86" sentence="3" number="10">on</token>
+<token t_id="87" sentence="3" number="11">the</token>
+<token t_id="88" sentence="3" number="12">vulnerability</token>
+<token t_id="89" sentence="3" number="13">in</token>
+<token t_id="90" sentence="3" number="14">the</token>
+<token t_id="91" sentence="3" number="15">world</token>
+<token t_id="92" sentence="3" number="16">'s</token>
+<token t_id="93" sentence="3" number="17">most</token>
+<token t_id="94" sentence="3" number="18">popular</token>
+<token t_id="95" sentence="3" number="19">Web</token>
+<token t_id="96" sentence="3" number="20">browser</token>
+<token t_id="97" sentence="3" number="21">are</token>
+<token t_id="98" sentence="3" number="22">``</token>
+<token t_id="99" sentence="3" number="23">spreading</token>
+<token t_id="100" sentence="3" number="24">like</token>
+<token t_id="101" sentence="3" number="25">wildfire</token>
+<token t_id="102" sentence="3" number="26">''</token>
+<token t_id="103" sentence="3" number="27">with</token>
+<token t_id="104" sentence="3" number="28">millions</token>
+<token t_id="105" sentence="3" number="29">of</token>
+<token t_id="106" sentence="3" number="30">computers</token>
+<token t_id="107" sentence="3" number="31">already</token>
+<token t_id="108" sentence="3" number="32">compromised</token>
+<token t_id="109" sentence="3" number="33">.</token>
+<token t_id="110" sentence="4" number="0">Microsoft</token>
+<token t_id="111" sentence="4" number="1">typically</token>
+<token t_id="112" sentence="4" number="2">releases</token>
+<token t_id="113" sentence="4" number="3">patches</token>
+<token t_id="114" sentence="4" number="4">for</token>
+<token t_id="115" sentence="4" number="5">its</token>
+<token t_id="116" sentence="4" number="6">software</token>
+<token t_id="117" sentence="4" number="7">on</token>
+<token t_id="118" sentence="4" number="8">the</token>
+<token t_id="119" sentence="4" number="9">second</token>
+<token t_id="120" sentence="4" number="10">on</token>
+<token t_id="121" sentence="4" number="11">Tuesday</token>
+<token t_id="122" sentence="4" number="12">of</token>
+<token t_id="123" sentence="4" number="13">each</token>
+<token t_id="124" sentence="4" number="14">month</token>
+<token t_id="125" sentence="4" number="15">and</token>
+<token t_id="126" sentence="4" number="16">rushing</token>
+<token t_id="127" sentence="4" number="17">this</token>
+<token t_id="128" sentence="4" number="18">fix</token>
+<token t_id="129" sentence="4" number="19">to</token>
+<token t_id="130" sentence="4" number="20">computer</token>
+<token t_id="131" sentence="4" number="21">users</token>
+<token t_id="132" sentence="4" number="22">out-of-cycle</token>
+<token t_id="133" sentence="4" number="23">is</token>
+<token t_id="134" sentence="4" number="24">testimony</token>
+<token t_id="135" sentence="4" number="25">to</token>
+<token t_id="136" sentence="4" number="26">the</token>
+<token t_id="137" sentence="4" number="27">severe</token>
+<token t_id="138" sentence="4" number="28">danger</token>
+<token t_id="139" sentence="4" number="29">of</token>
+<token t_id="140" sentence="4" number="30">the</token>
+<token t_id="141" sentence="4" number="31">threat</token>
+<token t_id="142" sentence="4" number="32">,</token>
+<token t_id="143" sentence="4" number="33">according</token>
+<token t_id="144" sentence="4" number="34">to</token>
+<token t_id="145" sentence="4" number="35">Trend</token>
+<token t_id="146" sentence="4" number="36">Micro</token>
+<token t_id="147" sentence="4" number="37">.</token>
+<token t_id="148" sentence="5" number="0">``</token>
+<token t_id="149" sentence="5" number="1">When</token>
+<token t_id="150" sentence="5" number="2">the</token>
+<token t_id="151" sentence="5" number="3">patch</token>
+<token t_id="152" sentence="5" number="4">is</token>
+<token t_id="153" sentence="5" number="5">released</token>
+<token t_id="154" sentence="5" number="6">people</token>
+<token t_id="155" sentence="5" number="7">should</token>
+<token t_id="156" sentence="5" number="8">run</token>
+<token t_id="157" sentence="5" number="9">,</token>
+<token t_id="158" sentence="5" number="10">not</token>
+<token t_id="159" sentence="5" number="11">walk</token>
+<token t_id="160" sentence="5" number="12">,</token>
+<token t_id="161" sentence="5" number="13">to</token>
+<token t_id="162" sentence="5" number="14">get</token>
+<token t_id="163" sentence="5" number="15">it</token>
+<token t_id="164" sentence="5" number="16">installed</token>
+<token t_id="165" sentence="5" number="17">,</token>
+<token t_id="166" sentence="5" number="18">''</token>
+<token t_id="167" sentence="5" number="19">said</token>
+<token t_id="168" sentence="5" number="20">Trend</token>
+<token t_id="169" sentence="5" number="21">Micro</token>
+<token t_id="170" sentence="5" number="22">advanced</token>
+<token t_id="171" sentence="5" number="23">threat</token>
+<token t_id="172" sentence="5" number="24">researcher</token>
+<token t_id="173" sentence="5" number="25">Paul</token>
+<token t_id="174" sentence="5" number="26">Ferguson</token>
+<token t_id="175" sentence="5" number="27">.</token>
+<token t_id="176" sentence="6" number="0">``</token>
+<token t_id="177" sentence="6" number="1">This</token>
+<token t_id="178" sentence="6" number="2">vulnerability</token>
+<token t_id="179" sentence="6" number="3">is</token>
+<token t_id="180" sentence="6" number="4">being</token>
+<token t_id="181" sentence="6" number="5">actively</token>
+<token t_id="182" sentence="6" number="6">exploited</token>
+<token t_id="183" sentence="6" number="7">by</token>
+<token t_id="184" sentence="6" number="8">cyber-criminals</token>
+<token t_id="185" sentence="6" number="9">and</token>
+<token t_id="186" sentence="6" number="10">getting</token>
+<token t_id="187" sentence="6" number="11">worse</token>
+<token t_id="188" sentence="6" number="12">every</token>
+<token t_id="189" sentence="6" number="13">day</token>
+<token t_id="190" sentence="6" number="14">,</token>
+<token t_id="191" sentence="6" number="15">''</token>
+<token t_id="192" sentence="6" number="16">he</token>
+<token t_id="193" sentence="6" number="17">said</token>
+<token t_id="194" sentence="6" number="18">.</token>
+<token t_id="195" sentence="7" number="0">Trend</token>
+<token t_id="196" sentence="7" number="1">Micro</token>
+<token t_id="197" sentence="7" number="2">has</token>
+<token t_id="198" sentence="7" number="3">identified</token>
+<token t_id="199" sentence="7" number="4">about</token>
+<token t_id="200" sentence="7" number="5">10,000</token>
+<token t_id="201" sentence="7" number="6">Web</token>
+<token t_id="202" sentence="7" number="7">sites</token>
+<token t_id="203" sentence="7" number="8">that</token>
+<token t_id="204" sentence="7" number="9">have</token>
+<token t_id="205" sentence="7" number="10">been</token>
+<token t_id="206" sentence="7" number="11">infected</token>
+<token t_id="207" sentence="7" number="12">with</token>
+<token t_id="208" sentence="7" number="13">malicious</token>
+<token t_id="209" sentence="7" number="14">software</token>
+<token t_id="210" sentence="7" number="15">that</token>
+<token t_id="211" sentence="7" number="16">can</token>
+<token t_id="212" sentence="7" number="17">be</token>
+<token t_id="213" sentence="7" number="18">surreptitiously</token>
+<token t_id="214" sentence="7" number="19">slipped</token>
+<token t_id="215" sentence="7" number="20">into</token>
+<token t_id="216" sentence="7" number="21">visitors</token>
+<token t_id="217" sentence="7" number="22">'</token>
+<token t_id="218" sentence="7" number="23">unprotected</token>
+<token t_id="219" sentence="7" number="24">IE</token>
+<token t_id="220" sentence="7" number="25">browsers</token>
+<token t_id="221" sentence="7" number="26">to</token>
+<token t_id="222" sentence="7" number="27">take</token>
+<token t_id="223" sentence="7" number="28">advantage</token>
+<token t_id="224" sentence="7" number="29">of</token>
+<token t_id="225" sentence="7" number="30">the</token>
+<token t_id="226" sentence="7" number="31">flaw</token>
+<token t_id="227" sentence="7" number="32">.</token>
+<token t_id="228" sentence="8" number="0">``</token>
+<token t_id="229" sentence="8" number="1">What</token>
+<token t_id="230" sentence="8" number="2">makes</token>
+<token t_id="231" sentence="8" number="3">this</token>
+<token t_id="232" sentence="8" number="4">so</token>
+<token t_id="233" sentence="8" number="5">insidious</token>
+<token t_id="234" sentence="8" number="6">it</token>
+<token t_id="235" sentence="8" number="7">takes</token>
+<token t_id="236" sentence="8" number="8">advantage</token>
+<token t_id="237" sentence="8" number="9">of</token>
+<token t_id="238" sentence="8" number="10">a</token>
+<token t_id="239" sentence="8" number="11">big</token>
+<token t_id="240" sentence="8" number="12">gaping</token>
+<token t_id="241" sentence="8" number="13">hole</token>
+<token t_id="242" sentence="8" number="14">of</token>
+<token t_id="243" sentence="8" number="15">IE</token>
+<token t_id="244" sentence="8" number="16">,</token>
+<token t_id="245" sentence="8" number="17">which</token>
+<token t_id="246" sentence="8" number="18">has</token>
+<token t_id="247" sentence="8" number="19">the</token>
+<token t_id="248" sentence="8" number="20">largest</token>
+<token t_id="249" sentence="8" number="21">install</token>
+<token t_id="250" sentence="8" number="22">base</token>
+<token t_id="251" sentence="8" number="23">of</token>
+<token t_id="252" sentence="8" number="24">any</token>
+<token t_id="253" sentence="8" number="25">browser</token>
+<token t_id="254" sentence="8" number="26">on</token>
+<token t_id="255" sentence="8" number="27">the</token>
+<token t_id="256" sentence="8" number="28">market</token>
+<token t_id="257" sentence="8" number="29">,</token>
+<token t_id="258" sentence="8" number="30">''</token>
+<token t_id="259" sentence="8" number="31">Ferguson</token>
+<token t_id="260" sentence="8" number="32">said</token>
+<token t_id="261" sentence="8" number="33">.</token>
+<token t_id="262" sentence="9" number="0">IE</token>
+<token t_id="263" sentence="9" number="1">is</token>
+<token t_id="264" sentence="9" number="2">used</token>
+<token t_id="265" sentence="9" number="3">on</token>
+<token t_id="266" sentence="9" number="4">nearly</token>
+<token t_id="267" sentence="9" number="5">three-quarters</token>
+<token t_id="268" sentence="9" number="6">of</token>
+<token t_id="269" sentence="9" number="7">the</token>
+<token t_id="270" sentence="9" number="8">world</token>
+<token t_id="271" sentence="9" number="9">'s</token>
+<token t_id="272" sentence="9" number="10">computers</token>
+<token t_id="273" sentence="9" number="11">,</token>
+<token t_id="274" sentence="9" number="12">industry</token>
+<token t_id="275" sentence="9" number="13">statistics</token>
+<token t_id="276" sentence="9" number="14">from</token>
+<token t_id="277" sentence="9" number="15">last</token>
+<token t_id="278" sentence="9" number="16">month</token>
+<token t_id="279" sentence="9" number="17">showed</token>
+<token t_id="280" sentence="9" number="18">.</token>
+<token t_id="281" sentence="10" number="0">Microsoft</token>
+<token t_id="282" sentence="10" number="1">'s</token>
+<token t_id="283" sentence="10" number="2">move</token>
+<token t_id="284" sentence="10" number="3">came</token>
+<token t_id="285" sentence="10" number="4">one</token>
+<token t_id="286" sentence="10" number="5">day</token>
+<token t_id="287" sentence="10" number="6">after</token>
+<token t_id="288" sentence="10" number="7">Cisco</token>
+<token t_id="289" sentence="10" number="8">issued</token>
+<token t_id="290" sentence="10" number="9">a</token>
+<token t_id="291" sentence="10" number="10">report</token>
+<token t_id="292" sentence="10" number="11">saying</token>
+<token t_id="293" sentence="10" number="12">armies</token>
+<token t_id="294" sentence="10" number="13">of</token>
+<token t_id="295" sentence="10" number="14">hijacked</token>
+<token t_id="296" sentence="10" number="15">computers</token>
+<token t_id="297" sentence="10" number="16">are</token>
+<token t_id="298" sentence="10" number="17">flooding</token>
+<token t_id="299" sentence="10" number="18">the</token>
+<token t_id="300" sentence="10" number="19">world</token>
+<token t_id="301" sentence="10" number="20">with</token>
+<token t_id="302" sentence="10" number="21">spam</token>
+<token t_id="303" sentence="10" number="22">as</token>
+<token t_id="304" sentence="10" number="23">hackers</token>
+<token t_id="305" sentence="10" number="24">devise</token>
+<token t_id="306" sentence="10" number="25">slicker</token>
+<token t_id="307" sentence="10" number="26">ways</token>
+<token t_id="308" sentence="10" number="27">to</token>
+<token t_id="309" sentence="10" number="28">take</token>
+<token t_id="310" sentence="10" number="29">over</token>
+<token t_id="311" sentence="10" number="30">unwitting</token>
+<token t_id="312" sentence="10" number="31">people</token>
+<token t_id="313" sentence="10" number="32">'s</token>
+<token t_id="314" sentence="10" number="33">machines</token>
+<token t_id="315" sentence="10" number="34">.</token>
+<token t_id="316" sentence="11" number="0">Virus-infected</token>
+<token t_id="317" sentence="11" number="1">computers</token>
+<token t_id="318" sentence="11" number="2">are</token>
+<token t_id="319" sentence="11" number="3">woven</token>
+<token t_id="320" sentence="11" number="4">into</token>
+<token t_id="321" sentence="11" number="5">``</token>
+<token t_id="322" sentence="11" number="6">botnets</token>
+<token t_id="323" sentence="11" number="7">''</token>
+<token t_id="324" sentence="11" number="8">used</token>
+<token t_id="325" sentence="11" number="9">to</token>
+<token t_id="326" sentence="11" number="10">attack</token>
+<token t_id="327" sentence="11" number="11">more</token>
+<token t_id="328" sentence="11" number="12">machines</token>
+<token t_id="329" sentence="11" number="13">and</token>
+<token t_id="330" sentence="11" number="14">to</token>
+<token t_id="331" sentence="11" number="15">send</token>
+<token t_id="332" sentence="11" number="16">specious</token>
+<token t_id="333" sentence="11" number="17">sales</token>
+<token t_id="334" sentence="11" number="18">pitches</token>
+<token t_id="335" sentence="11" number="19">to</token>
+<token t_id="336" sentence="11" number="20">e-mail</token>
+<token t_id="337" sentence="11" number="21">addresses</token>
+<token t_id="338" sentence="11" number="22">in</token>
+<token t_id="339" sentence="11" number="23">low-cost</token>
+<token t_id="340" sentence="11" number="24">quests</token>
+<token t_id="341" sentence="11" number="25">to</token>
+<token t_id="342" sentence="11" number="26">bilk</token>
+<token t_id="343" sentence="11" number="27">readers</token>
+<token t_id="344" sentence="11" number="28">out</token>
+<token t_id="345" sentence="11" number="29">of</token>
+<token t_id="346" sentence="11" number="30">cash</token>
+<token t_id="347" sentence="11" number="31">.</token>
+<token t_id="348" sentence="12" number="0">``</token>
+<token t_id="349" sentence="12" number="1">Every</token>
+<token t_id="350" sentence="12" number="2">year</token>
+<token t_id="351" sentence="12" number="3">we</token>
+<token t_id="352" sentence="12" number="4">see</token>
+<token t_id="353" sentence="12" number="5">threats</token>
+<token t_id="354" sentence="12" number="6">evolve</token>
+<token t_id="355" sentence="12" number="7">as</token>
+<token t_id="356" sentence="12" number="8">criminals</token>
+<token t_id="357" sentence="12" number="9">discover</token>
+<token t_id="358" sentence="12" number="10">new</token>
+<token t_id="359" sentence="12" number="11">ways</token>
+<token t_id="360" sentence="12" number="12">to</token>
+<token t_id="361" sentence="12" number="13">exploit</token>
+<token t_id="362" sentence="12" number="14">people</token>
+<token t_id="363" sentence="12" number="15">,</token>
+<token t_id="364" sentence="12" number="16">networks</token>
+<token t_id="365" sentence="12" number="17">and</token>
+<token t_id="366" sentence="12" number="18">the</token>
+<token t_id="367" sentence="12" number="19">Internet</token>
+<token t_id="368" sentence="12" number="20">,</token>
+<token t_id="369" sentence="12" number="21">''</token>
+<token t_id="370" sentence="12" number="22">Cisco</token>
+<token t_id="371" sentence="12" number="23">chief</token>
+<token t_id="372" sentence="12" number="24">security</token>
+<token t_id="373" sentence="12" number="25">researcher</token>
+<token t_id="374" sentence="12" number="26">Patrick</token>
+<token t_id="375" sentence="12" number="27">Peterson</token>
+<token t_id="376" sentence="12" number="28">said</token>
+<token t_id="377" sentence="12" number="29">.</token>
+<token t_id="378" sentence="13" number="0">This</token>
+<token t_id="379" sentence="13" number="1">year</token>
+<token t_id="380" sentence="13" number="2">,</token>
+<token t_id="381" sentence="13" number="3">botnets</token>
+<token t_id="382" sentence="13" number="4">were</token>
+<token t_id="383" sentence="13" number="5">used</token>
+<token t_id="384" sentence="13" number="6">to</token>
+<token t_id="385" sentence="13" number="7">inject</token>
+<token t_id="386" sentence="13" number="8">an</token>
+<token t_id="387" sentence="13" number="9">array</token>
+<token t_id="388" sentence="13" number="10">of</token>
+<token t_id="389" sentence="13" number="11">legitimate</token>
+<token t_id="390" sentence="13" number="12">Web</token>
+<token t_id="391" sentence="13" number="13">sites</token>
+<token t_id="392" sentence="13" number="14">with</token>
+<token t_id="393" sentence="13" number="15">an</token>
+<token t_id="394" sentence="13" number="16">IFrames</token>
+<token t_id="395" sentence="13" number="17">malicious</token>
+<token t_id="396" sentence="13" number="18">code</token>
+<token t_id="397" sentence="13" number="19">that</token>
+<token t_id="398" sentence="13" number="20">reroutes</token>
+<token t_id="399" sentence="13" number="21">visitors</token>
+<token t_id="400" sentence="13" number="22">to</token>
+<token t_id="401" sentence="13" number="23">Web</token>
+<token t_id="402" sentence="13" number="24">sites</token>
+<token t_id="403" sentence="13" number="25">that</token>
+<token t_id="404" sentence="13" number="26">download</token>
+<token t_id="405" sentence="13" number="27">computer</token>
+<token t_id="406" sentence="13" number="28">viruses</token>
+<token t_id="407" sentence="13" number="29">into</token>
+<token t_id="408" sentence="13" number="30">their</token>
+<token t_id="409" sentence="13" number="31">machines</token>
+<token t_id="410" sentence="13" number="32">,</token>
+<token t_id="411" sentence="13" number="33">Cisco</token>
+<token t_id="412" sentence="13" number="34">said</token>
+<token t_id="413" sentence="13" number="35">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="37"  >
+  <token_anchor t_id="17"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="39"  >
+  <token_anchor t_id="56"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="41"  >
+  <token_anchor t_id="46"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="47"  >
+  <token_anchor t_id="11"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="48"  >
+  <token_anchor t_id="62"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="30"  >
+  <token_anchor t_id="33"/>
+  <token_anchor t_id="34"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="31"  >
+  <token_anchor t_id="25"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="32"  >
+  <token_anchor t_id="50"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="42"  >
+  <token_anchor t_id="41"/>
+</ACTION_REPORTING>
+<ACTION_STATE m_id="50"  >
+  <token_anchor t_id="13"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="51"  >
+  <token_anchor t_id="57"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="52"  >
+  <token_anchor t_id="58"/>
+</ACTION_STATE>
+<HUMAN_PART_ORG m_id="34"  >
+  <token_anchor t_id="39"/>
+  <token_anchor t_id="40"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="35"  >
+  <token_anchor t_id="8"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="36"  >
+  <token_anchor t_id="54"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="49"  >
+  <token_anchor t_id="59"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="45"  >
+  <token_anchor t_id="52"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="33"  >
+  <token_anchor t_id="23"/>
+</HUMAN_PART_PER>
+<LOC_GEO m_id="46"  >
+  <token_anchor t_id="38"/>
+</LOC_GEO>
+<LOC_GEO m_id="56"  >
+  <token_anchor t_id="60"/>
+</LOC_GEO>
+<NON_HUMAN_PART m_id="38"  >
+  <token_anchor t_id="21"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="40"  >
+  <token_anchor t_id="35"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="53"  >
+  <token_anchor t_id="64"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="54"  >
+  <token_anchor t_id="20"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="26"  >
+  <token_anchor t_id="14"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="27"  >
+  <token_anchor t_id="65"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="29"  >
+  <token_anchor t_id="26"/>
+  <token_anchor t_id="27"/>
+</NON_HUMAN_PART>
+<TIME_DATE m_id="43"  >
+  <token_anchor t_id="42"/>
+  <token_anchor t_id="43"/>
+</TIME_DATE>
+<TIME_DATE m_id="28"  >
+  <token_anchor t_id="15"/>
+</TIME_DATE>
+<TIME_DURATION m_id="44"  >
+  <token_anchor t_id="72"/>
+  <token_anchor t_id="73"/>
+</TIME_DURATION>
+
+
+<ACTION_CAUSATIVE m_id="57" note="byCROMER" >
+  <token_anchor t_id="22"/>
+</ACTION_CAUSATIVE>
+
+
+<ACTION_CAUSATIVE m_id="59" RELATED_TO="" TAG_DESCRIPTOR="t27b_facilitating_attacks" instance_id="ACT27376725138038411" />
+<NON_HUMAN_PART m_id="58" RELATED_TO="" TAG_DESCRIPTOR="t27b_computers" instance_id="NON16728230766371174" />
+<HUMAN_PART_PER m_id="70" RELATED_TO="" TAG_DESCRIPTOR="t27_customers" instance_id="HUM16627778540077611" />
+<ACTION_OCCURRENCE m_id="69" RELATED_TO="" TAG_DESCRIPTOR="t27b_hijack_ie" instance_id="ACT27376525645832010" />
+<NON_HUMAN_PART m_id="68" RELATED_TO="" TAG_DESCRIPTOR="t27b_patch" instance_id="NON16727641175459595" />
+<TIME_DATE m_id="67" RELATED_TO="" TAG_DESCRIPTOR="t27b_wednesday_patch" instance_id="TIM27376179174463069" />
+<ACTION_OCCURRENCE m_id="66" RELATED_TO="" TAG_DESCRIPTOR="t27b_releases_update" instance_id="ACT16632487083891659" />
+<ACTION_OCCURRENCE m_id="65" RELATED_TO="" TAG_DESCRIPTOR="t27b_computers_hacked" instance_id="ACT16632565623246075" />
+<HUMAN_PART_ORG m_id="64" RELATED_TO="" TAG_DESCRIPTOR="t27_microsoft" instance_id="HUM16627702263331271" />
+<NON_HUMAN_PART m_id="63" RELATED_TO="" TAG_DESCRIPTOR="t27_IE" instance_id="NON16628072497530110" />
+<ACTION_OCCURRENCE m_id="62" RELATED_TO="" TAG_DESCRIPTOR="t27b_fix_vulnerability" instance_id="ACT16632539609441083" />
+<NON_HUMAN_PART m_id="61" RELATED_TO="" TAG_DESCRIPTOR="t27b_flaw" instance_id="NON16727620231965862" />
+<HUMAN_PART_PER m_id="60" RELATED_TO="" TAG_DESCRIPTOR="t27_hackers_or_attackers" instance_id="HUM16627963455277878" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="37521" note="NON16728230766371174" >
+  <source m_id="40" />
+  <target m_id="58" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37522" note="ACT27376725138038411" >
+  <source m_id="57" />
+  <target m_id="59" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37523" note="HUM16627963455277878" >
+  <source m_id="33" />
+  <target m_id="60" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37524" note="NON16727620231965862" >
+  <source m_id="38" />
+  <target m_id="61" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37525" note="ACT16632539609441083" >
+  <source m_id="37" />
+  <target m_id="62" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37526" note="NON16628072497530110" >
+  <source m_id="29" />
+  <target m_id="63" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37527" note="HUM16627702263331271" >
+  <source m_id="34" />
+  <source m_id="35" />
+  <source m_id="36" />
+  <target m_id="64" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37528" note="ACT16632565623246075" >
+  <source m_id="30" />
+  <source m_id="32" />
+  <target m_id="65" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37529" note="ACT16632487083891659" >
+  <source m_id="47" />
+  <source m_id="48" />
+  <target m_id="66" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37530" note="TIM27376179174463069" >
+  <source m_id="28" />
+  <target m_id="67" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37531" note="NON16727641175459595" >
+  <source m_id="26" />
+  <source m_id="27" />
+  <target m_id="68" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37532" note="ACT27376525645832010" >
+  <source m_id="31" />
+  <target m_id="69" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="37533" note="HUM16627778540077611" >
+  <source m_id="45" />
+  <target m_id="70" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

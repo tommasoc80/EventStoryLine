@@ -1,0 +1,760 @@
+<Document doc_name="20_8ecbplus.xml" doc_id="DOC15646278194040992">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">query</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">nytimes</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<token t_id="9" sentence="0" number="8">com</token>
+<token t_id="10" sentence="0" number="9">/</token>
+<token t_id="11" sentence="0" number="10">gst</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">fullpage</token>
+<token t_id="14" sentence="0" number="13">.</token>
+<token t_id="15" sentence="0" number="14">html</token>
+<token t_id="16" sentence="0" number="15">?</token>
+<token t_id="17" sentence="0" number="16">res=9A0DE2DE1431F93BA15752C1A9639C8B63</token>
+<token t_id="18" sentence="1" number="0">Powerful</token>
+<token t_id="19" sentence="1" number="1">Quake</token>
+<token t_id="20" sentence="1" number="2">in</token>
+<token t_id="21" sentence="1" number="3">Iran</token>
+<token t_id="22" sentence="1" number="4">Kills</token>
+<token t_id="23" sentence="1" number="5">10</token>
+<token t_id="24" sentence="1" number="6">;</token>
+<token t_id="25" sentence="1" number="7">80</token>
+<token t_id="26" sentence="1" number="8">Hurt</token>
+<token t_id="27" sentence="1" number="9">and</token>
+<token t_id="28" sentence="1" number="10">7</token>
+<token t_id="29" sentence="1" number="11">Villages</token>
+<token t_id="30" sentence="1" number="12">Damaged</token>
+<token t_id="31" sentence="2" number="0">Published</token>
+<token t_id="32" sentence="2" number="1">:</token>
+<token t_id="33" sentence="2" number="2">November</token>
+<token t_id="34" sentence="2" number="3">28</token>
+<token t_id="35" sentence="2" number="4">,</token>
+<token t_id="36" sentence="2" number="5">2005</token>
+<token t_id="37" sentence="3" number="0">A</token>
+<token t_id="38" sentence="3" number="1">powerful</token>
+<token t_id="39" sentence="3" number="2">earthquake</token>
+<token t_id="40" sentence="3" number="3">hit</token>
+<token t_id="41" sentence="3" number="4">southern</token>
+<token t_id="42" sentence="3" number="5">Iran</token>
+<token t_id="43" sentence="3" number="6">on</token>
+<token t_id="44" sentence="3" number="7">Sunday</token>
+<token t_id="45" sentence="3" number="8">,</token>
+<token t_id="46" sentence="3" number="9">causing</token>
+<token t_id="47" sentence="3" number="10">major</token>
+<token t_id="48" sentence="3" number="11">destruction</token>
+<token t_id="49" sentence="3" number="12">in</token>
+<token t_id="50" sentence="3" number="13">seven</token>
+<token t_id="51" sentence="3" number="14">villages</token>
+<token t_id="52" sentence="3" number="15">and</token>
+<token t_id="53" sentence="3" number="16">killing</token>
+<token t_id="54" sentence="3" number="17">10</token>
+<token t_id="55" sentence="3" number="18">people</token>
+<token t_id="56" sentence="3" number="19">and</token>
+<token t_id="57" sentence="3" number="20">injuring</token>
+<token t_id="58" sentence="3" number="21">80</token>
+<token t_id="59" sentence="3" number="22">.</token>
+<token t_id="60" sentence="4" number="0">The</token>
+<token t_id="61" sentence="4" number="1">tremor</token>
+<token t_id="62" sentence="4" number="2">shook</token>
+<token t_id="63" sentence="4" number="3">Oman</token>
+<token t_id="64" sentence="4" number="4">and</token>
+<token t_id="65" sentence="4" number="5">the</token>
+<token t_id="66" sentence="4" number="6">United</token>
+<token t_id="67" sentence="4" number="7">Arab</token>
+<token t_id="68" sentence="4" number="8">Emirates</token>
+<token t_id="69" sentence="4" number="9">as</token>
+<token t_id="70" sentence="4" number="10">well</token>
+<token t_id="71" sentence="4" number="11">,</token>
+<token t_id="72" sentence="4" number="12">forcing</token>
+<token t_id="73" sentence="4" number="13">many</token>
+<token t_id="74" sentence="4" number="14">office</token>
+<token t_id="75" sentence="4" number="15">workers</token>
+<token t_id="76" sentence="4" number="16">to</token>
+<token t_id="77" sentence="4" number="17">evacuate</token>
+<token t_id="78" sentence="4" number="18">their</token>
+<token t_id="79" sentence="4" number="19">buildings</token>
+<token t_id="80" sentence="4" number="20">.</token>
+<token t_id="81" sentence="5" number="0">The</token>
+<token t_id="82" sentence="5" number="1">official</token>
+<token t_id="83" sentence="5" number="2">IRNA</token>
+<token t_id="84" sentence="5" number="3">news</token>
+<token t_id="85" sentence="5" number="4">agency</token>
+<token t_id="86" sentence="5" number="5">and</token>
+<token t_id="87" sentence="5" number="6">the</token>
+<token t_id="88" sentence="5" number="7">United</token>
+<token t_id="89" sentence="5" number="8">States</token>
+<token t_id="90" sentence="5" number="9">Geological</token>
+<token t_id="91" sentence="5" number="10">Survey</token>
+<token t_id="92" sentence="5" number="11">said</token>
+<token t_id="93" sentence="5" number="12">it</token>
+<token t_id="94" sentence="5" number="13">had</token>
+<token t_id="95" sentence="5" number="14">a</token>
+<token t_id="96" sentence="5" number="15">magnitude</token>
+<token t_id="97" sentence="5" number="16">of</token>
+<token t_id="98" sentence="5" number="17">5</token>
+<token t_id="99" sentence="5" number="18">.</token>
+<token t_id="100" sentence="5" number="19">9</token>
+<token t_id="101" sentence="5" number="20">.</token>
+<token t_id="102" sentence="6" number="0">Iran's</token>
+<token t_id="103" sentence="6" number="1">seismologic</token>
+<token t_id="104" sentence="6" number="2">center</token>
+<token t_id="105" sentence="6" number="3">said</token>
+<token t_id="106" sentence="6" number="4">the</token>
+<token t_id="107" sentence="6" number="5">epicenter</token>
+<token t_id="108" sentence="6" number="6">of</token>
+<token t_id="109" sentence="6" number="7">the</token>
+<token t_id="110" sentence="6" number="8">earthquake</token>
+<token t_id="111" sentence="6" number="9">was</token>
+<token t_id="112" sentence="6" number="10">in</token>
+<token t_id="113" sentence="6" number="11">the</token>
+<token t_id="114" sentence="6" number="12">waters</token>
+<token t_id="115" sentence="6" number="13">of</token>
+<token t_id="116" sentence="6" number="14">the</token>
+<token t_id="117" sentence="6" number="15">Persian</token>
+<token t_id="118" sentence="6" number="16">Gulf</token>
+<token t_id="119" sentence="6" number="17">,</token>
+<token t_id="120" sentence="6" number="18">35</token>
+<token t_id="121" sentence="6" number="19">miles</token>
+<token t_id="122" sentence="6" number="20">southwest</token>
+<token t_id="123" sentence="6" number="21">of</token>
+<token t_id="124" sentence="6" number="22">the</token>
+<token t_id="125" sentence="6" number="23">port</token>
+<token t_id="126" sentence="6" number="24">of</token>
+<token t_id="127" sentence="6" number="25">Bandar</token>
+<token t_id="128" sentence="6" number="26">Abbas</token>
+<token t_id="129" sentence="6" number="27">.</token>
+<token t_id="130" sentence="7" number="0">Iran</token>
+<token t_id="131" sentence="7" number="1">is</token>
+<token t_id="132" sentence="7" number="2">on</token>
+<token t_id="133" sentence="7" number="3">seismic</token>
+<token t_id="134" sentence="7" number="4">fault</token>
+<token t_id="135" sentence="7" number="5">lines</token>
+<token t_id="136" sentence="7" number="6">.</token>
+<token t_id="137" sentence="8" number="0">A</token>
+<token t_id="138" sentence="8" number="1">major</token>
+<token t_id="139" sentence="8" number="2">earthquake</token>
+<token t_id="140" sentence="8" number="3">killed</token>
+<token t_id="141" sentence="8" number="4">more</token>
+<token t_id="142" sentence="8" number="5">than</token>
+<token t_id="143" sentence="8" number="6">31</token>
+<token t_id="144" sentence="8" number="7">,</token>
+<token t_id="145" sentence="8" number="8">000</token>
+<token t_id="146" sentence="8" number="9">in</token>
+<token t_id="147" sentence="8" number="10">city</token>
+<token t_id="148" sentence="8" number="11">of</token>
+<token t_id="149" sentence="8" number="12">Bam</token>
+<token t_id="150" sentence="8" number="13">in</token>
+<token t_id="151" sentence="8" number="14">central</token>
+<token t_id="152" sentence="8" number="15">Iran</token>
+<token t_id="153" sentence="8" number="16">in</token>
+<token t_id="154" sentence="8" number="17">2003</token>
+<token t_id="155" sentence="8" number="18">,</token>
+<token t_id="156" sentence="8" number="19">and</token>
+<token t_id="157" sentence="8" number="20">600</token>
+<token t_id="158" sentence="8" number="21">were</token>
+<token t_id="159" sentence="8" number="22">killed</token>
+<token t_id="160" sentence="8" number="23">in</token>
+<token t_id="161" sentence="8" number="24">the</token>
+<token t_id="162" sentence="8" number="25">city</token>
+<token t_id="163" sentence="8" number="26">of</token>
+<token t_id="164" sentence="8" number="27">Zarand</token>
+<token t_id="165" sentence="8" number="28">in</token>
+<token t_id="166" sentence="8" number="29">February</token>
+<token t_id="167" sentence="8" number="30">in</token>
+<token t_id="168" sentence="8" number="31">an</token>
+<token t_id="169" sentence="8" number="32">earthquake</token>
+<token t_id="170" sentence="8" number="33">with</token>
+<token t_id="171" sentence="8" number="34">a</token>
+<token t_id="172" sentence="8" number="35">magnitude</token>
+<token t_id="173" sentence="8" number="36">of</token>
+<token t_id="174" sentence="8" number="37">6</token>
+<token t_id="175" sentence="8" number="38">.</token>
+<token t_id="176" sentence="8" number="39">4</token>
+<token t_id="177" sentence="8" number="40">.</token>
+<token t_id="178" sentence="9" number="0">The</token>
+<token t_id="179" sentence="9" number="1">tourist</token>
+<token t_id="180" sentence="9" number="2">Island</token>
+<token t_id="181" sentence="9" number="3">of</token>
+<token t_id="182" sentence="9" number="4">Qeshm</token>
+<token t_id="183" sentence="9" number="5">on</token>
+<token t_id="184" sentence="9" number="6">the</token>
+<token t_id="185" sentence="9" number="7">Persian</token>
+<token t_id="186" sentence="9" number="8">Gulf</token>
+<token t_id="187" sentence="9" number="9">and</token>
+<token t_id="188" sentence="9" number="10">seven</token>
+<token t_id="189" sentence="9" number="11">of</token>
+<token t_id="190" sentence="9" number="12">its</token>
+<token t_id="191" sentence="9" number="13">villages</token>
+<token t_id="192" sentence="9" number="14">were</token>
+<token t_id="193" sentence="9" number="15">most</token>
+<token t_id="194" sentence="9" number="16">strongly</token>
+<token t_id="195" sentence="9" number="17">affected</token>
+<token t_id="196" sentence="9" number="18">by</token>
+<token t_id="197" sentence="9" number="19">the</token>
+<token t_id="198" sentence="9" number="20">quake</token>
+<token t_id="199" sentence="9" number="21">.</token>
+<token t_id="200" sentence="10" number="0">It</token>
+<token t_id="201" sentence="10" number="1">hit</token>
+<token t_id="202" sentence="10" number="2">at</token>
+<token t_id="203" sentence="10" number="3">1</token>
+<token t_id="204" sentence="10" number="4">:</token>
+<token t_id="205" sentence="10" number="5">53</token>
+<token t_id="206" sentence="10" number="6">p</token>
+<token t_id="207" sentence="10" number="7">.</token>
+<token t_id="208" sentence="10" number="8">m</token>
+<token t_id="209" sentence="10" number="9">.</token>
+<token t_id="210" sentence="10" number="10">local</token>
+<token t_id="211" sentence="10" number="11">time</token>
+<token t_id="212" sentence="10" number="12">and</token>
+<token t_id="213" sentence="10" number="13">was</token>
+<token t_id="214" sentence="10" number="14">followed</token>
+<token t_id="215" sentence="10" number="15">by</token>
+<token t_id="216" sentence="10" number="16">at</token>
+<token t_id="217" sentence="10" number="17">least</token>
+<token t_id="218" sentence="10" number="18">four</token>
+<token t_id="219" sentence="10" number="19">strong</token>
+<token t_id="220" sentence="10" number="20">aftershocks</token>
+<token t_id="221" sentence="10" number="21">,</token>
+<token t_id="222" sentence="10" number="22">IRNA</token>
+<token t_id="223" sentence="10" number="23">reported</token>
+<token t_id="224" sentence="10" number="24">.</token>
+<token t_id="225" sentence="11" number="0">The</token>
+<token t_id="226" sentence="11" number="1">news</token>
+<token t_id="227" sentence="11" number="2">agency</token>
+<token t_id="228" sentence="11" number="3">also</token>
+<token t_id="229" sentence="11" number="4">reported</token>
+<token t_id="230" sentence="11" number="5">that</token>
+<token t_id="231" sentence="11" number="6">one</token>
+<token t_id="232" sentence="11" number="7">of</token>
+<token t_id="233" sentence="11" number="8">the</token>
+<token t_id="234" sentence="11" number="9">major</token>
+<token t_id="235" sentence="11" number="10">hospitals</token>
+<token t_id="236" sentence="11" number="11">on</token>
+<token t_id="237" sentence="11" number="12">the</token>
+<token t_id="238" sentence="11" number="13">island</token>
+<token t_id="239" sentence="11" number="14">,</token>
+<token t_id="240" sentence="11" number="15">in</token>
+<token t_id="241" sentence="11" number="16">the</token>
+<token t_id="242" sentence="11" number="17">village</token>
+<token t_id="243" sentence="11" number="18">of</token>
+<token t_id="244" sentence="11" number="19">Jeyhian</token>
+<token t_id="245" sentence="11" number="20">,</token>
+<token t_id="246" sentence="11" number="21">was</token>
+<token t_id="247" sentence="11" number="22">destroyed</token>
+<token t_id="248" sentence="11" number="23">and</token>
+<token t_id="249" sentence="11" number="24">the</token>
+<token t_id="250" sentence="11" number="25">village's</token>
+<token t_id="251" sentence="11" number="26">power</token>
+<token t_id="252" sentence="11" number="27">lines</token>
+<token t_id="253" sentence="11" number="28">were</token>
+<token t_id="254" sentence="11" number="29">cut</token>
+<token t_id="255" sentence="11" number="30">.</token>
+<token t_id="256" sentence="12" number="0">The</token>
+<token t_id="257" sentence="12" number="1">island's</token>
+<token t_id="258" sentence="12" number="2">airport</token>
+<token t_id="259" sentence="12" number="3">was</token>
+<token t_id="260" sentence="12" number="4">also</token>
+<token t_id="261" sentence="12" number="5">damaged</token>
+<token t_id="262" sentence="12" number="6">.</token>
+<token t_id="263" sentence="13" number="0">Abdolreza</token>
+<token t_id="264" sentence="13" number="1">Sheikholeslami</token>
+<token t_id="265" sentence="13" number="2">,</token>
+<token t_id="266" sentence="13" number="3">the</token>
+<token t_id="267" sentence="13" number="4">governor</token>
+<token t_id="268" sentence="13" number="5">of</token>
+<token t_id="269" sentence="13" number="6">Hormozgan</token>
+<token t_id="270" sentence="13" number="7">Province</token>
+<token t_id="271" sentence="13" number="8">,</token>
+<token t_id="272" sentence="13" number="9">the</token>
+<token t_id="273" sentence="13" number="10">center</token>
+<token t_id="274" sentence="13" number="11">of</token>
+<token t_id="275" sentence="13" number="12">the</token>
+<token t_id="276" sentence="13" number="13">damaged</token>
+<token t_id="277" sentence="13" number="14">area</token>
+<token t_id="278" sentence="13" number="15">,</token>
+<token t_id="279" sentence="13" number="16">said</token>
+<token t_id="280" sentence="13" number="17">40</token>
+<token t_id="281" sentence="13" number="18">percent</token>
+<token t_id="282" sentence="13" number="19">to</token>
+<token t_id="283" sentence="13" number="20">70</token>
+<token t_id="284" sentence="13" number="21">percent</token>
+<token t_id="285" sentence="13" number="22">of</token>
+<token t_id="286" sentence="13" number="23">the</token>
+<token t_id="287" sentence="13" number="24">buildings</token>
+<token t_id="288" sentence="13" number="25">in</token>
+<token t_id="289" sentence="13" number="26">seven</token>
+<token t_id="290" sentence="13" number="27">villages</token>
+<token t_id="291" sentence="13" number="28">were</token>
+<token t_id="292" sentence="13" number="29">destroyed</token>
+<token t_id="293" sentence="13" number="30">,</token>
+<token t_id="294" sentence="13" number="31">IRNA</token>
+<token t_id="295" sentence="13" number="32">reported</token>
+<token t_id="296" sentence="13" number="33">.</token>
+<token t_id="297" sentence="14" number="0">Two</token>
+<token t_id="298" sentence="14" number="1">helicopters</token>
+<token t_id="299" sentence="14" number="2">began</token>
+<token t_id="300" sentence="14" number="3">moving</token>
+<token t_id="301" sentence="14" number="4">the</token>
+<token t_id="302" sentence="14" number="5">injured</token>
+<token t_id="303" sentence="14" number="6">to</token>
+<token t_id="304" sentence="14" number="7">the</token>
+<token t_id="305" sentence="14" number="8">hospital</token>
+<token t_id="306" sentence="14" number="9">in</token>
+<token t_id="307" sentence="14" number="10">Bandar</token>
+<token t_id="308" sentence="14" number="11">Abbas</token>
+<token t_id="309" sentence="14" number="12">,</token>
+<token t_id="310" sentence="14" number="13">and</token>
+<token t_id="311" sentence="14" number="14">aid</token>
+<token t_id="312" sentence="14" number="15">workers</token>
+<token t_id="313" sentence="14" number="16">began</token>
+<token t_id="314" sentence="14" number="17">distributing</token>
+<token t_id="315" sentence="14" number="18">food</token>
+<token t_id="316" sentence="14" number="19">,</token>
+<token t_id="317" sentence="14" number="20">blankets</token>
+<token t_id="318" sentence="14" number="21">and</token>
+<token t_id="319" sentence="14" number="22">tents</token>
+<token t_id="320" sentence="14" number="23">in</token>
+<token t_id="321" sentence="14" number="24">the</token>
+<token t_id="322" sentence="14" number="25">region</token>
+<token t_id="323" sentence="14" number="26">,</token>
+<token t_id="324" sentence="14" number="27">the</token>
+<token t_id="325" sentence="14" number="28">governor</token>
+<token t_id="326" sentence="14" number="29">said</token>
+<token t_id="327" sentence="14" number="30">.</token>
+<token t_id="328" sentence="15" number="0">Qeshm</token>
+<token t_id="329" sentence="15" number="1">is</token>
+<token t_id="330" sentence="15" number="2">Iran's</token>
+<token t_id="331" sentence="15" number="3">largest</token>
+<token t_id="332" sentence="15" number="4">island</token>
+<token t_id="333" sentence="15" number="5">in</token>
+<token t_id="334" sentence="15" number="6">the</token>
+<token t_id="335" sentence="15" number="7">Persian</token>
+<token t_id="336" sentence="15" number="8">Gulf</token>
+<token t_id="337" sentence="15" number="9">,</token>
+<token t_id="338" sentence="15" number="10">with</token>
+<token t_id="339" sentence="15" number="11">a</token>
+<token t_id="340" sentence="15" number="12">population</token>
+<token t_id="341" sentence="15" number="13">of</token>
+<token t_id="342" sentence="15" number="14">120</token>
+<token t_id="343" sentence="15" number="15">,</token>
+<token t_id="344" sentence="15" number="16">000</token>
+<token t_id="345" sentence="15" number="17">.</token>
+<token t_id="346" sentence="16" number="0">The</token>
+<token t_id="347" sentence="16" number="1">quake</token>
+<token t_id="348" sentence="16" number="2">jolted</token>
+<token t_id="349" sentence="16" number="3">several</token>
+<token t_id="350" sentence="16" number="4">cities</token>
+<token t_id="351" sentence="16" number="5">in</token>
+<token t_id="352" sentence="16" number="6">the</token>
+<token t_id="353" sentence="16" number="7">United</token>
+<token t_id="354" sentence="16" number="8">Arab</token>
+<token t_id="355" sentence="16" number="9">Emirates</token>
+<token t_id="356" sentence="16" number="10">,</token>
+<token t_id="357" sentence="16" number="11">across</token>
+<token t_id="358" sentence="16" number="12">the</token>
+<token t_id="359" sentence="16" number="13">Persian</token>
+<token t_id="360" sentence="16" number="14">Gulf</token>
+<token t_id="361" sentence="16" number="15">from</token>
+<token t_id="362" sentence="16" number="16">Iran</token>
+<token t_id="363" sentence="16" number="17">.</token>
+<token t_id="364" sentence="17" number="0">Office</token>
+<token t_id="365" sentence="17" number="1">workers</token>
+<token t_id="366" sentence="17" number="2">in</token>
+<token t_id="367" sentence="17" number="3">Dubai</token>
+<token t_id="368" sentence="17" number="4">,</token>
+<token t_id="369" sentence="17" number="5">United</token>
+<token t_id="370" sentence="17" number="6">Arab</token>
+<token t_id="371" sentence="17" number="7">Emirates</token>
+<token t_id="372" sentence="17" number="8">,</token>
+<token t_id="373" sentence="17" number="9">evacuated</token>
+<token t_id="374" sentence="17" number="10">several</token>
+<token t_id="375" sentence="17" number="11">buildings</token>
+<token t_id="376" sentence="17" number="12">in</token>
+<token t_id="377" sentence="17" number="13">the</token>
+<token t_id="378" sentence="17" number="14">city</token>
+<token t_id="379" sentence="17" number="15">,</token>
+<token t_id="380" sentence="17" number="16">pouring</token>
+<token t_id="381" sentence="17" number="17">onto</token>
+<token t_id="382" sentence="17" number="18">the</token>
+<token t_id="383" sentence="17" number="19">streets</token>
+<token t_id="384" sentence="17" number="20">and</token>
+<token t_id="385" sentence="17" number="21">snarling</token>
+<token t_id="386" sentence="17" number="22">traffic</token>
+<token t_id="387" sentence="17" number="23">.</token>
+<token t_id="388" sentence="18" number="0">There</token>
+<token t_id="389" sentence="18" number="1">were</token>
+<token t_id="390" sentence="18" number="2">no</token>
+<token t_id="391" sentence="18" number="3">reported</token>
+<token t_id="392" sentence="18" number="4">injuries</token>
+<token t_id="393" sentence="18" number="5">in</token>
+<token t_id="394" sentence="18" number="6">Dubai</token>
+<token t_id="395" sentence="18" number="7">.</token>
+<token t_id="396" sentence="19" number="0">Mehdi</token>
+<token t_id="397" sentence="19" number="1">Zareh</token>
+<token t_id="398" sentence="19" number="2">,</token>
+<token t_id="399" sentence="19" number="3">director</token>
+<token t_id="400" sentence="19" number="4">of</token>
+<token t_id="401" sentence="19" number="5">the</token>
+<token t_id="402" sentence="19" number="6">seismological</token>
+<token t_id="403" sentence="19" number="7">center</token>
+<token t_id="404" sentence="19" number="8">in</token>
+<token t_id="405" sentence="19" number="9">Tehran</token>
+<token t_id="406" sentence="19" number="10">,</token>
+<token t_id="407" sentence="19" number="11">dismissed</token>
+<token t_id="408" sentence="19" number="12">concerns</token>
+<token t_id="409" sentence="19" number="13">that</token>
+<token t_id="410" sentence="19" number="14">the</token>
+<token t_id="411" sentence="19" number="15">earthquake</token>
+<token t_id="412" sentence="19" number="16">would</token>
+<token t_id="413" sentence="19" number="17">cause</token>
+<token t_id="414" sentence="19" number="18">tsunamis</token>
+<token t_id="415" sentence="19" number="19">,</token>
+<token t_id="416" sentence="19" number="20">IRNA</token>
+<token t_id="417" sentence="19" number="21">reported</token>
+<token t_id="418" sentence="19" number="22">.</token>
+<token t_id="419" sentence="20" number="0">''The</token>
+<token t_id="420" sentence="20" number="1">Persian</token>
+<token t_id="421" sentence="20" number="2">Gulf</token>
+<token t_id="422" sentence="20" number="3">is</token>
+<token t_id="423" sentence="20" number="4">not</token>
+<token t_id="424" sentence="20" number="5">deep</token>
+<token t_id="425" sentence="20" number="6">enough</token>
+<token t_id="426" sentence="20" number="7">so</token>
+<token t_id="427" sentence="20" number="8">that</token>
+<token t_id="428" sentence="20" number="9">we</token>
+<token t_id="429" sentence="20" number="10">can</token>
+<token t_id="430" sentence="20" number="11">expect</token>
+<token t_id="431" sentence="20" number="12">tsunamis</token>
+<token t_id="432" sentence="20" number="13">,</token>
+<token t_id="433" sentence="20" number="14">''</token>
+<token t_id="434" sentence="20" number="15">he</token>
+<token t_id="435" sentence="20" number="16">was</token>
+<token t_id="436" sentence="20" number="17">quoted</token>
+<token t_id="437" sentence="20" number="18">as</token>
+<token t_id="438" sentence="20" number="19">saying</token>
+<token t_id="439" sentence="20" number="20">.</token>
+<token t_id="440" sentence="21" number="0">Map</token>
+<token t_id="441" sentence="21" number="1">of</token>
+<token t_id="442" sentence="21" number="2">Iran</token>
+<token t_id="443" sentence="21" number="3">highlighting</token>
+<token t_id="444" sentence="21" number="4">epicenter</token>
+<token t_id="445" sentence="21" number="5">of</token>
+<token t_id="446" sentence="21" number="6">earthquake</token>
+<token t_id="447" sentence="21" number="7">:</token>
+<token t_id="448" sentence="21" number="8">A</token>
+<token t_id="449" sentence="21" number="9">tremor</token>
+<token t_id="450" sentence="21" number="10">shook</token>
+<token t_id="451" sentence="21" number="11">southern</token>
+<token t_id="452" sentence="21" number="12">Iran</token>
+<token t_id="453" sentence="21" number="13">yesterday</token>
+<token t_id="454" sentence="21" number="14">,</token>
+<token t_id="455" sentence="21" number="15">causing</token>
+<token t_id="456" sentence="21" number="16">major</token>
+<token t_id="457" sentence="21" number="17">damage</token>
+<token t_id="458" sentence="21" number="18">.</token>
+<Markables>
+<ACTION_ASPECTUAL m_id="29"  >
+  <token_anchor t_id="214"/>
+</ACTION_ASPECTUAL>
+<ACTION_CAUSATIVE m_id="13"  >
+  <token_anchor t_id="46"/>
+</ACTION_CAUSATIVE>
+<ACTION_OCCURRENCE m_id="9"  >
+  <token_anchor t_id="53"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="10"  >
+  <token_anchor t_id="57"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="44"  >
+  <token_anchor t_id="292"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="23"  >
+  <token_anchor t_id="195"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="24"  >
+  <token_anchor t_id="198"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="25"  >
+  <token_anchor t_id="201"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="26"  >
+  <token_anchor t_id="200"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="27"  >
+  <token_anchor t_id="220"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="2"  >
+  <token_anchor t_id="19"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="3"  >
+  <token_anchor t_id="22"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="35"  >
+  <token_anchor t_id="247"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="4"  >
+  <token_anchor t_id="26"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="36"  >
+  <token_anchor t_id="261"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="5"  >
+  <token_anchor t_id="30"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="37"  >
+  <token_anchor t_id="254"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="6"  >
+  <token_anchor t_id="39"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="7"  >
+  <token_anchor t_id="40"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="8"  >
+  <token_anchor t_id="48"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="43"  >
+  <token_anchor t_id="279"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="46"  >
+  <token_anchor t_id="295"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="31"  >
+  <token_anchor t_id="223"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="32"  >
+  <token_anchor t_id="229"/>
+</ACTION_REPORTING>
+<HUMAN_PART_ORG m_id="45"  >
+  <token_anchor t_id="294"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="30"  >
+  <token_anchor t_id="222"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="34"  >
+  <token_anchor t_id="226"/>
+  <token_anchor t_id="227"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="41"  >
+  <token_anchor t_id="267"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="15"  >
+  <token_anchor t_id="55"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="16"  >
+  <token_anchor t_id="58"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="17"  >
+  <token_anchor t_id="23"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="18"  >
+  <token_anchor t_id="25"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="40"  >
+  <token_anchor t_id="263"/>
+  <token_anchor t_id="264"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="33"  >
+  <token_anchor t_id="231"/>
+  <token_anchor t_id="232"/>
+  <token_anchor t_id="233"/>
+  <token_anchor t_id="234"/>
+  <token_anchor t_id="235"/>
+  <token_anchor t_id="236"/>
+  <token_anchor t_id="237"/>
+  <token_anchor t_id="238"/>
+  <token_anchor t_id="239"/>
+  <token_anchor t_id="240"/>
+  <token_anchor t_id="241"/>
+  <token_anchor t_id="242"/>
+  <token_anchor t_id="243"/>
+  <token_anchor t_id="244"/>
+</LOC_FAC>
+<LOC_FAC m_id="38"  >
+  <token_anchor t_id="258"/>
+</LOC_FAC>
+<LOC_GEO m_id="42"  >
+  <token_anchor t_id="269"/>
+  <token_anchor t_id="270"/>
+  <token_anchor t_id="271"/>
+  <token_anchor t_id="272"/>
+  <token_anchor t_id="273"/>
+  <token_anchor t_id="274"/>
+  <token_anchor t_id="275"/>
+  <token_anchor t_id="276"/>
+  <token_anchor t_id="277"/>
+</LOC_GEO>
+<LOC_GEO m_id="11"  >
+  <token_anchor t_id="41"/>
+  <token_anchor t_id="42"/>
+</LOC_GEO>
+<LOC_GEO m_id="19"  >
+  <token_anchor t_id="20"/>
+  <token_anchor t_id="21"/>
+</LOC_GEO>
+<LOC_GEO m_id="21"  >
+  <token_anchor t_id="178"/>
+  <token_anchor t_id="179"/>
+  <token_anchor t_id="180"/>
+  <token_anchor t_id="181"/>
+  <token_anchor t_id="182"/>
+  <token_anchor t_id="183"/>
+  <token_anchor t_id="184"/>
+  <token_anchor t_id="185"/>
+  <token_anchor t_id="186"/>
+</LOC_GEO>
+<NON_HUMAN_PART m_id="49"  >
+  <token_anchor t_id="287"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="39"  >
+  <token_anchor t_id="251"/>
+  <token_anchor t_id="252"/>
+</NON_HUMAN_PART>
+<TIME_DATE m_id="12"  >
+  <token_anchor t_id="43"/>
+  <token_anchor t_id="44"/>
+</TIME_DATE>
+<TIME_DATE m_id="1"  >
+  <token_anchor t_id="33"/>
+  <token_anchor t_id="34"/>
+  <token_anchor t_id="35"/>
+  <token_anchor t_id="36"/>
+</TIME_DATE>
+<TIME_OF_THE_DAY m_id="28"  >
+  <token_anchor t_id="202"/>
+  <token_anchor t_id="203"/>
+  <token_anchor t_id="204"/>
+  <token_anchor t_id="205"/>
+  <token_anchor t_id="206"/>
+  <token_anchor t_id="207"/>
+  <token_anchor t_id="208"/>
+  <token_anchor t_id="209"/>
+  <token_anchor t_id="210"/>
+  <token_anchor t_id="211"/>
+</TIME_OF_THE_DAY>
+
+
+<NON_HUMAN_PART m_id="52" note="byCROMER" >
+  <token_anchor t_id="28"/>
+  <token_anchor t_id="29"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="53" note="byCROMER" >
+  <token_anchor t_id="188"/>
+  <token_anchor t_id="189"/>
+  <token_anchor t_id="190"/>
+  <token_anchor t_id="191"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="54" note="byCROMER" >
+  <token_anchor t_id="288"/>
+  <token_anchor t_id="289"/>
+  <token_anchor t_id="290"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="55" note="byCROMER" >
+  <token_anchor t_id="49"/>
+  <token_anchor t_id="50"/>
+  <token_anchor t_id="51"/>
+</NON_HUMAN_PART>
+
+
+<LOC_GEO m_id="69" RELATED_TO="" TAG_DESCRIPTOR="t20_southern_iran" instance_id="LOC18003255740560286" />
+<HUMAN_PART_PER m_id="68" RELATED_TO="" TAG_DESCRIPTOR="t20_people_killed" instance_id="HUM18002010984170151" />
+<ACTION_OCCURRENCE m_id="67" RELATED_TO="" TAG_DESCRIPTOR="t20_injured" instance_id="ACT17821791897870910" />
+<ACTION_OCCURRENCE m_id="66" RELATED_TO="" TAG_DESCRIPTOR="t20_aftershocks" instance_id="ACT17821815048905207" />
+<LOC_GEO m_id="65" RELATED_TO="" TAG_DESCRIPTOR="t20_qeshm" instance_id="LOC18002535573514489" />
+<ACTION_OCCURRENCE m_id="64" RELATED_TO="" TAG_DESCRIPTOR="t20_destroyed_villages" instance_id="ACT17822267297450810" />
+<LOC_FAC m_id="63" RELATED_TO="" TAG_DESCRIPTOR="t20_airport" instance_id="LOC18003536389638637" />
+<ACTION_OCCURRENCE m_id="62" RELATED_TO="" TAG_DESCRIPTOR="t20_earthquake" instance_id="ACT17821472137518203" />
+<NON_HUMAN_PART m_id="61" RELATED_TO="" TAG_DESCRIPTOR="t20_villages" instance_id="NON18002560353210415" />
+<HUMAN_PART_PER m_id="60" RELATED_TO="" TAG_DESCRIPTOR="t20_injured_people" instance_id="HUM18001993603753566" />
+<LOC_GEO m_id="70" RELATED_TO="" TAG_DESCRIPTOR="t20_hormozgan" instance_id="LOC18002501073683239" />
+<ACTION_OCCURRENCE m_id="59" RELATED_TO="" TAG_DESCRIPTOR="t20_struck" instance_id="ACT17822303993286740" />
+<ACTION_OCCURRENCE m_id="58" RELATED_TO="" TAG_DESCRIPTOR="t20_killed" instance_id="ACT17821802167919676" />
+<TIME_DATE m_id="57" RELATED_TO="" TAG_DESCRIPTOR="t20_sunday" instance_id="TIM18002581115380876" />
+<LOC_FAC m_id="56" RELATED_TO="" TAG_DESCRIPTOR="t20_hospital" instance_id="LOC18003523454105416" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="41277" note="LOC18003523454105416" >
+  <source m_id="33" />
+  <target m_id="56" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41278" note="TIM18002581115380876" >
+  <source m_id="12" />
+  <target m_id="57" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41279" note="ACT17821802167919676" >
+  <source m_id="3" />
+  <source m_id="9" />
+  <target m_id="58" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41280" note="ACT17822303993286740" >
+  <source m_id="7" />
+  <source m_id="25" />
+  <target m_id="59" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41281" note="HUM18001993603753566" >
+  <source m_id="16" />
+  <source m_id="18" />
+  <target m_id="60" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41282" note="NON18002560353210415" >
+  <source m_id="52" />
+  <source m_id="53" />
+  <source m_id="54" />
+  <source m_id="55" />
+  <target m_id="61" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41283" note="ACT17821472137518203" >
+  <source m_id="2" />
+  <source m_id="6" />
+  <source m_id="24" />
+  <source m_id="26" />
+  <target m_id="62" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41284" note="LOC18003536389638637" >
+  <source m_id="38" />
+  <target m_id="63" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41285" note="ACT17822267297450810" >
+  <source m_id="23" />
+  <source m_id="35" />
+  <source m_id="8" />
+  <source m_id="44" />
+  <source m_id="5" />
+  <target m_id="64" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41286" note="LOC18002535573514489" >
+  <source m_id="21" />
+  <target m_id="65" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41287" note="ACT17821815048905207" >
+  <source m_id="27" />
+  <target m_id="66" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41288" note="ACT17821791897870910" >
+  <source m_id="10" />
+  <source m_id="4" />
+  <target m_id="67" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41289" note="HUM18002010984170151" >
+  <source m_id="15" />
+  <source m_id="17" />
+  <target m_id="68" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41290" note="LOC18003255740560286" >
+  <source m_id="19" />
+  <source m_id="11" />
+  <target m_id="69" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41291" note="LOC18002501073683239" >
+  <source m_id="42" />
+  <target m_id="70" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

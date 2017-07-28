@@ -1,0 +1,81 @@
+<Document doc_name="39_1ecb.xml" doc_id="DOC15655447888247708">
+<token t_id="1" sentence="0" number="0">The</token>
+<token t_id="2" sentence="0" number="1">BBC</token>
+<token t_id="3" sentence="0" number="2">says</token>
+<token t_id="4" sentence="0" number="3">little-known</token>
+<token t_id="5" sentence="0" number="4">actor</token>
+<token t_id="6" sentence="0" number="5">Matt</token>
+<token t_id="7" sentence="0" number="6">Smith</token>
+<token t_id="8" sentence="0" number="7">will</token>
+<token t_id="9" sentence="0" number="8">take</token>
+<token t_id="10" sentence="0" number="9">over</token>
+<token t_id="11" sentence="0" number="10">the</token>
+<token t_id="12" sentence="0" number="11">title</token>
+<token t_id="13" sentence="0" number="12">role</token>
+<token t_id="14" sentence="0" number="13">in</token>
+<token t_id="15" sentence="0" number="14">the</token>
+<token t_id="16" sentence="0" number="15">long-running</token>
+<token t_id="17" sentence="0" number="16">sci-fi</token>
+<token t_id="18" sentence="0" number="17">series</token>
+<token t_id="19" sentence="0" number="18">``</token>
+<token t_id="20" sentence="0" number="19">Doctor</token>
+<token t_id="21" sentence="0" number="20">Who</token>
+<token t_id="22" sentence="0" number="21">.</token>
+<token t_id="23" sentence="0" number="22">''</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="7"  >
+  <token_anchor t_id="9"/>
+  <token_anchor t_id="10"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="12"  >
+  <token_anchor t_id="3"/>
+</ACTION_REPORTING>
+<HUMAN_PART_PER m_id="11"  >
+  <token_anchor t_id="6"/>
+  <token_anchor t_id="7"/>
+</HUMAN_PART_PER>
+<NON_HUMAN_PART m_id="9"  >
+  <token_anchor t_id="20"/>
+  <token_anchor t_id="21"/>
+</NON_HUMAN_PART>
+
+
+<HUMAN_PART_ORG m_id="13" note="byCROMER" >
+  <token_anchor t_id="2"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_GENERIC m_id="14" note="byCROMER" >
+  <token_anchor t_id="13"/>
+</HUMAN_PART_GENERIC>
+
+
+<ACTION_OCCURRENCE m_id="19" RELATED_TO="" TAG_DESCRIPTOR="t39b_replace_tennant" instance_id="ACT17745039606328148" />
+<HUMAN_PART_PER m_id="18" RELATED_TO="" TAG_DESCRIPTOR="t39_matt_smith" instance_id="HUM17744873373187694" />
+<HUMAN_PART_ORG m_id="17" RELATED_TO="" TAG_DESCRIPTOR="t39_bbc_1" instance_id="HUM18520722147007898" />
+<HUMAN_PART_GENERIC m_id="16" RELATED_TO="" TAG_DESCRIPTOR="t39_doctor_who" instance_id="HUM17744937293310517" />
+<NON_HUMAN_PART m_id="15" RELATED_TO="" TAG_DESCRIPTOR="t39_dw" instance_id="NON17744952423311022" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="35640" note="NON17744952423311022" >
+  <source m_id="9" />
+  <target m_id="15" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35641" note="HUM17744937293310517" >
+  <source m_id="14" />
+  <target m_id="16" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35642" note="HUM18520722147007898" >
+  <source m_id="13" />
+  <target m_id="17" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35643" note="HUM17744873373187694" >
+  <source m_id="11" />
+  <target m_id="18" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35644" note="ACT17745039606328148" >
+  <source m_id="7" />
+  <target m_id="19" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

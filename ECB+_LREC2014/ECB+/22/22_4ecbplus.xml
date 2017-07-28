@@ -1,0 +1,161 @@
+<Document doc_name="22_4ecbplus.xml" doc_id="DOC15646312931314711">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">www</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">dakotavoice</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<token t_id="9" sentence="0" number="8">com</token>
+<token t_id="10" sentence="0" number="9">/</token>
+<token t_id="11" sentence="0" number="10">2010</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">09</token>
+<token t_id="14" sentence="0" number="13">/</token>
+<token t_id="15" sentence="0" number="14">very</token>
+<token t_id="16" sentence="0" number="15">-</token>
+<token t_id="17" sentence="0" number="16">spiritual</token>
+<token t_id="18" sentence="0" number="17">-</token>
+<token t_id="19" sentence="0" number="18">muslim</token>
+<token t_id="20" sentence="0" number="19">-</token>
+<token t_id="21" sentence="0" number="20">woman</token>
+<token t_id="22" sentence="0" number="21">-</token>
+<token t_id="23" sentence="0" number="22">shoots</token>
+<token t_id="24" sentence="0" number="23">-</token>
+<token t_id="25" sentence="0" number="24">co</token>
+<token t_id="26" sentence="0" number="25">-</token>
+<token t_id="27" sentence="0" number="26">workers</token>
+<token t_id="28" sentence="0" number="27">/</token>
+<token t_id="29" sentence="1" number="0">‘</token>
+<token t_id="30" sentence="1" number="1">Very</token>
+<token t_id="31" sentence="1" number="2">Spiritual</token>
+<token t_id="32" sentence="1" number="3">’</token>
+<token t_id="33" sentence="1" number="4">Muslim</token>
+<token t_id="34" sentence="1" number="5">Woman</token>
+<token t_id="35" sentence="1" number="6">Shoots</token>
+<token t_id="36" sentence="1" number="7">Co</token>
+<token t_id="37" sentence="1" number="8">-</token>
+<token t_id="38" sentence="1" number="9">workers</token>
+<token t_id="39" sentence="2" number="0">on</token>
+<token t_id="40" sentence="2" number="1">September</token>
+<token t_id="41" sentence="2" number="2">10th</token>
+<token t_id="42" sentence="2" number="3">,</token>
+<token t_id="43" sentence="2" number="4">2010</token>
+<token t_id="44" sentence="3" number="0">According</token>
+<token t_id="45" sentence="3" number="1">to</token>
+<token t_id="46" sentence="3" number="2">reports</token>
+<token t_id="47" sentence="3" number="3">,</token>
+<token t_id="48" sentence="3" number="4">a</token>
+<token t_id="49" sentence="3" number="5">Muslim</token>
+<token t_id="50" sentence="3" number="6">woman</token>
+<token t_id="51" sentence="3" number="7">named</token>
+<token t_id="52" sentence="3" number="8">Yvonne</token>
+<token t_id="53" sentence="3" number="9">Hiller</token>
+<token t_id="54" sentence="3" number="10">shot</token>
+<token t_id="55" sentence="3" number="11">and</token>
+<token t_id="56" sentence="3" number="12">killed</token>
+<token t_id="57" sentence="3" number="13">two</token>
+<token t_id="58" sentence="3" number="14">co</token>
+<token t_id="59" sentence="3" number="15">-</token>
+<token t_id="60" sentence="3" number="16">workers</token>
+<token t_id="61" sentence="3" number="17">at</token>
+<token t_id="62" sentence="3" number="18">a</token>
+<token t_id="63" sentence="3" number="19">Kraft</token>
+<token t_id="64" sentence="3" number="20">plant</token>
+<token t_id="65" sentence="3" number="21">in</token>
+<token t_id="66" sentence="3" number="22">Philadelphia</token>
+<token t_id="67" sentence="3" number="23">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="9"  >
+  <token_anchor t_id="56"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="7"  >
+  <token_anchor t_id="35"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="8"  >
+  <token_anchor t_id="54"/>
+</ACTION_OCCURRENCE>
+<ACTION_STATE m_id="12"  >
+  <token_anchor t_id="51"/>
+</ACTION_STATE>
+<HUMAN_PART_PER m_id="1"  >
+  <token_anchor t_id="34"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="2"  >
+  <token_anchor t_id="50"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="4"  >
+  <token_anchor t_id="58"/>
+  <token_anchor t_id="59"/>
+  <token_anchor t_id="60"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="5"  >
+  <token_anchor t_id="36"/>
+  <token_anchor t_id="37"/>
+  <token_anchor t_id="38"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="10"  >
+  <token_anchor t_id="61"/>
+  <token_anchor t_id="62"/>
+  <token_anchor t_id="63"/>
+  <token_anchor t_id="64"/>
+  <token_anchor t_id="65"/>
+  <token_anchor t_id="66"/>
+</LOC_FAC>
+<NON_HUMAN_PART m_id="11"  >
+  <token_anchor t_id="46"/>
+</NON_HUMAN_PART>
+<TIME_DATE m_id="6"  >
+  <token_anchor t_id="40"/>
+  <token_anchor t_id="41"/>
+  <token_anchor t_id="42"/>
+  <token_anchor t_id="43"/>
+</TIME_DATE>
+
+
+<NON_HUMAN_PART m_id="16" note="byCROMER" >
+  <token_anchor t_id="52"/>
+  <token_anchor t_id="53"/>
+</NON_HUMAN_PART>
+
+
+<ACTION_OCCURRENCE m_id="22" RELATED_TO="" TAG_DESCRIPTOR="t22_killing" instance_id="ACT18235797518957764" />
+<HUMAN_PART_PER m_id="19" RELATED_TO="" TAG_DESCRIPTOR="t22_yvonne_hiller" instance_id="HUM18235680503915426" />
+<HUMAN_PART_PER m_id="21" RELATED_TO="" TAG_DESCRIPTOR="t22_two_killed" instance_id="HUM18235719432245275" />
+<NON_HUMAN_PART m_id="18" RELATED_TO="" TAG_DESCRIPTOR="t22_name_heller" instance_id="NON28439005187753149" />
+<ACTION_OCCURRENCE m_id="20" RELATED_TO="" TAG_DESCRIPTOR="t22_shooting" instance_id="ACT18235541349528642" />
+<LOC_FAC m_id="17" RELATED_TO="" TAG_DESCRIPTOR="t22_kraft" instance_id="LOC18235758158505691" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="40630" note="LOC18235758158505691" >
+  <source m_id="10" />
+  <target m_id="17" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40631" note="NON28439005187753149" >
+  <source m_id="16" />
+  <target m_id="18" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40632" note="HUM18235680503915426" >
+  <source m_id="1" />
+  <source m_id="2" />
+  <target m_id="19" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40633" note="ACT18235541349528642" >
+  <source m_id="7" />
+  <source m_id="8" />
+  <target m_id="20" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40634" note="HUM18235719432245275" >
+  <source m_id="4" />
+  <source m_id="5" />
+  <target m_id="21" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="40635" note="ACT18235797518957764" >
+  <source m_id="9" />
+  <target m_id="22" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

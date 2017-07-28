@@ -1,0 +1,95 @@
+<Document doc_name="24_14ecb.xml" doc_id="DOC15654730928267538">
+<token t_id="1" sentence="0" number="0">French</token>
+<token t_id="2" sentence="0" number="1">police</token>
+<token t_id="3" sentence="0" number="2">say</token>
+<token t_id="4" sentence="0" number="3">armed</token>
+<token t_id="5" sentence="0" number="4">robbers</token>
+<token t_id="6" sentence="0" number="5">cleaned</token>
+<token t_id="7" sentence="0" number="6">out</token>
+<token t_id="8" sentence="0" number="7">a</token>
+<token t_id="9" sentence="0" number="8">high-end</token>
+<token t_id="10" sentence="0" number="9">jewelry</token>
+<token t_id="11" sentence="0" number="10">store</token>
+<token t_id="12" sentence="0" number="11">yesterday</token>
+<token t_id="13" sentence="0" number="12">in</token>
+<token t_id="14" sentence="0" number="13">Paris</token>
+<token t_id="15" sentence="0" number="14">,</token>
+<token t_id="16" sentence="0" number="15">news</token>
+<token t_id="17" sentence="0" number="16">organizations</token>
+<token t_id="18" sentence="0" number="17">report</token>
+<token t_id="19" sentence="0" number="18">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="11"  >
+  <token_anchor t_id="6"/>
+  <token_anchor t_id="7"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="16"  >
+  <token_anchor t_id="18"/>
+</ACTION_REPORTING>
+<HUMAN_PART_ORG m_id="15"  >
+  <token_anchor t_id="16"/>
+  <token_anchor t_id="17"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="10"  >
+  <token_anchor t_id="5"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="12"  >
+  <token_anchor t_id="9"/>
+  <token_anchor t_id="10"/>
+  <token_anchor t_id="11"/>
+</LOC_FAC>
+<LOC_GEO m_id="14"  >
+  <token_anchor t_id="14"/>
+</LOC_GEO>
+<ACTION_REPORTING m_id="17" note="byCROMER" >
+  <token_anchor t_id="3"/>
+</ACTION_REPORTING>
+<HUMAN_PART_PER m_id="18" note="byCROMER" >
+  <token_anchor t_id="2"/>
+</HUMAN_PART_PER>
+<TIME_OF_THE_DAY m_id="19" note="byCROMER" >
+  <token_anchor t_id="12"/>
+</TIME_OF_THE_DAY>
+
+
+<LOC_FAC m_id="26" RELATED_TO="" TAG_DESCRIPTOR="t24b_boutique" instance_id="LOC18318468151124403" />
+<LOC_GEO m_id="25" RELATED_TO="" TAG_DESCRIPTOR="t24_central_paris" instance_id="LOC18316830192392387" />
+<ACTION_REPORTING m_id="24" RELATED_TO="" TAG_DESCRIPTOR="t24b_officials_said" instance_id="ACT27334062498597667" />
+<HUMAN_PART_PER m_id="23" RELATED_TO="" TAG_DESCRIPTOR="t24b_officials" instance_id="HUM27334146265815318" />
+<TIME_OF_THE_DAY m_id="22" RELATED_TO="" TAG_DESCRIPTOR="t24b_late_thursday" instance_id="TIM18318870850066558" />
+<ACTION_OCCURRENCE m_id="21" RELATED_TO="" TAG_DESCRIPTOR="t24b_robbery" instance_id="ACT18319049821521663" />
+<HUMAN_PART_PER m_id="20" RELATED_TO="" TAG_DESCRIPTOR="t24b_robbers" instance_id="HUM18318452306120227" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="32894" note="HUM18318452306120227" >
+  <source m_id="10" />
+  <target m_id="20" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32895" note="ACT18319049821521663" >
+  <source m_id="11" />
+  <target m_id="21" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32896" note="TIM18318870850066558" >
+  <source m_id="19" />
+  <target m_id="22" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32897" note="HUM27334146265815318" >
+  <source m_id="18" />
+  <target m_id="23" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32898" note="ACT27334062498597667" >
+  <source m_id="17" />
+  <target m_id="24" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32899" note="LOC18316830192392387" >
+  <source m_id="14" />
+  <target m_id="25" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32900" note="LOC18318468151124403" >
+  <source m_id="12" />
+  <target m_id="26" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

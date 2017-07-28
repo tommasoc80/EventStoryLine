@@ -1,0 +1,44 @@
+<Document doc_name="11_7ecb.xml" doc_id="DOC15654053374616790">
+<token t_id="1" sentence="0" number="0">The</token>
+<token t_id="2" sentence="0" number="1">parliament</token>
+<token t_id="3" sentence="0" number="2">election</token>
+<token t_id="4" sentence="0" number="3">is</token>
+<token t_id="5" sentence="0" number="4">over</token>
+<token t_id="6" sentence="0" number="5">in</token>
+<token t_id="7" sentence="0" number="6">Turkmenistan</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="3"  >
+  <token_anchor t_id="3"/>
+</ACTION_OCCURRENCE>
+<LOC_GEO m_id="4"  >
+  <token_anchor t_id="7"/>
+</LOC_GEO>
+
+
+<HUMAN_PART_ORG m_id="5" note="byCROMER" >
+  <token_anchor t_id="2"/>
+</HUMAN_PART_ORG>
+
+
+<LOC_GEO m_id="6" RELATED_TO="" TAG_DESCRIPTOR="t11_turkmenistan" instance_id="LOC17395351611820997" />
+<HUMAN_PART_ORG m_id="8" RELATED_TO="" TAG_DESCRIPTOR="t11b_parliament" instance_id="HUM17398068448153302" />
+<ACTION_OCCURRENCE m_id="7" RELATED_TO="" TAG_DESCRIPTOR="t11b_election" instance_id="ACT17397425257310884" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="34128" note="LOC17395351611820997" >
+  <source m_id="4" />
+  <target m_id="6" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="34129" note="ACT17397425257310884" >
+  <source m_id="3" />
+  <target m_id="7" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="34130" note="HUM17398068448153302" >
+  <source m_id="5" />
+  <target m_id="8" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

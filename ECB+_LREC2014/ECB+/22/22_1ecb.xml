@@ -1,0 +1,83 @@
+<Document doc_name="22_1ecb.xml" doc_id="DOC15654623202406208">
+<token t_id="1" sentence="0" number="0">Sixty-year-old</token>
+<token t_id="2" sentence="0" number="1">Sharron</token>
+<token t_id="3" sentence="0" number="2">Diane</token>
+<token t_id="4" sentence="0" number="3">Crawford</token>
+<token t_id="5" sentence="0" number="4">Smith</token>
+<token t_id="6" sentence="0" number="5">is</token>
+<token t_id="7" sentence="0" number="6">now</token>
+<token t_id="8" sentence="0" number="7">accused</token>
+<token t_id="9" sentence="0" number="8">of</token>
+<token t_id="10" sentence="0" number="9">murdering</token>
+<token t_id="11" sentence="0" number="10">two</token>
+<token t_id="12" sentence="0" number="11">women</token>
+<token t_id="13" sentence="0" number="12">at</token>
+<token t_id="14" sentence="0" number="13">a</token>
+<token t_id="15" sentence="0" number="14">Staunton</token>
+<token t_id="16" sentence="0" number="15">ice</token>
+<token t_id="17" sentence="0" number="16">cream</token>
+<token t_id="18" sentence="0" number="17">store</token>
+<token t_id="19" sentence="0" number="18">in</token>
+<token t_id="20" sentence="0" number="19">1967</token>
+<token t_id="21" sentence="0" number="20">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="10"  >
+  <token_anchor t_id="8"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="11"  >
+  <token_anchor t_id="10"/>
+</ACTION_OCCURRENCE>
+<HUMAN_PART_PER m_id="8"  >
+  <token_anchor t_id="3"/>
+  <token_anchor t_id="4"/>
+  <token_anchor t_id="5"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="9"  >
+  <token_anchor t_id="12"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="12"  >
+  <token_anchor t_id="14"/>
+  <token_anchor t_id="15"/>
+  <token_anchor t_id="16"/>
+  <token_anchor t_id="17"/>
+  <token_anchor t_id="18"/>
+</LOC_FAC>
+<TIME_DATE m_id="13"  >
+  <token_anchor t_id="19"/>
+  <token_anchor t_id="20"/>
+</TIME_DATE>
+
+
+
+
+<HUMAN_PART_PER m_id="18" RELATED_TO="" TAG_DESCRIPTOR="t22b_diane" instance_id="HUM18239875620845465" />
+<LOC_FAC m_id="17" RELATED_TO="" TAG_DESCRIPTOR="t22b_ice_cream_store" instance_id="LOC18239943157153337" />
+<ACTION_OCCURRENCE m_id="16" RELATED_TO="" TAG_DESCRIPTOR="t22b_murder" instance_id="ACT18239862350395745" />
+<TIME_DATE m_id="15" RELATED_TO="" TAG_DESCRIPTOR="t22b_1967" instance_id="TIM18239979269974538" />
+<HUMAN_PART_PER m_id="14" RELATED_TO="" TAG_DESCRIPTOR="t22b_women" instance_id="HUM18240050471778186" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="33198" note="HUM18240050471778186" >
+  <source m_id="9" />
+  <target m_id="14" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33199" note="TIM18239979269974538" >
+  <source m_id="13" />
+  <target m_id="15" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33200" note="ACT18239862350395745" >
+  <source m_id="11" />
+  <target m_id="16" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33201" note="LOC18239943157153337" >
+  <source m_id="12" />
+  <target m_id="17" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33202" note="HUM18239875620845465" >
+  <source m_id="8" />
+  <target m_id="18" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

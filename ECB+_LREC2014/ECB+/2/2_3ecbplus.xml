@@ -1,0 +1,581 @@
+<Document doc_name="2_3ecbplus.xml" doc_id="DOC15645952653877123">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">www</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">foxnews</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<token t_id="9" sentence="0" number="8">com</token>
+<token t_id="10" sentence="0" number="9">/</token>
+<token t_id="11" sentence="0" number="10">entertainment</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">2013</token>
+<token t_id="14" sentence="0" number="13">/</token>
+<token t_id="15" sentence="0" number="14">08</token>
+<token t_id="16" sentence="0" number="15">/</token>
+<token t_id="17" sentence="0" number="16">02</token>
+<token t_id="18" sentence="0" number="17">/</token>
+<token t_id="19" sentence="0" number="18">ellen</token>
+<token t_id="20" sentence="0" number="19">-</token>
+<token t_id="21" sentence="0" number="20">degeneres</token>
+<token t_id="22" sentence="0" number="21">-</token>
+<token t_id="23" sentence="0" number="22">to</token>
+<token t_id="24" sentence="0" number="23">-</token>
+<token t_id="25" sentence="0" number="24">host</token>
+<token t_id="26" sentence="0" number="25">-</token>
+<token t_id="27" sentence="0" number="26">oscars</token>
+<token t_id="28" sentence="0" number="27">/</token>
+<token t_id="29" sentence="1" number="0">Ellen</token>
+<token t_id="30" sentence="1" number="1">DeGeneres</token>
+<token t_id="31" sentence="1" number="2">to</token>
+<token t_id="32" sentence="1" number="3">host</token>
+<token t_id="33" sentence="1" number="4">the</token>
+<token t_id="34" sentence="1" number="5">Oscars</token>
+<token t_id="35" sentence="2" number="0">Published</token>
+<token t_id="36" sentence="2" number="1">August</token>
+<token t_id="37" sentence="2" number="2">02</token>
+<token t_id="38" sentence="2" number="3">,</token>
+<token t_id="39" sentence="2" number="4">2013</token>
+<token t_id="40" sentence="3" number="0">Ellen</token>
+<token t_id="41" sentence="3" number="1">DeGeneres</token>
+<token t_id="42" sentence="3" number="2">will</token>
+<token t_id="43" sentence="3" number="3">host</token>
+<token t_id="44" sentence="3" number="4">the</token>
+<token t_id="45" sentence="3" number="5">Oscars</token>
+<token t_id="46" sentence="3" number="6">for</token>
+<token t_id="47" sentence="3" number="7">a</token>
+<token t_id="48" sentence="3" number="8">second</token>
+<token t_id="49" sentence="3" number="9">time</token>
+<token t_id="50" sentence="3" number="10">next</token>
+<token t_id="51" sentence="3" number="11">year</token>
+<token t_id="52" sentence="3" number="12">,</token>
+<token t_id="53" sentence="3" number="13">the</token>
+<token t_id="54" sentence="3" number="14">Academy</token>
+<token t_id="55" sentence="3" number="15">announced</token>
+<token t_id="56" sentence="3" number="16">Friday</token>
+<token t_id="57" sentence="3" number="17">.</token>
+<token t_id="58" sentence="4" number="0">"We</token>
+<token t_id="59" sentence="4" number="1">are</token>
+<token t_id="60" sentence="4" number="2">thrilled</token>
+<token t_id="61" sentence="4" number="3">to</token>
+<token t_id="62" sentence="4" number="4">have</token>
+<token t_id="63" sentence="4" number="5">Ellen</token>
+<token t_id="64" sentence="4" number="6">DeGeneres</token>
+<token t_id="65" sentence="4" number="7">host</token>
+<token t_id="66" sentence="4" number="8">the</token>
+<token t_id="67" sentence="4" number="9">Oscars</token>
+<token t_id="68" sentence="4" number="10">,</token>
+<token t_id="69" sentence="4" number="11">"</token>
+<token t_id="70" sentence="4" number="12">producers</token>
+<token t_id="71" sentence="4" number="13">Craig</token>
+<token t_id="72" sentence="4" number="14">Zadan</token>
+<token t_id="73" sentence="4" number="15">and</token>
+<token t_id="74" sentence="4" number="16">Neil</token>
+<token t_id="75" sentence="4" number="17">Meron</token>
+<token t_id="76" sentence="4" number="18">said</token>
+<token t_id="77" sentence="4" number="19">in</token>
+<token t_id="78" sentence="4" number="20">a</token>
+<token t_id="79" sentence="4" number="21">statement</token>
+<token t_id="80" sentence="4" number="22">.</token>
+<token t_id="81" sentence="5" number="0">DeGeneres</token>
+<token t_id="82" sentence="5" number="1">announced</token>
+<token t_id="83" sentence="5" number="2">the</token>
+<token t_id="84" sentence="5" number="3">news</token>
+<token t_id="85" sentence="5" number="4">in</token>
+<token t_id="86" sentence="5" number="5">a</token>
+<token t_id="87" sentence="5" number="6">tweet</token>
+<token t_id="88" sentence="5" number="7">:</token>
+<token t_id="89" sentence="5" number="8">"It's</token>
+<token t_id="90" sentence="5" number="9">official</token>
+<token t_id="91" sentence="5" number="10">:</token>
+<token t_id="92" sentence="5" number="11">I'm</token>
+<token t_id="93" sentence="5" number="12">hosting</token>
+<token t_id="94" sentence="5" number="13">the</token>
+<token t_id="95" sentence="5" number="14">#Oscars</token>
+<token t_id="96" sentence="5" number="15">!</token>
+<token t_id="97" sentence="6" number="0">I'd</token>
+<token t_id="98" sentence="6" number="1">like</token>
+<token t_id="99" sentence="6" number="2">to</token>
+<token t_id="100" sentence="6" number="3">thank</token>
+<token t_id="101" sentence="6" number="4">@TheAcademy</token>
+<token t_id="102" sentence="6" number="5">,</token>
+<token t_id="103" sentence="6" number="6">my</token>
+<token t_id="104" sentence="6" number="7">wife</token>
+<token t_id="105" sentence="6" number="8">Portia</token>
+<token t_id="106" sentence="6" number="9">and</token>
+<token t_id="107" sentence="6" number="10">,</token>
+<token t_id="108" sentence="6" number="11">oh</token>
+<token t_id="109" sentence="6" number="12">dear</token>
+<token t_id="110" sentence="6" number="13">,</token>
+<token t_id="111" sentence="6" number="14">there</token>
+<token t_id="112" sentence="6" number="15">goes</token>
+<token t_id="113" sentence="6" number="16">the</token>
+<token t_id="114" sentence="6" number="17">orchestra</token>
+<token t_id="115" sentence="6" number="18">.</token>
+<token t_id="116" sentence="6" number="19">"</token>
+<token t_id="117" sentence="7" number="0">"I</token>
+<token t_id="118" sentence="7" number="1">am</token>
+<token t_id="119" sentence="7" number="2">so</token>
+<token t_id="120" sentence="7" number="3">excited</token>
+<token t_id="121" sentence="7" number="4">to</token>
+<token t_id="122" sentence="7" number="5">be</token>
+<token t_id="123" sentence="7" number="6">hosting</token>
+<token t_id="124" sentence="7" number="7">the</token>
+<token t_id="125" sentence="7" number="8">Oscars</token>
+<token t_id="126" sentence="7" number="9">for</token>
+<token t_id="127" sentence="7" number="10">the</token>
+<token t_id="128" sentence="7" number="11">second</token>
+<token t_id="129" sentence="7" number="12">time</token>
+<token t_id="130" sentence="7" number="13">.</token>
+<token t_id="131" sentence="8" number="0">You</token>
+<token t_id="132" sentence="8" number="1">know</token>
+<token t_id="133" sentence="8" number="2">what</token>
+<token t_id="134" sentence="8" number="3">they</token>
+<token t_id="135" sentence="8" number="4">say</token>
+<token t_id="136" sentence="8" number="5">-</token>
+<token t_id="137" sentence="8" number="6">the</token>
+<token t_id="138" sentence="8" number="7">third</token>
+<token t_id="139" sentence="8" number="8">time's</token>
+<token t_id="140" sentence="8" number="9">the</token>
+<token t_id="141" sentence="8" number="10">charm</token>
+<token t_id="142" sentence="8" number="11">,</token>
+<token t_id="143" sentence="8" number="12">"</token>
+<token t_id="144" sentence="8" number="13">she</token>
+<token t_id="145" sentence="8" number="14">added</token>
+<token t_id="146" sentence="8" number="15">in</token>
+<token t_id="147" sentence="8" number="16">a</token>
+<token t_id="148" sentence="8" number="17">statement</token>
+<token t_id="149" sentence="8" number="18">.</token>
+<token t_id="150" sentence="9" number="0">The</token>
+<token t_id="151" sentence="9" number="1">television</token>
+<token t_id="152" sentence="9" number="2">personality</token>
+<token t_id="153" sentence="9" number="3">hosted</token>
+<token t_id="154" sentence="9" number="4">the</token>
+<token t_id="155" sentence="9" number="5">79th</token>
+<token t_id="156" sentence="9" number="6">Academy</token>
+<token t_id="157" sentence="9" number="7">Awards</token>
+<token t_id="158" sentence="9" number="8">in</token>
+<token t_id="159" sentence="9" number="9">2007</token>
+<token t_id="160" sentence="9" number="10">,</token>
+<token t_id="161" sentence="9" number="11">becoming</token>
+<token t_id="162" sentence="9" number="12">only</token>
+<token t_id="163" sentence="9" number="13">the</token>
+<token t_id="164" sentence="9" number="14">second</token>
+<token t_id="165" sentence="9" number="15">woman</token>
+<token t_id="166" sentence="9" number="16">to</token>
+<token t_id="167" sentence="9" number="17">host</token>
+<token t_id="168" sentence="9" number="18">the</token>
+<token t_id="169" sentence="9" number="19">ceremony</token>
+<token t_id="170" sentence="9" number="20">solo</token>
+<token t_id="171" sentence="9" number="21">,</token>
+<token t_id="172" sentence="9" number="22">following</token>
+<token t_id="173" sentence="9" number="23">Whoopi</token>
+<token t_id="174" sentence="9" number="24">Goldberg's</token>
+<token t_id="175" sentence="9" number="25">four</token>
+<token t_id="176" sentence="9" number="26">stints</token>
+<token t_id="177" sentence="9" number="27">in</token>
+<token t_id="178" sentence="9" number="28">1994</token>
+<token t_id="179" sentence="9" number="29">,</token>
+<token t_id="180" sentence="9" number="30">1996</token>
+<token t_id="181" sentence="9" number="31">,</token>
+<token t_id="182" sentence="9" number="32">1999</token>
+<token t_id="183" sentence="9" number="33">and</token>
+<token t_id="184" sentence="9" number="34">2002</token>
+<token t_id="185" sentence="9" number="35">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="9"  >
+  <token_anchor t_id="161"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="10"  >
+  <token_anchor t_id="95"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="11"  >
+  <token_anchor t_id="172"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="12"  >
+  <token_anchor t_id="112"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="13"  >
+  <token_anchor t_id="176"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="14"  >
+  <token_anchor t_id="123"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="15"  >
+  <token_anchor t_id="125"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="16"  >
+  <token_anchor t_id="169"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="17"  >
+  <token_anchor t_id="141"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="19"  >
+  <token_anchor t_id="32"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="20"  >
+  <token_anchor t_id="34"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="21"  >
+  <token_anchor t_id="45"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="1"  >
+  <token_anchor t_id="93"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="2"  >
+  <token_anchor t_id="100"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="3"  >
+  <token_anchor t_id="167"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="4"  >
+  <token_anchor t_id="43"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="5"  >
+  <token_anchor t_id="65"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="6"  >
+  <token_anchor t_id="67"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="7"  >
+  <token_anchor t_id="153"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="8"  >
+  <token_anchor t_id="156"/>
+  <token_anchor t_id="157"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="22"  >
+  <token_anchor t_id="148"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="23"  >
+  <token_anchor t_id="135"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="24"  >
+  <token_anchor t_id="55"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="25"  >
+  <token_anchor t_id="76"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="26"  >
+  <token_anchor t_id="79"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="27"  >
+  <token_anchor t_id="82"/>
+</ACTION_REPORTING>
+<ACTION_STATE m_id="28"  >
+  <token_anchor t_id="120"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="29"  >
+  <token_anchor t_id="132"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="30"  >
+  <token_anchor t_id="60"/>
+</ACTION_STATE>
+<HUMAN_PART_GENERIC m_id="31"  >
+  <token_anchor t_id="114"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_GENERIC m_id="33"  >
+  <token_anchor t_id="131"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_GENERIC m_id="34"  >
+  <token_anchor t_id="134"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_ORG m_id="35"  >
+  <token_anchor t_id="101"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="36"  >
+  <token_anchor t_id="54"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="41"  >
+  <token_anchor t_id="152"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="42"  >
+  <token_anchor t_id="173"/>
+  <token_anchor t_id="174"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="43"  >
+  <token_anchor t_id="63"/>
+  <token_anchor t_id="64"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="44"  >
+  <token_anchor t_id="71"/>
+  <token_anchor t_id="72"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="45"  >
+  <token_anchor t_id="74"/>
+  <token_anchor t_id="75"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="46"  >
+  <token_anchor t_id="29"/>
+  <token_anchor t_id="30"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="47"  >
+  <token_anchor t_id="58"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="48"  >
+  <token_anchor t_id="40"/>
+  <token_anchor t_id="41"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="49"  >
+  <token_anchor t_id="81"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="50"  >
+  <token_anchor t_id="92"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="37"  >
+  <token_anchor t_id="97"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="38"  >
+  <token_anchor t_id="105"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="39"  >
+  <token_anchor t_id="117"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="40"  >
+  <token_anchor t_id="144"/>
+</HUMAN_PART_PER>
+<TIME_DATE m_id="52"  >
+  <token_anchor t_id="35"/>
+  <token_anchor t_id="36"/>
+  <token_anchor t_id="37"/>
+  <token_anchor t_id="38"/>
+  <token_anchor t_id="39"/>
+</TIME_DATE>
+<TIME_DATE m_id="53"  >
+  <token_anchor t_id="180"/>
+</TIME_DATE>
+<TIME_DATE m_id="54"  >
+  <token_anchor t_id="50"/>
+  <token_anchor t_id="51"/>
+</TIME_DATE>
+<TIME_DATE m_id="55"  >
+  <token_anchor t_id="182"/>
+</TIME_DATE>
+<TIME_DATE m_id="56"  >
+  <token_anchor t_id="184"/>
+</TIME_DATE>
+<TIME_DATE m_id="57"  >
+  <token_anchor t_id="177"/>
+  <token_anchor t_id="178"/>
+</TIME_DATE>
+<TIME_DATE m_id="58"  >
+  <token_anchor t_id="158"/>
+  <token_anchor t_id="159"/>
+</TIME_DATE>
+<TIME_DATE m_id="59"  >
+  <token_anchor t_id="56"/>
+</TIME_DATE>
+<TIME_REPETITION m_id="60"  >
+  <token_anchor t_id="127"/>
+  <token_anchor t_id="128"/>
+  <token_anchor t_id="129"/>
+</TIME_REPETITION>
+<TIME_REPETITION m_id="61"  >
+  <token_anchor t_id="137"/>
+  <token_anchor t_id="138"/>
+  <token_anchor t_id="139"/>
+</TIME_REPETITION>
+<TIME_REPETITION m_id="62"  >
+  <token_anchor t_id="163"/>
+  <token_anchor t_id="164"/>
+</TIME_REPETITION>
+<TIME_REPETITION m_id="63"  >
+  <token_anchor t_id="175"/>
+</TIME_REPETITION>
+<TIME_REPETITION m_id="64"  >
+  <token_anchor t_id="47"/>
+  <token_anchor t_id="48"/>
+  <token_anchor t_id="49"/>
+</TIME_REPETITION>
+
+
+<ACTION_REPORTING m_id="68" note="byCROMER" >
+  <token_anchor t_id="87"/>
+</ACTION_REPORTING>
+<HUMAN_PART_PER m_id="69" note="byCROMER" >
+  <token_anchor t_id="165"/>
+</HUMAN_PART_PER>
+<ACTION_REPORTING m_id="70" note="byCROMER" >
+  <token_anchor t_id="145"/>
+</ACTION_REPORTING>
+
+
+<TIME_REPETITION m_id="81" RELATED_TO="" TAG_DESCRIPTOR="t2_second_time" instance_id="TIM16240238425752332" />
+<HUMAN_PART_GENERIC m_id="80" RELATED_TO="" TAG_DESCRIPTOR="t2_orchestra" instance_id="HUM16246645485523675" />
+<HUMAN_PART_GENERIC m_id="99" RELATED_TO="" TAG_DESCRIPTOR="t2_they_say" instance_id="HUM16253626692271271" />
+<HUMAN_PART_ORG m_id="98" RELATED_TO="" TAG_DESCRIPTOR="t2_ampas" instance_id="HUM16239986301894968" />
+<ACTION_OCCURRENCE m_id="97" RELATED_TO="" TAG_DESCRIPTOR="t2_charm" instance_id="ACT16253309417674146" />
+<ACTION_REPORTING m_id="96" RELATED_TO="" TAG_DESCRIPTOR="t2_ellen_statement" instance_id="ACT16253573483345603" />
+<HUMAN_PART_PER m_id="95" RELATED_TO="" TAG_DESCRIPTOR="t2_meron" instance_id="HUM16253661053941675" />
+<HUMAN_PART_PER m_id="94" RELATED_TO="" TAG_DESCRIPTOR="t2_ellen_degeneres" instance_id="HUM16239999045287365" />
+<ACTION_STATE m_id="93" RELATED_TO="" TAG_DESCRIPTOR="t2_excited_hosting_ellen" instance_id="ACT16246611887861206" />
+<TIME_DATE m_id="92" RELATED_TO="" TAG_DESCRIPTOR="t2_2007_hosting" instance_id="TIM16246761877336408" />
+<ACTION_REPORTING m_id="91" RELATED_TO="" TAG_DESCRIPTOR="t2_ampas_announced_ellen_host" instance_id="ACT16239842591150729" />
+<ACTION_OCCURRENCE m_id="90" RELATED_TO="" TAG_DESCRIPTOR="t2_academy_awards_2007" instance_id="ACT16260470600930781" />
+<ACTION_OCCURRENCE m_id="100" RELATED_TO="" TAG_DESCRIPTOR="t2_hosting_2014" instance_id="ACT16240564368961988" />
+<TIME_DATE m_id="79" RELATED_TO="" TAG_DESCRIPTOR="t2_friday_tweeted" instance_id="TIM16246750076381642" />
+<HUMAN_PART_PER m_id="78" RELATED_TO="" TAG_DESCRIPTOR="t2_portia_de_rossi" instance_id="HUM16246720875216224" />
+<TIME_DATE m_id="77" RELATED_TO="" TAG_DESCRIPTOR="t2_2014_oscars" instance_id="TIM16246737301517512" />
+<ACTION_REPORTING m_id="76" RELATED_TO="" TAG_DESCRIPTOR="t2_ellen_tweeted" instance_id="ACT16246561393774524" />
+<HUMAN_PART_PER m_id="75" RELATED_TO="" TAG_DESCRIPTOR="t2_zadan_and_meron" instance_id="HUM16253644588390514" />
+<ACTION_STATE m_id="74" RELATED_TO="" TAG_DESCRIPTOR="t2_thrilled" instance_id="ACT16255180757207639" />
+<ACTION_OCCURRENCE m_id="73" RELATED_TO="" TAG_DESCRIPTOR="t2_ellen_hosting_2007" instance_id="ACT16245953210634063" />
+<ACTION_OCCURRENCE m_id="72" RELATED_TO="" TAG_DESCRIPTOR="t2_goes_orchestra" instance_id="ACT16246001137233365" />
+<HUMAN_PART_PER m_id="71" RELATED_TO="" TAG_DESCRIPTOR="t2_zadan" instance_id="HUM16253653237720124" />
+<ACTION_OCCURRENCE m_id="89" RELATED_TO="" TAG_DESCRIPTOR="t2_thank_academy" instance_id="ACT16247411168502807" />
+<ACTION_REPORTING m_id="88" RELATED_TO="" TAG_DESCRIPTOR="t2_ellen_said" instance_id="ACT16253559881046339" />
+<ACTION_REPORTING m_id="87" RELATED_TO="" TAG_DESCRIPTOR="t2_producers_say" instance_id="ACT16253226828640138" />
+<HUMAN_PART_GENERIC m_id="86" RELATED_TO="" TAG_DESCRIPTOR="t2_you_know_wts" instance_id="HUM16253613329088137" />
+<ACTION_STATE m_id="85" RELATED_TO="" TAG_DESCRIPTOR="t2_know_what_they_say" instance_id="ACT16254024315458372" />
+<ACTION_OCCURRENCE m_id="84" RELATED_TO="" TAG_DESCRIPTOR="t2_academy_awards" instance_id="ACT16239369414744113" />
+<TIME_REPETITION m_id="83" RELATED_TO="" TAG_DESCRIPTOR="t2_third_time_charm" instance_id="TIM16254521662389574" />
+<ACTION_REPORTING m_id="82" RELATED_TO="" TAG_DESCRIPTOR="t2_what_they_say" instance_id="ACT16255215667494830" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="31803" note="HUM16253653237720124" >
+  <source m_id="44" />
+  <target m_id="71" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31804" note="ACT16246001137233365" >
+  <source m_id="12" />
+  <target m_id="72" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31805" note="ACT16245953210634063" >
+  <source m_id="7" />
+  <target m_id="73" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31806" note="ACT16255180757207639" >
+  <source m_id="30" />
+  <target m_id="74" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31807" note="HUM16253644588390514" >
+  <source m_id="47" />
+  <target m_id="75" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31808" note="ACT16246561393774524" >
+  <source m_id="68" />
+  <target m_id="76" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31809" note="TIM16246737301517512" >
+  <source m_id="54" />
+  <target m_id="77" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31810" note="HUM16246720875216224" >
+  <source m_id="38" />
+  <target m_id="78" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31811" note="TIM16246750076381642" >
+  <source m_id="59" />
+  <target m_id="79" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31812" note="HUM16246645485523675" >
+  <source m_id="31" />
+  <target m_id="80" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31813" note="TIM16240238425752332" >
+  <source m_id="60" />
+  <source m_id="64" />
+  <target m_id="81" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31814" note="ACT16255215667494830" >
+  <source m_id="23" />
+  <target m_id="82" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31815" note="TIM16254521662389574" >
+  <source m_id="61" />
+  <target m_id="83" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31816" note="ACT16239369414744113" >
+  <source m_id="20" />
+  <source m_id="6" />
+  <source m_id="15" />
+  <source m_id="16" />
+  <source m_id="10" />
+  <source m_id="21" />
+  <target m_id="84" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31817" note="ACT16254024315458372" >
+  <source m_id="29" />
+  <target m_id="85" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31818" note="HUM16253613329088137" >
+  <source m_id="33" />
+  <target m_id="86" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31819" note="ACT16253226828640138" >
+  <source m_id="25" />
+  <target m_id="87" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31820" note="ACT16253559881046339" >
+  <source m_id="70" />
+  <target m_id="88" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31821" note="ACT16247411168502807" >
+  <source m_id="2" />
+  <target m_id="89" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31822" note="ACT16260470600930781" >
+  <source m_id="8" />
+  <target m_id="90" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31823" note="ACT16239842591150729" >
+  <source m_id="24" />
+  <target m_id="91" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31824" note="TIM16246761877336408" >
+  <source m_id="58" />
+  <target m_id="92" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31825" note="ACT16246611887861206" >
+  <source m_id="28" />
+  <target m_id="93" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31826" note="HUM16239999045287365" >
+  <source m_id="39" />
+  <source m_id="41" />
+  <source m_id="49" />
+  <source m_id="69" />
+  <source m_id="43" />
+  <source m_id="46" />
+  <source m_id="48" />
+  <source m_id="40" />
+  <source m_id="37" />
+  <source m_id="50" />
+  <target m_id="94" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31827" note="HUM16253661053941675" >
+  <source m_id="45" />
+  <target m_id="95" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31828" note="ACT16253573483345603" >
+  <source m_id="22" />
+  <target m_id="96" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31829" note="ACT16253309417674146" >
+  <source m_id="17" />
+  <target m_id="97" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31830" note="HUM16239986301894968" >
+  <source m_id="35" />
+  <source m_id="36" />
+  <target m_id="98" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31831" note="HUM16253626692271271" >
+  <source m_id="34" />
+  <target m_id="99" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="31832" note="ACT16240564368961988" >
+  <source m_id="4" />
+  <source m_id="14" />
+  <source m_id="3" />
+  <source m_id="19" />
+  <source m_id="5" />
+  <source m_id="1" />
+  <target m_id="100" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

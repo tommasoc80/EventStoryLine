@@ -1,0 +1,95 @@
+<Document doc_name="34_3ecb.xml" doc_id="DOC15655223460892172">
+<token t_id="1" sentence="0" number="0">News</token>
+<token t_id="2" sentence="0" number="1">that</token>
+<token t_id="3" sentence="0" number="2">Barack</token>
+<token t_id="4" sentence="0" number="3">Obama</token>
+<token t_id="5" sentence="0" number="4">may</token>
+<token t_id="6" sentence="0" number="5">name</token>
+<token t_id="7" sentence="0" number="6">Dr.</token>
+<token t_id="8" sentence="0" number="7">Sanjay</token>
+<token t_id="9" sentence="0" number="8">Gupta</token>
+<token t_id="10" sentence="0" number="9">of</token>
+<token t_id="11" sentence="0" number="10">Emory</token>
+<token t_id="12" sentence="0" number="11">University</token>
+<token t_id="13" sentence="0" number="12">and</token>
+<token t_id="14" sentence="0" number="13">CNN</token>
+<token t_id="15" sentence="0" number="14">as</token>
+<token t_id="16" sentence="0" number="15">his</token>
+<token t_id="17" sentence="0" number="16">Surgeon</token>
+<token t_id="18" sentence="0" number="17">General</token>
+<token t_id="19" sentence="0" number="18">has</token>
+<token t_id="20" sentence="0" number="19">caused</token>
+<token t_id="21" sentence="0" number="20">a</token>
+<token t_id="22" sentence="0" number="21">spasm</token>
+<token t_id="23" sentence="0" number="22">of</token>
+<token t_id="24" sentence="0" number="23">celebrity</token>
+<token t_id="25" sentence="0" number="24">reporting</token>
+<token t_id="26" sentence="0" number="25">.</token>
+<Markables>
+<ACTION_CAUSATIVE m_id="12"  >
+  <token_anchor t_id="20"/>
+</ACTION_CAUSATIVE>
+<ACTION_OCCURRENCE m_id="13"  >
+  <token_anchor t_id="6"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="17"  >
+  <token_anchor t_id="1"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="15"  >
+  <token_anchor t_id="25"/>
+</ACTION_REPORTING>
+<HUMAN_PART_GENERIC m_id="14"  >
+  <token_anchor t_id="17"/>
+  <token_anchor t_id="18"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_PER m_id="11"  >
+  <token_anchor t_id="7"/>
+  <token_anchor t_id="8"/>
+  <token_anchor t_id="9"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="18"  >
+  <token_anchor t_id="3"/>
+  <token_anchor t_id="4"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="19"  >
+  <token_anchor t_id="11"/>
+  <token_anchor t_id="12"/>
+</LOC_FAC>
+
+
+<HUMAN_PART_ORG m_id="20" note="byCROMER" >
+  <token_anchor t_id="14"/>
+</HUMAN_PART_ORG>
+
+
+<ACTION_OCCURRENCE m_id="25" RELATED_TO="" TAG_DESCRIPTOR="t34_nominates_gupta" instance_id="ACT17635941459366322" />
+<HUMAN_PART_PER m_id="24" RELATED_TO="" TAG_DESCRIPTOR="t34_sanjay_gupta" instance_id="HUM17634097626820205" />
+<HUMAN_PART_GENERIC m_id="23" RELATED_TO="" TAG_DESCRIPTOR="t34_us_surgeon_general" instance_id="HUM17634109609806079" />
+<HUMAN_PART_ORG m_id="22" RELATED_TO="" TAG_DESCRIPTOR="t1_cnn" instance_id="HUM16070611587969207" />
+<HUMAN_PART_PER m_id="21" RELATED_TO="" TAG_DESCRIPTOR="t9_barack_obama" instance_id="HUM17209079221902940" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="36122" note="HUM17209079221902940" >
+  <source m_id="18" />
+  <target m_id="21" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="36123" note="HUM16070611587969207" >
+  <source m_id="20" />
+  <target m_id="22" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="36124" note="HUM17634109609806079" >
+  <source m_id="14" />
+  <target m_id="23" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="36125" note="HUM17634097626820205" >
+  <source m_id="11" />
+  <target m_id="24" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="36126" note="ACT17635941459366322" >
+  <source m_id="13" />
+  <target m_id="25" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

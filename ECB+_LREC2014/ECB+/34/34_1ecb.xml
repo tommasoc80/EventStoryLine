@@ -1,0 +1,116 @@
+<Document doc_name="34_1ecb.xml" doc_id="DOC15655223269673965">
+<token t_id="1" sentence="0" number="0">CNN</token>
+<token t_id="2" sentence="0" number="1">medical</token>
+<token t_id="3" sentence="0" number="2">reporter</token>
+<token t_id="4" sentence="0" number="3">and</token>
+<token t_id="5" sentence="0" number="4">Grady</token>
+<token t_id="6" sentence="0" number="5">hospital</token>
+<token t_id="7" sentence="0" number="6">neurosurgeon</token>
+<token t_id="8" sentence="0" number="7">Dr.</token>
+<token t_id="9" sentence="0" number="8">Sanjay</token>
+<token t_id="10" sentence="0" number="9">Gupta</token>
+<token t_id="11" sentence="0" number="10">has</token>
+<token t_id="12" sentence="0" number="11">been</token>
+<token t_id="13" sentence="0" number="12">approached</token>
+<token t_id="14" sentence="0" number="13">by</token>
+<token t_id="15" sentence="0" number="14">the</token>
+<token t_id="16" sentence="0" number="15">Obama</token>
+<token t_id="17" sentence="0" number="16">administration</token>
+<token t_id="18" sentence="0" number="17">to</token>
+<token t_id="19" sentence="0" number="18">fill</token>
+<token t_id="20" sentence="0" number="19">the</token>
+<token t_id="21" sentence="0" number="20">post</token>
+<token t_id="22" sentence="0" number="21">of</token>
+<token t_id="23" sentence="0" number="22">U.S.</token>
+<token t_id="24" sentence="0" number="23">Surgeon</token>
+<token t_id="25" sentence="0" number="24">General</token>
+<token t_id="26" sentence="0" number="25">,</token>
+<token t_id="27" sentence="0" number="26">CNN</token>
+<token t_id="28" sentence="0" number="27">officials</token>
+<token t_id="29" sentence="0" number="28">confirmed</token>
+<token t_id="30" sentence="0" number="29">Tuesday</token>
+<token t_id="31" sentence="0" number="30">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="20"  >
+  <token_anchor t_id="13"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="15"  >
+  <token_anchor t_id="19"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="14"  >
+  <token_anchor t_id="29"/>
+</ACTION_REPORTING>
+<HUMAN_PART_GENERIC m_id="19"  >
+  <token_anchor t_id="23"/>
+  <token_anchor t_id="24"/>
+  <token_anchor t_id="25"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_PER m_id="16"  >
+  <token_anchor t_id="8"/>
+  <token_anchor t_id="9"/>
+  <token_anchor t_id="10"/>
+</HUMAN_PART_PER>
+<TIME_DATE m_id="12"  >
+  <token_anchor t_id="30"/>
+</TIME_DATE>
+
+
+<ACTION_OCCURRENCE m_id="21" note="byCROMER" >
+  <token_anchor t_id="21"/>
+</ACTION_OCCURRENCE>
+<HUMAN_PART_ORG m_id="22" note="byCROMER" >
+  <token_anchor t_id="16"/>
+  <token_anchor t_id="17"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="23" note="byCROMER" >
+  <token_anchor t_id="27"/>
+  <token_anchor t_id="28"/>
+</HUMAN_PART_ORG>
+
+
+<TIME_DATE m_id="31" RELATED_TO="" TAG_DESCRIPTOR="t34b_tuesday" instance_id="TIM17636976013891213" />
+<ACTION_OCCURRENCE m_id="30" RELATED_TO="" TAG_DESCRIPTOR="t34_nominates_gupta" instance_id="ACT17635941459366322" />
+<ACTION_OCCURRENCE m_id="29" RELATED_TO="" TAG_DESCRIPTOR="t34b_job" instance_id="ACT17640644449345164" />
+<HUMAN_PART_ORG m_id="28" RELATED_TO="" TAG_DESCRIPTOR="t9_obama_administration" instance_id="HUM17212524027211372" />
+<ACTION_REPORTING m_id="27" RELATED_TO="" TAG_DESCRIPTOR="t34b_cnn_reports" instance_id="ACT17640330135219317" />
+<HUMAN_PART_PER m_id="26" RELATED_TO="" TAG_DESCRIPTOR="t34_sanjay_gupta" instance_id="HUM17634097626820205" />
+<HUMAN_PART_GENERIC m_id="25" RELATED_TO="" TAG_DESCRIPTOR="t34_us_surgeon_general" instance_id="HUM17634109609806079" />
+<HUMAN_PART_ORG m_id="24" RELATED_TO="" TAG_DESCRIPTOR="t1_cnn" instance_id="HUM16070611587969207" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="36104" note="HUM16070611587969207" >
+  <source m_id="23" />
+  <target m_id="24" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="36105" note="HUM17634109609806079" >
+  <source m_id="19" />
+  <target m_id="25" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="36106" note="HUM17634097626820205" >
+  <source m_id="16" />
+  <target m_id="26" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="36107" note="ACT17640330135219317" >
+  <source m_id="14" />
+  <target m_id="27" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="36108" note="HUM17212524027211372" >
+  <source m_id="22" />
+  <target m_id="28" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="36109" note="ACT17640644449345164" >
+  <source m_id="21" />
+  <target m_id="29" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="36110" note="ACT17635941459366322" >
+  <source m_id="20" />
+  <target m_id="30" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="36111" note="TIM17636976013891213" >
+  <source m_id="12" />
+  <target m_id="31" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

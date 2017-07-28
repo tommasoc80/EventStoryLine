@@ -1,0 +1,129 @@
+<Document doc_name="22_4ecb.xml" doc_id="DOC15654623566027197">
+<token t_id="1" sentence="0" number="0">A</token>
+<token t_id="2" sentence="0" number="1">co-worker</token>
+<token t_id="3" sentence="0" number="2">has</token>
+<token t_id="4" sentence="0" number="3">been</token>
+<token t_id="5" sentence="0" number="4">charged</token>
+<token t_id="6" sentence="0" number="5">in</token>
+<token t_id="7" sentence="0" number="6">the</token>
+<token t_id="8" sentence="0" number="7">1967</token>
+<token t_id="9" sentence="0" number="8">slayings</token>
+<token t_id="10" sentence="0" number="9">of</token>
+<token t_id="11" sentence="0" number="10">two</token>
+<token t_id="12" sentence="0" number="11">women</token>
+<token t_id="13" sentence="0" number="12">at</token>
+<token t_id="14" sentence="0" number="13">an</token>
+<token t_id="15" sentence="0" number="14">ice</token>
+<token t_id="16" sentence="0" number="15">cream</token>
+<token t_id="17" sentence="0" number="16">shop</token>
+<token t_id="18" sentence="0" number="17">in</token>
+<token t_id="19" sentence="0" number="18">Staunton</token>
+<token t_id="20" sentence="0" number="19">,</token>
+<token t_id="21" sentence="0" number="20">but</token>
+<token t_id="22" sentence="0" number="21">authorities</token>
+<token t_id="23" sentence="0" number="22">say</token>
+<token t_id="24" sentence="0" number="23">the</token>
+<token t_id="25" sentence="0" number="24">suspect</token>
+<token t_id="26" sentence="0" number="25">is</token>
+<token t_id="27" sentence="0" number="26">near</token>
+<token t_id="28" sentence="0" number="27">death</token>
+<token t_id="29" sentence="0" number="28">with</token>
+<token t_id="30" sentence="0" number="29">a</token>
+<token t_id="31" sentence="0" number="30">terminal</token>
+<token t_id="32" sentence="0" number="31">illness</token>
+<token t_id="33" sentence="0" number="32">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="17"  >
+  <token_anchor t_id="5"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="18"  >
+  <token_anchor t_id="9"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="19"  >
+  <token_anchor t_id="28"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="20"  >
+  <token_anchor t_id="23"/>
+</ACTION_REPORTING>
+<HUMAN_PART_PER m_id="13"  >
+  <token_anchor t_id="2"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="14"  >
+  <token_anchor t_id="12"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="15"  >
+  <token_anchor t_id="22"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="16"  >
+  <token_anchor t_id="25"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="22"  >
+  <token_anchor t_id="14"/>
+  <token_anchor t_id="15"/>
+  <token_anchor t_id="16"/>
+  <token_anchor t_id="17"/>
+  <token_anchor t_id="18"/>
+  <token_anchor t_id="19"/>
+</LOC_FAC>
+<NON_HUMAN_PART m_id="23"  >
+  <token_anchor t_id="32"/>
+</NON_HUMAN_PART>
+<TIME_DATE m_id="21"  >
+  <token_anchor t_id="8"/>
+</TIME_DATE>
+
+
+
+
+<HUMAN_PART_PER m_id="32" RELATED_TO="" TAG_DESCRIPTOR="t22b_diane" instance_id="HUM18239875620845465" />
+<ACTION_OCCURRENCE m_id="31" RELATED_TO="" TAG_DESCRIPTOR="t22b_murder" instance_id="ACT18239862350395745" />
+<LOC_FAC m_id="30" RELATED_TO="" TAG_DESCRIPTOR="t22b_ice_cream_store" instance_id="LOC18239943157153337" />
+<TIME_DATE m_id="29" RELATED_TO="" TAG_DESCRIPTOR="t22b_1967" instance_id="TIM18239979269974538" />
+<ACTION_OCCURRENCE m_id="28" RELATED_TO="" TAG_DESCRIPTOR="t22b_death" instance_id="ACT18239966941082791" />
+<NON_HUMAN_PART m_id="27" RELATED_TO="" TAG_DESCRIPTOR="t22b_illness" instance_id="NON18240066181330898" />
+<HUMAN_PART_PER m_id="26" RELATED_TO="" TAG_DESCRIPTOR="t22b_authorities" instance_id="HUM18240081325293171" />
+<HUMAN_PART_PER m_id="25" RELATED_TO="" TAG_DESCRIPTOR="t22b_women" instance_id="HUM18240050471778186" />
+<ACTION_OCCURRENCE m_id="24" RELATED_TO="" TAG_DESCRIPTOR="t22b_charged" instance_id="ACT18240012652425199" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="33234" note="ACT18240012652425199" >
+  <source m_id="17" />
+  <target m_id="24" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33235" note="HUM18240050471778186" >
+  <source m_id="14" />
+  <target m_id="25" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33236" note="HUM18240081325293171" >
+  <source m_id="15" />
+  <target m_id="26" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33237" note="NON18240066181330898" >
+  <source m_id="23" />
+  <target m_id="27" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33238" note="ACT18239966941082791" >
+  <source m_id="19" />
+  <target m_id="28" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33239" note="TIM18239979269974538" >
+  <source m_id="21" />
+  <target m_id="29" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33240" note="LOC18239943157153337" >
+  <source m_id="22" />
+  <target m_id="30" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33241" note="ACT18239862350395745" >
+  <source m_id="18" />
+  <target m_id="31" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33242" note="HUM18239875620845465" >
+  <source m_id="13" />
+  <source m_id="16" />
+  <target m_id="32" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

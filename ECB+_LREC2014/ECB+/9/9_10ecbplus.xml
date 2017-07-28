@@ -1,0 +1,779 @@
+<Document doc_name="9_10ecbplus.xml" doc_id="DOC15646107593219913">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">www</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">nydailynews</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<token t_id="9" sentence="0" number="8">com</token>
+<token t_id="10" sentence="0" number="9">/</token>
+<token t_id="11" sentence="0" number="10">news</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">politics</token>
+<token t_id="14" sentence="0" number="13">/</token>
+<token t_id="15" sentence="0" number="14">president</token>
+<token t_id="16" sentence="0" number="15">-</token>
+<token t_id="17" sentence="0" number="16">barack</token>
+<token t_id="18" sentence="0" number="17">-</token>
+<token t_id="19" sentence="0" number="18">obama</token>
+<token t_id="20" sentence="0" number="19">-</token>
+<token t_id="21" sentence="0" number="20">overturns</token>
+<token t_id="22" sentence="0" number="21">-</token>
+<token t_id="23" sentence="0" number="22">bush</token>
+<token t_id="24" sentence="0" number="23">-</token>
+<token t_id="25" sentence="0" number="24">administration</token>
+<token t_id="26" sentence="0" number="25">-</token>
+<token t_id="27" sentence="0" number="26">ruling</token>
+<token t_id="28" sentence="0" number="27">-</token>
+<token t_id="29" sentence="0" number="28">endangered</token>
+<token t_id="30" sentence="0" number="29">-</token>
+<token t_id="31" sentence="0" number="30">species</token>
+<token t_id="32" sentence="0" number="31">-</token>
+<token t_id="33" sentence="0" number="32">act</token>
+<token t_id="34" sentence="0" number="33">-</token>
+<token t_id="35" sentence="0" number="34">article</token>
+<token t_id="36" sentence="0" number="35">-</token>
+<token t_id="37" sentence="0" number="36">1</token>
+<token t_id="38" sentence="0" number="37">.</token>
+<token t_id="39" sentence="0" number="38">365994</token>
+<token t_id="40" sentence="1" number="0">President</token>
+<token t_id="41" sentence="1" number="1">Barack</token>
+<token t_id="42" sentence="1" number="2">Obama</token>
+<token t_id="43" sentence="1" number="3">overturns</token>
+<token t_id="44" sentence="1" number="4">Bush</token>
+<token t_id="45" sentence="1" number="5">administration</token>
+<token t_id="46" sentence="1" number="6">ruling</token>
+<token t_id="47" sentence="1" number="7">on</token>
+<token t_id="48" sentence="1" number="8">Endangered</token>
+<token t_id="49" sentence="1" number="9">Species</token>
+<token t_id="50" sentence="1" number="10">Act</token>
+<token t_id="51" sentence="2" number="0">WEDNESDAY</token>
+<token t_id="52" sentence="2" number="1">,</token>
+<token t_id="53" sentence="2" number="2">MARCH</token>
+<token t_id="54" sentence="2" number="3">4</token>
+<token t_id="55" sentence="2" number="4">,</token>
+<token t_id="56" sentence="2" number="5">2009</token>
+<token t_id="57" sentence="2" number="6">,</token>
+<token t_id="58" sentence="2" number="7">10</token>
+<token t_id="59" sentence="2" number="8">:</token>
+<token t_id="60" sentence="2" number="9">53</token>
+<token t_id="61" sentence="2" number="10">AM</token>
+<token t_id="62" sentence="3" number="0">President</token>
+<token t_id="63" sentence="3" number="1">Barack</token>
+<token t_id="64" sentence="3" number="2">Obama</token>
+<token t_id="65" sentence="3" number="3">announced</token>
+<token t_id="66" sentence="3" number="4">plans</token>
+<token t_id="67" sentence="3" number="5">Tuesday</token>
+<token t_id="68" sentence="3" number="6">to</token>
+<token t_id="69" sentence="3" number="7">resume</token>
+<token t_id="70" sentence="3" number="8">full</token>
+<token t_id="71" sentence="3" number="9">scientific</token>
+<token t_id="72" sentence="3" number="10">reviews</token>
+<token t_id="73" sentence="3" number="11">of</token>
+<token t_id="74" sentence="3" number="12">projects</token>
+<token t_id="75" sentence="3" number="13">that</token>
+<token t_id="76" sentence="3" number="14">might</token>
+<token t_id="77" sentence="3" number="15">harm</token>
+<token t_id="78" sentence="3" number="16">endangered</token>
+<token t_id="79" sentence="3" number="17">wildlife</token>
+<token t_id="80" sentence="3" number="18">and</token>
+<token t_id="81" sentence="3" number="19">plants</token>
+<token t_id="82" sentence="3" number="20">.</token>
+<token t_id="83" sentence="4" number="0">The</token>
+<token t_id="84" sentence="4" number="1">president</token>
+<token t_id="85" sentence="4" number="2">signed</token>
+<token t_id="86" sentence="4" number="3">a</token>
+<token t_id="87" sentence="4" number="4">memorandum</token>
+<token t_id="88" sentence="4" number="5">putting</token>
+<token t_id="89" sentence="4" number="6">on</token>
+<token t_id="90" sentence="4" number="7">hold</token>
+<token t_id="91" sentence="4" number="8">a</token>
+<token t_id="92" sentence="4" number="9">Bush</token>
+<token t_id="93" sentence="4" number="10">administration</token>
+<token t_id="94" sentence="4" number="11">regulation</token>
+<token t_id="95" sentence="4" number="12">allowing</token>
+<token t_id="96" sentence="4" number="13">agencies</token>
+<token t_id="97" sentence="4" number="14">to</token>
+<token t_id="98" sentence="4" number="15">avoid</token>
+<token t_id="99" sentence="4" number="16">scientific</token>
+<token t_id="100" sentence="4" number="17">reviews</token>
+<token t_id="101" sentence="4" number="18">in</token>
+<token t_id="102" sentence="4" number="19">endangered</token>
+<token t_id="103" sentence="4" number="20">species</token>
+<token t_id="104" sentence="4" number="21">decisions</token>
+<token t_id="105" sentence="4" number="22">.</token>
+<token t_id="106" sentence="5" number="0">During</token>
+<token t_id="107" sentence="5" number="1">a</token>
+<token t_id="108" sentence="5" number="2">visit</token>
+<token t_id="109" sentence="5" number="3">to</token>
+<token t_id="110" sentence="5" number="4">the</token>
+<token t_id="111" sentence="5" number="5">Interior</token>
+<token t_id="112" sentence="5" number="6">Department</token>
+<token t_id="113" sentence="5" number="7">,</token>
+<token t_id="114" sentence="5" number="8">Obama</token>
+<token t_id="115" sentence="5" number="9">said</token>
+<token t_id="116" sentence="5" number="10">the</token>
+<token t_id="117" sentence="5" number="11">review</token>
+<token t_id="118" sentence="5" number="12">process</token>
+<token t_id="119" sentence="5" number="13">had</token>
+<token t_id="120" sentence="5" number="14">been</token>
+<token t_id="121" sentence="5" number="15">undermined</token>
+<token t_id="122" sentence="5" number="16">by</token>
+<token t_id="123" sentence="5" number="17">past</token>
+<token t_id="124" sentence="5" number="18">administrations</token>
+<token t_id="125" sentence="5" number="19">.</token>
+<token t_id="126" sentence="6" number="0">"For</token>
+<token t_id="127" sentence="6" number="1">more</token>
+<token t_id="128" sentence="6" number="2">than</token>
+<token t_id="129" sentence="6" number="3">three</token>
+<token t_id="130" sentence="6" number="4">decades</token>
+<token t_id="131" sentence="6" number="5">,</token>
+<token t_id="132" sentence="6" number="6">the</token>
+<token t_id="133" sentence="6" number="7">Endangered</token>
+<token t_id="134" sentence="6" number="8">Species</token>
+<token t_id="135" sentence="6" number="9">Act</token>
+<token t_id="136" sentence="6" number="10">has</token>
+<token t_id="137" sentence="6" number="11">successfully</token>
+<token t_id="138" sentence="6" number="12">protected</token>
+<token t_id="139" sentence="6" number="13">our</token>
+<token t_id="140" sentence="6" number="14">nation's</token>
+<token t_id="141" sentence="6" number="15">most</token>
+<token t_id="142" sentence="6" number="16">threatened</token>
+<token t_id="143" sentence="6" number="17">wildlife</token>
+<token t_id="144" sentence="6" number="18">.</token>
+<token t_id="145" sentence="7" number="0">We</token>
+<token t_id="146" sentence="7" number="1">should</token>
+<token t_id="147" sentence="7" number="2">be</token>
+<token t_id="148" sentence="7" number="3">looking</token>
+<token t_id="149" sentence="7" number="4">for</token>
+<token t_id="150" sentence="7" number="5">ways</token>
+<token t_id="151" sentence="7" number="6">to</token>
+<token t_id="152" sentence="7" number="7">improve</token>
+<token t_id="153" sentence="7" number="8">it</token>
+<token t_id="154" sentence="7" number="9">,</token>
+<token t_id="155" sentence="7" number="10">not</token>
+<token t_id="156" sentence="7" number="11">weaken</token>
+<token t_id="157" sentence="7" number="12">it</token>
+<token t_id="158" sentence="7" number="13">,</token>
+<token t_id="159" sentence="7" number="14">"</token>
+<token t_id="160" sentence="7" number="15">Obama</token>
+<token t_id="161" sentence="7" number="16">said</token>
+<token t_id="162" sentence="7" number="17">.</token>
+<token t_id="163" sentence="8" number="0">Obama's</token>
+<token t_id="164" sentence="8" number="1">action</token>
+<token t_id="165" sentence="8" number="2">puts</token>
+<token t_id="166" sentence="8" number="3">the</token>
+<token t_id="167" sentence="8" number="4">Bush</token>
+<token t_id="168" sentence="8" number="5">regulation</token>
+<token t_id="169" sentence="8" number="6">on</token>
+<token t_id="170" sentence="8" number="7">hold</token>
+<token t_id="171" sentence="8" number="8">until</token>
+<token t_id="172" sentence="8" number="9">the</token>
+<token t_id="173" sentence="8" number="10">Interior</token>
+<token t_id="174" sentence="8" number="11">and</token>
+<token t_id="175" sentence="8" number="12">Commerce</token>
+<token t_id="176" sentence="8" number="13">departments</token>
+<token t_id="177" sentence="8" number="14">complete</token>
+<token t_id="178" sentence="8" number="15">a</token>
+<token t_id="179" sentence="8" number="16">review</token>
+<token t_id="180" sentence="8" number="17">.</token>
+<token t_id="181" sentence="9" number="0">While</token>
+<token t_id="182" sentence="9" number="1">on</token>
+<token t_id="183" sentence="9" number="2">the</token>
+<token t_id="184" sentence="9" number="3">campaign</token>
+<token t_id="185" sentence="9" number="4">trail</token>
+<token t_id="186" sentence="9" number="5">,</token>
+<token t_id="187" sentence="9" number="6">Obama</token>
+<token t_id="188" sentence="9" number="7">said</token>
+<token t_id="189" sentence="9" number="8">he</token>
+<token t_id="190" sentence="9" number="9">would</token>
+<token t_id="191" sentence="9" number="10">fight</token>
+<token t_id="192" sentence="9" number="11">to</token>
+<token t_id="193" sentence="9" number="12">maintain</token>
+<token t_id="194" sentence="9" number="13">the</token>
+<token t_id="195" sentence="9" number="14">protections</token>
+<token t_id="196" sentence="9" number="15">of</token>
+<token t_id="197" sentence="9" number="16">the</token>
+<token t_id="198" sentence="9" number="17">Endangered</token>
+<token t_id="199" sentence="9" number="18">Species</token>
+<token t_id="200" sentence="9" number="19">Act</token>
+<token t_id="201" sentence="9" number="20">and</token>
+<token t_id="202" sentence="9" number="21">work</token>
+<token t_id="203" sentence="9" number="22">to</token>
+<token t_id="204" sentence="9" number="23">undo</token>
+<token t_id="205" sentence="9" number="24">what</token>
+<token t_id="206" sentence="9" number="25">was</token>
+<token t_id="207" sentence="9" number="26">then</token>
+<token t_id="208" sentence="9" number="27">a</token>
+<token t_id="209" sentence="9" number="28">proposal</token>
+<token t_id="210" sentence="9" number="29">by</token>
+<token t_id="211" sentence="9" number="30">the</token>
+<token t_id="212" sentence="9" number="31">Bush</token>
+<token t_id="213" sentence="9" number="32">administration</token>
+<token t_id="214" sentence="9" number="33">.</token>
+<token t_id="215" sentence="10" number="0">The</token>
+<token t_id="216" sentence="10" number="1">rule</token>
+<token t_id="217" sentence="10" number="2">,</token>
+<token t_id="218" sentence="10" number="3">finalized</token>
+<token t_id="219" sentence="10" number="4">in</token>
+<token t_id="220" sentence="10" number="5">December</token>
+<token t_id="221" sentence="10" number="6">,</token>
+<token t_id="222" sentence="10" number="7">made</token>
+<token t_id="223" sentence="10" number="8">optional</token>
+<token t_id="224" sentence="10" number="9">the</token>
+<token t_id="225" sentence="10" number="10">mandatory</token>
+<token t_id="226" sentence="10" number="11">,</token>
+<token t_id="227" sentence="10" number="12">independent</token>
+<token t_id="228" sentence="10" number="13">consultations</token>
+<token t_id="229" sentence="10" number="14">federal</token>
+<token t_id="230" sentence="10" number="15">scientists</token>
+<token t_id="231" sentence="10" number="16">have</token>
+<token t_id="232" sentence="10" number="17">performed</token>
+<token t_id="233" sentence="10" number="18">for</token>
+<token t_id="234" sentence="10" number="19">35</token>
+<token t_id="235" sentence="10" number="20">years</token>
+<token t_id="236" sentence="10" number="21">on</token>
+<token t_id="237" sentence="10" number="22">projects</token>
+<token t_id="238" sentence="10" number="23">.</token>
+<token t_id="239" sentence="11" number="0">The</token>
+<token t_id="240" sentence="11" number="1">reviews</token>
+<token t_id="241" sentence="11" number="2">have</token>
+<token t_id="242" sentence="11" number="3">been</token>
+<token t_id="243" sentence="11" number="4">blamed</token>
+<token t_id="244" sentence="11" number="5">by</token>
+<token t_id="245" sentence="11" number="6">developers</token>
+<token t_id="246" sentence="11" number="7">and</token>
+<token t_id="247" sentence="11" number="8">federal</token>
+<token t_id="248" sentence="11" number="9">agencies</token>
+<token t_id="249" sentence="11" number="10">for</token>
+<token t_id="250" sentence="11" number="11">delays</token>
+<token t_id="251" sentence="11" number="12">and</token>
+<token t_id="252" sentence="11" number="13">cost</token>
+<token t_id="253" sentence="11" number="14">increases</token>
+<token t_id="254" sentence="11" number="15">.</token>
+<token t_id="255" sentence="12" number="0">Instead</token>
+<token t_id="256" sentence="12" number="1">,</token>
+<token t_id="257" sentence="12" number="2">the</token>
+<token t_id="258" sentence="12" number="3">Bush</token>
+<token t_id="259" sentence="12" number="4">rule</token>
+<token t_id="260" sentence="12" number="5">allowed</token>
+<token t_id="261" sentence="12" number="6">federal</token>
+<token t_id="262" sentence="12" number="7">agencies</token>
+<token t_id="263" sentence="12" number="8">to</token>
+<token t_id="264" sentence="12" number="9">decide</token>
+<token t_id="265" sentence="12" number="10">for</token>
+<token t_id="266" sentence="12" number="11">themselves</token>
+<token t_id="267" sentence="12" number="12">whether</token>
+<token t_id="268" sentence="12" number="13">projects</token>
+<token t_id="269" sentence="12" number="14">such</token>
+<token t_id="270" sentence="12" number="15">as</token>
+<token t_id="271" sentence="12" number="16">dams</token>
+<token t_id="272" sentence="12" number="17">and</token>
+<token t_id="273" sentence="12" number="18">power</token>
+<token t_id="274" sentence="12" number="19">plants</token>
+<token t_id="275" sentence="12" number="20">posed</token>
+<token t_id="276" sentence="12" number="21">risks</token>
+<token t_id="277" sentence="12" number="22">to</token>
+<token t_id="278" sentence="12" number="23">endangered</token>
+<token t_id="279" sentence="12" number="24">species</token>
+<token t_id="280" sentence="12" number="25">or</token>
+<token t_id="281" sentence="12" number="26">the</token>
+<token t_id="282" sentence="12" number="27">places</token>
+<token t_id="283" sentence="12" number="28">they</token>
+<token t_id="284" sentence="12" number="29">live</token>
+<token t_id="285" sentence="12" number="30">.</token>
+<token t_id="286" sentence="13" number="0">These</token>
+<token t_id="287" sentence="13" number="1">changes</token>
+<token t_id="288" sentence="13" number="2">,</token>
+<token t_id="289" sentence="13" number="3">which</token>
+<token t_id="290" sentence="13" number="4">were</token>
+<token t_id="291" sentence="13" number="5">completed</token>
+<token t_id="292" sentence="13" number="6">in</token>
+<token t_id="293" sentence="13" number="7">a</token>
+<token t_id="294" sentence="13" number="8">relatively</token>
+<token t_id="295" sentence="13" number="9">short</token>
+<token t_id="296" sentence="13" number="10">time</token>
+<token t_id="297" sentence="13" number="11">,</token>
+<token t_id="298" sentence="13" number="12">were</token>
+<token t_id="299" sentence="13" number="13">described</token>
+<token t_id="300" sentence="13" number="14">at</token>
+<token t_id="301" sentence="13" number="15">the</token>
+<token t_id="302" sentence="13" number="16">time</token>
+<token t_id="303" sentence="13" number="17">by</token>
+<token t_id="304" sentence="13" number="18">the</token>
+<token t_id="305" sentence="13" number="19">Bush</token>
+<token t_id="306" sentence="13" number="20">administration</token>
+<token t_id="307" sentence="13" number="21">as</token>
+<token t_id="308" sentence="13" number="22">minor</token>
+<token t_id="309" sentence="13" number="23">.</token>
+<token t_id="310" sentence="14" number="0">But</token>
+<token t_id="311" sentence="14" number="1">Democrats</token>
+<token t_id="312" sentence="14" number="2">and</token>
+<token t_id="313" sentence="14" number="3">environmentalists</token>
+<token t_id="314" sentence="14" number="4">have</token>
+<token t_id="315" sentence="14" number="5">argued</token>
+<token t_id="316" sentence="14" number="6">that</token>
+<token t_id="317" sentence="14" number="7">the</token>
+<token t_id="318" sentence="14" number="8">regulations</token>
+<token t_id="319" sentence="14" number="9">overhauled</token>
+<token t_id="320" sentence="14" number="10">long</token>
+<token t_id="321" sentence="14" number="11">-</token>
+<token t_id="322" sentence="14" number="12">standing</token>
+<token t_id="323" sentence="14" number="13">policy</token>
+<token t_id="324" sentence="14" number="14">.</token>
+<token t_id="325" sentence="15" number="0">Democratic</token>
+<token t_id="326" sentence="15" number="1">leaders</token>
+<token t_id="327" sentence="15" number="2">in</token>
+<token t_id="328" sentence="15" number="3">Congress</token>
+<token t_id="329" sentence="15" number="4">who</token>
+<token t_id="330" sentence="15" number="5">have</token>
+<token t_id="331" sentence="15" number="6">been</token>
+<token t_id="332" sentence="15" number="7">attempting</token>
+<token t_id="333" sentence="15" number="8">to</token>
+<token t_id="334" sentence="15" number="9">reverse</token>
+<token t_id="335" sentence="15" number="10">the</token>
+<token t_id="336" sentence="15" number="11">rule</token>
+<token t_id="337" sentence="15" number="12">applauded</token>
+<token t_id="338" sentence="15" number="13">the</token>
+<token t_id="339" sentence="15" number="14">president's</token>
+<token t_id="340" sentence="15" number="15">decision</token>
+<token t_id="341" sentence="15" number="16">.</token>
+<token t_id="342" sentence="16" number="0">"I</token>
+<token t_id="343" sentence="16" number="1">wholeheartedly</token>
+<token t_id="344" sentence="16" number="2">support</token>
+<token t_id="345" sentence="16" number="3">the</token>
+<token t_id="346" sentence="16" number="4">president's</token>
+<token t_id="347" sentence="16" number="5">proposal</token>
+<token t_id="348" sentence="16" number="6">to</token>
+<token t_id="349" sentence="16" number="7">restore</token>
+<token t_id="350" sentence="16" number="8">the</token>
+<token t_id="351" sentence="16" number="9">protections</token>
+<token t_id="352" sentence="16" number="10">for</token>
+<token t_id="353" sentence="16" number="11">endangered</token>
+<token t_id="354" sentence="16" number="12">species</token>
+<token t_id="355" sentence="16" number="13">that</token>
+<token t_id="356" sentence="16" number="14">the</token>
+<token t_id="357" sentence="16" number="15">Bush</token>
+<token t_id="358" sentence="16" number="16">administration</token>
+<token t_id="359" sentence="16" number="17">spent</token>
+<token t_id="360" sentence="16" number="18">so</token>
+<token t_id="361" sentence="16" number="19">many</token>
+<token t_id="362" sentence="16" number="20">years</token>
+<token t_id="363" sentence="16" number="21">trying</token>
+<token t_id="364" sentence="16" number="22">to</token>
+<token t_id="365" sentence="16" number="23">undermine</token>
+<token t_id="366" sentence="16" number="24">,</token>
+<token t_id="367" sentence="16" number="25">"</token>
+<token t_id="368" sentence="16" number="26">said</token>
+<token t_id="369" sentence="16" number="27">Rep</token>
+<token t_id="370" sentence="16" number="28">.</token>
+<token t_id="371" sentence="16" number="29">Nick</token>
+<token t_id="372" sentence="16" number="30">Rahall</token>
+<token t_id="373" sentence="16" number="31">,</token>
+<token t_id="374" sentence="16" number="32">D</token>
+<token t_id="375" sentence="16" number="33">-</token>
+<token t_id="376" sentence="16" number="34">W</token>
+<token t_id="377" sentence="16" number="35">.</token>
+<token t_id="378" sentence="16" number="36">Va</token>
+<token t_id="379" sentence="16" number="37">.</token>
+<token t_id="380" sentence="16" number="38">,</token>
+<token t_id="381" sentence="16" number="39">who</token>
+<token t_id="382" sentence="16" number="40">chairs</token>
+<token t_id="383" sentence="16" number="41">the</token>
+<token t_id="384" sentence="16" number="42">House</token>
+<token t_id="385" sentence="16" number="43">Natural</token>
+<token t_id="386" sentence="16" number="44">Resources</token>
+<token t_id="387" sentence="16" number="45">Committee</token>
+<token t_id="388" sentence="16" number="46">.</token>
+<token t_id="389" sentence="17" number="0">Rahall</token>
+<token t_id="390" sentence="17" number="1">is</token>
+<token t_id="391" sentence="17" number="2">pushing</token>
+<token t_id="392" sentence="17" number="3">to</token>
+<token t_id="393" sentence="17" number="4">overturn</token>
+<token t_id="394" sentence="17" number="5">the</token>
+<token t_id="395" sentence="17" number="6">rule</token>
+<token t_id="396" sentence="17" number="7">through</token>
+<token t_id="397" sentence="17" number="8">a</token>
+<token t_id="398" sentence="17" number="9">congressional</token>
+<token t_id="399" sentence="17" number="10">resolution</token>
+<token t_id="400" sentence="17" number="11">.</token>
+<token t_id="401" sentence="18" number="0">There</token>
+<token t_id="402" sentence="18" number="1">is</token>
+<token t_id="403" sentence="18" number="2">also</token>
+<token t_id="404" sentence="18" number="3">a</token>
+<token t_id="405" sentence="18" number="4">provision</token>
+<token t_id="406" sentence="18" number="5">tucked</token>
+<token t_id="407" sentence="18" number="6">into</token>
+<token t_id="408" sentence="18" number="7">the</token>
+<token t_id="409" sentence="18" number="8">$410</token>
+<token t_id="410" sentence="18" number="9">billion</token>
+<token t_id="411" sentence="18" number="10">spending</token>
+<token t_id="412" sentence="18" number="11">bill</token>
+<token t_id="413" sentence="18" number="12">the</token>
+<token t_id="414" sentence="18" number="13">House</token>
+<token t_id="415" sentence="18" number="14">passed</token>
+<token t_id="416" sentence="18" number="15">last</token>
+<token t_id="417" sentence="18" number="16">week</token>
+<token t_id="418" sentence="18" number="17">that</token>
+<token t_id="419" sentence="18" number="18">would</token>
+<token t_id="420" sentence="18" number="19">allow</token>
+<token t_id="421" sentence="18" number="20">the</token>
+<token t_id="422" sentence="18" number="21">Interior</token>
+<token t_id="423" sentence="18" number="22">and</token>
+<token t_id="424" sentence="18" number="23">Commerce</token>
+<token t_id="425" sentence="18" number="24">secretaries</token>
+<token t_id="426" sentence="18" number="25">to</token>
+<token t_id="427" sentence="18" number="26">withdraw</token>
+<token t_id="428" sentence="18" number="27">regulations</token>
+<token t_id="429" sentence="18" number="28">.</token>
+<token t_id="430" sentence="19" number="0">Since</token>
+<token t_id="431" sentence="19" number="1">the</token>
+<token t_id="432" sentence="19" number="2">rule</token>
+<token t_id="433" sentence="19" number="3">took</token>
+<token t_id="434" sentence="19" number="4">effect</token>
+<token t_id="435" sentence="19" number="5">before</token>
+<token t_id="436" sentence="19" number="6">Obama</token>
+<token t_id="437" sentence="19" number="7">was</token>
+<token t_id="438" sentence="19" number="8">sworn</token>
+<token t_id="439" sentence="19" number="9">in</token>
+<token t_id="440" sentence="19" number="10">,</token>
+<token t_id="441" sentence="19" number="11">overturning</token>
+<token t_id="442" sentence="19" number="12">it</token>
+<token t_id="443" sentence="19" number="13">through</token>
+<token t_id="444" sentence="19" number="14">regulation</token>
+<token t_id="445" sentence="19" number="15">would</token>
+<token t_id="446" sentence="19" number="16">require</token>
+<token t_id="447" sentence="19" number="17">a</token>
+<token t_id="448" sentence="19" number="18">lengthy</token>
+<token t_id="449" sentence="19" number="19">review</token>
+<token t_id="450" sentence="19" number="20">process</token>
+<token t_id="451" sentence="19" number="21">.</token>
+<token t_id="452" sentence="20" number="0">Industry</token>
+<token t_id="453" sentence="20" number="1">and</token>
+<token t_id="454" sentence="20" number="2">business</token>
+<token t_id="455" sentence="20" number="3">representatives</token>
+<token t_id="456" sentence="20" number="4">said</token>
+<token t_id="457" sentence="20" number="5">restoring</token>
+<token t_id="458" sentence="20" number="6">scientific</token>
+<token t_id="459" sentence="20" number="7">input</token>
+<token t_id="460" sentence="20" number="8">would</token>
+<token t_id="461" sentence="20" number="9">only</token>
+<token t_id="462" sentence="20" number="10">delay</token>
+<token t_id="463" sentence="20" number="11">projects</token>
+<token t_id="464" sentence="20" number="12">,</token>
+<token t_id="465" sentence="20" number="13">including</token>
+<token t_id="466" sentence="20" number="14">those</token>
+<token t_id="467" sentence="20" number="15">that</token>
+<token t_id="468" sentence="20" number="16">will</token>
+<token t_id="469" sentence="20" number="17">be</token>
+<token t_id="470" sentence="20" number="18">funded</token>
+<token t_id="471" sentence="20" number="19">by</token>
+<token t_id="472" sentence="20" number="20">the</token>
+<token t_id="473" sentence="20" number="21">recently</token>
+<token t_id="474" sentence="20" number="22">passed</token>
+<token t_id="475" sentence="20" number="23">stimulus</token>
+<token t_id="476" sentence="20" number="24">package</token>
+<token t_id="477" sentence="20" number="25">.</token>
+<token t_id="478" sentence="21" number="0">But</token>
+<token t_id="479" sentence="21" number="1">Obama</token>
+<token t_id="480" sentence="21" number="2">,</token>
+<token t_id="481" sentence="21" number="3">in</token>
+<token t_id="482" sentence="21" number="4">announcing</token>
+<token t_id="483" sentence="21" number="5">his</token>
+<token t_id="484" sentence="21" number="6">decision</token>
+<token t_id="485" sentence="21" number="7">,</token>
+<token t_id="486" sentence="21" number="8">said</token>
+<token t_id="487" sentence="21" number="9">that</token>
+<token t_id="488" sentence="21" number="10">economic</token>
+<token t_id="489" sentence="21" number="11">recovery</token>
+<token t_id="490" sentence="21" number="12">and</token>
+<token t_id="491" sentence="21" number="13">protecting</token>
+<token t_id="492" sentence="21" number="14">the</token>
+<token t_id="493" sentence="21" number="15">environment</token>
+<token t_id="494" sentence="21" number="16">are</token>
+<token t_id="495" sentence="21" number="17">not</token>
+<token t_id="496" sentence="21" number="18">at</token>
+<token t_id="497" sentence="21" number="19">odds</token>
+<token t_id="498" sentence="21" number="20">with</token>
+<token t_id="499" sentence="21" number="21">one</token>
+<token t_id="500" sentence="21" number="22">another</token>
+<token t_id="501" sentence="21" number="23">.</token>
+<token t_id="502" sentence="22" number="0">"We</token>
+<token t_id="503" sentence="22" number="1">can</token>
+<token t_id="504" sentence="22" number="2">grow</token>
+<token t_id="505" sentence="22" number="3">our</token>
+<token t_id="506" sentence="22" number="4">economy</token>
+<token t_id="507" sentence="22" number="5">today</token>
+<token t_id="508" sentence="22" number="6">,</token>
+<token t_id="509" sentence="22" number="7">"</token>
+<token t_id="510" sentence="22" number="8">Obama</token>
+<token t_id="511" sentence="22" number="9">said</token>
+<token t_id="512" sentence="22" number="10">,</token>
+<token t_id="513" sentence="22" number="11">"and</token>
+<token t_id="514" sentence="22" number="12">preserve</token>
+<token t_id="515" sentence="22" number="13">the</token>
+<token t_id="516" sentence="22" number="14">environment</token>
+<token t_id="517" sentence="22" number="15">for</token>
+<token t_id="518" sentence="22" number="16">ourselves</token>
+<token t_id="519" sentence="22" number="17">and</token>
+<token t_id="520" sentence="22" number="18">our</token>
+<token t_id="521" sentence="22" number="19">children</token>
+<token t_id="522" sentence="22" number="20">and</token>
+<token t_id="523" sentence="22" number="21">our</token>
+<token t_id="524" sentence="22" number="22">grandchildren</token>
+<token t_id="525" sentence="22" number="23">.</token>
+<token t_id="526" sentence="22" number="24">"</token>
+<Markables>
+<ACTION_ASPECTUAL m_id="11"  >
+  <token_anchor t_id="69"/>
+</ACTION_ASPECTUAL>
+<ACTION_ASPECTUAL m_id="44"  >
+  <token_anchor t_id="193"/>
+</ACTION_ASPECTUAL>
+<ACTION_ASPECTUAL m_id="26"  >
+  <token_anchor t_id="177"/>
+</ACTION_ASPECTUAL>
+<ACTION_ASPECTUAL m_id="27"  >
+  <token_anchor t_id="191"/>
+</ACTION_ASPECTUAL>
+<ACTION_ASPECTUAL m_id="28"  >
+  <token_anchor t_id="202"/>
+</ACTION_ASPECTUAL>
+<ACTION_ASPECTUAL m_id="29"  >
+  <token_anchor t_id="209"/>
+</ACTION_ASPECTUAL>
+<ACTION_OCCURRENCE m_id="13"  >
+  <token_anchor t_id="77"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="45"  >
+  <token_anchor t_id="195"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="47"  >
+  <token_anchor t_id="204"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="19"  >
+  <token_anchor t_id="85"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="20"  >
+  <token_anchor t_id="88"/>
+  <token_anchor t_id="89"/>
+  <token_anchor t_id="90"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="21"  >
+  <token_anchor t_id="95"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="22"  >
+  <token_anchor t_id="98"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="23"  >
+  <token_anchor t_id="104"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="24"  >
+  <token_anchor t_id="164"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="25"  >
+  <token_anchor t_id="169"/>
+  <token_anchor t_id="170"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="31"  >
+  <token_anchor t_id="165"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="33"  >
+  <token_anchor t_id="179"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="6"  >
+  <token_anchor t_id="43"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="38"  >
+  <token_anchor t_id="100"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="7"  >
+  <token_anchor t_id="46"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="40"  >
+  <token_anchor t_id="182"/>
+  <token_anchor t_id="185"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="9"  >
+  <token_anchor t_id="65"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="41"  >
+  <token_anchor t_id="188"/>
+</ACTION_REPORTING>
+<ACTION_STATE m_id="17"  >
+  <token_anchor t_id="78"/>
+</ACTION_STATE>
+<HUMAN_PART_ORG m_id="48"  >
+  <token_anchor t_id="213"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="32"  >
+  <token_anchor t_id="176"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="4"  >
+  <token_anchor t_id="45"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="5"  >
+  <token_anchor t_id="93"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="37"  >
+  <token_anchor t_id="96"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="42"  >
+  <token_anchor t_id="187"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="43"  >
+  <token_anchor t_id="189"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="18"  >
+  <token_anchor t_id="84"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="30"  >
+  <token_anchor t_id="163"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="1"  >
+  <token_anchor t_id="41"/>
+  <token_anchor t_id="42"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="3"  >
+  <token_anchor t_id="63"/>
+  <token_anchor t_id="64"/>
+</HUMAN_PART_PER>
+<NON_HUMAN_PART m_id="12"  >
+  <token_anchor t_id="72"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="14"  >
+  <token_anchor t_id="74"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="46"  >
+  <token_anchor t_id="198"/>
+  <token_anchor t_id="199"/>
+  <token_anchor t_id="200"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="15"  >
+  <token_anchor t_id="79"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="16"  >
+  <token_anchor t_id="81"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="34"  >
+  <token_anchor t_id="168"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="35"  >
+  <token_anchor t_id="87"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="36"  >
+  <token_anchor t_id="94"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="39"  >
+  <token_anchor t_id="102"/>
+  <token_anchor t_id="103"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="8"  >
+  <token_anchor t_id="48"/>
+  <token_anchor t_id="49"/>
+  <token_anchor t_id="50"/>
+</NON_HUMAN_PART>
+<TIME_DATE m_id="10"  >
+  <token_anchor t_id="67"/>
+</TIME_DATE>
+<TIME_OF_THE_DAY m_id="2"  >
+  <token_anchor t_id="51"/>
+  <token_anchor t_id="52"/>
+  <token_anchor t_id="53"/>
+  <token_anchor t_id="54"/>
+  <token_anchor t_id="55"/>
+  <token_anchor t_id="56"/>
+  <token_anchor t_id="57"/>
+  <token_anchor t_id="58"/>
+  <token_anchor t_id="59"/>
+  <token_anchor t_id="60"/>
+  <token_anchor t_id="61"/>
+</TIME_OF_THE_DAY>
+
+
+
+
+<NON_HUMAN_PART m_id="62" RELATED_TO="" TAG_DESCRIPTOR="t9b_endangered_species" instance_id="NON17210820571952572" />
+<NON_HUMAN_PART m_id="61" RELATED_TO="" TAG_DESCRIPTOR="t9_endangered_species_act" instance_id="NON17207548339630127" />
+<HUMAN_PART_PER m_id="59" RELATED_TO="" TAG_DESCRIPTOR="t9_barack_obama" instance_id="HUM17209079221902940" />
+<ACTION_OCCURRENCE m_id="60" RELATED_TO="" TAG_DESCRIPTOR="t9_reverse" instance_id="ACT17214300832263768" />
+<ACTION_STATE m_id="58" RELATED_TO="" TAG_DESCRIPTOR="t9_endangered" instance_id="ACT17214346135531910" />
+<HUMAN_PART_ORG m_id="57" RELATED_TO="" TAG_DESCRIPTOR="t9_federal_agencies" instance_id="HUM17209496877975579" />
+<ACTION_OCCURRENCE m_id="56" RELATED_TO="" TAG_DESCRIPTOR="t9_changes" instance_id="ACT17226658832804533" />
+<TIME_DATE m_id="55" RELATED_TO="" TAG_DESCRIPTOR="t9_march_3" instance_id="TIM17215089571714509" />
+<NON_HUMAN_PART m_id="54" RELATED_TO="" TAG_DESCRIPTOR="t9_regulations" instance_id="NON17210019876807755" />
+<HUMAN_PART_ORG m_id="53" RELATED_TO="" TAG_DESCRIPTOR="t9_bush_administration" instance_id="HUM17209377647266249" />
+<NON_HUMAN_PART m_id="52" RELATED_TO="" TAG_DESCRIPTOR="t9b_plant_species" instance_id="NON17210007245216344" />
+<ACTION_OCCURRENCE m_id="64" RELATED_TO="" TAG_DESCRIPTOR="t9_impact_species" instance_id="ACT17214313791755206" />
+<ACTION_OCCURRENCE m_id="63" RELATED_TO="" TAG_DESCRIPTOR="t9b_scientific_review" instance_id="ACT17210050647433902" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="24355" note="NON17210007245216344" >
+  <source m_id="16" />
+  <target m_id="52" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24356" note="HUM17209377647266249" >
+  <source m_id="4" />
+  <source m_id="5" />
+  <source m_id="48" />
+  <target m_id="53" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24357" note="NON17210019876807755" >
+  <source m_id="36" />
+  <source m_id="34" />
+  <target m_id="54" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24358" note="TIM17215089571714509" >
+  <source m_id="10" />
+  <target m_id="55" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24359" note="ACT17226658832804533" >
+  <source m_id="7" />
+  <target m_id="56" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24360" note="HUM17209496877975579" >
+  <source m_id="37" />
+  <target m_id="57" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24361" note="ACT17214346135531910" >
+  <source m_id="17" />
+  <target m_id="58" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24362" note="HUM17209079221902940" >
+  <source m_id="42" />
+  <source m_id="43" />
+  <source m_id="30" />
+  <source m_id="3" />
+  <source m_id="18" />
+  <source m_id="1" />
+  <target m_id="59" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24363" note="ACT17214300832263768" >
+  <source m_id="6" />
+  <target m_id="60" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24364" note="NON17207548339630127" >
+  <source m_id="46" />
+  <source m_id="8" />
+  <target m_id="61" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24365" note="NON17210820571952572" >
+  <source m_id="15" />
+  <source m_id="39" />
+  <target m_id="62" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24366" note="ACT17210050647433902" >
+  <source m_id="33" />
+  <source m_id="38" />
+  <target m_id="63" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="24367" note="ACT17214313791755206" >
+  <source m_id="13" />
+  <target m_id="64" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

@@ -1,0 +1,519 @@
+<Document doc_name="24_11ecbplus.xml" doc_id="DOC15646353342645534">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">web</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">orange</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<token t_id="9" sentence="0" number="8">co</token>
+<token t_id="10" sentence="0" number="9">.</token>
+<token t_id="11" sentence="0" number="10">uk</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">article</token>
+<token t_id="14" sentence="0" number="13">/</token>
+<token t_id="15" sentence="0" number="14">news</token>
+<token t_id="16" sentence="0" number="15">/</token>
+<token t_id="17" sentence="0" number="16">paris</token>
+<token t_id="18" sentence="0" number="17">_</token>
+<token t_id="19" sentence="0" number="18">jewellery</token>
+<token t_id="20" sentence="0" number="19">_</token>
+<token t_id="21" sentence="0" number="20">stolen</token>
+<token t_id="22" sentence="0" number="21">_</token>
+<token t_id="23" sentence="0" number="22">in</token>
+<token t_id="24" sentence="0" number="23">_</token>
+<token t_id="25" sentence="0" number="24">casty</token>
+<token t_id="26" sentence="0" number="25">_</token>
+<token t_id="27" sentence="0" number="26">shop</token>
+<token t_id="28" sentence="0" number="27">_</token>
+<token t_id="29" sentence="0" number="28">raid</token>
+<token t_id="30" sentence="1" number="0">9</token>
+<token t_id="31" sentence="1" number="1">September</token>
+<token t_id="32" sentence="1" number="2">2013</token>
+<token t_id="33" sentence="1" number="3">,</token>
+<token t_id="34" sentence="1" number="4">14</token>
+<token t_id="35" sentence="1" number="5">:</token>
+<token t_id="36" sentence="1" number="6">08</token>
+<token t_id="37" sentence="2" number="0">Paris</token>
+<token t_id="38" sentence="2" number="1">:</token>
+<token t_id="39" sentence="2" number="2">Jewellery</token>
+<token t_id="40" sentence="2" number="3">Stolen</token>
+<token t_id="41" sentence="2" number="4">In</token>
+<token t_id="42" sentence="2" number="5">Casty</token>
+<token t_id="43" sentence="2" number="6">Shop</token>
+<token t_id="44" sentence="2" number="7">Raid</token>
+<token t_id="45" sentence="3" number="0">Jewellery</token>
+<token t_id="46" sentence="3" number="1">and</token>
+<token t_id="47" sentence="3" number="2">watches</token>
+<token t_id="48" sentence="3" number="3">worth</token>
+<token t_id="49" sentence="3" number="4">£1</token>
+<token t_id="50" sentence="3" number="5">.</token>
+<token t_id="51" sentence="3" number="6">7m</token>
+<token t_id="52" sentence="3" number="7">have</token>
+<token t_id="53" sentence="3" number="8">been</token>
+<token t_id="54" sentence="3" number="9">stolen</token>
+<token t_id="55" sentence="3" number="10">during</token>
+<token t_id="56" sentence="3" number="11">a</token>
+<token t_id="57" sentence="3" number="12">heist</token>
+<token t_id="58" sentence="3" number="13">in</token>
+<token t_id="59" sentence="3" number="14">an</token>
+<token t_id="60" sentence="3" number="15">upmarket</token>
+<token t_id="61" sentence="3" number="16">central</token>
+<token t_id="62" sentence="3" number="17">Paris</token>
+<token t_id="63" sentence="3" number="18">shop</token>
+<token t_id="64" sentence="3" number="19">.</token>
+<token t_id="65" sentence="4" number="0">Four</token>
+<token t_id="66" sentence="4" number="1">men</token>
+<token t_id="67" sentence="4" number="2">drove</token>
+<token t_id="68" sentence="4" number="3">a</token>
+<token t_id="69" sentence="4" number="4">4x4</token>
+<token t_id="70" sentence="4" number="5">through</token>
+<token t_id="71" sentence="4" number="6">the</token>
+<token t_id="72" sentence="4" number="7">front</token>
+<token t_id="73" sentence="4" number="8">window</token>
+<token t_id="74" sentence="4" number="9">of</token>
+<token t_id="75" sentence="4" number="10">the</token>
+<token t_id="76" sentence="4" number="11">store</token>
+<token t_id="77" sentence="4" number="12">on</token>
+<token t_id="78" sentence="4" number="13">Rue</token>
+<token t_id="79" sentence="4" number="14">de</token>
+<token t_id="80" sentence="4" number="15">Castiglione</token>
+<token t_id="81" sentence="4" number="16">,</token>
+<token t_id="82" sentence="4" number="17">before</token>
+<token t_id="83" sentence="4" number="18">making</token>
+<token t_id="84" sentence="4" number="19">off</token>
+<token t_id="85" sentence="4" number="20">with</token>
+<token t_id="86" sentence="4" number="21">the</token>
+<token t_id="87" sentence="4" number="22">jewellery</token>
+<token t_id="88" sentence="4" number="23">and</token>
+<token t_id="89" sentence="4" number="24">watches</token>
+<token t_id="90" sentence="4" number="25">.</token>
+<token t_id="91" sentence="5" number="0">They</token>
+<token t_id="92" sentence="5" number="1">then</token>
+<token t_id="93" sentence="5" number="2">set</token>
+<token t_id="94" sentence="5" number="3">fire</token>
+<token t_id="95" sentence="5" number="4">to</token>
+<token t_id="96" sentence="5" number="5">the</token>
+<token t_id="97" sentence="5" number="6">vehicle</token>
+<token t_id="98" sentence="5" number="7">before</token>
+<token t_id="99" sentence="5" number="8">fleeing</token>
+<token t_id="100" sentence="5" number="9">in</token>
+<token t_id="101" sentence="5" number="10">another</token>
+<token t_id="102" sentence="5" number="11">car</token>
+<token t_id="103" sentence="5" number="12">.</token>
+<token t_id="104" sentence="6" number="0">Forensic</token>
+<token t_id="105" sentence="6" number="1">policemen</token>
+<token t_id="106" sentence="6" number="2">are</token>
+<token t_id="107" sentence="6" number="3">examining</token>
+<token t_id="108" sentence="6" number="4">the</token>
+<token t_id="109" sentence="6" number="5">Casty</token>
+<token t_id="110" sentence="6" number="6">store</token>
+<token t_id="111" sentence="6" number="7">in</token>
+<token t_id="112" sentence="6" number="8">the</token>
+<token t_id="113" sentence="6" number="9">central</token>
+<token t_id="114" sentence="6" number="10">first</token>
+<token t_id="115" sentence="6" number="11">district</token>
+<token t_id="116" sentence="6" number="12">of</token>
+<token t_id="117" sentence="6" number="13">the</token>
+<token t_id="118" sentence="6" number="14">capital</token>
+<token t_id="119" sentence="6" number="15">,</token>
+<token t_id="120" sentence="6" number="16">home</token>
+<token t_id="121" sentence="6" number="17">to</token>
+<token t_id="122" sentence="6" number="18">numerous</token>
+<token t_id="123" sentence="6" number="19">jewellery</token>
+<token t_id="124" sentence="6" number="20">shops</token>
+<token t_id="125" sentence="6" number="21">.</token>
+<token t_id="126" sentence="7" number="0">The</token>
+<token t_id="127" sentence="7" number="1">heist</token>
+<token t_id="128" sentence="7" number="2">near</token>
+<token t_id="129" sentence="7" number="3">Place</token>
+<token t_id="130" sentence="7" number="4">Vendome</token>
+<token t_id="131" sentence="7" number="5">is</token>
+<token t_id="132" sentence="7" number="6">the</token>
+<token t_id="133" sentence="7" number="7">latest</token>
+<token t_id="134" sentence="7" number="8">to</token>
+<token t_id="135" sentence="7" number="9">hit</token>
+<token t_id="136" sentence="7" number="10">France</token>
+<token t_id="137" sentence="7" number="11">after</token>
+<token t_id="138" sentence="7" number="12">a</token>
+<token t_id="139" sentence="7" number="13">spate</token>
+<token t_id="140" sentence="7" number="14">of</token>
+<token t_id="141" sentence="7" number="15">high</token>
+<token t_id="142" sentence="7" number="16">-</token>
+<token t_id="143" sentence="7" number="17">profile</token>
+<token t_id="144" sentence="7" number="18">robberies</token>
+<token t_id="145" sentence="7" number="19">in</token>
+<token t_id="146" sentence="7" number="20">the</token>
+<token t_id="147" sentence="7" number="21">southern</token>
+<token t_id="148" sentence="7" number="22">resort</token>
+<token t_id="149" sentence="7" number="23">of</token>
+<token t_id="150" sentence="7" number="24">Cannes</token>
+<token t_id="151" sentence="7" number="25">.</token>
+<token t_id="152" sentence="8" number="0">At</token>
+<token t_id="153" sentence="8" number="1">the</token>
+<token t_id="154" sentence="8" number="2">end</token>
+<token t_id="155" sentence="8" number="3">of</token>
+<token t_id="156" sentence="8" number="4">July</token>
+<token t_id="157" sentence="8" number="5">,</token>
+<token t_id="158" sentence="8" number="6">an</token>
+<token t_id="159" sentence="8" number="7">armed</token>
+<token t_id="160" sentence="8" number="8">man</token>
+<token t_id="161" sentence="8" number="9">carried</token>
+<token t_id="162" sentence="8" number="10">out</token>
+<token t_id="163" sentence="8" number="11">a</token>
+<token t_id="164" sentence="8" number="12">robbery</token>
+<token t_id="165" sentence="8" number="13">at</token>
+<token t_id="166" sentence="8" number="14">a</token>
+<token t_id="167" sentence="8" number="15">diamond</token>
+<token t_id="168" sentence="8" number="16">exhibition</token>
+<token t_id="169" sentence="8" number="17">at</token>
+<token t_id="170" sentence="8" number="18">the</token>
+<token t_id="171" sentence="8" number="19">Carlton</token>
+<token t_id="172" sentence="8" number="20">Hotel</token>
+<token t_id="173" sentence="8" number="21">in</token>
+<token t_id="174" sentence="8" number="22">Cannes</token>
+<token t_id="175" sentence="8" number="23">,</token>
+<token t_id="176" sentence="8" number="24">making</token>
+<token t_id="177" sentence="8" number="25">off</token>
+<token t_id="178" sentence="8" number="26">with</token>
+<token t_id="179" sentence="8" number="27">jewellery</token>
+<token t_id="180" sentence="8" number="28">worth</token>
+<token t_id="181" sentence="8" number="29">£88m</token>
+<token t_id="182" sentence="8" number="30">in</token>
+<token t_id="183" sentence="8" number="31">one</token>
+<token t_id="184" sentence="8" number="32">of</token>
+<token t_id="185" sentence="8" number="33">the</token>
+<token t_id="186" sentence="8" number="34">world's</token>
+<token t_id="187" sentence="8" number="35">biggest</token>
+<token t_id="188" sentence="8" number="36">ever</token>
+<token t_id="189" sentence="8" number="37">heists</token>
+<token t_id="190" sentence="8" number="38">.</token>
+<token t_id="191" sentence="9" number="0">And</token>
+<token t_id="192" sentence="9" number="1">last</token>
+<token t_id="193" sentence="9" number="2">month</token>
+<token t_id="194" sentence="9" number="3">thieves</token>
+<token t_id="195" sentence="9" number="4">made</token>
+<token t_id="196" sentence="9" number="5">off</token>
+<token t_id="197" sentence="9" number="6">with</token>
+<token t_id="198" sentence="9" number="7">£35</token>
+<token t_id="199" sentence="9" number="8">,</token>
+<token t_id="200" sentence="9" number="9">000</token>
+<token t_id="201" sentence="9" number="10">of</token>
+<token t_id="202" sentence="9" number="11">jewellery</token>
+<token t_id="203" sentence="9" number="12">after</token>
+<token t_id="204" sentence="9" number="13">cracking</token>
+<token t_id="205" sentence="9" number="14">two</token>
+<token t_id="206" sentence="9" number="15">safes</token>
+<token t_id="207" sentence="9" number="16">at</token>
+<token t_id="208" sentence="9" number="17">the</token>
+<token t_id="209" sentence="9" number="18">luxury</token>
+<token t_id="210" sentence="9" number="19">Grand</token>
+<token t_id="211" sentence="9" number="20">Hotel</token>
+<token t_id="212" sentence="9" number="21">du</token>
+<token t_id="213" sentence="9" number="22">Cap</token>
+<token t_id="214" sentence="9" number="23">in</token>
+<token t_id="215" sentence="9" number="24">Saint</token>
+<token t_id="216" sentence="9" number="25">-</token>
+<token t_id="217" sentence="9" number="26">Jean</token>
+<token t_id="218" sentence="9" number="27">-</token>
+<token t_id="219" sentence="9" number="28">Cap</token>
+<token t_id="220" sentence="9" number="29">-</token>
+<token t_id="221" sentence="9" number="30">Ferrat</token>
+<token t_id="222" sentence="9" number="31">,</token>
+<token t_id="223" sentence="9" number="32">near</token>
+<token t_id="224" sentence="9" number="33">Nice</token>
+<token t_id="225" sentence="9" number="34">.</token>
+<token t_id="226" sentence="10" number="0">In</token>
+<token t_id="227" sentence="10" number="1">May</token>
+<token t_id="228" sentence="10" number="2">,</token>
+<token t_id="229" sentence="10" number="3">thieves</token>
+<token t_id="230" sentence="10" number="4">stole</token>
+<token t_id="231" sentence="10" number="5">£910</token>
+<token t_id="232" sentence="10" number="6">,</token>
+<token t_id="233" sentence="10" number="7">000</token>
+<token t_id="234" sentence="10" number="8">worth</token>
+<token t_id="235" sentence="10" number="9">of</token>
+<token t_id="236" sentence="10" number="10">jewellery</token>
+<token t_id="237" sentence="10" number="11">from</token>
+<token t_id="238" sentence="10" number="12">an</token>
+<token t_id="239" sentence="10" number="13">employee</token>
+<token t_id="240" sentence="10" number="14">of</token>
+<token t_id="241" sentence="10" number="15">Swiss</token>
+<token t_id="242" sentence="10" number="16">firm</token>
+<token t_id="243" sentence="10" number="17">Chopard</token>
+<token t_id="244" sentence="10" number="18">that</token>
+<token t_id="245" sentence="10" number="19">was</token>
+<token t_id="246" sentence="10" number="20">due</token>
+<token t_id="247" sentence="10" number="21">to</token>
+<token t_id="248" sentence="10" number="22">be</token>
+<token t_id="249" sentence="10" number="23">loaned</token>
+<token t_id="250" sentence="10" number="24">to</token>
+<token t_id="251" sentence="10" number="25">film</token>
+<token t_id="252" sentence="10" number="26">stars</token>
+<token t_id="253" sentence="10" number="27">during</token>
+<token t_id="254" sentence="10" number="28">the</token>
+<token t_id="255" sentence="10" number="29">Cannes</token>
+<token t_id="256" sentence="10" number="30">Film</token>
+<token t_id="257" sentence="10" number="31">Festival</token>
+<token t_id="258" sentence="10" number="32">and</token>
+<token t_id="259" sentence="10" number="33">a</token>
+<token t_id="260" sentence="10" number="34">second</token>
+<token t_id="261" sentence="10" number="35">theft</token>
+<token t_id="262" sentence="10" number="36">saw</token>
+<token t_id="263" sentence="10" number="37">a</token>
+<token t_id="264" sentence="10" number="38">diamond</token>
+<token t_id="265" sentence="10" number="39">necklace</token>
+<token t_id="266" sentence="10" number="40">worth</token>
+<token t_id="267" sentence="10" number="41">£1</token>
+<token t_id="268" sentence="10" number="42">.</token>
+<token t_id="269" sentence="10" number="43">2m</token>
+<token t_id="270" sentence="10" number="44">stolen</token>
+<token t_id="271" sentence="10" number="45">.</token>
+<token t_id="272" sentence="11" number="0">Paris</token>
+<token t_id="273" sentence="11" number="1">has</token>
+<token t_id="274" sentence="11" number="2">also</token>
+<token t_id="275" sentence="11" number="3">been</token>
+<token t_id="276" sentence="11" number="4">the</token>
+<token t_id="277" sentence="11" number="5">scene</token>
+<token t_id="278" sentence="11" number="6">of</token>
+<token t_id="279" sentence="11" number="7">high</token>
+<token t_id="280" sentence="11" number="8">-</token>
+<token t_id="281" sentence="11" number="9">profile</token>
+<token t_id="282" sentence="11" number="10">robberies</token>
+<token t_id="283" sentence="11" number="11">.</token>
+<token t_id="284" sentence="12" number="0">In</token>
+<token t_id="285" sentence="12" number="1">December</token>
+<token t_id="286" sentence="12" number="2">2008</token>
+<token t_id="287" sentence="12" number="3">,</token>
+<token t_id="288" sentence="12" number="4">three</token>
+<token t_id="289" sentence="12" number="5">men</token>
+<token t_id="290" sentence="12" number="6">emptied</token>
+<token t_id="291" sentence="12" number="7">almost</token>
+<token t_id="292" sentence="12" number="8">the</token>
+<token t_id="293" sentence="12" number="9">entire</token>
+<token t_id="294" sentence="12" number="10">stock</token>
+<token t_id="295" sentence="12" number="11">of</token>
+<token t_id="296" sentence="12" number="12">gems</token>
+<token t_id="297" sentence="12" number="13">from</token>
+<token t_id="298" sentence="12" number="14">the</token>
+<token t_id="299" sentence="12" number="15">Harry</token>
+<token t_id="300" sentence="12" number="16">Winston</token>
+<token t_id="301" sentence="12" number="17">jewellery</token>
+<token t_id="302" sentence="12" number="18">store</token>
+<token t_id="303" sentence="12" number="19">.</token>
+<token t_id="304" sentence="13" number="0">Police</token>
+<token t_id="305" sentence="13" number="1">said</token>
+<token t_id="306" sentence="13" number="2">they</token>
+<token t_id="307" sentence="13" number="3">had</token>
+<token t_id="308" sentence="13" number="4">recovered</token>
+<token t_id="309" sentence="13" number="5">80%</token>
+<token t_id="310" sentence="13" number="6">of</token>
+<token t_id="311" sentence="13" number="7">the</token>
+<token t_id="312" sentence="13" number="8">haul</token>
+<token t_id="313" sentence="13" number="9">in</token>
+<token t_id="314" sentence="13" number="10">2009</token>
+<token t_id="315" sentence="13" number="11">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="9"  >
+  <token_anchor t_id="139"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="10"  >
+  <token_anchor t_id="144"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="17"  >
+  <token_anchor t_id="44"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="2"  >
+  <token_anchor t_id="40"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="3"  >
+  <token_anchor t_id="54"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="4"  >
+  <token_anchor t_id="57"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="5"  >
+  <token_anchor t_id="67"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="6"  >
+  <token_anchor t_id="83"/>
+  <token_anchor t_id="84"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="7"  >
+  <token_anchor t_id="127"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="8"  >
+  <token_anchor t_id="135"/>
+</ACTION_OCCURRENCE>
+<HUMAN_PART_GPE m_id="24"  >
+  <token_anchor t_id="136"/>
+</HUMAN_PART_GPE>
+<LOC_FAC m_id="21"  >
+  <token_anchor t_id="58"/>
+  <token_anchor t_id="59"/>
+  <token_anchor t_id="60"/>
+  <token_anchor t_id="61"/>
+  <token_anchor t_id="62"/>
+  <token_anchor t_id="63"/>
+</LOC_FAC>
+<LOC_FAC m_id="23"  >
+  <token_anchor t_id="42"/>
+  <token_anchor t_id="43"/>
+</LOC_FAC>
+<LOC_GEO m_id="18"  >
+  <token_anchor t_id="37"/>
+</LOC_GEO>
+<LOC_GEO m_id="19"  >
+  <token_anchor t_id="128"/>
+  <token_anchor t_id="129"/>
+  <token_anchor t_id="130"/>
+</LOC_GEO>
+<LOC_GEO m_id="20"  >
+  <token_anchor t_id="145"/>
+  <token_anchor t_id="146"/>
+  <token_anchor t_id="147"/>
+  <token_anchor t_id="148"/>
+  <token_anchor t_id="149"/>
+  <token_anchor t_id="150"/>
+</LOC_GEO>
+<LOC_OTHER m_id="22"  >
+  <token_anchor t_id="70"/>
+  <token_anchor t_id="71"/>
+  <token_anchor t_id="72"/>
+  <token_anchor t_id="73"/>
+  <token_anchor t_id="74"/>
+  <token_anchor t_id="75"/>
+  <token_anchor t_id="76"/>
+  <token_anchor t_id="77"/>
+  <token_anchor t_id="78"/>
+  <token_anchor t_id="79"/>
+  <token_anchor t_id="80"/>
+</LOC_OTHER>
+<NON_HUMAN_PART m_id="11"  >
+  <token_anchor t_id="39"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="12"  >
+  <token_anchor t_id="45"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="13"  >
+  <token_anchor t_id="47"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="14"  >
+  <token_anchor t_id="69"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="15"  >
+  <token_anchor t_id="87"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="16"  >
+  <token_anchor t_id="89"/>
+</NON_HUMAN_PART>
+<TIME_OF_THE_DAY m_id="1"  >
+  <token_anchor t_id="30"/>
+  <token_anchor t_id="31"/>
+  <token_anchor t_id="32"/>
+  <token_anchor t_id="33"/>
+  <token_anchor t_id="34"/>
+  <token_anchor t_id="35"/>
+  <token_anchor t_id="36"/>
+</TIME_OF_THE_DAY>
+
+
+<HUMAN_PART_PER m_id="29" note="byCROMER" >
+  <token_anchor t_id="66"/>
+</HUMAN_PART_PER>
+
+
+<ACTION_OCCURRENCE m_id="39" RELATED_TO="" TAG_DESCRIPTOR="t24_making_off" instance_id="ACT18316723503733222" />
+<HUMAN_PART_PER m_id="38" RELATED_TO="" TAG_DESCRIPTOR="t24_thieves" instance_id="HUM18316922352936729" />
+<LOC_FAC m_id="37" RELATED_TO="" TAG_DESCRIPTOR="t24_store" instance_id="LOC18316780390763009" />
+<ACTION_OCCURRENCE m_id="36" RELATED_TO="" TAG_DESCRIPTOR="t24_robberies" instance_id="ACT18316733646145911" />
+<ACTION_OCCURRENCE m_id="35" RELATED_TO="" TAG_DESCRIPTOR="t24_stole" instance_id="ACT18316607728005315" />
+<NON_HUMAN_PART m_id="34" RELATED_TO="" TAG_DESCRIPTOR="t24_4x4" instance_id="NON18316889977087247" />
+<ACTION_OCCURRENCE m_id="33" RELATED_TO="" TAG_DESCRIPTOR="t24_heist" instance_id="ACT18316597331822467" />
+<LOC_GEO m_id="32" RELATED_TO="" TAG_DESCRIPTOR="t24_cannes" instance_id="LOC18316841006837696" />
+<ACTION_OCCURRENCE m_id="31" RELATED_TO="" TAG_DESCRIPTOR="t24_hit_france" instance_id="ACT18316689641167875" />
+<ACTION_OCCURRENCE m_id="30" RELATED_TO="" TAG_DESCRIPTOR="t24_crashed" instance_id="ACT18316906146581222" />
+<ACTION_OCCURRENCE m_id="45" RELATED_TO="" TAG_DESCRIPTOR="t24_spate" instance_id="ACT18316748985916755" />
+<LOC_GEO m_id="44" RELATED_TO="" TAG_DESCRIPTOR="t24_central_paris" instance_id="LOC18316830192392387" />
+<NON_HUMAN_PART m_id="43" RELATED_TO="" TAG_DESCRIPTOR="t24_jewellery" instance_id="NON18316866714096124" />
+<HUMAN_PART_GPE m_id="42" RELATED_TO="" TAG_DESCRIPTOR="t24_france" instance_id="HUM18316765045288949" />
+<NON_HUMAN_PART m_id="41" RELATED_TO="" TAG_DESCRIPTOR="t24_watches" instance_id="NON18316878143147711" />
+<LOC_OTHER m_id="40" RELATED_TO="" TAG_DESCRIPTOR="t24_window" instance_id="LOC18316851975019915" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="41411" note="ACT18316906146581222" >
+  <source m_id="5" />
+  <target m_id="30" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41412" note="ACT18316689641167875" >
+  <source m_id="8" />
+  <target m_id="31" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41413" note="LOC18316841006837696" >
+  <source m_id="20" />
+  <target m_id="32" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41414" note="ACT18316597331822467" >
+  <source m_id="7" />
+  <source m_id="4" />
+  <source m_id="17" />
+  <target m_id="33" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41415" note="NON18316889977087247" >
+  <source m_id="14" />
+  <target m_id="34" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41416" note="ACT18316607728005315" >
+  <source m_id="2" />
+  <source m_id="3" />
+  <target m_id="35" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41417" note="ACT18316733646145911" >
+  <source m_id="10" />
+  <target m_id="36" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41418" note="LOC18316780390763009" >
+  <source m_id="21" />
+  <source m_id="23" />
+  <target m_id="37" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41419" note="HUM18316922352936729" >
+  <source m_id="29" />
+  <target m_id="38" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41420" note="ACT18316723503733222" >
+  <source m_id="6" />
+  <target m_id="39" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41421" note="LOC18316851975019915" >
+  <source m_id="22" />
+  <target m_id="40" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41422" note="NON18316878143147711" >
+  <source m_id="13" />
+  <source m_id="16" />
+  <target m_id="41" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41423" note="HUM18316765045288949" >
+  <source m_id="24" />
+  <target m_id="42" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41424" note="NON18316866714096124" >
+  <source m_id="12" />
+  <source m_id="11" />
+  <source m_id="15" />
+  <target m_id="43" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41425" note="LOC18316830192392387" >
+  <source m_id="18" />
+  <target m_id="44" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="41426" note="ACT18316748985916755" >
+  <source m_id="9" />
+  <target m_id="45" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

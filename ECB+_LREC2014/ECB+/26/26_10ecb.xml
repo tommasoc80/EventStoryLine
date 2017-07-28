@@ -1,0 +1,101 @@
+<Document doc_name="26_10ecb.xml" doc_id="DOC15654841191803567">
+<token t_id="1" sentence="0" number="0">A</token>
+<token t_id="2" sentence="0" number="1">Mafia</token>
+<token t_id="3" sentence="0" number="2">boss</token>
+<token t_id="4" sentence="0" number="3">in</token>
+<token t_id="5" sentence="0" number="4">Palermo</token>
+<token t_id="6" sentence="0" number="5">hanged</token>
+<token t_id="7" sentence="0" number="6">himself</token>
+<token t_id="8" sentence="0" number="7">in</token>
+<token t_id="9" sentence="0" number="8">jail</token>
+<token t_id="10" sentence="0" number="9">after</token>
+<token t_id="11" sentence="0" number="10">hours</token>
+<token t_id="12" sentence="0" number="11">before</token>
+<token t_id="13" sentence="0" number="12">he</token>
+<token t_id="14" sentence="0" number="13">was</token>
+<token t_id="15" sentence="0" number="14">arrested</token>
+<token t_id="16" sentence="0" number="15">in</token>
+<token t_id="17" sentence="0" number="16">a</token>
+<token t_id="18" sentence="0" number="17">police</token>
+<token t_id="19" sentence="0" number="18">'s</token>
+<token t_id="20" sentence="0" number="19">raid</token>
+<token t_id="21" sentence="0" number="20">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="20"  >
+  <token_anchor t_id="20"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="18"  >
+  <token_anchor t_id="6"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="19"  >
+  <token_anchor t_id="15"/>
+</ACTION_OCCURRENCE>
+<HUMAN_PART_ORG m_id="21"  >
+  <token_anchor t_id="18"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_PER m_id="12"  >
+  <token_anchor t_id="2"/>
+  <token_anchor t_id="3"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="14"  >
+  <token_anchor t_id="7"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="15"  >
+  <token_anchor t_id="13"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="17"  >
+  <token_anchor t_id="9"/>
+</LOC_FAC>
+<LOC_GEO m_id="13"  >
+  <token_anchor t_id="5"/>
+</LOC_GEO>
+<TIME_DURATION m_id="16"  >
+  <token_anchor t_id="11"/>
+</TIME_DURATION>
+
+
+
+
+<ACTION_OCCURRENCE m_id="28" RELATED_TO="" TAG_DESCRIPTOR="t26b_police_raid" instance_id="ACT27337443408187958" />
+<ACTION_OCCURRENCE m_id="27" RELATED_TO="" TAG_DESCRIPTOR="t26b_hanged" instance_id="ACT18441863532401006" />
+<ACTION_OCCURRENCE m_id="26" RELATED_TO="" TAG_DESCRIPTOR="t26b_arrest" instance_id="ACT18441937963352466" />
+<HUMAN_PART_PER m_id="25" RELATED_TO="" TAG_DESCRIPTOR="t26b_presti" instance_id="HUM18441890442259339" />
+<TIME_DURATION m_id="24" RELATED_TO="" TAG_DESCRIPTOR="t26b_hours" instance_id="TIM18442142154629810" />
+<LOC_FAC m_id="23" RELATED_TO="" TAG_DESCRIPTOR="t26b_prison" instance_id="LOC18441904201489761" />
+<HUMAN_PART_ORG m_id="22" RELATED_TO="" TAG_DESCRIPTOR="t26b_police" instance_id="HUM18441875401449335" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="32727" note="HUM18441875401449335" >
+  <source m_id="21" />
+  <target m_id="22" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32728" note="LOC18441904201489761" >
+  <source m_id="17" />
+  <target m_id="23" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32729" note="TIM18442142154629810" >
+  <source m_id="16" />
+  <target m_id="24" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32730" note="HUM18441890442259339" >
+  <source m_id="14" />
+  <source m_id="15" />
+  <source m_id="12" />
+  <target m_id="25" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32731" note="ACT18441937963352466" >
+  <source m_id="19" />
+  <target m_id="26" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32732" note="ACT18441863532401006" >
+  <source m_id="18" />
+  <target m_id="27" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="32733" note="ACT27337443408187958" >
+  <source m_id="20" />
+  <target m_id="28" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

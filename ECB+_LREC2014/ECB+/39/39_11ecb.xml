@@ -1,0 +1,66 @@
+<Document doc_name="39_11ecb.xml" doc_id="DOC15655448560287477">
+<token t_id="1" sentence="0" number="0">Relatively</token>
+<token t_id="2" sentence="0" number="1">unknown</token>
+<token t_id="3" sentence="0" number="2">actor</token>
+<token t_id="4" sentence="0" number="3">Matt</token>
+<token t_id="5" sentence="0" number="4">Smith</token>
+<token t_id="6" sentence="0" number="5">was</token>
+<token t_id="7" sentence="0" number="6">named</token>
+<token t_id="8" sentence="0" number="7">as</token>
+<token t_id="9" sentence="0" number="8">the</token>
+<token t_id="10" sentence="0" number="9">next</token>
+<token t_id="11" sentence="0" number="10">face</token>
+<token t_id="12" sentence="0" number="11">of</token>
+<token t_id="13" sentence="0" number="12">TV</token>
+<token t_id="14" sentence="0" number="13">'s</token>
+<token t_id="15" sentence="0" number="14">most</token>
+<token t_id="16" sentence="0" number="15">famous</token>
+<token t_id="17" sentence="0" number="16">time</token>
+<token t_id="18" sentence="0" number="17">traveller</token>
+<token t_id="19" sentence="0" number="18">.</token>
+<Markables>
+<HUMAN_PART_PER m_id="6"  >
+  <token_anchor t_id="17"/>
+  <token_anchor t_id="18"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="7"  >
+  <token_anchor t_id="11"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="8"  >
+  <token_anchor t_id="4"/>
+  <token_anchor t_id="5"/>
+</HUMAN_PART_PER>
+<ACTION_REPORTING m_id="10" note="byCROMER" >
+  <token_anchor t_id="7"/>
+</ACTION_REPORTING>
+<NON_HUMAN_PART_GENERIC m_id="11" note="byCROMER" >
+  <token_anchor t_id="13"/>
+</NON_HUMAN_PART_GENERIC>
+
+
+<HUMAN_PART_PER m_id="15" RELATED_TO="" TAG_DESCRIPTOR="t39_matt_smith" instance_id="HUM17744873373187694" />
+<ACTION_REPORTING m_id="14" RELATED_TO="" TAG_DESCRIPTOR="t39b_announcement_smith_cast" instance_id="ACT17745451267577520" />
+<HUMAN_PART_PER m_id="13" RELATED_TO="" TAG_DESCRIPTOR="t39b_11th_doc" instance_id="HUM17744980524113734" />
+<NON_HUMAN_PART_GENERIC m_id="12" RELATED_TO="" TAG_DESCRIPTOR="t39b_television" instance_id="NON17745413236512401" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="35732" note="NON17745413236512401" >
+  <source m_id="11" />
+  <target m_id="12" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35733" note="HUM17744980524113734" >
+  <source m_id="7" />
+  <target m_id="13" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35734" note="ACT17745451267577520" >
+  <source m_id="10" />
+  <target m_id="14" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35735" note="HUM17744873373187694" >
+  <source m_id="8" />
+  <target m_id="15" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

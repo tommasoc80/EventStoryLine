@@ -1,0 +1,77 @@
+<Document doc_name="22_8ecb.xml" doc_id="DOC15654623683913251">
+<token t_id="1" sentence="0" number="0">The</token>
+<token t_id="2" sentence="0" number="1">Staunton</token>
+<token t_id="3" sentence="0" number="2">Police</token>
+<token t_id="4" sentence="0" number="3">Department</token>
+<token t_id="5" sentence="0" number="4">will</token>
+<token t_id="6" sentence="0" number="5">hold</token>
+<token t_id="7" sentence="0" number="6">a</token>
+<token t_id="8" sentence="0" number="7">press</token>
+<token t_id="9" sentence="0" number="8">conference</token>
+<token t_id="10" sentence="0" number="9">this</token>
+<token t_id="11" sentence="0" number="10">afternoon</token>
+<token t_id="12" sentence="0" number="11">to</token>
+<token t_id="13" sentence="0" number="12">address</token>
+<token t_id="14" sentence="0" number="13">its</token>
+<token t_id="15" sentence="0" number="14">investigation</token>
+<token t_id="16" sentence="0" number="15">into</token>
+<token t_id="17" sentence="0" number="16">a</token>
+<token t_id="18" sentence="0" number="17">double</token>
+<token t_id="19" sentence="0" number="18">murder</token>
+<token t_id="20" sentence="0" number="19">back</token>
+<token t_id="21" sentence="0" number="20">in</token>
+<token t_id="22" sentence="0" number="21">1967</token>
+<token t_id="23" sentence="0" number="22">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="9"  >
+  <token_anchor t_id="9"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="10"  >
+  <token_anchor t_id="13"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="11"  >
+  <token_anchor t_id="15"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="12"  >
+  <token_anchor t_id="19"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="17"  >
+  <token_anchor t_id="6"/>
+</ACTION_OCCURRENCE>
+<TIME_DATE m_id="13"  >
+  <token_anchor t_id="22"/>
+</TIME_DATE>
+<TIME_OF_THE_DAY m_id="14"  >
+  <token_anchor t_id="10"/>
+  <token_anchor t_id="11"/>
+</TIME_OF_THE_DAY>
+
+
+<HUMAN_PART_ORG m_id="18" note="byCROMER" >
+  <token_anchor t_id="2"/>
+  <token_anchor t_id="3"/>
+  <token_anchor t_id="4"/>
+</HUMAN_PART_ORG>
+
+
+<ACTION_OCCURRENCE m_id="21" RELATED_TO="" TAG_DESCRIPTOR="t22b_murder" instance_id="ACT18239862350395745" />
+<HUMAN_PART_ORG m_id="19" RELATED_TO="" TAG_DESCRIPTOR="t22b_police" instance_id="HUM18239924421685735" />
+<TIME_DATE m_id="20" RELATED_TO="" TAG_DESCRIPTOR="t22b_1967" instance_id="TIM18239979269974538" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="33273" note="HUM18239924421685735" >
+  <source m_id="18" />
+  <target m_id="19" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33274" note="TIM18239979269974538" >
+  <source m_id="13" />
+  <target m_id="20" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="33275" note="ACT18239862350395745" >
+  <source m_id="12" />
+  <target m_id="21" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

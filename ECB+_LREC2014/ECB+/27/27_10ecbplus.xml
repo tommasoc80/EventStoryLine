@@ -1,0 +1,800 @@
+<Document doc_name="27_10ecbplus.xml" doc_id="DOC15651678786908893">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">news</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">softpedia</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<token t_id="9" sentence="0" number="8">com</token>
+<token t_id="10" sentence="0" number="9">/</token>
+<token t_id="11" sentence="0" number="10">news</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">Microsoft</token>
+<token t_id="14" sentence="0" number="13">-</token>
+<token t_id="15" sentence="0" number="14">Launches</token>
+<token t_id="16" sentence="0" number="15">-</token>
+<token t_id="17" sentence="0" number="16">Emergency</token>
+<token t_id="18" sentence="0" number="17">-</token>
+<token t_id="19" sentence="0" number="18">Patch</token>
+<token t_id="20" sentence="0" number="19">-</token>
+<token t_id="21" sentence="0" number="20">for</token>
+<token t_id="22" sentence="0" number="21">-</token>
+<token t_id="23" sentence="0" number="22">Internet</token>
+<token t_id="24" sentence="0" number="23">-</token>
+<token t_id="25" sentence="0" number="24">Explorer</token>
+<token t_id="26" sentence="0" number="25">-</token>
+<token t_id="27" sentence="0" number="26">383865</token>
+<token t_id="28" sentence="0" number="27">.</token>
+<token t_id="29" sentence="0" number="28">shtml</token>
+<token t_id="30" sentence="1" number="0">September</token>
+<token t_id="31" sentence="1" number="1">18th</token>
+<token t_id="32" sentence="1" number="2">,</token>
+<token t_id="33" sentence="1" number="3">2013</token>
+<token t_id="34" sentence="1" number="4">,</token>
+<token t_id="35" sentence="1" number="5">05</token>
+<token t_id="36" sentence="1" number="6">:</token>
+<token t_id="37" sentence="1" number="7">31</token>
+<token t_id="38" sentence="1" number="8">GMT</token>
+<token t_id="39" sentence="2" number="0">Microsoft</token>
+<token t_id="40" sentence="2" number="1">Launches</token>
+<token t_id="41" sentence="2" number="2">Emergency</token>
+<token t_id="42" sentence="2" number="3">Patch</token>
+<token t_id="43" sentence="2" number="4">for</token>
+<token t_id="44" sentence="2" number="5">Internet</token>
+<token t_id="45" sentence="2" number="6">Explorer</token>
+<token t_id="46" sentence="3" number="0">Microsoft</token>
+<token t_id="47" sentence="3" number="1">has</token>
+<token t_id="48" sentence="3" number="2">just</token>
+<token t_id="49" sentence="3" number="3">released</token>
+<token t_id="50" sentence="3" number="4">a</token>
+<token t_id="51" sentence="3" number="5">new</token>
+<token t_id="52" sentence="3" number="6">security</token>
+<token t_id="53" sentence="3" number="7">update</token>
+<token t_id="54" sentence="3" number="8">for</token>
+<token t_id="55" sentence="3" number="9">Internet</token>
+<token t_id="56" sentence="3" number="10">Explorer</token>
+<token t_id="57" sentence="3" number="11">in</token>
+<token t_id="58" sentence="3" number="12">order</token>
+<token t_id="59" sentence="3" number="13">to</token>
+<token t_id="60" sentence="3" number="14">patch</token>
+<token t_id="61" sentence="3" number="15">a</token>
+<token t_id="62" sentence="3" number="16">flaw</token>
+<token t_id="63" sentence="3" number="17">affecting</token>
+<token t_id="64" sentence="3" number="18">all</token>
+<token t_id="65" sentence="3" number="19">versions</token>
+<token t_id="66" sentence="3" number="20">of</token>
+<token t_id="67" sentence="3" number="21">the</token>
+<token t_id="68" sentence="3" number="22">company</token>
+<token t_id="69" sentence="3" number="23">’</token>
+<token t_id="70" sentence="3" number="24">s</token>
+<token t_id="71" sentence="3" number="25">in</token>
+<token t_id="72" sentence="3" number="26">-</token>
+<token t_id="73" sentence="3" number="27">house</token>
+<token t_id="74" sentence="3" number="28">browser</token>
+<token t_id="75" sentence="3" number="29">,</token>
+<token t_id="76" sentence="3" number="30">including</token>
+<token t_id="77" sentence="3" number="31">IE11</token>
+<token t_id="78" sentence="3" number="32">on</token>
+<token t_id="79" sentence="3" number="33">Windows</token>
+<token t_id="80" sentence="3" number="34">8</token>
+<token t_id="81" sentence="3" number="35">.</token>
+<token t_id="82" sentence="3" number="36">1</token>
+<token t_id="83" sentence="3" number="37">RTM</token>
+<token t_id="84" sentence="3" number="38">.</token>
+<token t_id="85" sentence="4" number="0">While</token>
+<token t_id="86" sentence="4" number="1">Microsoft</token>
+<token t_id="87" sentence="4" number="2">claims</token>
+<token t_id="88" sentence="4" number="3">that</token>
+<token t_id="89" sentence="4" number="4">it</token>
+<token t_id="90" sentence="4" number="5">has</token>
+<token t_id="91" sentence="4" number="6">received</token>
+<token t_id="92" sentence="4" number="7">reports</token>
+<token t_id="93" sentence="4" number="8">of</token>
+<token t_id="94" sentence="4" number="9">attacks</token>
+<token t_id="95" sentence="4" number="10">aimed</token>
+<token t_id="96" sentence="4" number="11">at</token>
+<token t_id="97" sentence="4" number="12">Internet</token>
+<token t_id="98" sentence="4" number="13">Explorer</token>
+<token t_id="99" sentence="4" number="14">8</token>
+<token t_id="100" sentence="4" number="15">and</token>
+<token t_id="101" sentence="4" number="16">9</token>
+<token t_id="102" sentence="4" number="17">,</token>
+<token t_id="103" sentence="4" number="18">it</token>
+<token t_id="104" sentence="4" number="19">appears</token>
+<token t_id="105" sentence="4" number="20">that</token>
+<token t_id="106" sentence="4" number="21">the</token>
+<token t_id="107" sentence="4" number="22">security</token>
+<token t_id="108" sentence="4" number="23">flaw</token>
+<token t_id="109" sentence="4" number="24">affects</token>
+<token t_id="110" sentence="4" number="25">all</token>
+<token t_id="111" sentence="4" number="26">the</token>
+<token t_id="112" sentence="4" number="27">other</token>
+<token t_id="113" sentence="4" number="28">versions</token>
+<token t_id="114" sentence="4" number="29">of</token>
+<token t_id="115" sentence="4" number="30">the</token>
+<token t_id="116" sentence="4" number="31">browser</token>
+<token t_id="117" sentence="4" number="32">.</token>
+<token t_id="118" sentence="5" number="0">According</token>
+<token t_id="119" sentence="5" number="1">to</token>
+<token t_id="120" sentence="5" number="2">the</token>
+<token t_id="121" sentence="5" number="3">company</token>
+<token t_id="122" sentence="5" number="4">,</token>
+<token t_id="123" sentence="5" number="5">the</token>
+<token t_id="124" sentence="5" number="6">issue</token>
+<token t_id="125" sentence="5" number="7">would</token>
+<token t_id="126" sentence="5" number="8">allow</token>
+<token t_id="127" sentence="5" number="9">remote</token>
+<token t_id="128" sentence="5" number="10">code</token>
+<token t_id="129" sentence="5" number="11">execution</token>
+<token t_id="130" sentence="5" number="12">,</token>
+<token t_id="131" sentence="5" number="13">which</token>
+<token t_id="132" sentence="5" number="14">means</token>
+<token t_id="133" sentence="5" number="15">that</token>
+<token t_id="134" sentence="5" number="16">an</token>
+<token t_id="135" sentence="5" number="17">attacker</token>
+<token t_id="136" sentence="5" number="18">could</token>
+<token t_id="137" sentence="5" number="19">get</token>
+<token t_id="138" sentence="5" number="20">access</token>
+<token t_id="139" sentence="5" number="21">to</token>
+<token t_id="140" sentence="5" number="22">an</token>
+<token t_id="141" sentence="5" number="23">unpatched</token>
+<token t_id="142" sentence="5" number="24">system</token>
+<token t_id="143" sentence="5" number="25">by</token>
+<token t_id="144" sentence="5" number="26">directing</token>
+<token t_id="145" sentence="5" number="27">users</token>
+<token t_id="146" sentence="5" number="28">to</token>
+<token t_id="147" sentence="5" number="29">a</token>
+<token t_id="148" sentence="5" number="30">compromised</token>
+<token t_id="149" sentence="5" number="31">website</token>
+<token t_id="150" sentence="5" number="32">.</token>
+<token t_id="151" sentence="6" number="0">“</token>
+<token t_id="152" sentence="6" number="1">This</token>
+<token t_id="153" sentence="6" number="2">issue</token>
+<token t_id="154" sentence="6" number="3">could</token>
+<token t_id="155" sentence="6" number="4">allow</token>
+<token t_id="156" sentence="6" number="5">remote</token>
+<token t_id="157" sentence="6" number="6">code</token>
+<token t_id="158" sentence="6" number="7">execution</token>
+<token t_id="159" sentence="6" number="8">if</token>
+<token t_id="160" sentence="6" number="9">an</token>
+<token t_id="161" sentence="6" number="10">affected</token>
+<token t_id="162" sentence="6" number="11">system</token>
+<token t_id="163" sentence="6" number="12">browses</token>
+<token t_id="164" sentence="6" number="13">to</token>
+<token t_id="165" sentence="6" number="14">a</token>
+<token t_id="166" sentence="6" number="15">website</token>
+<token t_id="167" sentence="6" number="16">containing</token>
+<token t_id="168" sentence="6" number="17">malicious</token>
+<token t_id="169" sentence="6" number="18">content</token>
+<token t_id="170" sentence="6" number="19">directed</token>
+<token t_id="171" sentence="6" number="20">towards</token>
+<token t_id="172" sentence="6" number="21">the</token>
+<token t_id="173" sentence="6" number="22">specific</token>
+<token t_id="174" sentence="6" number="23">browser</token>
+<token t_id="175" sentence="6" number="24">type</token>
+<token t_id="176" sentence="6" number="25">.</token>
+<token t_id="177" sentence="7" number="0">This</token>
+<token t_id="178" sentence="7" number="1">would</token>
+<token t_id="179" sentence="7" number="2">typically</token>
+<token t_id="180" sentence="7" number="3">occur</token>
+<token t_id="181" sentence="7" number="4">when</token>
+<token t_id="182" sentence="7" number="5">an</token>
+<token t_id="183" sentence="7" number="6">attacker</token>
+<token t_id="184" sentence="7" number="7">compromises</token>
+<token t_id="185" sentence="7" number="8">the</token>
+<token t_id="186" sentence="7" number="9">security</token>
+<token t_id="187" sentence="7" number="10">of</token>
+<token t_id="188" sentence="7" number="11">trusted</token>
+<token t_id="189" sentence="7" number="12">websites</token>
+<token t_id="190" sentence="7" number="13">regularly</token>
+<token t_id="191" sentence="7" number="14">frequented</token>
+<token t_id="192" sentence="7" number="15">,</token>
+<token t_id="193" sentence="7" number="16">or</token>
+<token t_id="194" sentence="7" number="17">convinces</token>
+<token t_id="195" sentence="7" number="18">someone</token>
+<token t_id="196" sentence="7" number="19">to</token>
+<token t_id="197" sentence="7" number="20">click</token>
+<token t_id="198" sentence="7" number="21">on</token>
+<token t_id="199" sentence="7" number="22">a</token>
+<token t_id="200" sentence="7" number="23">link</token>
+<token t_id="201" sentence="7" number="24">in</token>
+<token t_id="202" sentence="7" number="25">an</token>
+<token t_id="203" sentence="7" number="26">email</token>
+<token t_id="204" sentence="7" number="27">or</token>
+<token t_id="205" sentence="7" number="28">instant</token>
+<token t_id="206" sentence="7" number="29">message</token>
+<token t_id="207" sentence="7" number="30">,</token>
+<token t_id="208" sentence="7" number="31">”</token>
+<token t_id="209" sentence="7" number="32">the</token>
+<token t_id="210" sentence="7" number="33">company</token>
+<token t_id="211" sentence="7" number="34">explained</token>
+<token t_id="212" sentence="7" number="35">.</token>
+<token t_id="213" sentence="8" number="0">The</token>
+<token t_id="214" sentence="8" number="1">Fix</token>
+<token t_id="215" sentence="8" number="2">It</token>
+<token t_id="216" sentence="8" number="3">tool</token>
+<token t_id="217" sentence="8" number="4">released</token>
+<token t_id="218" sentence="8" number="5">by</token>
+<token t_id="219" sentence="8" number="6">Microsoft</token>
+<token t_id="220" sentence="8" number="7">can</token>
+<token t_id="221" sentence="8" number="8">be</token>
+<token t_id="222" sentence="8" number="9">used</token>
+<token t_id="223" sentence="8" number="10">for</token>
+<token t_id="224" sentence="8" number="11">IE6</token>
+<token t_id="225" sentence="8" number="12">,</token>
+<token t_id="226" sentence="8" number="13">7</token>
+<token t_id="227" sentence="8" number="14">,</token>
+<token t_id="228" sentence="8" number="15">8</token>
+<token t_id="229" sentence="8" number="16">,</token>
+<token t_id="230" sentence="8" number="17">9</token>
+<token t_id="231" sentence="8" number="18">,</token>
+<token t_id="232" sentence="8" number="19">10</token>
+<token t_id="233" sentence="8" number="20">,</token>
+<token t_id="234" sentence="8" number="21">and</token>
+<token t_id="235" sentence="8" number="22">11</token>
+<token t_id="236" sentence="8" number="23">on</token>
+<token t_id="237" sentence="8" number="24">Windows</token>
+<token t_id="238" sentence="8" number="25">XP</token>
+<token t_id="239" sentence="8" number="26">,</token>
+<token t_id="240" sentence="8" number="27">Vista</token>
+<token t_id="241" sentence="8" number="28">,</token>
+<token t_id="242" sentence="8" number="29">7</token>
+<token t_id="243" sentence="8" number="30">,</token>
+<token t_id="244" sentence="8" number="31">8</token>
+<token t_id="245" sentence="8" number="32">,</token>
+<token t_id="246" sentence="8" number="33">and</token>
+<token t_id="247" sentence="8" number="34">8</token>
+<token t_id="248" sentence="8" number="35">.</token>
+<token t_id="249" sentence="8" number="36">1</token>
+<token t_id="250" sentence="8" number="37">,</token>
+<token t_id="251" sentence="8" number="38">both</token>
+<token t_id="252" sentence="8" number="39">Preview</token>
+<token t_id="253" sentence="8" number="40">and</token>
+<token t_id="254" sentence="8" number="41">RTM</token>
+<token t_id="255" sentence="8" number="42">.</token>
+<token t_id="256" sentence="8" number="43">32</token>
+<token t_id="257" sentence="8" number="44">-</token>
+<token t_id="258" sentence="8" number="45">and</token>
+<token t_id="259" sentence="8" number="46">64</token>
+<token t_id="260" sentence="8" number="47">-</token>
+<token t_id="261" sentence="8" number="48">bit</token>
+<token t_id="262" sentence="8" number="49">versions</token>
+<token t_id="263" sentence="8" number="50">of</token>
+<token t_id="264" sentence="8" number="51">the</token>
+<token t_id="265" sentence="8" number="52">operating</token>
+<token t_id="266" sentence="8" number="53">systems</token>
+<token t_id="267" sentence="8" number="54">are</token>
+<token t_id="268" sentence="8" number="55">all</token>
+<token t_id="269" sentence="8" number="56">included</token>
+<token t_id="270" sentence="8" number="57">in</token>
+<token t_id="271" sentence="8" number="58">the</token>
+<token t_id="272" sentence="8" number="59">security</token>
+<token t_id="273" sentence="8" number="60">advisory</token>
+<token t_id="274" sentence="8" number="61">.</token>
+<token t_id="275" sentence="9" number="0">In</token>
+<token t_id="276" sentence="9" number="1">addition</token>
+<token t_id="277" sentence="9" number="2">,</token>
+<token t_id="278" sentence="9" number="3">the</token>
+<token t_id="279" sentence="9" number="4">tech</token>
+<token t_id="280" sentence="9" number="5">giant</token>
+<token t_id="281" sentence="9" number="6">recommends</token>
+<token t_id="282" sentence="9" number="7">users</token>
+<token t_id="283" sentence="9" number="8">to</token>
+<token t_id="284" sentence="9" number="9">set</token>
+<token t_id="285" sentence="9" number="10">Internet</token>
+<token t_id="286" sentence="9" number="11">and</token>
+<token t_id="287" sentence="9" number="12">local</token>
+<token t_id="288" sentence="9" number="13">intranet</token>
+<token t_id="289" sentence="9" number="14">security</token>
+<token t_id="290" sentence="9" number="15">zone</token>
+<token t_id="291" sentence="9" number="16">settings</token>
+<token t_id="292" sentence="9" number="17">to</token>
+<token t_id="293" sentence="9" number="18">“</token>
+<token t_id="294" sentence="9" number="19">High</token>
+<token t_id="295" sentence="9" number="20">”</token>
+<token t_id="296" sentence="9" number="21">in</token>
+<token t_id="297" sentence="9" number="22">order</token>
+<token t_id="298" sentence="9" number="23">to</token>
+<token t_id="299" sentence="9" number="24">block</token>
+<token t_id="300" sentence="9" number="25">ActiveX</token>
+<token t_id="301" sentence="9" number="26">Controls</token>
+<token t_id="302" sentence="9" number="27">and</token>
+<token t_id="303" sentence="9" number="28">Active</token>
+<token t_id="304" sentence="9" number="29">Scripting</token>
+<token t_id="305" sentence="9" number="30">in</token>
+<token t_id="306" sentence="9" number="31">these</token>
+<token t_id="307" sentence="9" number="32">zones</token>
+<token t_id="308" sentence="9" number="33">.</token>
+<token t_id="309" sentence="10" number="0">“</token>
+<token t_id="310" sentence="10" number="1">This</token>
+<token t_id="311" sentence="10" number="2">will</token>
+<token t_id="312" sentence="10" number="3">help</token>
+<token t_id="313" sentence="10" number="4">prevent</token>
+<token t_id="314" sentence="10" number="5">exploitation</token>
+<token t_id="315" sentence="10" number="6">but</token>
+<token t_id="316" sentence="10" number="7">may</token>
+<token t_id="317" sentence="10" number="8">affect</token>
+<token t_id="318" sentence="10" number="9">usability</token>
+<token t_id="319" sentence="10" number="10">;</token>
+<token t_id="320" sentence="10" number="11">therefore</token>
+<token t_id="321" sentence="10" number="12">,</token>
+<token t_id="322" sentence="10" number="13">trusted</token>
+<token t_id="323" sentence="10" number="14">sites</token>
+<token t_id="324" sentence="10" number="15">should</token>
+<token t_id="325" sentence="10" number="16">be</token>
+<token t_id="326" sentence="10" number="17">added</token>
+<token t_id="327" sentence="10" number="18">to</token>
+<token t_id="328" sentence="10" number="19">the</token>
+<token t_id="329" sentence="10" number="20">Internet</token>
+<token t_id="330" sentence="10" number="21">Explorer</token>
+<token t_id="331" sentence="10" number="22">Trusted</token>
+<token t_id="332" sentence="10" number="23">Sites</token>
+<token t_id="333" sentence="10" number="24">zone</token>
+<token t_id="334" sentence="10" number="25">to</token>
+<token t_id="335" sentence="10" number="26">minimize</token>
+<token t_id="336" sentence="10" number="27">disruption</token>
+<token t_id="337" sentence="10" number="28">,</token>
+<token t_id="338" sentence="10" number="29">”</token>
+<token t_id="339" sentence="10" number="30">Microsoft</token>
+<token t_id="340" sentence="10" number="31">said</token>
+<token t_id="341" sentence="10" number="32">.</token>
+<token t_id="342" sentence="11" number="0">At</token>
+<token t_id="343" sentence="11" number="1">the</token>
+<token t_id="344" sentence="11" number="2">same</token>
+<token t_id="345" sentence="11" number="3">time</token>
+<token t_id="346" sentence="11" number="4">,</token>
+<token t_id="347" sentence="11" number="5">the</token>
+<token t_id="348" sentence="11" number="6">Softies</token>
+<token t_id="349" sentence="11" number="7">suggest</token>
+<token t_id="350" sentence="11" number="8">that</token>
+<token t_id="351" sentence="11" number="9">it</token>
+<token t_id="352" sentence="11" number="10">would</token>
+<token t_id="353" sentence="11" number="11">be</token>
+<token t_id="354" sentence="11" number="12">a</token>
+<token t_id="355" sentence="11" number="13">good</token>
+<token t_id="356" sentence="11" number="14">idea</token>
+<token t_id="357" sentence="11" number="15">to</token>
+<token t_id="358" sentence="11" number="16">configure</token>
+<token t_id="359" sentence="11" number="17">Internet</token>
+<token t_id="360" sentence="11" number="18">Explorer</token>
+<token t_id="361" sentence="11" number="19">to</token>
+<token t_id="362" sentence="11" number="20">prompt</token>
+<token t_id="363" sentence="11" number="21">before</token>
+<token t_id="364" sentence="11" number="22">running</token>
+<token t_id="365" sentence="11" number="23">Active</token>
+<token t_id="366" sentence="11" number="24">Scripting</token>
+<token t_id="367" sentence="11" number="25">or</token>
+<token t_id="368" sentence="11" number="26">to</token>
+<token t_id="369" sentence="11" number="27">disable</token>
+<token t_id="370" sentence="11" number="28">Active</token>
+<token t_id="371" sentence="11" number="29">Scripting</token>
+<token t_id="372" sentence="11" number="30">completely</token>
+<token t_id="373" sentence="11" number="31">in</token>
+<token t_id="374" sentence="11" number="32">the</token>
+<token t_id="375" sentence="11" number="33">Internet</token>
+<token t_id="376" sentence="11" number="34">and</token>
+<token t_id="377" sentence="11" number="35">local</token>
+<token t_id="378" sentence="11" number="36">intranet</token>
+<token t_id="379" sentence="11" number="37">security</token>
+<token t_id="380" sentence="11" number="38">zones</token>
+<token t_id="381" sentence="11" number="39">,</token>
+<token t_id="382" sentence="11" number="40">just</token>
+<token t_id="383" sentence="11" number="41">to</token>
+<token t_id="384" sentence="11" number="42">be</token>
+<token t_id="385" sentence="11" number="43">sure</token>
+<token t_id="386" sentence="11" number="44">that</token>
+<token t_id="387" sentence="11" number="45">everyone</token>
+<token t_id="388" sentence="11" number="46">is</token>
+<token t_id="389" sentence="11" number="47">on</token>
+<token t_id="390" sentence="11" number="48">the</token>
+<token t_id="391" sentence="11" number="49">safe</token>
+<token t_id="392" sentence="11" number="50">side</token>
+<token t_id="393" sentence="11" number="51">and</token>
+<token t_id="394" sentence="11" number="52">no</token>
+<token t_id="395" sentence="11" number="53">successful</token>
+<token t_id="396" sentence="11" number="54">attacks</token>
+<token t_id="397" sentence="11" number="55">are</token>
+<token t_id="398" sentence="11" number="56">possible</token>
+<token t_id="399" sentence="11" number="57">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="75"  >
+  <token_anchor t_id="138"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="12"  >
+  <token_anchor t_id="40"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="76"  >
+  <token_anchor t_id="144"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="13"  >
+  <token_anchor t_id="49"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="14"  >
+  <token_anchor t_id="60"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="16"  >
+  <token_anchor t_id="91"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="17"  >
+  <token_anchor t_id="94"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="81"  >
+  <token_anchor t_id="269"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="18"  >
+  <token_anchor t_id="95"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="19"  >
+  <token_anchor t_id="358"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="20"  >
+  <token_anchor t_id="362"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="21"  >
+  <token_anchor t_id="364"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="55"  >
+  <token_anchor t_id="273"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="24"  >
+  <token_anchor t_id="317"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="56"  >
+  <token_anchor t_id="157"/>
+  <token_anchor t_id="158"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="29"  >
+  <token_anchor t_id="281"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="61"  >
+  <token_anchor t_id="128"/>
+  <token_anchor t_id="129"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="30"  >
+  <token_anchor t_id="284"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="31"  >
+  <token_anchor t_id="299"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="42"  >
+  <token_anchor t_id="87"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="43"  >
+  <token_anchor t_id="92"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="44"  >
+  <token_anchor t_id="211"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="45"  >
+  <token_anchor t_id="340"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="46"  >
+  <token_anchor t_id="349"/>
+</ACTION_REPORTING>
+<ACTION_STATE m_id="78"  >
+  <token_anchor t_id="148"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="82"  >
+  <token_anchor t_id="52"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="83"  >
+  <token_anchor t_id="71"/>
+  <token_anchor t_id="72"/>
+  <token_anchor t_id="73"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="89"  >
+  <token_anchor t_id="107"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="57"  >
+  <token_anchor t_id="161"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="58"  >
+  <token_anchor t_id="156"/>
+</ACTION_STATE>
+<ACTION_STATE m_id="60"  >
+  <token_anchor t_id="127"/>
+</ACTION_STATE>
+<HUMAN_PART_GENERIC m_id="62"  >
+  <token_anchor t_id="135"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_GENERIC m_id="63"  >
+  <token_anchor t_id="145"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_GENERIC m_id="64"  >
+  <token_anchor t_id="183"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_GENERIC m_id="65"  >
+  <token_anchor t_id="195"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_GENERIC m_id="66"  >
+  <token_anchor t_id="387"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_GENERIC m_id="69"  >
+  <token_anchor t_id="282"/>
+</HUMAN_PART_GENERIC>
+<HUMAN_PART_ORG m_id="9"  >
+  <token_anchor t_id="339"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="10"  >
+  <token_anchor t_id="348"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="94"  >
+  <token_anchor t_id="89"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="2"  >
+  <token_anchor t_id="39"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="3"  >
+  <token_anchor t_id="46"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="4"  >
+  <token_anchor t_id="86"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="5"  >
+  <token_anchor t_id="121"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="6"  >
+  <token_anchor t_id="210"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="7"  >
+  <token_anchor t_id="219"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="8"  >
+  <token_anchor t_id="279"/>
+  <token_anchor t_id="280"/>
+</HUMAN_PART_ORG>
+<HUMAN_PART_ORG m_id="41"  >
+  <token_anchor t_id="68"/>
+</HUMAN_PART_ORG>
+<LOC_OTHER m_id="52"  >
+  <token_anchor t_id="389"/>
+  <token_anchor t_id="390"/>
+  <token_anchor t_id="391"/>
+  <token_anchor t_id="392"/>
+</LOC_OTHER>
+<NEG_ACTION_CAUSATIVE m_id="23"  >
+  <token_anchor t_id="313"/>
+</NEG_ACTION_CAUSATIVE>
+<NEG_ACTION_OCCURRENCE m_id="47"  >
+  <token_anchor t_id="398"/>
+</NEG_ACTION_OCCURRENCE>
+<NEG_ACTION_OCCURRENCE m_id="22"  >
+  <token_anchor t_id="369"/>
+</NEG_ACTION_OCCURRENCE>
+<NON_HUMAN_PART m_id="74"  >
+  <token_anchor t_id="380"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="79"  >
+  <token_anchor t_id="153"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="80"  >
+  <token_anchor t_id="224"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="84"  >
+  <token_anchor t_id="77"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="85"  >
+  <token_anchor t_id="79"/>
+  <token_anchor t_id="80"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="88"  >
+  <token_anchor t_id="214"/>
+  <token_anchor t_id="215"/>
+  <token_anchor t_id="216"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="54"  >
+  <token_anchor t_id="242"/>
+  <token_anchor t_id="243"/>
+  <token_anchor t_id="244"/>
+  <token_anchor t_id="245"/>
+  <token_anchor t_id="246"/>
+  <token_anchor t_id="247"/>
+  <token_anchor t_id="248"/>
+  <token_anchor t_id="249"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="92"  >
+  <token_anchor t_id="65"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="25"  >
+  <token_anchor t_id="55"/>
+  <token_anchor t_id="56"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="93"  >
+  <token_anchor t_id="113"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="26"  >
+  <token_anchor t_id="44"/>
+  <token_anchor t_id="45"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="27"  >
+  <token_anchor t_id="74"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="59"  >
+  <token_anchor t_id="124"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="34"  >
+  <token_anchor t_id="116"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="35"  >
+  <token_anchor t_id="237"/>
+  <token_anchor t_id="238"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="67"  >
+  <token_anchor t_id="359"/>
+  <token_anchor t_id="360"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="36"  >
+  <token_anchor t_id="240"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="68"  >
+  <token_anchor t_id="285"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="37"  >
+  <token_anchor t_id="265"/>
+  <token_anchor t_id="266"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="38"  >
+  <token_anchor t_id="329"/>
+  <token_anchor t_id="330"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="70"  >
+  <token_anchor t_id="291"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="71"  >
+  <token_anchor t_id="323"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="40"  >
+  <token_anchor t_id="62"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="72"  >
+  <token_anchor t_id="333"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="73"  >
+  <token_anchor t_id="332"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART_GENERIC m_id="77"  >
+  <token_anchor t_id="149"/>
+</NON_HUMAN_PART_GENERIC>
+<NON_HUMAN_PART_GENERIC m_id="48"  >
+  <token_anchor t_id="396"/>
+</NON_HUMAN_PART_GENERIC>
+<NON_HUMAN_PART_GENERIC m_id="49"  >
+  <token_anchor t_id="336"/>
+</NON_HUMAN_PART_GENERIC>
+<NON_HUMAN_PART_GENERIC m_id="50"  >
+  <token_anchor t_id="314"/>
+</NON_HUMAN_PART_GENERIC>
+<NON_HUMAN_PART_GENERIC m_id="51"  >
+  <token_anchor t_id="318"/>
+</NON_HUMAN_PART_GENERIC>
+<TIME_OF_THE_DAY m_id="1"  >
+  <token_anchor t_id="30"/>
+  <token_anchor t_id="31"/>
+  <token_anchor t_id="32"/>
+  <token_anchor t_id="33"/>
+  <token_anchor t_id="34"/>
+  <token_anchor t_id="35"/>
+  <token_anchor t_id="36"/>
+  <token_anchor t_id="37"/>
+  <token_anchor t_id="38"/>
+</TIME_OF_THE_DAY>
+
+
+<NON_HUMAN_PART m_id="95" note="byCROMER" >
+  <token_anchor t_id="97"/>
+  <token_anchor t_id="98"/>
+  <token_anchor t_id="99"/>
+</NON_HUMAN_PART>
+<ACTION_CAUSATIVE m_id="96" note="byCROMER" >
+  <token_anchor t_id="109"/>
+</ACTION_CAUSATIVE>
+<ACTION_CAUSATIVE m_id="97" note="byCROMER" >
+  <token_anchor t_id="63"/>
+</ACTION_CAUSATIVE>
+<NON_HUMAN_PART m_id="98" note="byCROMER" >
+  <token_anchor t_id="101"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="99" note="byCROMER" >
+  <token_anchor t_id="41"/>
+  <token_anchor t_id="42"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="100" note="byCROMER" >
+  <token_anchor t_id="107"/>
+  <token_anchor t_id="108"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="101" note="byCROMER" >
+  <token_anchor t_id="52"/>
+  <token_anchor t_id="53"/>
+</NON_HUMAN_PART>
+
+
+<ACTION_CAUSATIVE m_id="113" RELATED_TO="" TAG_DESCRIPTOR="t27_affecting_ie" instance_id="ACT28452315024913912" />
+<NON_HUMAN_PART m_id="112" RELATED_TO="" TAG_DESCRIPTOR="t27_IE9" instance_id="NON16628093839904536" />
+<HUMAN_PART_ORG m_id="111" RELATED_TO="" TAG_DESCRIPTOR="t27_microsoft" instance_id="HUM16627702263331271" />
+<NON_HUMAN_PART m_id="109" RELATED_TO="" TAG_DESCRIPTOR="t27_IE" instance_id="NON16628072497530110" />
+<ACTION_OCCURRENCE m_id="110" RELATED_TO="" TAG_DESCRIPTOR="t27_fix_flaw" instance_id="ACT16628469504676387" />
+<ACTION_OCCURRENCE m_id="108" RELATED_TO="" TAG_DESCRIPTOR="t27_launches_patch" instance_id="ACT16628380851866429" />
+<NON_HUMAN_PART m_id="107" RELATED_TO="" TAG_DESCRIPTOR="t27_IE8" instance_id="NON16628082435245674" />
+<NON_HUMAN_PART m_id="106" RELATED_TO="" TAG_DESCRIPTOR="t27_flaw_or_vulnerability" instance_id="NON16628047448605797" />
+<NON_HUMAN_PART m_id="105" RELATED_TO="" TAG_DESCRIPTOR="t27_emergency_patch" instance_id="NON16628128321821328" />
+<ACTION_OCCURRENCE m_id="104" RELATED_TO="" TAG_DESCRIPTOR="t27_attacks" instance_id="ACT16628483776494389" />
+<ACTION_REPORTING m_id="103" RELATED_TO="" TAG_DESCRIPTOR="t27_claims" instance_id="ACT16628977102558972" />
+<NON_HUMAN_PART m_id="102" RELATED_TO="" TAG_DESCRIPTOR="t27_IE_versions" instance_id="NON16628062366463431" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="25444" note="NON16628062366463431" >
+  <source m_id="93" />
+  <source m_id="92" />
+  <target m_id="102" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="25445" note="ACT16628977102558972" >
+  <source m_id="42" />
+  <target m_id="103" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="25446" note="ACT16628483776494389" >
+  <source m_id="17" />
+  <target m_id="104" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="25447" note="NON16628128321821328" >
+  <source m_id="88" />
+  <source m_id="99" />
+  <source m_id="101" />
+  <target m_id="105" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="25448" note="NON16628047448605797" >
+  <source m_id="79" />
+  <source m_id="40" />
+  <source m_id="100" />
+  <source m_id="59" />
+  <target m_id="106" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="25449" note="NON16628082435245674" >
+  <source m_id="95" />
+  <target m_id="107" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="25450" note="ACT16628380851866429" >
+  <source m_id="12" />
+  <source m_id="13" />
+  <target m_id="108" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="25451" note="NON16628072497530110" >
+  <source m_id="34" />
+  <source m_id="80" />
+  <source m_id="25" />
+  <source m_id="26" />
+  <source m_id="27" />
+  <target m_id="109" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="25452" note="ACT16628469504676387" >
+  <source m_id="14" />
+  <target m_id="110" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="25453" note="HUM16627702263331271" >
+  <source m_id="9" />
+  <source m_id="6" />
+  <source m_id="7" />
+  <source m_id="2" />
+  <source m_id="4" />
+  <source m_id="41" />
+  <source m_id="5" />
+  <source m_id="3" />
+  <source m_id="10" />
+  <source m_id="8" />
+  <source m_id="94" />
+  <target m_id="111" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="25454" note="NON16628093839904536" >
+  <source m_id="98" />
+  <target m_id="112" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="25455" note="ACT28452315024913912" >
+  <source m_id="96" />
+  <source m_id="97" />
+  <target m_id="113" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

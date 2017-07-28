@@ -1,0 +1,196 @@
+<Document doc_name="1_17ecbplus.xml" doc_id="DOC15645930645322101">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">www</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">today</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<token t_id="9" sentence="0" number="8">com</token>
+<token t_id="10" sentence="0" number="9">/</token>
+<token t_id="11" sentence="0" number="10">entertainment</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">lindsay</token>
+<token t_id="14" sentence="0" number="13">-</token>
+<token t_id="15" sentence="0" number="14">lohan</token>
+<token t_id="16" sentence="0" number="15">-</token>
+<token t_id="17" sentence="0" number="16">checks</token>
+<token t_id="18" sentence="0" number="17">-</token>
+<token t_id="19" sentence="0" number="18">rehab</token>
+<token t_id="20" sentence="0" number="19">-</token>
+<token t_id="21" sentence="0" number="20">betty</token>
+<token t_id="22" sentence="0" number="21">-</token>
+<token t_id="23" sentence="0" number="22">ford</token>
+<token t_id="24" sentence="0" number="23">-</token>
+<token t_id="25" sentence="0" number="24">center</token>
+<token t_id="26" sentence="0" number="25">-</token>
+<token t_id="27" sentence="0" number="26">6C9756579</token>
+<token t_id="28" sentence="1" number="0">Lindsay</token>
+<token t_id="29" sentence="1" number="1">Lohan</token>
+<token t_id="30" sentence="1" number="2">checks</token>
+<token t_id="31" sentence="1" number="3">into</token>
+<token t_id="32" sentence="1" number="4">rehab</token>
+<token t_id="33" sentence="1" number="5">at</token>
+<token t_id="34" sentence="1" number="6">Betty</token>
+<token t_id="35" sentence="1" number="7">Ford</token>
+<token t_id="36" sentence="1" number="8">Center</token>
+<token t_id="37" sentence="2" number="0">May</token>
+<token t_id="38" sentence="2" number="1">3</token>
+<token t_id="39" sentence="2" number="2">,</token>
+<token t_id="40" sentence="2" number="3">2013</token>
+<token t_id="41" sentence="2" number="4">at</token>
+<token t_id="42" sentence="2" number="5">7</token>
+<token t_id="43" sentence="2" number="6">:</token>
+<token t_id="44" sentence="2" number="7">31</token>
+<token t_id="45" sentence="2" number="8">AM</token>
+<token t_id="46" sentence="2" number="9">ET</token>
+<token t_id="47" sentence="3" number="0">Updated</token>
+<token t_id="48" sentence="3" number="1">5</token>
+<token t_id="49" sentence="3" number="2">:</token>
+<token t_id="50" sentence="3" number="3">40</token>
+<token t_id="51" sentence="3" number="4">p</token>
+<token t_id="52" sentence="3" number="5">.</token>
+<token t_id="53" sentence="3" number="6">m</token>
+<token t_id="54" sentence="3" number="7">.</token>
+<token t_id="55" sentence="3" number="8">ET</token>
+<token t_id="56" sentence="4" number="0">Early</token>
+<token t_id="57" sentence="4" number="1">Friday</token>
+<token t_id="58" sentence="4" number="2">morning</token>
+<token t_id="59" sentence="4" number="3">,</token>
+<token t_id="60" sentence="4" number="4">around</token>
+<token t_id="61" sentence="4" number="5">1</token>
+<token t_id="62" sentence="4" number="6">:</token>
+<token t_id="63" sentence="4" number="7">30</token>
+<token t_id="64" sentence="4" number="8">a</token>
+<token t_id="65" sentence="4" number="9">.</token>
+<token t_id="66" sentence="4" number="10">m</token>
+<token t_id="67" sentence="4" number="11">.</token>
+<token t_id="68" sentence="4" number="12">,</token>
+<token t_id="69" sentence="4" number="13">the</token>
+<token t_id="70" sentence="4" number="14">26</token>
+<token t_id="71" sentence="4" number="15">-</token>
+<token t_id="72" sentence="4" number="16">year</token>
+<token t_id="73" sentence="4" number="17">-</token>
+<token t_id="74" sentence="4" number="18">old</token>
+<token t_id="75" sentence="4" number="19">actress</token>
+<token t_id="76" sentence="4" number="20">checked</token>
+<token t_id="77" sentence="4" number="21">into</token>
+<token t_id="78" sentence="4" number="22">Betty</token>
+<token t_id="79" sentence="4" number="23">Ford</token>
+<token t_id="80" sentence="4" number="24">Center</token>
+<token t_id="81" sentence="4" number="25">in</token>
+<token t_id="82" sentence="4" number="26">Rancho</token>
+<token t_id="83" sentence="4" number="27">Mirage</token>
+<token t_id="84" sentence="4" number="28">,</token>
+<token t_id="85" sentence="4" number="29">Calif</token>
+<token t_id="86" sentence="4" number="30">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="9"  >
+  <token_anchor t_id="32"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="4"  >
+  <token_anchor t_id="30"/>
+  <token_anchor t_id="31"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="7"  >
+  <token_anchor t_id="76"/>
+  <token_anchor t_id="77"/>
+</ACTION_OCCURRENCE>
+<HUMAN_PART_PER m_id="3"  >
+  <token_anchor t_id="28"/>
+  <token_anchor t_id="29"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="6"  >
+  <token_anchor t_id="75"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="13"  >
+  <token_anchor t_id="33"/>
+  <token_anchor t_id="34"/>
+  <token_anchor t_id="35"/>
+  <token_anchor t_id="36"/>
+</LOC_FAC>
+<LOC_FAC m_id="8"  >
+  <token_anchor t_id="78"/>
+  <token_anchor t_id="79"/>
+  <token_anchor t_id="80"/>
+  <token_anchor t_id="81"/>
+  <token_anchor t_id="82"/>
+  <token_anchor t_id="83"/>
+  <token_anchor t_id="84"/>
+  <token_anchor t_id="85"/>
+  <token_anchor t_id="86"/>
+</LOC_FAC>
+<TIME_OF_THE_DAY m_id="1"  >
+  <token_anchor t_id="37"/>
+  <token_anchor t_id="38"/>
+  <token_anchor t_id="39"/>
+  <token_anchor t_id="40"/>
+  <token_anchor t_id="41"/>
+  <token_anchor t_id="42"/>
+  <token_anchor t_id="43"/>
+  <token_anchor t_id="44"/>
+  <token_anchor t_id="45"/>
+  <token_anchor t_id="46"/>
+</TIME_OF_THE_DAY>
+<TIME_OF_THE_DAY m_id="2"  >
+  <token_anchor t_id="48"/>
+  <token_anchor t_id="49"/>
+  <token_anchor t_id="50"/>
+  <token_anchor t_id="51"/>
+  <token_anchor t_id="52"/>
+  <token_anchor t_id="53"/>
+  <token_anchor t_id="54"/>
+  <token_anchor t_id="55"/>
+</TIME_OF_THE_DAY>
+<TIME_OF_THE_DAY m_id="5"  >
+  <token_anchor t_id="56"/>
+  <token_anchor t_id="57"/>
+  <token_anchor t_id="58"/>
+  <token_anchor t_id="59"/>
+  <token_anchor t_id="60"/>
+  <token_anchor t_id="61"/>
+  <token_anchor t_id="62"/>
+  <token_anchor t_id="63"/>
+  <token_anchor t_id="64"/>
+  <token_anchor t_id="65"/>
+  <token_anchor t_id="66"/>
+</TIME_OF_THE_DAY>
+
+
+
+
+<ACTION_OCCURRENCE m_id="15" RELATED_TO="" TAG_DESCRIPTOR="t1_checking_into_betty_ford" instance_id="ACT15738091639707092" />
+<TIME_OF_THE_DAY m_id="14" RELATED_TO="" TAG_DESCRIPTOR="t1_early_friday_morning" instance_id="TIM15734406543689590" />
+<LOC_FAC m_id="18" RELATED_TO="" TAG_DESCRIPTOR="t1_betty_ford" instance_id="LOC15734326865367655" />
+<HUMAN_PART_PER m_id="17" RELATED_TO="" TAG_DESCRIPTOR="t1_lindsay_lohan" instance_id="HUM15732980283919140" />
+<ACTION_OCCURRENCE m_id="16" RELATED_TO="" TAG_DESCRIPTOR="t1_treatment" instance_id="ACT15736700251185985" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="21131" note="TIM15734406543689590" >
+  <source m_id="5" />
+  <target m_id="14" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="21132" note="ACT15738091639707092" >
+  <source m_id="4" />
+  <source m_id="7" />
+  <target m_id="15" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="21133" note="ACT15736700251185985" >
+  <source m_id="9" />
+  <target m_id="16" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="21134" note="HUM15732980283919140" >
+  <source m_id="3" />
+  <source m_id="6" />
+  <target m_id="17" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="21135" note="LOC15734326865367655" >
+  <source m_id="13" />
+  <source m_id="8" />
+  <target m_id="18" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>

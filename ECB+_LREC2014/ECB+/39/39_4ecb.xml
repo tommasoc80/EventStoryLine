@@ -1,0 +1,120 @@
+<Document doc_name="39_4ecb.xml" doc_id="DOC15655448086129234">
+<token t_id="1" sentence="0" number="0">When</token>
+<token t_id="2" sentence="0" number="1">Matt</token>
+<token t_id="3" sentence="0" number="2">Smith</token>
+<token t_id="4" sentence="0" number="3">stepped</token>
+<token t_id="5" sentence="0" number="4">into</token>
+<token t_id="6" sentence="0" number="5">Doctor</token>
+<token t_id="7" sentence="0" number="6">Who</token>
+<token t_id="8" sentence="0" number="7">'s</token>
+<token t_id="9" sentence="0" number="8">title</token>
+<token t_id="10" sentence="0" number="9">role</token>
+<token t_id="11" sentence="0" number="10">as</token>
+<token t_id="12" sentence="0" number="11">the</token>
+<token t_id="13" sentence="0" number="12">11th</token>
+<token t_id="14" sentence="0" number="13">Doctor</token>
+<token t_id="15" sentence="0" number="14">this</token>
+<token t_id="16" sentence="0" number="15">weekend</token>
+<token t_id="17" sentence="0" number="16">,</token>
+<token t_id="18" sentence="0" number="17">he</token>
+<token t_id="19" sentence="0" number="18">went</token>
+<token t_id="20" sentence="0" number="19">from</token>
+<token t_id="21" sentence="0" number="20">British</token>
+<token t_id="22" sentence="0" number="21">character</token>
+<token t_id="23" sentence="0" number="22">actor</token>
+<token t_id="24" sentence="0" number="23">to</token>
+<token t_id="25" sentence="0" number="24">potential</token>
+<token t_id="26" sentence="0" number="25">entertainment</token>
+<token t_id="27" sentence="0" number="26">legend</token>
+<token t_id="28" sentence="0" number="27">.</token>
+<Markables>
+<ACTION_OCCURRENCE m_id="10"  >
+  <token_anchor t_id="19"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="11"  >
+  <token_anchor t_id="4"/>
+  <token_anchor t_id="5"/>
+</ACTION_OCCURRENCE>
+<HUMAN_PART_PER m_id="18"  >
+  <token_anchor t_id="18"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="19"  >
+  <token_anchor t_id="27"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="21"  >
+  <token_anchor t_id="23"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="22"  >
+  <token_anchor t_id="22"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="12"  >
+  <token_anchor t_id="13"/>
+  <token_anchor t_id="14"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="17"  >
+  <token_anchor t_id="2"/>
+  <token_anchor t_id="3"/>
+</HUMAN_PART_PER>
+<NON_HUMAN_PART m_id="14"  >
+  <token_anchor t_id="6"/>
+  <token_anchor t_id="7"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="15"  >
+  <token_anchor t_id="9"/>
+</NON_HUMAN_PART>
+<HUMAN_PART_GENERIC m_id="23" note="byCROMER" >
+  <token_anchor t_id="10"/>
+</HUMAN_PART_GENERIC>
+<NON_HUMAN_PART_GENERIC m_id="24" note="byCROMER" >
+  <token_anchor t_id="26"/>
+</NON_HUMAN_PART_GENERIC>
+<TIME_OF_THE_DAY m_id="25" note="byCROMER" >
+  <token_anchor t_id="15"/>
+  <token_anchor t_id="16"/>
+</TIME_OF_THE_DAY>
+
+
+<HUMAN_PART_PER m_id="32" RELATED_TO="" TAG_DESCRIPTOR="t39_matt_smith" instance_id="HUM17744873373187694" />
+<HUMAN_PART_GENERIC m_id="31" RELATED_TO="" TAG_DESCRIPTOR="t39_doctor_who" instance_id="HUM17744937293310517" />
+<TIME_OF_THE_DAY m_id="29" RELATED_TO="" TAG_DESCRIPTOR="t39b_saturday_evening" instance_id="TIM17752021552455108" />
+<ACTION_OCCURRENCE m_id="30" RELATED_TO="" TAG_DESCRIPTOR="t39b_smith_cast" instance_id="ACT17745437118491610" />
+<NON_HUMAN_PART m_id="28" RELATED_TO="" TAG_DESCRIPTOR="t39_dw" instance_id="NON17744952423311022" />
+<HUMAN_PART_PER m_id="27" RELATED_TO="" TAG_DESCRIPTOR="t39b_11th_doc" instance_id="HUM17744980524113734" />
+<NON_HUMAN_PART_GENERIC m_id="26" RELATED_TO="" TAG_DESCRIPTOR="t39b_television" instance_id="NON17745413236512401" />
+</Markables>
+
+<Relations>
+<CROSS_DOC_COREF r_id="35668" note="NON17745413236512401" >
+  <source m_id="24" />
+  <target m_id="26" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35669" note="HUM17744980524113734" >
+  <source m_id="12" />
+  <target m_id="27" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35670" note="NON17744952423311022" >
+  <source m_id="14" />
+  <target m_id="28" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35671" note="TIM17752021552455108" >
+  <source m_id="25" />
+  <target m_id="29" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35672" note="ACT17745437118491610" >
+  <source m_id="11" />
+  <target m_id="30" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35673" note="HUM17744937293310517" >
+  <source m_id="23" />
+  <target m_id="31" />
+</CROSS_DOC_COREF>
+<CROSS_DOC_COREF r_id="35674" note="HUM17744873373187694" >
+  <source m_id="21" />
+  <source m_id="18" />
+  <source m_id="19" />
+  <source m_id="17" />
+  <target m_id="32" />
+</CROSS_DOC_COREF>
+
+</Relations>
+</Document>
