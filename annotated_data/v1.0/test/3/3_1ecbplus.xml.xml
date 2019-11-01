@@ -1,0 +1,880 @@
+<Document doc_name="3_1ecbplus.xml">
+<token t_id="1" sentence="0" number="0">http</token>
+<token t_id="2" sentence="0" number="1">:</token>
+<token t_id="3" sentence="0" number="2">/</token>
+<token t_id="4" sentence="0" number="3">/</token>
+<token t_id="5" sentence="0" number="4">www</token>
+<token t_id="6" sentence="0" number="5">.</token>
+<token t_id="7" sentence="0" number="6">huffingtonpost</token>
+<token t_id="8" sentence="0" number="7">.</token>
+<token t_id="9" sentence="0" number="8">com</token>
+<token t_id="10" sentence="0" number="9">/</token>
+<token t_id="11" sentence="0" number="10">2009</token>
+<token t_id="12" sentence="0" number="11">/</token>
+<token t_id="13" sentence="0" number="12">11</token>
+<token t_id="14" sentence="0" number="13">/</token>
+<token t_id="15" sentence="0" number="14">30</token>
+<token t_id="16" sentence="0" number="15">/</token>
+<token t_id="17" sentence="0" number="16">arcade</token>
+<token t_id="18" sentence="0" number="17">-</token>
+<token t_id="19" sentence="0" number="18">joseph</token>
+<token t_id="20" sentence="0" number="19">-</token>
+<token t_id="21" sentence="0" number="20">comeaux</token>
+<token t_id="22" sentence="0" number="21">-</token>
+<token t_id="23" sentence="0" number="22">jr</token>
+<token t_id="24" sentence="0" number="23">-</token>
+<token t_id="25" sentence="0" number="24">_</token>
+<token t_id="26" sentence="0" number="25">n</token>
+<token t_id="27" sentence="0" number="26">_</token>
+<token t_id="28" sentence="0" number="27">374452</token>
+<token t_id="29" sentence="0" number="28">.</token>
+<token t_id="30" sentence="0" number="29">html</token>
+<token t_id="31" sentence="1" number="0">Arcade</token>
+<token t_id="32" sentence="1" number="1">Joseph</token>
+<token t_id="33" sentence="1" number="2">Comeaux</token>
+<token t_id="34" sentence="1" number="3">Jr</token>
+<token t_id="35" sentence="1" number="4">,</token>
+<token t_id="36" sentence="1" number="5">Prison</token>
+<token t_id="37" sentence="1" number="6">Inmate</token>
+<token t_id="38" sentence="1" number="7">,</token>
+<token t_id="39" sentence="1" number="8">Pulls</token>
+<token t_id="40" sentence="1" number="9">Gun</token>
+<token t_id="41" sentence="1" number="10">On</token>
+<token t_id="42" sentence="1" number="11">And</token>
+<token t_id="43" sentence="1" number="12">Handcuffs</token>
+<token t_id="44" sentence="1" number="13">Guards</token>
+<token t_id="45" sentence="1" number="14">,</token>
+<token t_id="46" sentence="1" number="15">Runs</token>
+<token t_id="47" sentence="1" number="16">Away</token>
+<token t_id="48" sentence="2" number="0">11</token>
+<token t_id="49" sentence="2" number="1">/</token>
+<token t_id="50" sentence="2" number="2">30</token>
+<token t_id="51" sentence="2" number="3">/</token>
+<token t_id="52" sentence="2" number="4">09</token>
+<token t_id="53" sentence="2" number="5">05</token>
+<token t_id="54" sentence="2" number="6">:</token>
+<token t_id="55" sentence="2" number="7">40</token>
+<token t_id="56" sentence="2" number="8">PM</token>
+<token t_id="57" sentence="2" number="9">ET</token>
+<token t_id="58" sentence="3" number="0">A</token>
+<token t_id="59" sentence="3" number="1">convicted</token>
+<token t_id="60" sentence="3" number="2">sex</token>
+<token t_id="61" sentence="3" number="3">offender</token>
+<token t_id="62" sentence="3" number="4">sentenced</token>
+<token t_id="63" sentence="3" number="5">to</token>
+<token t_id="64" sentence="3" number="6">life</token>
+<token t_id="65" sentence="3" number="7">in</token>
+<token t_id="66" sentence="3" number="8">prison</token>
+<token t_id="67" sentence="3" number="9">pulled</token>
+<token t_id="68" sentence="3" number="10">a</token>
+<token t_id="69" sentence="3" number="11">gun</token>
+<token t_id="70" sentence="3" number="12">on</token>
+<token t_id="71" sentence="3" number="13">two</token>
+<token t_id="72" sentence="3" number="14">guards</token>
+<token t_id="73" sentence="3" number="15">during</token>
+<token t_id="74" sentence="3" number="16">a</token>
+<token t_id="75" sentence="3" number="17">prison</token>
+<token t_id="76" sentence="3" number="18">transfer</token>
+<token t_id="77" sentence="3" number="19">Monday</token>
+<token t_id="78" sentence="3" number="20">and</token>
+<token t_id="79" sentence="3" number="21">held</token>
+<token t_id="80" sentence="3" number="22">them</token>
+<token t_id="81" sentence="3" number="23">hostage</token>
+<token t_id="82" sentence="3" number="24">temporarily</token>
+<token t_id="83" sentence="3" number="25">before</token>
+<token t_id="84" sentence="3" number="26">fleeing</token>
+<token t_id="85" sentence="3" number="27">on</token>
+<token t_id="86" sentence="3" number="28">foot</token>
+<token t_id="87" sentence="3" number="29">in</token>
+<token t_id="88" sentence="3" number="30">one</token>
+<token t_id="89" sentence="3" number="31">of</token>
+<token t_id="90" sentence="3" number="32">the</token>
+<token t_id="91" sentence="3" number="33">guard's</token>
+<token t_id="92" sentence="3" number="34">uniforms</token>
+<token t_id="93" sentence="3" number="35">,</token>
+<token t_id="94" sentence="3" number="36">authorities</token>
+<token t_id="95" sentence="3" number="37">said</token>
+<token t_id="96" sentence="3" number="38">.</token>
+<token t_id="97" sentence="4" number="0">At</token>
+<token t_id="98" sentence="4" number="1">the</token>
+<token t_id="99" sentence="4" number="2">time</token>
+<token t_id="100" sentence="4" number="3">of</token>
+<token t_id="101" sentence="4" number="4">the</token>
+<token t_id="102" sentence="4" number="5">escape</token>
+<token t_id="103" sentence="4" number="6">,</token>
+<token t_id="104" sentence="4" number="7">the</token>
+<token t_id="105" sentence="4" number="8">inmate</token>
+<token t_id="106" sentence="4" number="9">was</token>
+<token t_id="107" sentence="4" number="10">in</token>
+<token t_id="108" sentence="4" number="11">a</token>
+<token t_id="109" sentence="4" number="12">wheelchair</token>
+<token t_id="110" sentence="4" number="13">,</token>
+<token t_id="111" sentence="4" number="14">which</token>
+<token t_id="112" sentence="4" number="15">he</token>
+<token t_id="113" sentence="4" number="16">claimed</token>
+<token t_id="114" sentence="4" number="17">he</token>
+<token t_id="115" sentence="4" number="18">needed</token>
+<token t_id="116" sentence="4" number="19">to</token>
+<token t_id="117" sentence="4" number="20">help</token>
+<token t_id="118" sentence="4" number="21">move</token>
+<token t_id="119" sentence="4" number="22">him</token>
+<token t_id="120" sentence="4" number="23">around</token>
+<token t_id="121" sentence="4" number="24">,</token>
+<token t_id="122" sentence="4" number="25">officials</token>
+<token t_id="123" sentence="4" number="26">said</token>
+<token t_id="124" sentence="4" number="27">.</token>
+<token t_id="125" sentence="5" number="0">Comeaux</token>
+<token t_id="126" sentence="5" number="1">,</token>
+<token t_id="127" sentence="5" number="2">49</token>
+<token t_id="128" sentence="5" number="3">,</token>
+<token t_id="129" sentence="5" number="4">took</token>
+<token t_id="130" sentence="5" number="5">the</token>
+<token t_id="131" sentence="5" number="6">officers'</token>
+<token t_id="132" sentence="5" number="7">weapons</token>
+<token t_id="133" sentence="5" number="8">and</token>
+<token t_id="134" sentence="5" number="9">handcuffed</token>
+<token t_id="135" sentence="5" number="10">them</token>
+<token t_id="136" sentence="5" number="11">together</token>
+<token t_id="137" sentence="5" number="12">in</token>
+<token t_id="138" sentence="5" number="13">the</token>
+<token t_id="139" sentence="5" number="14">back</token>
+<token t_id="140" sentence="5" number="15">of</token>
+<token t_id="141" sentence="5" number="16">the</token>
+<token t_id="142" sentence="5" number="17">vehicle</token>
+<token t_id="143" sentence="5" number="18">before</token>
+<token t_id="144" sentence="5" number="19">fleeing</token>
+<token t_id="145" sentence="5" number="20">on</token>
+<token t_id="146" sentence="5" number="21">foot</token>
+<token t_id="147" sentence="5" number="22">at</token>
+<token t_id="148" sentence="5" number="23">around</token>
+<token t_id="149" sentence="5" number="24">9</token>
+<token t_id="150" sentence="5" number="25">a</token>
+<token t_id="151" sentence="5" number="26">.</token>
+<token t_id="152" sentence="5" number="27">m</token>
+<token t_id="153" sentence="5" number="28">.</token>
+<token t_id="154" sentence="5" number="29">,</token>
+<token t_id="155" sentence="5" number="30">Lyons</token>
+<token t_id="156" sentence="5" number="31">said</token>
+<token t_id="157" sentence="5" number="32">.</token>
+<token t_id="158" sentence="6" number="0">He</token>
+<token t_id="159" sentence="6" number="1">was</token>
+<token t_id="160" sentence="6" number="2">serving</token>
+<token t_id="161" sentence="6" number="3">a</token>
+<token t_id="162" sentence="6" number="4">life</token>
+<token t_id="163" sentence="6" number="5">sentence</token>
+<token t_id="164" sentence="6" number="6">after</token>
+<token t_id="165" sentence="6" number="7">being</token>
+<token t_id="166" sentence="6" number="8">convicted</token>
+<token t_id="167" sentence="6" number="9">in</token>
+<token t_id="168" sentence="6" number="10">June</token>
+<token t_id="169" sentence="6" number="11">1998</token>
+<token t_id="170" sentence="6" number="12">of</token>
+<token t_id="171" sentence="6" number="13">aggravated</token>
+<token t_id="172" sentence="6" number="14">sexual</token>
+<token t_id="173" sentence="6" number="15">assault</token>
+<token t_id="174" sentence="6" number="16">out</token>
+<token t_id="175" sentence="6" number="17">of</token>
+<token t_id="176" sentence="6" number="18">Brazos</token>
+<token t_id="177" sentence="6" number="19">County</token>
+<token t_id="178" sentence="6" number="20">,</token>
+<token t_id="179" sentence="6" number="21">located</token>
+<token t_id="180" sentence="6" number="22">northwest</token>
+<token t_id="181" sentence="6" number="23">of</token>
+<token t_id="182" sentence="6" number="24">Houston</token>
+<token t_id="183" sentence="6" number="25">.</token>
+<token t_id="184" sentence="7" number="0">Comeaux</token>
+<token t_id="185" sentence="7" number="1">was</token>
+<token t_id="186" sentence="7" number="2">given</token>
+<token t_id="187" sentence="7" number="3">two</token>
+<token t_id="188" sentence="7" number="4">extra</token>
+<token t_id="189" sentence="7" number="5">life</token>
+<token t_id="190" sentence="7" number="6">sentences</token>
+<token t_id="191" sentence="7" number="7">after</token>
+<token t_id="192" sentence="7" number="8">being</token>
+<token t_id="193" sentence="7" number="9">convicted</token>
+<token t_id="194" sentence="7" number="10">for</token>
+<token t_id="195" sentence="7" number="11">stabbing</token>
+<token t_id="196" sentence="7" number="12">his</token>
+<token t_id="197" sentence="7" number="13">wife</token>
+<token t_id="198" sentence="7" number="14">and</token>
+<token t_id="199" sentence="7" number="15">another</token>
+<token t_id="200" sentence="7" number="16">person</token>
+<token t_id="201" sentence="7" number="17">in</token>
+<token t_id="202" sentence="7" number="18">1999</token>
+<token t_id="203" sentence="7" number="19">while</token>
+<token t_id="204" sentence="7" number="20">she</token>
+<token t_id="205" sentence="7" number="21">visited</token>
+<token t_id="206" sentence="7" number="22">him</token>
+<token t_id="207" sentence="7" number="23">in</token>
+<token t_id="208" sentence="7" number="24">prison</token>
+<token t_id="209" sentence="7" number="25">.</token>
+<token t_id="210" sentence="8" number="0">She</token>
+<token t_id="211" sentence="8" number="1">survived</token>
+<token t_id="212" sentence="8" number="2">the</token>
+<token t_id="213" sentence="8" number="3">attack</token>
+<token t_id="214" sentence="8" number="4">.</token>
+<token t_id="215" sentence="9" number="0">Comeaux</token>
+<token t_id="216" sentence="9" number="1">also</token>
+<token t_id="217" sentence="9" number="2">injured</token>
+<token t_id="218" sentence="9" number="3">a</token>
+<token t_id="219" sentence="9" number="4">man</token>
+<token t_id="220" sentence="9" number="5">who</token>
+<token t_id="221" sentence="9" number="6">was</token>
+<token t_id="222" sentence="9" number="7">visiting</token>
+<token t_id="223" sentence="9" number="8">another</token>
+<token t_id="224" sentence="9" number="9">inmate</token>
+<token t_id="225" sentence="9" number="10">at</token>
+<token t_id="226" sentence="9" number="11">the</token>
+<token t_id="227" sentence="9" number="12">time</token>
+<token t_id="228" sentence="9" number="13">and</token>
+<token t_id="229" sentence="9" number="14">tried</token>
+<token t_id="230" sentence="9" number="15">to</token>
+<token t_id="231" sentence="9" number="16">stop</token>
+<token t_id="232" sentence="9" number="17">the</token>
+<token t_id="233" sentence="9" number="18">attack</token>
+<token t_id="234" sentence="9" number="19">.</token>
+<token t_id="235" sentence="10" number="0">The</token>
+<token t_id="236" sentence="10" number="1">escape</token>
+<token t_id="237" sentence="10" number="2">triggered</token>
+<token t_id="238" sentence="10" number="3">a</token>
+<token t_id="239" sentence="10" number="4">lockdown</token>
+<token t_id="240" sentence="10" number="5">at</token>
+<token t_id="241" sentence="10" number="6">Lee</token>
+<token t_id="242" sentence="10" number="7">College</token>
+<token t_id="243" sentence="10" number="8">and</token>
+<token t_id="244" sentence="10" number="9">three</token>
+<token t_id="245" sentence="10" number="10">campuses</token>
+<token t_id="246" sentence="10" number="11">in</token>
+<token t_id="247" sentence="10" number="12">the</token>
+<token t_id="248" sentence="10" number="13">Goose</token>
+<token t_id="249" sentence="10" number="14">Creek</token>
+<token t_id="250" sentence="10" number="15">school</token>
+<token t_id="251" sentence="10" number="16">district</token>
+<token t_id="252" sentence="10" number="17">,</token>
+<token t_id="253" sentence="10" number="18">in</token>
+<token t_id="254" sentence="10" number="19">and</token>
+<token t_id="255" sentence="10" number="20">around</token>
+<token t_id="256" sentence="10" number="21">Baytown</token>
+<token t_id="257" sentence="10" number="22">.</token>
+
+
+<Markables>
+<ACTION_OCCURRENCE m_id="1" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="117"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="33" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="173"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="2" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="193"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="34" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="186"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="3" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="195"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="4" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="205"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="5" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="211"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="6" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="213"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="7" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="217"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="8" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="222"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="9" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="163"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="10" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="233"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="11" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="229"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="12" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="236"/>
+</ACTION_OCCURRENCE>
+<ACTION_CAUSATIVE m_id="13" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="237"/>
+</ACTION_CAUSATIVE>
+<ACTION_OCCURRENCE m_id="14" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="239"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="15" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="39"/>
+<token_anchor t_id="41"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="16" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="43"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="17" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="64"/>
+<token_anchor t_id="65"/>
+<token_anchor t_id="66"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="18" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="46"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="19" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="62"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="20" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="67"/>
+<token_anchor t_id="70"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="21" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="76"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="22" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="79"/>
+<token_anchor t_id="81"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="23" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="190"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="24" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="84"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="25" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="113"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="26" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="115"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="27" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="118"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="28" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="129"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="29" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="134"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="30" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="144"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="31" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="160"/>
+</ACTION_OCCURRENCE>
+<ACTION_OCCURRENCE m_id="32" climaxEvent="FALSE" comment=""  >
+<token_anchor t_id="166"/>
+</ACTION_OCCURRENCE>
+<ACTION_REPORTING m_id="35" comment=""  >
+<token_anchor t_id="156"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="36" comment=""  >
+<token_anchor t_id="95"/>
+</ACTION_REPORTING>
+<ACTION_REPORTING m_id="37" comment=""  >
+<token_anchor t_id="123"/>
+</ACTION_REPORTING>
+<HUMAN_PART_PER m_id="38" comment=""  >
+<token_anchor t_id="135"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="39" comment=""  >
+<token_anchor t_id="155"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="40" comment=""  >
+<token_anchor t_id="158"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="41" comment=""  >
+<token_anchor t_id="184"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="42" comment=""  >
+<token_anchor t_id="31"/>
+<token_anchor t_id="32"/>
+<token_anchor t_id="33"/>
+<token_anchor t_id="34"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="43" comment=""  >
+<token_anchor t_id="80"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="44" comment=""  >
+<token_anchor t_id="210"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="45" comment=""  >
+<token_anchor t_id="215"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="46" comment=""  >
+<token_anchor t_id="219"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="47" comment=""  >
+<token_anchor t_id="224"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="48" comment=""  >
+<token_anchor t_id="94"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="49" comment=""  >
+<token_anchor t_id="44"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="50" comment=""  >
+<token_anchor t_id="197"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="51" comment=""  >
+<token_anchor t_id="200"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="52" comment=""  >
+<token_anchor t_id="204"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="53" comment=""  >
+<token_anchor t_id="61"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="54" comment=""  >
+<token_anchor t_id="72"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="55" comment=""  >
+<token_anchor t_id="91"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="56" comment=""  >
+<token_anchor t_id="114"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="57" comment=""  >
+<token_anchor t_id="105"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="58" comment=""  >
+<token_anchor t_id="112"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="59" comment=""  >
+<token_anchor t_id="119"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="60" comment=""  >
+<token_anchor t_id="122"/>
+</HUMAN_PART_PER>
+<HUMAN_PART_PER m_id="61" comment=""  >
+<token_anchor t_id="125"/>
+</HUMAN_PART_PER>
+<LOC_FAC m_id="65"  >
+<token_anchor t_id="240"/>
+<token_anchor t_id="241"/>
+<token_anchor t_id="242"/>
+</LOC_FAC>
+<LOC_FAC m_id="62"  >
+<token_anchor t_id="244"/>
+<token_anchor t_id="245"/>
+<token_anchor t_id="246"/>
+<token_anchor t_id="247"/>
+<token_anchor t_id="248"/>
+<token_anchor t_id="249"/>
+<token_anchor t_id="250"/>
+<token_anchor t_id="251"/>
+<token_anchor t_id="252"/>
+<token_anchor t_id="253"/>
+<token_anchor t_id="254"/>
+<token_anchor t_id="255"/>
+<token_anchor t_id="256"/>
+</LOC_FAC>
+<LOC_FAC m_id="63"  >
+<token_anchor t_id="65"/>
+<token_anchor t_id="66"/>
+</LOC_FAC>
+<LOC_FAC m_id="64"  >
+<token_anchor t_id="207"/>
+<token_anchor t_id="208"/>
+</LOC_FAC>
+<LOC_GEO m_id="66" comment=""  >
+<token_anchor t_id="176"/>
+<token_anchor t_id="177"/>
+<token_anchor t_id="178"/>
+<token_anchor t_id="179"/>
+<token_anchor t_id="180"/>
+<token_anchor t_id="181"/>
+<token_anchor t_id="182"/>
+</LOC_GEO>
+<NON_HUMAN_PART m_id="67" comment=""  >
+<token_anchor t_id="40"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="68" comment=""  >
+<token_anchor t_id="69"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="69" comment=""  >
+<token_anchor t_id="109"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="70" comment=""  >
+<token_anchor t_id="132"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="71" comment=""  >
+<token_anchor t_id="142"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="72" comment=""  >
+<token_anchor t_id="137"/>
+<token_anchor t_id="138"/>
+<token_anchor t_id="139"/>
+<token_anchor t_id="140"/>
+<token_anchor t_id="141"/>
+<token_anchor t_id="142"/>
+</NON_HUMAN_PART>
+<NON_HUMAN_PART m_id="73" comment=""  >
+<token_anchor t_id="92"/>
+</NON_HUMAN_PART>
+<TIME_DATE m_id="74" comment="" DCT="FALSE" value="2009-11-30" anchorTimeID="77"  >
+<token_anchor t_id="77"/>
+</TIME_DATE>
+<TIME_DATE m_id="75" comment="" DCT="FALSE" value="1998-06" anchorTimeID=""  >
+<token_anchor t_id="168"/>
+<token_anchor t_id="169"/>
+</TIME_DATE>
+<TIME_DATE m_id="76" comment="" DCT="FALSE" value="1999" anchorTimeID=""  >
+<token_anchor t_id="202"/>
+</TIME_DATE>
+<TIME_OF_THE_DAY m_id="77" DCT="TRUE" value="2009-11-30T22:40Z" anchorTimeID=""  >
+<token_anchor t_id="48"/>
+<token_anchor t_id="49"/>
+<token_anchor t_id="50"/>
+<token_anchor t_id="51"/>
+<token_anchor t_id="52"/>
+<token_anchor t_id="53"/>
+<token_anchor t_id="54"/>
+<token_anchor t_id="55"/>
+<token_anchor t_id="56"/>
+<token_anchor t_id="57"/>
+</TIME_OF_THE_DAY>
+<TIME_OF_THE_DAY m_id="106" DCT="FALSE" value="2009-11-30T14:00Z" anchorTimeID="77"  >
+<token_anchor t_id="148"/>
+<token_anchor t_id="149"/>
+<token_anchor t_id="150"/>
+<token_anchor t_id="151"/>
+<token_anchor t_id="152"/>
+<token_anchor t_id="153"/>
+</TIME_OF_THE_DAY>
+
+
+<ACTION_OCCURRENCE m_id="78" RELATED_TO="" TAG_DESCRIPTOR="t3_transport_to_beaumont" climaxEvent="FALSE" comment="" />
+<ACTION_OCCURRENCE m_id="79" RELATED_TO="" TAG_DESCRIPTOR="t3_convicted_98" climaxEvent="FALSE" comment="" />
+<ACTION_OCCURRENCE m_id="80" RELATED_TO="" TAG_DESCRIPTOR="t3_wife_attack" climaxEvent="FALSE" comment="" />
+<ACTION_OCCURRENCE m_id="81" RELATED_TO="" TAG_DESCRIPTOR="t3_wife_visiting" climaxEvent="FALSE" comment="" />
+<HUMAN_PART_PER m_id="82" RELATED_TO="" TAG_DESCRIPTOR="t3_authorities" comment="" />
+<TIME_DATE m_id="83" RELATED_TO="" TAG_DESCRIPTOR="t3_nov_30" comment="" DCT="FALSE" value="" anchorTimeID="" />
+<NON_HUMAN_PART m_id="84" RELATED_TO="" TAG_DESCRIPTOR="t3_guards_guns" comment="" />
+<HUMAN_PART_PER m_id="85" RELATED_TO="" TAG_DESCRIPTOR="t3_wife" comment="" />
+<ACTION_OCCURRENCE m_id="86" RELATED_TO="" TAG_DESCRIPTOR="t3_escape_nov_30" climaxEvent="FALSE" comment="" />
+<HUMAN_PART_PER m_id="87" RELATED_TO="" TAG_DESCRIPTOR="t3_arcade_joseph_comeaux" comment="" />
+<ACTION_OCCURRENCE m_id="88" RELATED_TO="" TAG_DESCRIPTOR="t3_life_sentence" climaxEvent="FALSE" comment="" />
+<ACTION_OCCURRENCE m_id="89" RELATED_TO="" TAG_DESCRIPTOR="t3_aggravated_child_rape" climaxEvent="FALSE" comment="" />
+<ACTION_OCCURRENCE m_id="90" RELATED_TO="" TAG_DESCRIPTOR="t3_needed_wheelchair" climaxEvent="FALSE" comment="" />
+<HUMAN_PART_PER m_id="91" RELATED_TO="" TAG_DESCRIPTOR="t3_2_guards" comment="" />
+<ACTION_OCCURRENCE m_id="92" RELATED_TO="" TAG_DESCRIPTOR="t3_life_sentences_additional" climaxEvent="FALSE" comment="" />
+<ACTION_OCCURRENCE m_id="93" RELATED_TO="" TAG_DESCRIPTOR="t3_pulled_a_gun_on" climaxEvent="FALSE" comment="" />
+<NON_HUMAN_PART m_id="94" RELATED_TO="" TAG_DESCRIPTOR="t3_van" comment="" />
+<NON_HUMAN_PART m_id="95" RELATED_TO="" TAG_DESCRIPTOR="t3_smuggled_gun" comment="" />
+<LOC_FAC m_id="96" RELATED_TO="" TAG_DESCRIPTOR="t3_in_prison" />
+<NON_HUMAN_PART m_id="97" RELATED_TO="" TAG_DESCRIPTOR="t3_uniforms" comment="" />
+<ACTION_OCCURRENCE m_id="98" RELATED_TO="" TAG_DESCRIPTOR="t3_stole_weapons" climaxEvent="FALSE" comment="" />
+<ACTION_OCCURRENCE m_id="99" RELATED_TO="" TAG_DESCRIPTOR="t3_held_guards_hostage" climaxEvent="FALSE" comment="" />
+<HUMAN_PART_PER m_id="100" RELATED_TO="" TAG_DESCRIPTOR="t3_lyons" comment="" />
+<ACTION_REPORTING m_id="101" RELATED_TO="" TAG_DESCRIPTOR="t3_authorities_said" comment="" />
+<ACTION_OCCURRENCE m_id="102" RELATED_TO="" TAG_DESCRIPTOR="t3_serving_98_sentence" climaxEvent="FALSE" comment="" />
+<HUMAN_PART_PER m_id="103" RELATED_TO="" TAG_DESCRIPTOR="t3_1999_injured_inmate" comment="" />
+<ACTION_OCCURRENCE m_id="104" RELATED_TO="" TAG_DESCRIPTOR="t3_handcuffed" climaxEvent="FALSE" comment="" />
+<NON_HUMAN_PART m_id="105" RELATED_TO="" TAG_DESCRIPTOR="t3_wheelchair" comment="" />
+</Markables>
+
+<Relations>
+<PLOT_LINK r_id="234529" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="15" />
+<target m_id="18" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234530" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="16" />
+<target m_id="18" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234531" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="20" />
+<target m_id="24" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234532" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="21" />
+<target m_id="24" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234533" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="22" />
+<target m_id="24" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234534" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="19" />
+<target m_id="24" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234535" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="28" />
+<target m_id="30" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234536" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="29" />
+<target m_id="30" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234537" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="26" />
+<target m_id="30" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234538" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="1" />
+<target m_id="30" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234539" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="27" />
+<target m_id="30" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234540" SIGNAL="" relType="FALLING_ACTION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="9" />
+<target m_id="32" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234541" SIGNAL="" relType="FALLING_ACTION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="7" />
+<target m_id="11" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234542" SIGNAL="" relType="FALLING_ACTION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="7" />
+<target m_id="10" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234543" SIGNAL="13" relType="PRECONDITION" CAUSES="TRUE" CAUSED_BY="FALSE" >
+<source m_id="12" />
+<target m_id="14" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234544" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="23" />
+<target m_id="12" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234545" SIGNAL="" relType="PRECONDITION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="2" />
+<target m_id="12" />
+</PLOT_LINK>
+<TLINK r_id="234546" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="15" />
+</TLINK>
+<TLINK r_id="234547" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="16" />
+</TLINK>
+<TLINK r_id="234548" contextualModality="" relType="AFTER" comment="" >
+<source m_id="74" />
+<target m_id="19" />
+</TLINK>
+<TLINK r_id="234549" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="20" />
+</TLINK>
+<TLINK r_id="234550" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="21" />
+</TLINK>
+<TLINK r_id="234551" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="22" />
+</TLINK>
+<TLINK r_id="234552" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="24" />
+</TLINK>
+<TLINK r_id="234553" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="26" />
+</TLINK>
+<TLINK r_id="234554" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="1" />
+</TLINK>
+<TLINK r_id="234555" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="27" />
+</TLINK>
+<TLINK r_id="234556" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="28" />
+</TLINK>
+<TLINK r_id="234557" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="29" />
+</TLINK>
+<TLINK r_id="234558" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="30" />
+</TLINK>
+<TLINK r_id="234559" contextualModality="" relType="BEGUN_ON" comment="" >
+<source m_id="75" />
+<target m_id="31" />
+</TLINK>
+<TLINK r_id="234560" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="75" />
+<target m_id="32" />
+</TLINK>
+<TLINK r_id="234561" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="75" />
+<target m_id="9" />
+</TLINK>
+<TLINK r_id="234562" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="75" />
+<target m_id="33" />
+</TLINK>
+<TLINK r_id="234563" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="76" />
+<target m_id="34" />
+</TLINK>
+<TLINK r_id="234564" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="76" />
+<target m_id="2" />
+</TLINK>
+<TLINK r_id="234565" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="76" />
+<target m_id="3" />
+</TLINK>
+<TLINK r_id="234566" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="76" />
+<target m_id="4" />
+</TLINK>
+<TLINK r_id="234567" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="76" />
+<target m_id="5" />
+</TLINK>
+<TLINK r_id="234568" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="76" />
+<target m_id="6" />
+</TLINK>
+<TLINK r_id="234569" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="76" />
+<target m_id="7" />
+</TLINK>
+<TLINK r_id="234570" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="76" />
+<target m_id="8" />
+</TLINK>
+<TLINK r_id="234572" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="76" />
+<target m_id="10" />
+</TLINK>
+<TLINK r_id="234573" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="12" />
+</TLINK>
+<TLINK r_id="234576" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="19" />
+</TLINK>
+<TLINK r_id="234577" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="20" />
+</TLINK>
+<TLINK r_id="234578" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="21" />
+</TLINK>
+<TLINK r_id="234579" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="22" />
+</TLINK>
+<TLINK r_id="234580" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="24" />
+</TLINK>
+<TLINK r_id="234581" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="26" />
+</TLINK>
+<TLINK r_id="234582" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="27" />
+</TLINK>
+<TLINK r_id="234583" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="29" />
+</TLINK>
+<TLINK r_id="234584" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="30" />
+</TLINK>
+<TLINK r_id="234585" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="31" />
+</TLINK>
+<TLINK r_id="234586" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="32" />
+</TLINK>
+<TLINK r_id="234587" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="33" />
+</TLINK>
+<TLINK r_id="234588" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="34" />
+</TLINK>
+<TLINK r_id="234589" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="2" />
+</TLINK>
+<TLINK r_id="234590" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="3" />
+</TLINK>
+<TLINK r_id="234591" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="4" />
+</TLINK>
+<TLINK r_id="234592" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="5" />
+</TLINK>
+<TLINK r_id="234593" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="6" />
+</TLINK>
+<TLINK r_id="234594" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="7" />
+</TLINK>
+<TLINK r_id="234595" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="8" />
+</TLINK>
+<TLINK r_id="234596" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="11" />
+</TLINK>
+<TLINK r_id="234597" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="10" />
+</TLINK>
+<TLINK r_id="234598" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="12" />
+</TLINK>
+<TLINK r_id="234599" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="13" />
+</TLINK>
+<TLINK r_id="234600" contextualModality="" relType="AFTER" comment="" >
+<source m_id="77" />
+<target m_id="14" />
+</TLINK>
+<PLOT_LINK r_id="234601" SIGNAL="" relType="FALLING_ACTION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="9" />
+<target m_id="32" />
+</PLOT_LINK>
+<PLOT_LINK r_id="234602" SIGNAL="" relType="FALLING_ACTION" CAUSES="FALSE" CAUSED_BY="FALSE" >
+<source m_id="23" />
+<target m_id="2" />
+</PLOT_LINK>
+<TLINK r_id="235258" contextualModality="" relType="SIMULTANEOUS" comment="" >
+<source m_id="106" />
+<target m_id="30" />
+</TLINK>
+<TLINK r_id="250424" contextualModality="" relType="CONTAINS" comment="" >
+<source m_id="74" />
+<target m_id="18" />
+</TLINK>
+<TLINK r_id="250425" contextualModality="" relType="AFTER" comment="" >
+<source m_id="106" />
+<target m_id="28" />
+</TLINK>
+<TLINK r_id="250426" contextualModality="" relType="AFTER" comment="" >
+<source m_id="106" />
+<target m_id="29" />
+</TLINK>
+</Relations>
+</Document>

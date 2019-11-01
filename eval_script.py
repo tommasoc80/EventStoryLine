@@ -1,7 +1,7 @@
 import os
 import os.path
 import sys
-from baseline_v1 import check_path
+from baseline_OP import check_path
 from collections import namedtuple
 
 Result = namedtuple('Result', ['true_positive', 'false_positive', 'false_negative'])
@@ -91,7 +91,7 @@ def eval(golddir, systemdir):
     for f in file_names_ecbplus:
         if f[1].endswith("plus.xml"):
 
-            systemf = system_check + f[1].split(".xml")[0] + ".base.out"
+            systemf = system_check + f[1].split(".xml")[0] + ".base3.out"
             result = compute_eval(gold_check + f[1], systemf)
             all_results.append(result)
 

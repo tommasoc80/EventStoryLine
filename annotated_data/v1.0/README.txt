@@ -10,6 +10,11 @@ DIFFERENCES WRT v0.9:
 
 The corpus is structured in folders. Each folder corresponds to a topic from the ECB+ corpus. Only the files from the + portion of each topic/seminal event have been annotated.
 
+**** UPDATE 2019-03-27 ****
+- test/ = annotated test topics
+- dev/ = annotated dev topics
+
+
 Files are in CAT-XML labelled annotation format.
 
 *Annotation Format and Layers*
@@ -95,4 +100,5 @@ Example of PLOT_LINK:
 source: collapsed
 target: earthquake
 <PLOT_LINK relType=FALLING_ACTION>
+
 

@@ -168,9 +168,6 @@
 <source m_id="7" />
 <target m_id="1" />
 </TLINK>
-<TLINK r_id="233786" contextualModality="" relType="OVERLAP" comment="" >
-<source m_id="7" />
-</TLINK>
 <TLINK r_id="233787" contextualModality="" relType="AFTER" comment="" >
 <source m_id="7" />
 <target m_id="2" />
