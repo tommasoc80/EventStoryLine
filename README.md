@@ -12,7 +12,7 @@ Version 1.0 is available.
 **UPDATES**
 
 We have made available the following extensions to ESC:
-- ESC v1.2: all plot link relations annotated using crowdsourcing and evaluated using the <a http://crowdtruth.org>CrowdTruth</a> methodology. Plot relations have been annotated only for events in the same sentence.
+- ESC v1.2: all plot link relations annotated using crowdsourcing and evaluated using <a href="http://crowdtruth.org">CrowdTruth</a>. Plot relations have been annotated only for events in the same sentence.
 - ESC v1.5: plot link relations annotated by experts (i.e., all data in ESC v1.0) and crowd
 
 ESC v1.2 is available in evaluation format only (folder: evaluation_format). Plot data in the evaluation format have been extended using coreference relations from ECB+. 
