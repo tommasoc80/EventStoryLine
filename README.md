@@ -22,6 +22,13 @@ ESC v1.5 is available in evaluation format (folder: evaluation_format) and (CAT-
 PLOT_LINK relations in (CAT-)XML have been enriched with two new attributes *origin* (values: crowd|experts) and *validated* (values:TRUE|FALSE). 
 The *validated* attribute signals if the PLOT_LINK has been validate or not. 
 
+As for experiments, evaluation file format are stored in **/evaluation_format/test**:
+
+1) if you want to evaluate only against the *experts*: use version 1.0
+2) if you want to evaluate only against the *crowd*: use version 1.2
+3) if you want to evaluate against *experts and crowd*: use version 1.5 
+
+
 
 # References
 
