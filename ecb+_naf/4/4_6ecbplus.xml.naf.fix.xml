@@ -1,0 +1,1103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <nafHeader>
+    <public publicId="4_6ecbplus.xml"/>
+    <linguisticProcessors layer="srl">
+      <lp name="ixa-pipe-srl-en" beginTimestamp="2015-09-22T11:40:03+0200" endTimestamp="2015-09-22T11:40:06+0200" version="1.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="topics">
+      <lp name="ixa-pipe-topic-en" beginTimestamp="2015-09-22T11:39:18+0200" endTimestamp="2015-09-22T11:39:21+0200" version="1.0.1-e5736af6cd0dabc10434ad6dcdaa86ecf361896c" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp name="corefgraph-en" beginTimestamp="2015-09-22T09:39:49Z" endTimestamp="2015-09-22T09:39:52Z" version="0.8" hostname="newsreadervm"/>
+      <lp name="vua-event-coref-intradoc-wn-sim" timestamp="2015-09-22T11:40:11+0200" beginTimestamp="2015-09-22T11:40:11+0200" endTimestamp="2015-09-22T11:40:11+0200" version="3.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituency">
+      <lp name="ixa-pipe-parse-en-parser-chunking" beginTimestamp="2015-09-22T11:39:41+0200" endTimestamp="2015-09-22T11:39:48+0200" version="1.1.1-f4c6e03b9afd8b70d8cf403f43055d28e3b0e874" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="ixa-pipe-pos-en-maxent-100-c5-baseline-dict-penn" beginTimestamp="2015-09-22T11:39:23+0200" endTimestamp="2015-09-22T11:39:23+0200" version="1.4.3-192b8ca8980904d09e8d9f7343621174b6b98978" hostname="newsreadervm"/>
+      <lp name="ukb" beginTimestamp="2015-09-22T09:39:53Z" endTimestamp="2015-09-22T09:39:55Z" version="2.0.22.g0edc5ba" hostname="newsreadervm"/>
+      <lp name="It_Makes_Sense_WSD" timestamp="2015-09-22T11:40:01CEST" beginTimestamp="2015-09-22T11:40:01CEST" endTimestamp="2015-09-22T11:40:01CEST" version="0.4" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="markables">
+      <lp name="ixa-pipe-wikify-en" beginTimestamp="2015-09-22T11:39:23+0200" endTimestamp="2015-09-22T11:39:24+0200" version="1.2.1-b2d597d79cc928549bf6df6e13894a183be99dcf" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp name="ixa-pipe-srl-en" beginTimestamp="2015-09-22T11:40:03+0200" endTimestamp="2015-09-22T11:40:03+0200" version="1.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="opinions">
+      <lp name="Deluxe opinion miner (CRF+SVM)" timestamp="2015-09-22T11:39:53CEST" beginTimestamp="2015-09-22T11:39:53CEST" endTimestamp="2015-09-22T11:39:53CEST" version="10jan2014_2.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp name="ixa-pipe-nerc-en-newsreader-clusters-3-class-muc7-conll03-ontonotes-4.0" beginTimestamp="2015-09-22T11:39:24+0200" endTimestamp="2015-09-22T11:39:41+0200" version="1.5.2-5cacac28fcaa6e91d5f2a4cc9b486b24ac163641" hostname="newsreadervm"/>
+      <lp name="ixa-pipe-ned-en" beginTimestamp="2015-09-22T11:40:02+0200" endTimestamp="2015-09-22T11:40:02+0200" version="1.1.3-edd0c821360568dce8fbe83013de244d5c982159" hostname="newsreadervm"/>
+      <lp name="VUA-popen-ned-reranker" timestamp="2015-09-22T11:40:02CEST" beginTimestamp="2015-09-22T11:39:22CEST" endTimestamp="2015-09-22T11:40:02CEST" version="1.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="timeExpressions">
+      <lp name="TimePro-FBK" beginTimestamp="2015-09-22T11:40:07+0200" endTimestamp="2015-09-22T11:40:11+0200" version="v1.5, based on Yamcha" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="temporalRelations">
+      <lp name="TempRelPro-FBK" beginTimestamp="2015-09-22T11:40:12+0200" endTimestamp="2015-09-22T11:40:13+0200" version="2.5.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="causalRelations">
+      <lp name="CausalRelPro-FBK" beginTimestamp="2015-09-22T11:40:13+0200" endTimestamp="2015-09-22T11:40:14+0200" version="2.0.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="factualities">
+      <lp name="vua-perspectives_factuality" version="1.0" timestamp="2015-09-22T11:40:15CEST" beginTimestamp="2015-09-22T11:39:17CEST" endTimestamp="2015-09-22T11:40:15CEST" hostname="newsreadervm"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>http : / / www . nbcnews . com / video / nightly - news / 52126262#52126262 June 06 , 2013 Esther Williams , swimming star , dies at 91</raw>
+  <text>
+    <wf id="w1" offset="0" length="4" sent="0">http</wf>
+    <wf id="w2" offset="5" length="1" sent="0">:</wf>
+    <wf id="w3" offset="7" length="1" sent="0">/</wf>
+    <wf id="w4" offset="9" length="1" sent="0">/</wf>
+    <wf id="w5" offset="11" length="3" sent="0">www</wf>
+    <wf id="w6" offset="15" length="1" sent="0">.</wf>
+    <wf id="w7" offset="17" length="7" sent="0">nbcnews</wf>
+    <wf id="w8" offset="25" length="1" sent="0">.</wf>
+    <wf id="w9" offset="27" length="3" sent="0">com</wf>
+    <wf id="w10" offset="31" length="1" sent="0">/</wf>
+    <wf id="w11" offset="33" length="5" sent="0">video</wf>
+    <wf id="w12" offset="39" length="1" sent="0">/</wf>
+    <wf id="w13" offset="41" length="7" sent="0">nightly</wf>
+    <wf id="w14" offset="49" length="1" sent="0">-</wf>
+    <wf id="w15" offset="51" length="4" sent="0">news</wf>
+    <wf id="w16" offset="56" length="1" sent="0">/</wf>
+    <wf id="w17" offset="58" length="17" sent="0">52126262#52126262</wf>
+    <wf id="w18" offset="76" length="4" sent="1">June</wf>
+    <wf id="w19" offset="81" length="2" sent="1">06</wf>
+    <wf id="w20" offset="84" length="1" sent="1">,</wf>
+    <wf id="w21" offset="86" length="4" sent="1">2013</wf>
+    <wf id="w22" offset="91" length="6" sent="2">Esther</wf>
+    <wf id="w23" offset="98" length="8" sent="2">Williams</wf>
+    <wf id="w24" offset="107" length="1" sent="2">,</wf>
+    <wf id="w25" offset="109" length="8" sent="2">swimming</wf>
+    <wf id="w26" offset="118" length="4" sent="2">star</wf>
+    <wf id="w27" offset="123" length="1" sent="2">,</wf>
+    <wf id="w28" offset="125" length="4" sent="2">dies</wf>
+    <wf id="w29" offset="130" length="2" sent="2">at</wf>
+    <wf id="w30" offset="133" length="2" sent="2">91</wf>
+  </text>
+  <terms>
+    <!--http-->
+    <term id="t1" type="open" lemma="http" pos="N" morphofeat="NN">
+      <span>
+        <target id="w1"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06665847-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06665847-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--:-->
+    <term id="t2" type="close" lemma=":" pos="O" morphofeat=":">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <!--/-->
+    <term id="t3" type="open" lemma="/" pos="V" morphofeat="VB">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <!--/-->
+    <term id="t4" type="open" lemma="/" pos="N" morphofeat="NN">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <!--www-->
+    <term id="t5" type="open" lemma="www" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w5"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-04604276-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--.-->
+    <term id="t6" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <!--nbcnews-->
+    <term id="t7" type="open" lemma="nbcnews" pos="N" morphofeat="NN">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <!--.-->
+    <term id="t8" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <!--com-->
+    <term id="t9" type="open" lemma="com" pos="N" morphofeat="NN">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <!--/-->
+    <term id="t10" type="open" lemma="/" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <!--video-->
+    <term id="t11" type="open" lemma="video" pos="N" morphofeat="NN">
+      <span>
+        <target id="w11"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06277280-n" confidence="0.321067"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06277803-n" confidence="0.302769"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-04534127-n" confidence="0.243438"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06277992-n" confidence="0.132727"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06277992-n" confidence="0.49321204"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06277803-n" confidence="0.50678796"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06277280-n"/>
+      </externalReferences>
+    </term>
+    <!--/-->
+    <term id="t12" type="open" lemma="/" pos="N" morphofeat="NN">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <!--nightly-->
+    <term id="t13" type="open" lemma="nightly" pos="A" morphofeat="RB">
+      <span>
+        <target id="w13"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00410210-r" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00410210-r" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--- .-->
+    <term id="t14" type="close" lemma="-" pos="O" morphofeat=":">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <!--news-->
+    <term id="t15" type="open" lemma="news" pos="N" morphofeat="NN">
+      <span>
+        <target id="w15"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06681177-n" confidence="0.424645"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06642138-n" confidence="0.352316"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06642356-n" confidence="0.0999475"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06619850-n" confidence="0.0936812"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-05192897-n" confidence="0.0294102"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06642138-n" confidence="0.38359714"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06619850-n" confidence="0.22042105"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06681177-n" confidence="0.19521551"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06642356-n" confidence="0.20076631"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-05192897-n"/>
+      </externalReferences>
+    </term>
+    <!--/-->
+    <term id="t16" type="open" lemma="/" pos="N" morphofeat="NN">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <!--52126262#52126262-->
+    <term id="t17" type="close" lemma="52126262#52126262" pos="O" morphofeat="CD">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <!--June-->
+    <term id="t18" type="close" lemma="June" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w18"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-15211806-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--06-->
+    <term id="t19" type="close" lemma="06" pos="O" morphofeat="CD">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <!--,-->
+    <term id="t20" type="close" lemma="," pos="O" morphofeat=",">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <!--2013-->
+    <term id="t21" type="close" lemma="2013" pos="O" morphofeat="CD">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <!--Esther-->
+    <term id="t22" type="close" lemma="Esther" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w22"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-10961372-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06436717-n"/>
+      </externalReferences>
+    </term>
+    <!--Williams-->
+    <term id="t23" type="close" lemma="Williams" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w23"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-11390058-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-11389901-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-11389481-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-11389619-n"/>
+      </externalReferences>
+    </term>
+    <!--,-->
+    <term id="t24" type="close" lemma="," pos="O" morphofeat=",">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <!--swimming-->
+    <term id="t25" type="open" lemma="swimming" pos="N" morphofeat="NN">
+      <span>
+        <target id="w25"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00442115-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01960911-v" confidence="0.5337373"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01904293-v" confidence="0.46626267"/>
+      </externalReferences>
+    </term>
+    <!--star-->
+    <term id="t26" type="open" lemma="star" pos="N" morphofeat="NN">
+      <span>
+        <target id="w26"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09444100-n" confidence="0.361695"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09762509-n" confidence="0.169185"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09444783-n" confidence="0.155579"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-10648696-n" confidence="0.089739"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-13881644-n" confidence="0.0716201"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-10163723-n" confidence="0.0685127"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06828389-n" confidence="0.0431826"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-05730930-n" confidence="0.0404863"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09762509-n" confidence="0.3458122"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09444100-n" confidence="0.32839522"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-10648696-n" confidence="0.32579258"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-13881644-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-10163723-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09444783-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06828389-n"/>
+      </externalReferences>
+    </term>
+    <!--,-->
+    <term id="t27" type="close" lemma="," pos="O" morphofeat=",">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <!--dies-->
+    <term id="t28" type="open" lemma="die" pos="V" morphofeat="VBZ">
+      <span>
+        <target id="w28"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00358431-v" confidence="0.522667"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00434374-v" confidence="0.133645"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02109818-v" confidence="0.109536"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00354845-v" confidence="0.0679106"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01074914-v" confidence="0.0677526"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01784953-v" confidence="0.0308924"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00538323-v" confidence="0.0194438"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01555034-v" confidence="0.0185025"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00224295-v" confidence="0.0158232"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01785242-v" confidence="0.0084043"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01829475-v" confidence="0.005423"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00358431-v" confidence="0.5164881"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02109818-v" confidence="0.24349947"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01784953-v" confidence="0.24001244"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01074914-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00224295-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01555034-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00434374-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00354845-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01785242-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00538323-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01829475-v"/>
+      </externalReferences>
+    </term>
+    <!--at-->
+    <term id="t29" type="close" lemma="at" pos="P" morphofeat="IN">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <!--91-->
+    <term id="t30" type="close" lemma="91" pos="O" morphofeat="CD">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+  </terms>
+  <markables>
+    <!--http-->
+    <mark id="m1" source="DBpedia" lemma="http">
+      <span>
+        <target id="w1"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Hypertext_Transfer_Protocol" confidence="1.0" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--news-->
+    <mark id="m2" source="DBpedia" lemma="news">
+      <span>
+        <target id="w15"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/News" confidence="0.9035553" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--June-->
+    <mark id="m3" source="DBpedia" lemma="June">
+      <span>
+        <target id="w18"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Death_in_June" confidence="0.9461489" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--Esther Williams-->
+    <mark id="m4" source="DBpedia" lemma="Esther Williams">
+      <span>
+        <target id="w22"/>
+        <target id="w23"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Esther_Williams" confidence="1.0" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--swimming-->
+    <mark id="m5" source="DBpedia" lemma="swimming">
+      <span>
+        <target id="w25"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Swimming_(sport)" confidence="0.95012224" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--star-->
+    <mark id="m6" source="DBpedia" lemma="star">
+      <span>
+        <target id="w26"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Star" confidence="0.9999037" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+  </markables>
+  <deps>
+    <!--P(http, :)-->
+    <dep from="t1" to="t2" rfunc="P"/>
+    <!--NMOD(nbcnews, /)-->
+    <dep from="t7" to="t3" rfunc="NMOD"/>
+    <!--NMOD(www, /)-->
+    <dep from="t5" to="t4" rfunc="NMOD"/>
+    <!--OBJ(/, www)-->
+    <dep from="t3" to="t5" rfunc="OBJ"/>
+    <!--P(/, .)-->
+    <dep from="t3" to="t6" rfunc="P"/>
+    <!--APPO(http, nbcnews)-->
+    <dep from="t1" to="t7" rfunc="APPO"/>
+    <!--P(/, .)-->
+    <dep from="t12" to="t8" rfunc="P"/>
+    <!--NMOD(/, com)-->
+    <dep from="t12" to="t9" rfunc="NMOD"/>
+    <!--NMOD(/, /)-->
+    <dep from="t12" to="t10" rfunc="NMOD"/>
+    <!--NMOD(/, video)-->
+    <dep from="t12" to="t11" rfunc="NMOD"/>
+    <!--APPO( - , /)-->
+    <dep from="t14" to="t12" rfunc="APPO"/>
+    <!--CONJ(/, nightly)-->
+    <dep from="t12" to="t13" rfunc="CONJ"/>
+    <!--COORD(nbcnews,  - )-->
+    <dep from="t7" to="t14" rfunc="COORD"/>
+    <!--NMOD(/, news)-->
+    <dep from="t16" to="t15" rfunc="NMOD"/>
+    <!--COORD( - , /)-->
+    <dep from="t14" to="t16" rfunc="COORD"/>
+    <!--NMOD(http, 52126262#52126262)-->
+    <dep from="t1" to="t17" rfunc="NMOD"/>
+    <!--NMOD(June, 06)-->
+    <dep from="t18" to="t19" rfunc="NMOD"/>
+    <!--P(June, ,)-->
+    <dep from="t18" to="t20" rfunc="P"/>
+    <!--NMOD(June, 2013)-->
+    <dep from="t18" to="t21" rfunc="NMOD"/>
+    <!--NAME(Williams, Esther)-->
+    <dep from="t23" to="t22" rfunc="NAME"/>
+    <!--SBJ(dies, Williams)-->
+    <dep from="t28" to="t23" rfunc="SBJ"/>
+    <!--P(Williams, ,)-->
+    <dep from="t23" to="t24" rfunc="P"/>
+    <!--NMOD(star, swimming)-->
+    <dep from="t26" to="t25" rfunc="NMOD"/>
+    <!--APPO(Williams, star)-->
+    <dep from="t23" to="t26" rfunc="APPO"/>
+    <!--P(Williams, ,)-->
+    <dep from="t23" to="t27" rfunc="P"/>
+    <!--ADV(dies, at)-->
+    <dep from="t28" to="t29" rfunc="ADV"/>
+    <!--PMOD(at, 91)-->
+    <dep from="t29" to="t30" rfunc="PMOD"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="PERSON">
+      <references>
+        <!--Esther Williams-->
+        <span>
+          <target id="t22"/>
+          <target id="t23"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Esther_Williams" confidence="1.0" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Esther_Williams_(academic)" confidence="3.1613864E-17" reftype="en" source="en"/>
+        <externalRef resource="dbp" reference="http://dbpedia.org/resource/Esther_Williams" confidence="1.0" source="POCUS"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <!--/-->
+      <span>
+        <target id="t3"/>
+      </span>
+      <!--/-->
+      <span>
+        <target id="t12"/>
+      </span>
+      <!--/-->
+      <span>
+        <target id="t16"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <!--dies-->
+      <span>
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00358431-v" confidence="1.0" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent3" type="event">
+      <!--star-->
+      <span>
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09762509-n" confidence="1.0" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09444100-n" confidence="0.9748173" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-10648696-n" confidence="0.9421084" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <timeExpressions>
+    <timex3 id="tmx0" type="DATE" functionInDocument="CREATION_TIME" value="2015-09-22"/>
+    <timex3 id="tmx1" type="DATE" value="2013-06-06">
+      <!--June 06 , 2013-->
+      <span>
+        <target id="w18"/>
+        <target id="w19"/>
+        <target id="w20"/>
+        <target id="w21"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+  <srl>
+    <!--t3 / : A0[t1 http] A1[t4 /] A1[t3 /]-->
+    <predicate id="pr1">
+      <!--/-->
+      <span>
+        <target id="t3"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="PropBank" reference="/.01"/>
+      </externalReferences>
+      <role id="rl1" semRole="A0">
+        <!--http : / / www . nbcnews . com / video / nightly  -  news / 52126262#52126262-->
+        <span>
+          <target id="t1" head="yes"/>
+          <target id="t2"/>
+          <target id="t3"/>
+          <target id="t4"/>
+          <target id="t5"/>
+          <target id="t6"/>
+          <target id="t7"/>
+          <target id="t8"/>
+          <target id="t9"/>
+          <target id="t10"/>
+          <target id="t11"/>
+          <target id="t12"/>
+          <target id="t13"/>
+          <target id="t14"/>
+          <target id="t15"/>
+          <target id="t16"/>
+          <target id="t17"/>
+        </span>
+      </role>
+      <role id="rl2" semRole="A1">
+        <!--/ www-->
+        <span>
+          <target id="t4"/>
+          <target id="t5" head="yes"/>
+        </span>
+      </role>
+      <role id="rl3" semRole="A1">
+        <!--/ / www . nbcnews . com / video / nightly  -  news /-->
+        <span>
+          <target id="t3"/>
+          <target id="t4"/>
+          <target id="t5"/>
+          <target id="t6"/>
+          <target id="t7" head="yes"/>
+          <target id="t8"/>
+          <target id="t9"/>
+          <target id="t10"/>
+          <target id="t11"/>
+          <target id="t12"/>
+          <target id="t13"/>
+          <target id="t14"/>
+          <target id="t15"/>
+          <target id="t16"/>
+        </span>
+      </role>
+    </predicate>
+    <!--t12 / : A1[t9 com] AM-MNR[t10 /] A1[t11 video]-->
+    <predicate id="pr2">
+      <!--/-->
+      <span>
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="NomBank" reference="/.01"/>
+      </externalReferences>
+      <role id="rl4" semRole="A1">
+        <!--com-->
+        <span>
+          <target id="t9" head="yes"/>
+        </span>
+      </role>
+      <role id="rl5" semRole="AM-MNR">
+        <!--/-->
+        <span>
+          <target id="t10" head="yes"/>
+        </span>
+      </role>
+      <role id="rl6" semRole="A1">
+        <!--video-->
+        <span>
+          <target id="t11" head="yes"/>
+        </span>
+      </role>
+    </predicate>
+    <!--t16 / : A1[t15 news]-->
+    <predicate id="pr3">
+      <!--/-->
+      <span>
+        <target id="t16"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="NomBank" reference="/.01"/>
+      </externalReferences>
+      <role id="rl7" semRole="A1">
+        <!--news-->
+        <span>
+          <target id="t15" head="yes"/>
+        </span>
+      </role>
+    </predicate>
+    <!--t28 dies : A1[t22 Esther] AM-TMP[t29 at]-->
+    <predicate id="pr4">
+      <!--dies-->
+      <span>
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="PropBank" reference="die.01"/>
+        <externalRef resource="VerbNet" reference="disappearance-48.2"/>
+        <externalRef resource="FrameNet" reference="Death"/>
+        <externalRef resource="PropBank" reference="die.01"/>
+        <externalRef resource="EventType" reference="contextual"/>
+        <externalRef resource="WordNet" reference="ili-30-00358431-v"/>
+        <externalRef resource="WordNet" reference="ili-30-00354845-v"/>
+      </externalReferences>
+      <role id="rl8" semRole="A1">
+        <!--Esther Williams , swimming star ,-->
+        <span>
+          <target id="t22"/>
+          <target id="t23" head="yes"/>
+          <target id="t24"/>
+          <target id="t25"/>
+          <target id="t26"/>
+          <target id="t27"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="disappearance-48.2@Patient"/>
+          <externalRef resource="FrameNet" reference="Death@Protagonist"/>
+          <externalRef resource="PropBank" reference="die.01@1"/>
+        </externalReferences>
+      </role>
+      <role id="rl9" semRole="AM-TMP">
+        <!--at 91-->
+        <span>
+          <target id="t29" head="yes"/>
+          <target id="t30"/>
+        </span>
+      </role>
+    </predicate>
+    <!--t26 star : A3[t25 swimming] A0[t25 swimming]-->
+    <predicate id="pr5">
+      <!--star-->
+      <span>
+        <target id="t26"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="NomBank" reference="star.01"/>
+        <externalRef resource="VerbNet" reference="captain-29.8"/>
+        <externalRef resource="VerbNet" reference="captain-29.8-1-1"/>
+        <externalRef resource="FrameNet" reference="Performers_and_roles"/>
+        <externalRef resource="PropBank" reference="star.01"/>
+        <externalRef resource="WordNet" reference="ili-30-01720980-v"/>
+      </externalReferences>
+      <role id="rl10" semRole="A3">
+        <!--swimming-->
+        <span>
+          <target id="t25" head="yes"/>
+        </span>
+      </role>
+      <role id="rl11" semRole="A0">
+        <!--swimming star-->
+        <span>
+          <target id="t25"/>
+          <target id="t26" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="captain-29.8@Agent"/>
+          <externalRef resource="FrameNet" reference="Performers_and_roles@Performer"/>
+          <externalRef resource="FrameNet" reference="Performers_and_roles@Performance"/>
+          <externalRef resource="PropBank" reference="star.01@1"/>
+          <externalRef resource="PropBank" reference="star.01@0"/>
+        </externalReferences>
+      </role>
+    </predicate>
+  </srl>
+  <constituency>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter1" label="TOP"/>
+      <nt id="nter2" label="NP"/>
+      <nt id="nter3" label="NP"/>
+      <nt id="nter4" label="NN"/>
+      <nt id="nter5" label=":"/>
+      <nt id="nter6" label="S"/>
+      <nt id="nter7" label="NP"/>
+      <nt id="nter8" label="JJ"/>
+      <nt id="nter9" label="JJ"/>
+      <nt id="nter10" label="NN"/>
+      <nt id="nter11" label="."/>
+      <nt id="nter12" label="NN"/>
+      <nt id="nter13" label="."/>
+      <nt id="nter14" label="NN"/>
+      <nt id="nter15" label="VP"/>
+      <nt id="nter16" label="VBD"/>
+      <nt id="nter17" label="NP"/>
+      <nt id="nter18" label="NN"/>
+      <nt id="nter19" label="NN"/>
+      <nt id="nter20" label="ADVP"/>
+      <nt id="nter21" label="RB"/>
+      <nt id="nter22" label=":"/>
+      <nt id="nter23" label="NP"/>
+      <nt id="nter24" label="NN"/>
+      <nt id="nter25" label="NN"/>
+      <nt id="nter26" label="."/>
+      <!--Terminals-->
+      <!--http-->
+      <t id="ter1">
+        <span>
+          <target id="t1"/>
+        </span>
+      </t>
+      <!--:-->
+      <t id="ter2">
+        <span>
+          <target id="t2"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter3">
+        <span>
+          <target id="t3"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter4">
+        <span>
+          <target id="t4"/>
+        </span>
+      </t>
+      <!--www-->
+      <t id="ter5">
+        <span>
+          <target id="t5"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter6">
+        <span>
+          <target id="t6"/>
+        </span>
+      </t>
+      <!--nbcnews-->
+      <t id="ter7">
+        <span>
+          <target id="t7"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter8">
+        <span>
+          <target id="t8"/>
+        </span>
+      </t>
+      <!--com-->
+      <t id="ter9">
+        <span>
+          <target id="t9"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter10">
+        <span>
+          <target id="t10"/>
+        </span>
+      </t>
+      <!--video-->
+      <t id="ter11">
+        <span>
+          <target id="t11"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter12">
+        <span>
+          <target id="t12"/>
+        </span>
+      </t>
+      <!--nightly-->
+      <t id="ter13">
+        <span>
+          <target id="t13"/>
+        </span>
+      </t>
+      <!--- .-->
+      <t id="ter14">
+        <span>
+          <target id="t14"/>
+        </span>
+      </t>
+      <!--news-->
+      <t id="ter15">
+        <span>
+          <target id="t15"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter16">
+        <span>
+          <target id="t16"/>
+        </span>
+      </t>
+      <!--52126262#52126262-->
+      <t id="ter17">
+        <span>
+          <target id="t17"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre2" from="nter2" to="nter1" head="yes"/>
+      <edge id="tre3" from="nter3" to="nter2" head="yes"/>
+      <edge id="tre4" from="nter4" to="nter3" head="yes"/>
+      <edge id="tre5" from="ter1" to="nter4"/>
+      <edge id="tre6" from="nter5" to="nter2"/>
+      <edge id="tre7" from="ter2" to="nter5"/>
+      <edge id="tre8" from="nter6" to="nter2"/>
+      <edge id="tre9" from="nter7" to="nter6"/>
+      <edge id="tre10" from="nter8" to="nter7"/>
+      <edge id="tre11" from="ter3" to="nter8"/>
+      <edge id="tre12" from="nter9" to="nter7"/>
+      <edge id="tre13" from="ter4" to="nter9"/>
+      <edge id="tre14" from="nter10" to="nter7"/>
+      <edge id="tre15" from="ter5" to="nter10"/>
+      <edge id="tre16" from="nter11" to="nter7"/>
+      <edge id="tre17" from="ter6" to="nter11"/>
+      <edge id="tre18" from="nter12" to="nter7"/>
+      <edge id="tre19" from="ter7" to="nter12"/>
+      <edge id="tre20" from="nter13" to="nter7"/>
+      <edge id="tre21" from="ter8" to="nter13"/>
+      <edge id="tre22" from="nter14" to="nter7" head="yes"/>
+      <edge id="tre23" from="ter9" to="nter14"/>
+      <edge id="tre24" from="nter15" to="nter6" head="yes"/>
+      <edge id="tre25" from="nter16" to="nter15" head="yes"/>
+      <edge id="tre26" from="ter10" to="nter16"/>
+      <edge id="tre27" from="nter17" to="nter15"/>
+      <edge id="tre28" from="nter18" to="nter17"/>
+      <edge id="tre29" from="ter11" to="nter18"/>
+      <edge id="tre30" from="nter19" to="nter17" head="yes"/>
+      <edge id="tre31" from="ter12" to="nter19"/>
+      <edge id="tre32" from="nter20" to="nter15"/>
+      <edge id="tre33" from="nter21" to="nter20" head="yes"/>
+      <edge id="tre34" from="ter13" to="nter21"/>
+      <edge id="tre35" from="nter22" to="nter15"/>
+      <edge id="tre36" from="ter14" to="nter22"/>
+      <edge id="tre37" from="nter23" to="nter15"/>
+      <edge id="tre38" from="nter24" to="nter23"/>
+      <edge id="tre39" from="ter15" to="nter24"/>
+      <edge id="tre40" from="nter25" to="nter23" head="yes"/>
+      <edge id="tre41" from="ter16" to="nter25"/>
+      <edge id="tre42" from="nter26" to="nter2"/>
+      <edge id="tre43" from="ter17" to="nter26"/>
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter27" label="TOP"/>
+      <nt id="nter28" label="NP"/>
+      <nt id="nter29" label="NP"/>
+      <nt id="nter30" label="NNP"/>
+      <nt id="nter31" label="CD"/>
+      <nt id="nter32" label=","/>
+      <nt id="nter33" label="NP"/>
+      <nt id="nter34" label="CD"/>
+      <!--Terminals-->
+      <!--June-->
+      <t id="ter18">
+        <span>
+          <target id="t18"/>
+        </span>
+      </t>
+      <!--06-->
+      <t id="ter19">
+        <span>
+          <target id="t19"/>
+        </span>
+      </t>
+      <!--,-->
+      <t id="ter20">
+        <span>
+          <target id="t20"/>
+        </span>
+      </t>
+      <!--2013-->
+      <t id="ter21">
+        <span>
+          <target id="t21"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre45" from="nter28" to="nter27" head="yes"/>
+      <edge id="tre46" from="nter29" to="nter28" head="yes"/>
+      <edge id="tre47" from="nter30" to="nter29" head="yes"/>
+      <edge id="tre48" from="ter18" to="nter30"/>
+      <edge id="tre49" from="nter31" to="nter29"/>
+      <edge id="tre50" from="ter19" to="nter31"/>
+      <edge id="tre51" from="nter32" to="nter28"/>
+      <edge id="tre52" from="ter20" to="nter32"/>
+      <edge id="tre53" from="nter33" to="nter28"/>
+      <edge id="tre54" from="nter34" to="nter33" head="yes"/>
+      <edge id="tre55" from="ter21" to="nter34"/>
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter35" label="TOP"/>
+      <nt id="nter36" label="S"/>
+      <nt id="nter37" label="NP"/>
+      <nt id="nter38" label="NP"/>
+      <nt id="nter39" label="NNP"/>
+      <nt id="nter40" label="NNP"/>
+      <nt id="nter41" label=","/>
+      <nt id="nter42" label="NP"/>
+      <nt id="nter43" label="NN"/>
+      <nt id="nter44" label="NN"/>
+      <nt id="nter45" label=","/>
+      <nt id="nter46" label="VP"/>
+      <nt id="nter47" label="VBZ"/>
+      <nt id="nter48" label="PP"/>
+      <nt id="nter49" label="IN"/>
+      <nt id="nter50" label="NP"/>
+      <nt id="nter51" label="CD"/>
+      <!--Terminals-->
+      <!--Esther-->
+      <t id="ter22">
+        <span>
+          <target id="t22"/>
+        </span>
+      </t>
+      <!--Williams-->
+      <t id="ter23">
+        <span>
+          <target id="t23"/>
+        </span>
+      </t>
+      <!--,-->
+      <t id="ter24">
+        <span>
+          <target id="t24"/>
+        </span>
+      </t>
+      <!--swimming-->
+      <t id="ter25">
+        <span>
+          <target id="t25"/>
+        </span>
+      </t>
+      <!--star-->
+      <t id="ter26">
+        <span>
+          <target id="t26"/>
+        </span>
+      </t>
+      <!--,-->
+      <t id="ter27">
+        <span>
+          <target id="t27"/>
+        </span>
+      </t>
+      <!--dies-->
+      <t id="ter28">
+        <span>
+          <target id="t28"/>
+        </span>
+      </t>
+      <!--at-->
+      <t id="ter29">
+        <span>
+          <target id="t29"/>
+        </span>
+      </t>
+      <!--91-->
+      <t id="ter30">
+        <span>
+          <target id="t30"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre57" from="nter36" to="nter35" head="yes"/>
+      <edge id="tre58" from="nter37" to="nter36"/>
+      <edge id="tre59" from="nter38" to="nter37" head="yes"/>
+      <edge id="tre60" from="nter39" to="nter38"/>
+      <edge id="tre61" from="ter22" to="nter39"/>
+      <edge id="tre62" from="nter40" to="nter38" head="yes"/>
+      <edge id="tre63" from="ter23" to="nter40"/>
+      <edge id="tre64" from="nter41" to="nter37"/>
+      <edge id="tre65" from="ter24" to="nter41"/>
+      <edge id="tre66" from="nter42" to="nter37"/>
+      <edge id="tre67" from="nter43" to="nter42"/>
+      <edge id="tre68" from="ter25" to="nter43"/>
+      <edge id="tre69" from="nter44" to="nter42" head="yes"/>
+      <edge id="tre70" from="ter26" to="nter44"/>
+      <edge id="tre71" from="nter45" to="nter36"/>
+      <edge id="tre72" from="ter27" to="nter45"/>
+      <edge id="tre73" from="nter46" to="nter36" head="yes"/>
+      <edge id="tre74" from="nter47" to="nter46" head="yes"/>
+      <edge id="tre75" from="ter28" to="nter47"/>
+      <edge id="tre76" from="nter48" to="nter46"/>
+      <edge id="tre77" from="nter49" to="nter48" head="yes"/>
+      <edge id="tre78" from="ter29" to="nter49"/>
+      <edge id="tre79" from="nter50" to="nter48"/>
+      <edge id="tre80" from="nter51" to="nter50" head="yes"/>
+      <edge id="tre81" from="ter30" to="nter51"/>
+    </tree>
+  </constituency>
+  <temporalRelations>
+    <!--BEFORE(tmx0, tmx1)-->
+    <tlink id="tlink0" from="tmx0" to="tmx1" fromType="timex" toType="timex" relType="BEFORE"/>
+    <!--AFTER(pr5, pr4)-->
+    <tlink id="tlink1" from="pr5" to="pr4" fromType="event" toType="event" relType="AFTER"/>
+    <predicateAnchor id="an1" anchorTime="tmx0">
+      <span>
+        <target id="pr4"/>
+      </span>
+    </predicateAnchor>
+  </temporalRelations>
+  <topics>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.05144188925623894">television</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.03973919525742531">economic forecasting</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.03959992900490761">stability programme</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.03883440047502518">budget estimate</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.03581790626049042">public finance</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.018476439639925957">competition law</topic>
+  </topics>
+  <factualities>
+    <factuality id="f1">
+      <span>
+        <target id="t28"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="NON_FUTURE"/>
+      <factVal resource="factbank" value="CT+"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f2">
+      <span>
+        <target id="t16"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f3">
+      <span>
+        <target id="t3"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f4">
+      <span>
+        <target id="t12"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f5">
+      <span>
+        <target id="t26"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+  </factualities>
+</NAF>

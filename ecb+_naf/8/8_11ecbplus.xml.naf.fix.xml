@@ -1,0 +1,3344 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <nafHeader>
+    <public publicId="8_11ecbplus.xml"/>
+    <linguisticProcessors layer="srl">
+      <lp name="ixa-pipe-srl-en" beginTimestamp="2015-09-22T12:53:05+0200" endTimestamp="2015-09-22T12:53:08+0200" version="1.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="topics">
+      <lp name="ixa-pipe-topic-en" beginTimestamp="2015-09-22T12:52:15+0200" endTimestamp="2015-09-22T12:52:18+0200" version="1.0.1-e5736af6cd0dabc10434ad6dcdaa86ecf361896c" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp name="corefgraph-en" beginTimestamp="2015-09-22T10:52:47Z" endTimestamp="2015-09-22T10:52:51Z" version="0.8" hostname="newsreadervm"/>
+      <lp name="vua-event-coref-intradoc-wn-sim" timestamp="2015-09-22T12:53:14+0200" beginTimestamp="2015-09-22T12:53:14+0200" endTimestamp="2015-09-22T12:53:14+0200" version="3.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituency">
+      <lp name="ixa-pipe-parse-en-parser-chunking" beginTimestamp="2015-09-22T12:52:39+0200" endTimestamp="2015-09-22T12:52:47+0200" version="1.1.1-f4c6e03b9afd8b70d8cf403f43055d28e3b0e874" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="ixa-pipe-pos-en-maxent-100-c5-baseline-dict-penn" beginTimestamp="2015-09-22T12:52:20+0200" endTimestamp="2015-09-22T12:52:20+0200" version="1.4.3-192b8ca8980904d09e8d9f7343621174b6b98978" hostname="newsreadervm"/>
+      <lp name="ukb" beginTimestamp="2015-09-22T10:52:52Z" endTimestamp="2015-09-22T10:52:56Z" version="2.0.22.g0edc5ba" hostname="newsreadervm"/>
+      <lp name="It_Makes_Sense_WSD" timestamp="2015-09-22T12:53:03CEST" beginTimestamp="2015-09-22T12:53:03CEST" endTimestamp="2015-09-22T12:53:03CEST" version="0.4" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="markables">
+      <lp name="ixa-pipe-wikify-en" beginTimestamp="2015-09-22T12:52:20+0200" endTimestamp="2015-09-22T12:52:21+0200" version="1.2.1-b2d597d79cc928549bf6df6e13894a183be99dcf" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp name="ixa-pipe-srl-en" beginTimestamp="2015-09-22T12:53:05+0200" endTimestamp="2015-09-22T12:53:05+0200" version="1.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="opinions">
+      <lp name="Deluxe opinion miner (CRF+SVM)" timestamp="2015-09-22T12:52:52CEST" beginTimestamp="2015-09-22T12:52:52CEST" endTimestamp="2015-09-22T12:52:52CEST" version="10jan2014_2.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp name="ixa-pipe-nerc-en-newsreader-clusters-3-class-muc7-conll03-ontonotes-4.0" beginTimestamp="2015-09-22T12:52:21+0200" endTimestamp="2015-09-22T12:52:39+0200" version="1.5.2-5cacac28fcaa6e91d5f2a4cc9b486b24ac163641" hostname="newsreadervm"/>
+      <lp name="ixa-pipe-ned-en" beginTimestamp="2015-09-22T12:53:04+0200" endTimestamp="2015-09-22T12:53:04+0200" version="1.1.3-edd0c821360568dce8fbe83013de244d5c982159" hostname="newsreadervm"/>
+      <lp name="VUA-popen-ned-reranker" timestamp="2015-09-22T12:53:04CEST" beginTimestamp="2015-09-22T12:52:20CEST" endTimestamp="2015-09-22T12:53:04CEST" version="1.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="timeExpressions">
+      <lp name="TimePro-FBK" beginTimestamp="2015-09-22T12:53:10+0200" endTimestamp="2015-09-22T12:53:13+0200" version="v1.5, based on Yamcha" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="temporalRelations">
+      <lp name="TempRelPro-FBK" beginTimestamp="2015-09-22T12:53:15+0200" endTimestamp="2015-09-22T12:53:17+0200" version="2.5.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="causalRelations">
+      <lp name="CausalRelPro-FBK" beginTimestamp="2015-09-22T12:53:18+0200" endTimestamp="2015-09-22T12:53:24+0200" version="2.0.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="factualities">
+      <lp name="vua-perspectives_factuality" version="1.0" timestamp="2015-09-22T12:53:26CEST" beginTimestamp="2015-09-22T12:52:14CEST" endTimestamp="2015-09-22T12:53:26CEST" hostname="newsreadervm"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>http : / / news . bbc . co . uk / 2 / hi / europe / 8665488 . stm Greek austerity : British views Greece's parliament is due to vote on the hefty cuts and reforms proposed by the government to address the country's financial crisis . It comes a day after three bank workers died in a petrol bomb attack as demonstrations over the planned austerity measures turned violent .</raw>
+  <text>
+    <wf id="w1" offset="0" length="4" sent="0">http</wf>
+    <wf id="w2" offset="5" length="1" sent="0">:</wf>
+    <wf id="w3" offset="7" length="1" sent="0">/</wf>
+    <wf id="w4" offset="9" length="1" sent="0">/</wf>
+    <wf id="w5" offset="11" length="4" sent="0">news</wf>
+    <wf id="w6" offset="16" length="1" sent="0">.</wf>
+    <wf id="w7" offset="18" length="3" sent="0">bbc</wf>
+    <wf id="w8" offset="22" length="1" sent="0">.</wf>
+    <wf id="w9" offset="24" length="2" sent="0">co</wf>
+    <wf id="w10" offset="27" length="1" sent="0">.</wf>
+    <wf id="w11" offset="29" length="2" sent="0">uk</wf>
+    <wf id="w12" offset="32" length="1" sent="0">/</wf>
+    <wf id="w13" offset="34" length="1" sent="0">2</wf>
+    <wf id="w14" offset="36" length="1" sent="0">/</wf>
+    <wf id="w15" offset="38" length="2" sent="0">hi</wf>
+    <wf id="w16" offset="41" length="1" sent="0">/</wf>
+    <wf id="w17" offset="43" length="6" sent="0">europe</wf>
+    <wf id="w18" offset="50" length="1" sent="0">/</wf>
+    <wf id="w19" offset="52" length="7" sent="0">8665488</wf>
+    <wf id="w20" offset="60" length="1" sent="0">.</wf>
+    <wf id="w21" offset="62" length="3" sent="0">stm</wf>
+    <wf id="w22" offset="66" length="5" sent="1">Greek</wf>
+    <wf id="w23" offset="72" length="9" sent="1">austerity</wf>
+    <wf id="w24" offset="82" length="1" sent="1">:</wf>
+    <wf id="w25" offset="84" length="7" sent="1">British</wf>
+    <wf id="w26" offset="92" length="5" sent="1">views</wf>
+    <wf id="w27" offset="98" length="8" sent="2">Greece's</wf>
+    <wf id="w28" offset="107" length="10" sent="2">parliament</wf>
+    <wf id="w29" offset="118" length="2" sent="2">is</wf>
+    <wf id="w30" offset="121" length="3" sent="2">due</wf>
+    <wf id="w31" offset="125" length="2" sent="2">to</wf>
+    <wf id="w32" offset="128" length="4" sent="2">vote</wf>
+    <wf id="w33" offset="133" length="2" sent="2">on</wf>
+    <wf id="w34" offset="136" length="3" sent="2">the</wf>
+    <wf id="w35" offset="140" length="5" sent="2">hefty</wf>
+    <wf id="w36" offset="146" length="4" sent="2">cuts</wf>
+    <wf id="w37" offset="151" length="3" sent="2">and</wf>
+    <wf id="w38" offset="155" length="7" sent="2">reforms</wf>
+    <wf id="w39" offset="163" length="8" sent="2">proposed</wf>
+    <wf id="w40" offset="172" length="2" sent="2">by</wf>
+    <wf id="w41" offset="175" length="3" sent="2">the</wf>
+    <wf id="w42" offset="179" length="10" sent="2">government</wf>
+    <wf id="w43" offset="190" length="2" sent="2">to</wf>
+    <wf id="w44" offset="193" length="7" sent="2">address</wf>
+    <wf id="w45" offset="201" length="3" sent="2">the</wf>
+    <wf id="w46" offset="205" length="9" sent="2">country's</wf>
+    <wf id="w47" offset="215" length="9" sent="2">financial</wf>
+    <wf id="w48" offset="225" length="6" sent="2">crisis</wf>
+    <wf id="w49" offset="232" length="1" sent="2">.</wf>
+    <wf id="w50" offset="234" length="2" sent="3">It</wf>
+    <wf id="w51" offset="237" length="5" sent="3">comes</wf>
+    <wf id="w52" offset="243" length="1" sent="3">a</wf>
+    <wf id="w53" offset="245" length="3" sent="3">day</wf>
+    <wf id="w54" offset="249" length="5" sent="3">after</wf>
+    <wf id="w55" offset="255" length="5" sent="3">three</wf>
+    <wf id="w56" offset="261" length="4" sent="3">bank</wf>
+    <wf id="w57" offset="266" length="7" sent="3">workers</wf>
+    <wf id="w58" offset="274" length="4" sent="3">died</wf>
+    <wf id="w59" offset="279" length="2" sent="3">in</wf>
+    <wf id="w60" offset="282" length="1" sent="3">a</wf>
+    <wf id="w61" offset="284" length="6" sent="3">petrol</wf>
+    <wf id="w62" offset="291" length="4" sent="3">bomb</wf>
+    <wf id="w63" offset="296" length="6" sent="3">attack</wf>
+    <wf id="w64" offset="303" length="2" sent="3">as</wf>
+    <wf id="w65" offset="306" length="14" sent="3">demonstrations</wf>
+    <wf id="w66" offset="321" length="4" sent="3">over</wf>
+    <wf id="w67" offset="326" length="3" sent="3">the</wf>
+    <wf id="w68" offset="330" length="7" sent="3">planned</wf>
+    <wf id="w69" offset="338" length="9" sent="3">austerity</wf>
+    <wf id="w70" offset="348" length="8" sent="3">measures</wf>
+    <wf id="w71" offset="357" length="6" sent="3">turned</wf>
+    <wf id="w72" offset="364" length="7" sent="3">violent</wf>
+    <wf id="w73" offset="372" length="1" sent="3">.</wf>
+  </text>
+  <terms>
+    <!--http-->
+    <term id="t1" type="open" lemma="http" pos="N" morphofeat="NN">
+      <span>
+        <target id="w1"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06665847-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06665847-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--:-->
+    <term id="t2" type="close" lemma=":" pos="O" morphofeat=":">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <!--/-->
+    <term id="t3" type="open" lemma="/" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <!--/-->
+    <term id="t4" type="open" lemma="/" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <!--news-->
+    <term id="t5" type="open" lemma="news" pos="N" morphofeat="NN">
+      <span>
+        <target id="w5"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06642138-n" confidence="0.381154"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06681177-n" confidence="0.380985"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06642356-n" confidence="0.11672"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06619850-n" confidence="0.0831374"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-05192897-n" confidence="0.0380035"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06642138-n" confidence="0.33887136"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06619850-n" confidence="0.23625702"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06681177-n" confidence="0.21911001"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06642356-n" confidence="0.20576161"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-05192897-n"/>
+      </externalReferences>
+    </term>
+    <!--.-->
+    <term id="t6" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <!--bbc-->
+    <term id="t7" type="open" lemma="bbc" pos="N" morphofeat="NN">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <!--.-->
+    <term id="t8" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <!--co-->
+    <term id="t9" type="open" lemma="co" pos="N" morphofeat="NN">
+      <span>
+        <target id="w9"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09067277-n" confidence="0.257687"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-14635290-n" confidence="0.254213"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-14797641-n" confidence="0.244345"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09957013-n" confidence="0.243755"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-14796969-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-14635290-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09957013-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09067277-n"/>
+      </externalReferences>
+    </term>
+    <!--.-->
+    <term id="t10" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <!--uk-->
+    <term id="t11" type="close" lemma="uk" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w11"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-08860123-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--/-->
+    <term id="t12" type="open" lemma="/" pos="V" morphofeat="VBD">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <!--2-->
+    <term id="t13" type="close" lemma="2" pos="O" morphofeat="CD">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <!--/-->
+    <term id="t14" type="open" lemma="/" pos="N" morphofeat="NN">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <!--hi-->
+    <term id="t15" type="close" lemma="hi" pos="P" morphofeat="IN">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <!--/-->
+    <term id="t16" type="open" lemma="/" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <!--europe-->
+    <term id="t17" type="open" lemma="europe" pos="N" morphofeat="NN">
+      <span>
+        <target id="w17"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09275473-n" confidence="0.773962"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-08172695-n" confidence="0.135701"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-08173515-n" confidence="0.0903361"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09275473-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-08172695-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-08173515-n"/>
+      </externalReferences>
+    </term>
+    <!--/-->
+    <term id="t18" type="close" lemma="/" pos="P" morphofeat="IN">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <!--8665488-->
+    <term id="t19" type="close" lemma="8665488" pos="O" morphofeat="CD">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <!--.-->
+    <term id="t20" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <!--stm-->
+    <term id="t21" type="open" lemma="stm" pos="N" morphofeat="NN">
+      <span>
+        <target id="w21"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-05760611-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--Greek-->
+    <term id="t22" type="close" lemma="Greek" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w22"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09710164-n" confidence="0.50425375"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06976392-n" confidence="0.49574625"/>
+      </externalReferences>
+    </term>
+    <!--austerity-->
+    <term id="t23" type="open" lemma="austerity" pos="N" morphofeat="NN">
+      <span>
+        <target id="w23"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-04881998-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-04881998-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--:-->
+    <term id="t24" type="close" lemma=":" pos="O" morphofeat=":">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <!--British-->
+    <term id="t25" type="open" lemma="british" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w25"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-03022177-a" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-03022177-a" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--views-->
+    <term id="t26" type="open" lemma="view" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w26"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06208751-n" confidence="0.302501"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06782019-n" confidence="0.146158"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00881649-n" confidence="0.13184"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-05933246-n" confidence="0.111332"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-05945642-n" confidence="0.0930781"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-08560952-n" confidence="0.0834514"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-04144782-n" confidence="0.0497738"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-05983463-n" confidence="0.0390236"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-04674861-n" confidence="0.0227442"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-05127782-n" confidence="0.0200973"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06208751-n" confidence="0.2189649"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-05983463-n" confidence="0.115756884"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-08560952-n" confidence="0.11192558"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-05933246-n" confidence="0.11923273"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-05945642-n" confidence="0.09874518"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00881649-n" confidence="0.113913365"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-04144782-n" confidence="0.11230666"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06782019-n" confidence="0.1091547"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-04674861-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-05127782-n"/>
+      </externalReferences>
+    </term>
+    <!--Greece's-->
+    <term id="t27" type="close" lemma="Greece's" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <!--parliament-->
+    <term id="t28" type="open" lemma="parliament" pos="N" morphofeat="NN">
+      <span>
+        <target id="w28"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-08319198-n" confidence="0.750883"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00492497-n" confidence="0.249117"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-08319198-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00492497-n"/>
+      </externalReferences>
+    </term>
+    <!--is-->
+    <term id="t29" type="open" lemma="be" pos="V" morphofeat="VBZ">
+      <span>
+        <target id="w29"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02604760-v" confidence="0.537322"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02620587-v" confidence="0.0818331"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02616386-v" confidence="0.0786621"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02655135-v" confidence="0.0783486"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02603699-v" confidence="0.0749633"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02702508-v" confidence="0.0448556"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02749904-v" confidence="0.0211027"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02664769-v" confidence="0.0199276"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02744820-v" confidence="0.0187087"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02697725-v" confidence="0.0173725"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02445925-v" confidence="0.0115764"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02614181-v" confidence="0.0115307"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02268246-v" confidence="0.00379647"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02604760-v" confidence="0.310969"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02616386-v" confidence="0.054058693"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02603699-v" confidence="0.080506794"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02445925-v" confidence="0.085871756"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02655135-v" confidence="0.11083623"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02664769-v" confidence="0.0758735"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02620587-v" confidence="0.0994397"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02749904-v" confidence="0.07750161"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02697725-v" confidence="0.104942724"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02268246-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02744820-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02614181-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02702508-v"/>
+      </externalReferences>
+    </term>
+    <!--due-->
+    <term id="t30" type="open" lemma="due" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w30"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00136354-a" confidence="0.62538"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00929916-a" confidence="0.187301"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00137725-a" confidence="0.0971756"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00171872-a" confidence="0.0901435"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00136354-a" confidence="0.36275318"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00137725-a" confidence="0.27336764"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00929916-a" confidence="0.36387917"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00137725-a"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00137725-a"/>
+      </externalReferences>
+    </term>
+    <!--to-->
+    <term id="t31" type="close" lemma="to" pos="P" morphofeat="TO">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <!--vote-->
+    <term id="t32" type="open" lemma="vote" pos="V" morphofeat="VB">
+      <span>
+        <target id="w32"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02461314-v" confidence="0.539617"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02462580-v" confidence="0.308479"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02462386-v" confidence="0.092652"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02462201-v" confidence="0.0592527"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02462386-v" confidence="0.2445465"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02461314-v" confidence="0.43752134"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02462580-v" confidence="0.31793216"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02473890-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02462201-v"/>
+      </externalReferences>
+    </term>
+    <!--on-->
+    <term id="t33" type="close" lemma="on" pos="P" morphofeat="IN">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <!--the-->
+    <term id="t34" type="close" lemma="the" pos="D" morphofeat="DT">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <!--hefty-->
+    <term id="t35" type="open" lemma="hefty" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w35"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02321809-a" confidence="0.438326"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01185775-a" confidence="0.290105"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00624576-a" confidence="0.271568"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02321809-a" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00624576-a"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01185775-a"/>
+      </externalReferences>
+    </term>
+    <!--cuts-->
+    <term id="t36" type="open" lemma="cut" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w36"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06618234-n" confidence="0.0728771"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06428216-n" confidence="0.0715886"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-03152619-n" confidence="0.068265"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-13289159-n" confidence="0.0667664"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-14287113-n" confidence="0.0540401"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00387657-n" confidence="0.0524863"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00489475-n" confidence="0.0517365"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00352331-n" confidence="0.0500207"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01225997-n" confidence="0.0499809"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00386915-n" confidence="0.0498598"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-03152743-n" confidence="0.0448189"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-07653394-n" confidence="0.0447808"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06612865-n" confidence="0.0441423"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00565809-n" confidence="0.0441371"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00359238-n" confidence="0.0425101"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00571444-n" confidence="0.0423995"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06721461-n" confidence="0.0423284"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-05750948-n" confidence="0.0412298"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-14429885-n" confidence="0.0364858"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00067254-n" confidence="0.0295458"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-13289159-n" confidence="0.3225738"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06618234-n" confidence="0.35450202"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-03152619-n" confidence="0.32292417"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01225997-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00352331-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06612865-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-03152743-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00067254-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00386915-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-14287113-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-07653394-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-14429885-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00565809-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00489475-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00359238-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-05750948-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00387657-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06721461-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06428216-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00571444-n"/>
+      </externalReferences>
+    </term>
+    <!--and-->
+    <term id="t37" type="close" lemma="and" pos="C" morphofeat="CC">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <!--reforms-->
+    <term id="t38" type="open" lemma="reform" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w38"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00260622-n" confidence="0.54731"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00800940-n" confidence="0.290612"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00261405-n" confidence="0.162078"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00260622-n" confidence="0.50928944"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00800940-n" confidence="0.4907106"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00261405-n"/>
+      </externalReferences>
+    </term>
+    <!--proposed-->
+    <term id="t39" type="open" lemma="propose" pos="V" morphofeat="VBN">
+      <span>
+        <target id="w39"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00875394-v" confidence="0.384483"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00706243-v" confidence="0.367111"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00708980-v" confidence="0.14194"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02401523-v" confidence="0.0548461"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00879764-v" confidence="0.0516187"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02401523-v" confidence="0.18513985"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00706243-v" confidence="0.22066545"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00875394-v" confidence="0.25655776"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00708980-v" confidence="0.16757913"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00879764-v" confidence="0.17005779"/>
+      </externalReferences>
+    </term>
+    <!--by-->
+    <term id="t40" type="close" lemma="by" pos="P" morphofeat="IN">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <!--the-->
+    <term id="t41" type="close" lemma="the" pos="D" morphofeat="DT">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <!--government-->
+    <term id="t42" type="open" lemma="government" pos="N" morphofeat="NN">
+      <span>
+        <target id="w42"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-08050678-n" confidence="0.553286"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01124794-n" confidence="0.179253"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-05663671-n" confidence="0.161069"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06148148-n" confidence="0.106392"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-08050678-n" confidence="0.6374184"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01124794-n" confidence="0.18430434"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-05663671-n" confidence="0.17827724"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06148148-n"/>
+      </externalReferences>
+    </term>
+    <!--to-->
+    <term id="t43" type="close" lemma="to" pos="P" morphofeat="TO">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <!--address-->
+    <term id="t44" type="open" lemma="address" pos="V" morphofeat="VB">
+      <span>
+        <target id="w44"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00897564-v" confidence="0.312223"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00989201-v" confidence="0.120532"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02601456-v" confidence="0.119464"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00990655-v" confidence="0.107347"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00990812-v" confidence="0.105274"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01150981-v" confidence="0.079358"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01160899-v" confidence="0.0535801"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01033527-v" confidence="0.039362"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00464687-v" confidence="0.0363626"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02249018-v" confidence="0.0264974"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00989201-v" confidence="0.21388108"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00990812-v" confidence="0.19039692"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01160899-v" confidence="0.1873602"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00897564-v" confidence="0.22676595"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01150981-v" confidence="0.18159585"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00990655-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02601456-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01033527-v"/>
+      </externalReferences>
+    </term>
+    <!--the-->
+    <term id="t45" type="close" lemma="the" pos="D" morphofeat="DT">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <!--country's-->
+    <term id="t46" type="open" lemma="country's" pos="N" morphofeat="NN">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <!--financial-->
+    <term id="t47" type="open" lemma="financial" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w47"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02847894-a" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02847894-a" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--crisis-->
+    <term id="t48" type="open" lemma="crisis" pos="N" morphofeat="NN">
+      <span>
+        <target id="w48"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-13933560-n" confidence="0.532509"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-07417644-n" confidence="0.467491"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-13933560-n" confidence="0.7993918"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-07417644-n" confidence="0.20060821"/>
+      </externalReferences>
+    </term>
+    <!--.-->
+    <term id="t49" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <!--It-->
+    <term id="t50" type="close" lemma="it" pos="Q" morphofeat="PRP">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <!--comes-->
+    <term id="t51" type="open" lemma="come" pos="V" morphofeat="VBZ">
+      <span>
+        <target id="w51"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02005948-v" confidence="0.275683"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01849221-v" confidence="0.186363"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00341917-v" confidence="0.104141"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02645007-v" confidence="0.0683128"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00542120-v" confidence="0.0638427"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02737187-v" confidence="0.0345281"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02625339-v" confidence="0.0339719"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02729963-v" confidence="0.0330724"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02743565-v" confidence="0.0282909"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02743214-v" confidence="0.0251672"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02617567-v" confidence="0.0232013"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02006709-v" confidence="0.0229719"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00342812-v" confidence="0.0200594"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00344886-v" confidence="0.0198625"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02686805-v" confidence="0.0141324"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02743921-v" confidence="0.0131142"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02627363-v" confidence="0.00914648"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00723349-v" confidence="0.00669039"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01839690-v" confidence="0.00641504"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00659984-v" confidence="0.00594361"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02197360-v" confidence="0.00509046"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02005948-v" confidence="0.059191786"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00341917-v" confidence="0.16234806"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01849221-v" confidence="0.05372844"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00542120-v" confidence="0.09254939"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02729963-v" confidence="0.05385745"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02625339-v" confidence="0.04067619"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02743565-v" confidence="0.058929525"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00342812-v" confidence="0.058721215"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01839690-v" confidence="0.05497245"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02743921-v" confidence="0.051203467"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00542120-v" confidence="0.05132808"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02686805-v" confidence="0.05066762"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02645007-v" confidence="0.05707142"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02743214-v" confidence="0.051052887"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00344886-v" confidence="0.052336395"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02006709-v" confidence="0.052010275"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02627363-v" confidence="0.050683416"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02737187-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00723349-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02197360-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00659984-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02617567-v"/>
+      </externalReferences>
+    </term>
+    <!--a-->
+    <term id="t52" type="close" lemma="a" pos="D" morphofeat="DT">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <!--day-->
+    <term id="t53" type="open" lemma="day" pos="N" morphofeat="NN">
+      <span>
+        <target id="w53"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-15155220-n" confidence="0.383073"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-15157225-n" confidence="0.155658"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-15123115-n" confidence="0.144003"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-15164957-n" confidence="0.124788"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-15136453-n" confidence="0.0568018"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-15208333-n" confidence="0.0459887"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-15249236-n" confidence="0.0374883"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-15208540-n" confidence="0.0349497"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-14484516-n" confidence="0.00916216"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-10925772-n" confidence="0.00808628"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-15155220-n" confidence="0.3297819"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-15157225-n" confidence="0.1968105"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-15164957-n" confidence="0.108231075"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-15123115-n" confidence="0.11277143"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-15249236-n" confidence="0.117964044"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-15136453-n" confidence="0.13444106"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-15208540-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-10925772-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-14484516-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-15208333-n"/>
+      </externalReferences>
+    </term>
+    <!--after-->
+    <term id="t54" type="close" lemma="after" pos="P" morphofeat="IN">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <!--three-->
+    <term id="t55" type="close" lemma="three" pos="O" morphofeat="CD">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <!--bank-->
+    <term id="t56" type="open" lemma="bank" pos="N" morphofeat="NN">
+      <span>
+        <target id="w56"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09213565-n" confidence="0.334768"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-08420278-n" confidence="0.319396"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09213434-n" confidence="0.0656405"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-13368318-n" confidence="0.0512497"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-04139859-n" confidence="0.0465995"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09213828-n" confidence="0.044771"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02787772-n" confidence="0.0440613"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-08462066-n" confidence="0.0353529"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-13356402-n" confidence="0.0304507"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00169305-n" confidence="0.0277105"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-08420278-n" confidence="0.38780117"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09213565-n" confidence="0.21140689"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09213434-n" confidence="0.20085639"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-08462066-n" confidence="0.19993557"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-04139859-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-13368318-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-13356402-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02787772-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00169305-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09213828-n"/>
+      </externalReferences>
+    </term>
+    <!--workers-->
+    <term id="t57" type="open" lemma="worker" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w57"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09632518-n" confidence="0.650399"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-10481711-n" confidence="0.12498"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02207449-n" confidence="0.119301"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09767197-n" confidence="0.10532"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09632518-n" confidence="0.5738215"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02207449-n" confidence="0.21768178"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-10481711-n" confidence="0.20849676"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09767197-n"/>
+      </externalReferences>
+    </term>
+    <!--died-->
+    <term id="t58" type="open" lemma="die" pos="V" morphofeat="VBD">
+      <span>
+        <target id="w58"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00358431-v" confidence="0.653834"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00434374-v" confidence="0.104614"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02109818-v" confidence="0.100575"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01784953-v" confidence="0.0328004"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00354845-v" confidence="0.022204"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01074914-v" confidence="0.0219091"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00538323-v" confidence="0.0163186"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01555034-v" confidence="0.0138453"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01785242-v" confidence="0.0123481"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00224295-v" confidence="0.011628"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01829475-v" confidence="0.00992321"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00358431-v" confidence="0.5880959"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02109818-v" confidence="0.20924632"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01784953-v" confidence="0.20265777"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01074914-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00224295-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01555034-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00434374-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00354845-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01785242-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00538323-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01829475-v"/>
+      </externalReferences>
+    </term>
+    <!--in-->
+    <term id="t59" type="close" lemma="in" pos="P" morphofeat="IN">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <!--a-->
+    <term id="t60" type="close" lemma="a" pos="D" morphofeat="DT">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <!--petrol-->
+    <term id="t61" type="open" lemma="petrol" pos="N" morphofeat="NN">
+      <span>
+        <target id="w61"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-14686913-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-14686913-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--bomb-->
+    <term id="t62" type="open" lemma="bomb" pos="N" morphofeat="NN">
+      <span>
+        <target id="w62"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02866578-n" confidence="0.73889"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02867592-n" confidence="0.162901"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-07365193-n" confidence="0.0982086"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02866578-n" confidence="0.7420002"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02867592-n" confidence="0.25799975"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-07365193-n"/>
+      </externalReferences>
+    </term>
+    <!--attack-->
+    <term id="t63" type="open" lemma="attack" pos="N" morphofeat="NN">
+      <span>
+        <target id="w63"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00972621-n" confidence="0.413488"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00457723-n" confidence="0.118115"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00773814-n" confidence="0.100601"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06711159-n" confidence="0.0890071"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00941140-n" confidence="0.0848441"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00236953-n" confidence="0.0591946"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01220619-n" confidence="0.0471758"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-14081375-n" confidence="0.0455008"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-13435548-n" confidence="0.0420735"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00972621-n" confidence="0.30690503"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06711159-n" confidence="0.14881736"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00941140-n" confidence="0.15417413"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00457723-n" confidence="0.13426873"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00236953-n" confidence="0.12910996"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00773814-n" confidence="0.12672478"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-14081375-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-13435548-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01220619-n"/>
+      </externalReferences>
+    </term>
+    <!--as-->
+    <term id="t64" type="close" lemma="as" pos="P" morphofeat="IN">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <!--demonstrations-->
+    <term id="t65" type="open" lemma="demonstration" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w65"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00521562-n" confidence="0.386612"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00521970-n" confidence="0.224139"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01177703-n" confidence="0.169317"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06648046-n" confidence="0.114496"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06879180-n" confidence="0.105436"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00521562-n" confidence="0.34990418"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06648046-n" confidence="0.31624445"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01177703-n" confidence="0.33385137"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00521970-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06879180-n"/>
+      </externalReferences>
+    </term>
+    <!--over-->
+    <term id="t66" type="close" lemma="over" pos="P" morphofeat="IN">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <!--the-->
+    <term id="t67" type="close" lemma="the" pos="D" morphofeat="DT">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <!--planned-->
+    <term id="t68" type="open" lemma="plan" pos="V" morphofeat="VBN">
+      <span>
+        <target id="w68"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00704690-v" confidence="0.373381"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00705227-v" confidence="0.344148"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01638368-v" confidence="0.172735"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01639714-v" confidence="0.109736"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00705227-v" confidence="0.27445012"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00704690-v" confidence="0.28097436"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01638368-v" confidence="0.2708435"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01639714-v" confidence="0.17373198"/>
+      </externalReferences>
+    </term>
+    <!--austerity-->
+    <term id="t69" type="open" lemma="austerity" pos="N" morphofeat="NN">
+      <span>
+        <target id="w69"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-04881998-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-04881998-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--measures-->
+    <term id="t70" type="open" lemma="measure" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w70"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00033615-n" confidence="0.270462"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00174412-n" confidence="0.1738"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00996969-n" confidence="0.136064"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06536853-n" confidence="0.11241"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-07260623-n" confidence="0.106424"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-03735637-n" confidence="0.0723214"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-07094093-n" confidence="0.0640222"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06864725-n" confidence="0.0370908"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-03733644-n" confidence="0.0274057"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00033615-n" confidence="0.12420627"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00174412-n" confidence="0.32070145"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-07260623-n" confidence="0.13330232"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06536853-n" confidence="0.1412954"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00996969-n" confidence="0.14097248"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-07094093-n" confidence="0.13952208"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-03735637-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06864725-n"/>
+      </externalReferences>
+    </term>
+    <!--turned-->
+    <term id="t71" type="open" lemma="turn" pos="V" morphofeat="VBD">
+      <span>
+        <target id="w71"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01907258-v" confidence="0.328645"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00146138-v" confidence="0.15272"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00138508-v" confidence="0.0614301"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02626604-v" confidence="0.0484988"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00125841-v" confidence="0.0384397"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02089984-v" confidence="0.0380249"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01280014-v" confidence="0.0264332"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02626934-v" confidence="0.0259695"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00794640-v" confidence="0.0258489"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02096167-v" confidence="0.0212974"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01909812-v" confidence="0.0208012"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00458471-v" confidence="0.020764"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02211948-v" confidence="0.0192993"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01584450-v" confidence="0.0180456"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00282523-v" confidence="0.016966"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02562425-v" confidence="0.0165649"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01436518-v" confidence="0.0165064"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01151889-v" confidence="0.0153658"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01951937-v" confidence="0.0148387"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01741864-v" confidence="0.0140536"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02089420-v" confidence="0.0139317"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00091124-v" confidence="0.0133547"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02090435-v" confidence="0.0131915"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01952208-v" confidence="0.00762345"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00248387-v" confidence="0.00721476"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01225215-v" confidence="0.00417081"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02089984-v" confidence="0.04979837"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02096167-v" confidence="0.06323111"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01584450-v" confidence="0.066300884"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01907258-v" confidence="0.058498748"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00125841-v" confidence="0.09594238"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00138508-v" confidence="0.08474197"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02626604-v" confidence="0.093400285"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02089420-v" confidence="0.07062125"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00146138-v" confidence="0.08360997"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00282523-v" confidence="0.07355213"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01909812-v" confidence="0.06817123"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00091124-v" confidence="0.06434097"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01952208-v" confidence="0.06305182"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01436518-v" confidence="0.06473889"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01151889-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00794640-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00458471-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02211948-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01741864-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01280014-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02562425-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01225215-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02090435-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00248387-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02626934-v"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01951937-v"/>
+      </externalReferences>
+    </term>
+    <!--violent-->
+    <term id="t72" type="open" lemma="violent" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w72"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02510879-a" confidence="0.576479"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01514141-a" confidence="0.12959"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01511854-a" confidence="0.125021"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-01570747-a" confidence="0.102207"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00248560-a" confidence="0.066703"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02510879-a" confidence="0.3676158"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01570747-a" confidence="0.3245614"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01514141-a" confidence="0.30782282"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01511854-a"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00248560-a"/>
+      </externalReferences>
+    </term>
+    <!--.-->
+    <term id="t73" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+  </terms>
+  <markables>
+    <!--http-->
+    <mark id="m1" source="DBpedia" lemma="http">
+      <span>
+        <target id="w1"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Hypertext_Transfer_Protocol" confidence="1.0" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--news-->
+    <mark id="m2" source="DBpedia" lemma="news">
+      <span>
+        <target id="w5"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/News" confidence="0.95785004" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--bbc-->
+    <mark id="m3" source="DBpedia" lemma="bbc">
+      <span>
+        <target id="w7"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/BBC" confidence="1.0" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--uk-->
+    <mark id="m4" source="DBpedia" lemma="uk">
+      <span>
+        <target id="w11"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/.uk" confidence="1.0" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--europe-->
+    <mark id="m5" source="DBpedia" lemma="europe">
+      <span>
+        <target id="w17"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Europe" confidence="1.0" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--stm-->
+    <mark id="m6" source="DBpedia" lemma="stm">
+      <span>
+        <target id="w21"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Scanning_tunneling_microscope" confidence="0.98533267" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--Greek-->
+    <mark id="m7" source="DBpedia" lemma="Greek">
+      <span>
+        <target id="w22"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Greece" confidence="0.77326685" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--austerity-->
+    <mark id="m8" source="DBpedia" lemma="austerity">
+      <span>
+        <target id="w23"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Austerity" confidence="0.99999595" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--Greece's-->
+    <mark id="m9" source="DBpedia" lemma="Greece's">
+      <span>
+        <target id="w27"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Greece" confidence="0.9998187" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--parliament-->
+    <mark id="m10" source="DBpedia" lemma="parliament">
+      <span>
+        <target id="w28"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Parliament" confidence="0.9711112" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--cuts-->
+    <mark id="m11" source="DBpedia" lemma="cut">
+      <span>
+        <target id="w36"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Tax_cut" confidence="0.99164426" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--reforms-->
+    <mark id="m12" source="DBpedia" lemma="reform">
+      <span>
+        <target id="w38"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Reform_movement" confidence="0.99150753" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--government-->
+    <mark id="m13" source="DBpedia" lemma="government">
+      <span>
+        <target id="w42"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Government" confidence="0.91699153" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--financial crisis-->
+    <mark id="m14" source="DBpedia" lemma="financial crisis">
+      <span>
+        <target id="w47"/>
+        <target id="w48"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/European_sovereign-debt_crisis" confidence="0.79479754" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--day-->
+    <mark id="m15" source="DBpedia" lemma="day">
+      <span>
+        <target id="w53"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Last_Judgment" confidence="0.68324983" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--bank-->
+    <mark id="m16" source="DBpedia" lemma="bank">
+      <span>
+        <target id="w56"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Bank" confidence="0.9999996" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--workers-->
+    <mark id="m17" source="DBpedia" lemma="worker">
+      <span>
+        <target id="w57"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Laborer" confidence="0.52623767" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--petrol bomb-->
+    <mark id="m18" source="DBpedia" lemma="petrol bomb">
+      <span>
+        <target id="w61"/>
+        <target id="w62"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Molotov_cocktail" confidence="1.0" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--attack-->
+    <mark id="m19" source="DBpedia" lemma="attack">
+      <span>
+        <target id="w63"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Attack_on_Pearl_Harbor" confidence="0.5798732" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--demonstrations-->
+    <mark id="m20" source="DBpedia" lemma="demonstration">
+      <span>
+        <target id="w65"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Arab_Spring" confidence="0.9976049" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--austerity measures-->
+    <mark id="m21" source="DBpedia" lemma="austerity measure">
+      <span>
+        <target id="w69"/>
+        <target id="w70"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Austerity" confidence="1.0" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+  </markables>
+  <deps>
+    <!--P(http, :)-->
+    <dep from="t1" to="t2" rfunc="P"/>
+    <!--NMOD(bbc, /)-->
+    <dep from="t7" to="t3" rfunc="NMOD"/>
+    <!--NMOD(news, /)-->
+    <dep from="t5" to="t4" rfunc="NMOD"/>
+    <!--NMOD(bbc, news)-->
+    <dep from="t7" to="t5" rfunc="NMOD"/>
+    <!--P(news, .)-->
+    <dep from="t5" to="t6" rfunc="P"/>
+    <!--APPO(http, bbc)-->
+    <dep from="t1" to="t7" rfunc="APPO"/>
+    <!--P(http, .)-->
+    <dep from="t1" to="t8" rfunc="P"/>
+    <!--NAME(uk, co)-->
+    <dep from="t11" to="t9" rfunc="NAME"/>
+    <!--NAME(uk, .)-->
+    <dep from="t11" to="t10" rfunc="NAME"/>
+    <!--SBJ(/, uk)-->
+    <dep from="t12" to="t11" rfunc="SBJ"/>
+    <!--COORD(bbc, /)-->
+    <dep from="t7" to="t12" rfunc="COORD"/>
+    <!--NMOD(/, 2)-->
+    <dep from="t14" to="t13" rfunc="NMOD"/>
+    <!--OBJ(/, /)-->
+    <dep from="t12" to="t14" rfunc="OBJ"/>
+    <!--NMOD(/, hi)-->
+    <dep from="t14" to="t15" rfunc="NMOD"/>
+    <!--NMOD(europe, /)-->
+    <dep from="t17" to="t16" rfunc="NMOD"/>
+    <!--PMOD(hi, europe)-->
+    <dep from="t15" to="t17" rfunc="PMOD"/>
+    <!--TMP(/, /)-->
+    <dep from="t12" to="t18" rfunc="TMP"/>
+    <!--PMOD(/, 8665488)-->
+    <dep from="t18" to="t19" rfunc="PMOD"/>
+    <!--P(/, .)-->
+    <dep from="t12" to="t20" rfunc="P"/>
+    <!--NMOD(., stm)-->
+    <dep from="t10" to="t21" rfunc="NMOD"/>
+    <!--NMOD(austerity, Greek)-->
+    <dep from="t23" to="t22" rfunc="NMOD"/>
+    <!--P(austerity, :)-->
+    <dep from="t23" to="t24" rfunc="P"/>
+    <!--NAME(views, British)-->
+    <dep from="t26" to="t25" rfunc="NAME"/>
+    <!--APPO(austerity, views)-->
+    <dep from="t23" to="t26" rfunc="APPO"/>
+    <!--NMOD(parliament, Greece's)-->
+    <dep from="t28" to="t27" rfunc="NMOD"/>
+    <!--SBJ(is, parliament)-->
+    <dep from="t29" to="t28" rfunc="SBJ"/>
+    <!--PRD(is, due)-->
+    <dep from="t29" to="t30" rfunc="PRD"/>
+    <!--AMOD(due, to)-->
+    <dep from="t30" to="t31" rfunc="AMOD"/>
+    <!--IM(to, vote)-->
+    <dep from="t31" to="t32" rfunc="IM"/>
+    <!--ADV(vote, on)-->
+    <dep from="t32" to="t33" rfunc="ADV"/>
+    <!--NMOD(cuts, the)-->
+    <dep from="t36" to="t34" rfunc="NMOD"/>
+    <!--NMOD(cuts, hefty)-->
+    <dep from="t36" to="t35" rfunc="NMOD"/>
+    <!--PMOD(on, cuts)-->
+    <dep from="t33" to="t36" rfunc="PMOD"/>
+    <!--COORD(cuts, and)-->
+    <dep from="t36" to="t37" rfunc="COORD"/>
+    <!--CONJ(and, reforms)-->
+    <dep from="t37" to="t38" rfunc="CONJ"/>
+    <!--APPO(cuts, proposed)-->
+    <dep from="t36" to="t39" rfunc="APPO"/>
+    <!--LGS(proposed, by)-->
+    <dep from="t39" to="t40" rfunc="LGS"/>
+    <!--NMOD(government, the)-->
+    <dep from="t42" to="t41" rfunc="NMOD"/>
+    <!--PMOD(by, government)-->
+    <dep from="t40" to="t42" rfunc="PMOD"/>
+    <!--OPRD(proposed, to)-->
+    <dep from="t39" to="t43" rfunc="OPRD"/>
+    <!--IM(to, address)-->
+    <dep from="t43" to="t44" rfunc="IM"/>
+    <!--NMOD(crisis, the)-->
+    <dep from="t48" to="t45" rfunc="NMOD"/>
+    <!--NMOD(crisis, country's)-->
+    <dep from="t48" to="t46" rfunc="NMOD"/>
+    <!--NMOD(crisis, financial)-->
+    <dep from="t48" to="t47" rfunc="NMOD"/>
+    <!--OBJ(address, crisis)-->
+    <dep from="t44" to="t48" rfunc="OBJ"/>
+    <!--P(is, .)-->
+    <dep from="t29" to="t49" rfunc="P"/>
+    <!--SBJ(comes, It)-->
+    <dep from="t51" to="t50" rfunc="SBJ"/>
+    <!--NMOD(day, a)-->
+    <dep from="t53" to="t52" rfunc="NMOD"/>
+    <!--ADV(comes, day)-->
+    <dep from="t51" to="t53" rfunc="ADV"/>
+    <!--TMP(comes, after)-->
+    <dep from="t51" to="t54" rfunc="TMP"/>
+    <!--NMOD(workers, three)-->
+    <dep from="t57" to="t55" rfunc="NMOD"/>
+    <!--NMOD(workers, bank)-->
+    <dep from="t57" to="t56" rfunc="NMOD"/>
+    <!--SBJ(died, workers)-->
+    <dep from="t58" to="t57" rfunc="SBJ"/>
+    <!--SUB(after, died)-->
+    <dep from="t54" to="t58" rfunc="SUB"/>
+    <!--LOC(died, in)-->
+    <dep from="t58" to="t59" rfunc="LOC"/>
+    <!--NMOD(attack, a)-->
+    <dep from="t63" to="t60" rfunc="NMOD"/>
+    <!--NMOD(bomb, petrol)-->
+    <dep from="t62" to="t61" rfunc="NMOD"/>
+    <!--NMOD(attack, bomb)-->
+    <dep from="t63" to="t62" rfunc="NMOD"/>
+    <!--PMOD(in, attack)-->
+    <dep from="t59" to="t63" rfunc="PMOD"/>
+    <!--TMP(died, as)-->
+    <dep from="t58" to="t64" rfunc="TMP"/>
+    <!--SBJ(turned, demonstrations)-->
+    <dep from="t71" to="t65" rfunc="SBJ"/>
+    <!--NMOD(demonstrations, over)-->
+    <dep from="t65" to="t66" rfunc="NMOD"/>
+    <!--NMOD(measures, the)-->
+    <dep from="t70" to="t67" rfunc="NMOD"/>
+    <!--NMOD(measures, planned)-->
+    <dep from="t70" to="t68" rfunc="NMOD"/>
+    <!--NMOD(measures, austerity)-->
+    <dep from="t70" to="t69" rfunc="NMOD"/>
+    <!--PMOD(over, measures)-->
+    <dep from="t66" to="t70" rfunc="PMOD"/>
+    <!--SUB(as, turned)-->
+    <dep from="t64" to="t71" rfunc="SUB"/>
+    <!--PRD(turned, violent)-->
+    <dep from="t71" to="t72" rfunc="PRD"/>
+    <!--P(comes, .)-->
+    <dep from="t51" to="t73" rfunc="P"/>
+  </deps>
+  <coreferences>
+    <coref id="co1">
+      <!--Greece's parliament-->
+      <span>
+        <target id="t27"/>
+        <target id="t28"/>
+      </span>
+      <!--It-->
+      <span>
+        <target id="t50"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <!--/-->
+      <span>
+        <target id="t12"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <!--parliament-->
+      <span>
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-08319198-n" confidence="1.0" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent4" type="event">
+      <!--vote-->
+      <span>
+        <target id="t32"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02461314-v" confidence="1.0" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent5" type="event">
+      <!--cuts-->
+      <span>
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06618234-n" confidence="1.0" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-03152619-n" confidence="0.9238187" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06428216-n" confidence="0.98231953" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-13289159-n" confidence="0.91304284" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent6" type="event">
+      <!--crisis-->
+      <span>
+        <target id="t48"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-13933560-n" confidence="1.0" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-07417644-n" confidence="0.8779025" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent7" type="event">
+      <!--workers-->
+      <span>
+        <target id="t57"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09632518-n" confidence="1.0" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent8" type="event">
+      <!--died-->
+      <span>
+        <target id="t58"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00358431-v" confidence="1.0" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent9" type="event">
+      <!--bomb-->
+      <span>
+        <target id="t62"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02866578-n" confidence="1.0" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent10" type="event">
+      <!--attack-->
+      <span>
+        <target id="t63"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00972621-n" confidence="1.0" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent11" type="event">
+      <!--turned-->
+      <span>
+        <target id="t71"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02626604-v" confidence="0.97350395" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01907258-v" confidence="1.0" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00146138-v" confidence="0.87146026" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00125841-v" confidence="1.0" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00138508-v" confidence="0.883259" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent12" type="event">
+      <!--measures-->
+      <span>
+        <target id="t70"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00033615-n" confidence="1.0" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00174412-n" confidence="1.0" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent13" type="event">
+      <!--comes-->
+      <span>
+        <target id="t51"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02005948-v" confidence="1.0" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00341917-v" confidence="1.0" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent14" type="event">
+      <!--proposed-->
+      <span>
+        <target id="t39"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00706243-v" confidence="0.90745884" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00875394-v" confidence="1.0" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent15" type="event">
+      <!--address-->
+      <span>
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00897564-v" confidence="1.0" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01150981-v" confidence="0.8008074" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01160899-v" confidence="0.82622725" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00990812-v" confidence="0.8396186" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00989201-v" confidence="0.94317985" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent16" type="event">
+      <!--demonstrations-->
+      <span>
+        <target id="t65"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01177703-n" confidence="0.95412225" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06648046-n" confidence="0.903803" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00521562-n" confidence="1.0" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+    <coref id="coevent17" type="event">
+      <!--planned-->
+      <span>
+        <target id="t68"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00704690-v" confidence="1.0" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-00705227-v" confidence="0.9492436" source="dominant_sense"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-01638368-v" confidence="0.96394384" source="dominant_sense"/>
+      </externalReferences>
+    </coref>
+  </coreferences>
+  <timeExpressions>
+    <timex3 id="tmx0" type="DATE" functionInDocument="CREATION_TIME" value="2015-09-22"/>
+  </timeExpressions>
+  <srl>
+    <!--t12 / : A0[t1 http] A0[t9 co] A1[t13 2] AM-TMP[t18 /]-->
+    <predicate id="pr1">
+      <!--/-->
+      <span>
+        <target id="t12"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="PropBank" reference="/.01"/>
+      </externalReferences>
+      <role id="rl1" semRole="A0">
+        <!--http : / / news . bbc . co . uk / 2 / hi / europe / 8665488 . stm-->
+        <span>
+          <target id="t1" head="yes"/>
+          <target id="t2"/>
+          <target id="t3"/>
+          <target id="t4"/>
+          <target id="t5"/>
+          <target id="t6"/>
+          <target id="t7"/>
+          <target id="t8"/>
+          <target id="t9"/>
+          <target id="t10"/>
+          <target id="t11"/>
+          <target id="t12"/>
+          <target id="t13"/>
+          <target id="t14"/>
+          <target id="t15"/>
+          <target id="t16"/>
+          <target id="t17"/>
+          <target id="t18"/>
+          <target id="t19"/>
+          <target id="t20"/>
+          <target id="t21"/>
+        </span>
+      </role>
+      <role id="rl2" semRole="A0">
+        <!--co . uk stm-->
+        <span>
+          <target id="t9"/>
+          <target id="t10"/>
+          <target id="t11" head="yes"/>
+          <target id="t21"/>
+        </span>
+      </role>
+      <role id="rl3" semRole="A1">
+        <!--2 / hi / europe-->
+        <span>
+          <target id="t13"/>
+          <target id="t14" head="yes"/>
+          <target id="t15"/>
+          <target id="t16"/>
+          <target id="t17"/>
+        </span>
+      </role>
+      <role id="rl4" semRole="AM-TMP">
+        <!--/ 8665488-->
+        <span>
+          <target id="t18" head="yes"/>
+          <target id="t19"/>
+        </span>
+      </role>
+    </predicate>
+    <!--t28 parliament : A2[t27 Greece's]-->
+    <predicate id="pr2">
+      <!--parliament-->
+      <span>
+        <target id="t28"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="NomBank" reference="parliament.01"/>
+      </externalReferences>
+      <role id="rl5" semRole="A2">
+        <!--Greece's-->
+        <span>
+          <target id="t27" head="yes"/>
+        </span>
+      </role>
+    </predicate>
+    <!--t32 vote : A0[t27 Greece's] A1[t33 on]-->
+    <predicate id="pr3">
+      <!--vote-->
+      <span>
+        <target id="t32"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="PropBank" reference="vote.01"/>
+        <externalRef resource="VerbNet" reference="dub-29.3"/>
+        <externalRef resource="PropBank" reference="vote.01"/>
+        <externalRef resource="EventType" reference="contextual"/>
+        <externalRef resource="WordNet" reference="ili-30-02462201-v"/>
+      </externalReferences>
+      <role id="rl6" semRole="A0">
+        <!--Greece's parliament-->
+        <span>
+          <target id="t27"/>
+          <target id="t28" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="dub-29.3@Agent"/>
+          <externalRef resource="PropBank" reference="vote.01@0"/>
+        </externalReferences>
+      </role>
+      <role id="rl7" semRole="A1">
+        <!--on the hefty cuts and reforms proposed by the government to address the country's financial crisis-->
+        <span>
+          <target id="t33" head="yes"/>
+          <target id="t34"/>
+          <target id="t35"/>
+          <target id="t36"/>
+          <target id="t37"/>
+          <target id="t38"/>
+          <target id="t39"/>
+          <target id="t40"/>
+          <target id="t41"/>
+          <target id="t42"/>
+          <target id="t43"/>
+          <target id="t44"/>
+          <target id="t45"/>
+          <target id="t46"/>
+          <target id="t47"/>
+          <target id="t48"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="dub-29.3@Theme"/>
+          <externalRef resource="PropBank" reference="vote.01@1"/>
+        </externalReferences>
+      </role>
+    </predicate>
+    <!--t36 cuts : AM-MNR[t35 hefty]-->
+    <predicate id="pr4">
+      <!--cuts-->
+      <span>
+        <target id="t36"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="NomBank" reference="cut.02"/>
+        <externalRef resource="VerbNet" reference="cut-21.1"/>
+        <externalRef resource="VerbNet" reference="cut-21.1-1"/>
+        <externalRef resource="FrameNet" reference="Experience_bodily_harm"/>
+        <externalRef resource="PropBank" reference="cut.02"/>
+        <externalRef resource="WordNet" reference="ili-30-00561090-v"/>
+      </externalReferences>
+      <role id="rl8" semRole="AM-MNR">
+        <!--hefty-->
+        <span>
+          <target id="t35" head="yes"/>
+        </span>
+      </role>
+    </predicate>
+    <!--t39 proposed : A1[t34 the] A0[t40 by] A1[t43 to]-->
+    <predicate id="pr5">
+      <!--proposed-->
+      <span>
+        <target id="t39"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="PropBank" reference="propose.01"/>
+        <externalRef resource="VerbNet" reference="say-37.7"/>
+        <externalRef resource="VerbNet" reference="say-37.7-1"/>
+        <externalRef resource="FrameNet" reference="Statement"/>
+        <externalRef resource="PropBank" reference="propose.01"/>
+        <externalRef resource="EventType" reference="contextual"/>
+        <externalRef resource="WordNet" reference="ili-30-00875394-v"/>
+      </externalReferences>
+      <role id="rl9" semRole="A1">
+        <!--the hefty cuts and reforms proposed by the government to address the country's financial crisis-->
+        <span>
+          <target id="t34"/>
+          <target id="t35"/>
+          <target id="t36" head="yes"/>
+          <target id="t37"/>
+          <target id="t38"/>
+          <target id="t39"/>
+          <target id="t40"/>
+          <target id="t41"/>
+          <target id="t42"/>
+          <target id="t43"/>
+          <target id="t44"/>
+          <target id="t45"/>
+          <target id="t46"/>
+          <target id="t47"/>
+          <target id="t48"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="say-37.7@Topic"/>
+          <externalRef resource="FrameNet" reference="Statement@Message"/>
+          <externalRef resource="FrameNet" reference="Statement@Topic"/>
+          <externalRef resource="PropBank" reference="propose.01@1"/>
+        </externalReferences>
+      </role>
+      <role id="rl10" semRole="A0">
+        <!--by the government-->
+        <span>
+          <target id="t40" head="yes"/>
+          <target id="t41"/>
+          <target id="t42"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="say-37.7@Agent"/>
+          <externalRef resource="FrameNet" reference="Statement@Speaker"/>
+          <externalRef resource="PropBank" reference="propose.01@0"/>
+        </externalReferences>
+      </role>
+      <role id="rl11" semRole="A1">
+        <!--to address the country's financial crisis-->
+        <span>
+          <target id="t43" head="yes"/>
+          <target id="t44"/>
+          <target id="t45"/>
+          <target id="t46"/>
+          <target id="t47"/>
+          <target id="t48"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="say-37.7@Topic"/>
+          <externalRef resource="FrameNet" reference="Statement@Message"/>
+          <externalRef resource="FrameNet" reference="Statement@Topic"/>
+          <externalRef resource="PropBank" reference="propose.01@1"/>
+        </externalReferences>
+      </role>
+    </predicate>
+    <!--t44 address : A0[t34 the] A1[t45 the]-->
+    <predicate id="pr6">
+      <!--address-->
+      <span>
+        <target id="t44"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="PropBank" reference="address.02"/>
+        <externalRef resource="VerbNet" reference="lecture-37.11"/>
+        <externalRef resource="VerbNet" reference="talk-37.5"/>
+        <externalRef resource="VerbNet" reference="lecture-37.11-1"/>
+        <externalRef resource="FrameNet" reference="Chatting"/>
+        <externalRef resource="FrameNet" reference="Statement"/>
+        <externalRef resource="FrameNet" reference="Speak_on_topic"/>
+        <externalRef resource="PropBank" reference="speak.01"/>
+        <externalRef resource="PropBank" reference="address.02"/>
+        <externalRef resource="EventType" reference="communication"/>
+        <externalRef resource="WordNet" reference="ili-30-00941990-v"/>
+        <externalRef resource="WordNet" reference="ili-30-00962447-v"/>
+        <externalRef resource="WordNet" reference="ili-30-01033527-v"/>
+      </externalReferences>
+      <role id="rl12" semRole="A0">
+        <!--the hefty cuts and reforms proposed by the government to address the country's financial crisis-->
+        <span>
+          <target id="t34"/>
+          <target id="t35"/>
+          <target id="t36" head="yes"/>
+          <target id="t37"/>
+          <target id="t38"/>
+          <target id="t39"/>
+          <target id="t40"/>
+          <target id="t41"/>
+          <target id="t42"/>
+          <target id="t43"/>
+          <target id="t44"/>
+          <target id="t45"/>
+          <target id="t46"/>
+          <target id="t47"/>
+          <target id="t48"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="lecture-37.11@Agent"/>
+          <externalRef resource="VerbNet" reference="talk-37.5@Agent"/>
+          <externalRef resource="FrameNet" reference="Chatting@Interlocutor_1"/>
+          <externalRef resource="FrameNet" reference="Statement@Speaker"/>
+          <externalRef resource="FrameNet" reference="Speak_on_topic@Speaker"/>
+          <externalRef resource="PropBank" reference="speak.01@0"/>
+          <externalRef resource="PropBank" reference="address.02@0"/>
+        </externalReferences>
+      </role>
+      <role id="rl13" semRole="A1">
+        <!--the country's financial crisis-->
+        <span>
+          <target id="t45"/>
+          <target id="t46"/>
+          <target id="t47"/>
+          <target id="t48" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="lecture-37.11@Topic"/>
+          <externalRef resource="VerbNet" reference="talk-37.5@Topic"/>
+          <externalRef resource="FrameNet" reference="Chatting@Topic"/>
+          <externalRef resource="FrameNet" reference="Statement@Message"/>
+          <externalRef resource="FrameNet" reference="Statement@Topic"/>
+          <externalRef resource="FrameNet" reference="Speak_on_topic@Audience"/>
+          <externalRef resource="PropBank" reference="speak.01@1"/>
+          <externalRef resource="PropBank" reference="address.02@1"/>
+        </externalReferences>
+      </role>
+    </predicate>
+    <!--t48 crisis : A1[t46 country's] A1[t47 financial]-->
+    <predicate id="pr7">
+      <!--crisis-->
+      <span>
+        <target id="t48"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="NomBank" reference="crisis.01"/>
+      </externalReferences>
+      <role id="rl14" semRole="A1">
+        <!--country's-->
+        <span>
+          <target id="t46" head="yes"/>
+        </span>
+      </role>
+      <role id="rl15" semRole="A1">
+        <!--financial-->
+        <span>
+          <target id="t47" head="yes"/>
+        </span>
+      </role>
+    </predicate>
+    <!--t51 comes : A1[t50 It] AM-TMP[t52 a] AM-TMP[t54 after]-->
+    <predicate id="pr8">
+      <!--comes-->
+      <span>
+        <target id="t51"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="PropBank" reference="come.01"/>
+        <externalRef resource="VerbNet" reference="escape-51.1"/>
+        <externalRef resource="FrameNet-" reference="Arriving"/>
+        <externalRef resource="FrameNet+" reference="Motion"/>
+        <externalRef resource="FrameNet-" reference="Reveal_secret"/>
+        <externalRef resource="PropBank" reference="come.01"/>
+        <externalRef resource="ESO" reference="Motion"/>
+        <externalRef resource="ESO" reference="Arriving"/>
+        <externalRef resource="EventType" reference="grammatical"/>
+        <externalRef resource="WordNet" reference="ili-30-01849221-v"/>
+        <externalRef resource="WordNet" reference="ili-30-02005948-v"/>
+      </externalReferences>
+      <role id="rl16" semRole="A1">
+        <!--It-->
+        <span>
+          <target id="t50" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="escape-51.1@Theme"/>
+          <externalRef resource="FrameNet-" reference="Arriving@Theme"/>
+          <externalRef resource="FrameNet-" reference="Reveal_secret@Topic"/>
+          <externalRef resource="PropBank" reference="come.01@1"/>
+          <externalRef resource="ESO" reference="Arriving@translocation-theme"/>
+        </externalReferences>
+      </role>
+      <role id="rl17" semRole="AM-TMP">
+        <!--a day-->
+        <span>
+          <target id="t52"/>
+          <target id="t53" head="yes"/>
+        </span>
+      </role>
+      <role id="rl18" semRole="AM-TMP">
+        <!--after three bank workers died in a petrol bomb attack as demonstrations over the planned austerity measures turned violent-->
+        <span>
+          <target id="t54" head="yes"/>
+          <target id="t55"/>
+          <target id="t56"/>
+          <target id="t57"/>
+          <target id="t58"/>
+          <target id="t59"/>
+          <target id="t60"/>
+          <target id="t61"/>
+          <target id="t62"/>
+          <target id="t63"/>
+          <target id="t64"/>
+          <target id="t65"/>
+          <target id="t66"/>
+          <target id="t67"/>
+          <target id="t68"/>
+          <target id="t69"/>
+          <target id="t70"/>
+          <target id="t71"/>
+          <target id="t72"/>
+        </span>
+      </role>
+    </predicate>
+    <!--t57 workers : A1[t56 bank] A0[t55 three]-->
+    <predicate id="pr9">
+      <!--workers-->
+      <span>
+        <target id="t57"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="NomBank" reference="worker.01"/>
+        <externalRef resource="VerbNet" reference="cooperate-73"/>
+        <externalRef resource="VerbNet" reference="cooperate-73-3"/>
+        <externalRef resource="FrameNet-" reference="Being_employed"/>
+        <externalRef resource="FrameNet-" reference="Work"/>
+        <externalRef resource="FrameNet-" reference="Working_a_post"/>
+        <externalRef resource="PropBank" reference="work.01"/>
+        <externalRef resource="ESO" reference="Working"/>
+        <externalRef resource="ESO" reference="BeingEmployed"/>
+        <externalRef resource="WordNet" reference="ili-30-02413480-v"/>
+        <externalRef resource="WordNet" reference="ili-30-02410855-v"/>
+      </externalReferences>
+      <role id="rl19" semRole="A1">
+        <!--bank-->
+        <span>
+          <target id="t56" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="cooperate-73@Theme"/>
+          <externalRef resource="FrameNet" reference="Being_employed@Task"/>
+          <externalRef resource="PropBank" reference="work.01@1"/>
+        </externalReferences>
+      </role>
+      <role id="rl20" semRole="A0">
+        <!--three bank workers-->
+        <span>
+          <target id="t55"/>
+          <target id="t56"/>
+          <target id="t57" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="cooperate-73@Agent"/>
+          <externalRef resource="FrameNet" reference="Being_employed@Employee"/>
+          <externalRef resource="PropBank" reference="work.01@0"/>
+        </externalReferences>
+      </role>
+    </predicate>
+    <!--t58 died : A1[t55 three] AM-LOC[t59 in] AM-TMP[t64 as]-->
+    <predicate id="pr10">
+      <!--died-->
+      <span>
+        <target id="t58"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="PropBank" reference="die.01"/>
+        <externalRef resource="VerbNet" reference="disappearance-48.2"/>
+        <externalRef resource="FrameNet" reference="Death"/>
+        <externalRef resource="PropBank" reference="die.01"/>
+        <externalRef resource="EventType" reference="contextual"/>
+        <externalRef resource="WordNet" reference="ili-30-00358431-v"/>
+        <externalRef resource="WordNet" reference="ili-30-00354845-v"/>
+      </externalReferences>
+      <role id="rl21" semRole="A1">
+        <!--three bank workers-->
+        <span>
+          <target id="t55"/>
+          <target id="t56"/>
+          <target id="t57" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="disappearance-48.2@Patient"/>
+          <externalRef resource="FrameNet" reference="Death@Protagonist"/>
+          <externalRef resource="PropBank" reference="die.01@1"/>
+        </externalReferences>
+      </role>
+      <role id="rl22" semRole="AM-LOC">
+        <!--in a petrol bomb attack-->
+        <span>
+          <target id="t59" head="yes"/>
+          <target id="t60"/>
+          <target id="t61"/>
+          <target id="t62"/>
+          <target id="t63"/>
+        </span>
+      </role>
+      <role id="rl23" semRole="AM-TMP">
+        <!--as demonstrations over the planned austerity measures turned violent-->
+        <span>
+          <target id="t64" head="yes"/>
+          <target id="t65"/>
+          <target id="t66"/>
+          <target id="t67"/>
+          <target id="t68"/>
+          <target id="t69"/>
+          <target id="t70"/>
+          <target id="t71"/>
+          <target id="t72"/>
+        </span>
+      </role>
+    </predicate>
+    <!--t62 bomb : A0[t55 three] A1[t61 petrol]-->
+    <predicate id="pr11">
+      <!--bomb-->
+      <span>
+        <target id="t62"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="NomBank" reference="bomb.01"/>
+        <externalRef resource="FrameNet+" reference="Attack"/>
+        <externalRef resource="PropBank" reference="bomb.01"/>
+        <externalRef resource="ESO" reference="Attacking"/>
+        <externalRef resource="WordNet" reference="ili-30-01131902-v"/>
+      </externalReferences>
+      <role id="rl24" semRole="A0">
+        <!--three bank workers-->
+        <span>
+          <target id="t55"/>
+          <target id="t56"/>
+          <target id="t57" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="FrameNet" reference="Attack@Assailant"/>
+          <externalRef resource="PropBank" reference="bomb.01@0"/>
+        </externalReferences>
+      </role>
+      <role id="rl25" semRole="A1">
+        <!--petrol-->
+        <span>
+          <target id="t61" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="FrameNet-" reference="Attack@Victim"/>
+          <externalRef resource="PropBank" reference="bomb.01@1"/>
+          <externalRef resource="ESO" reference="Attacking@damaging-undergoer"/>
+        </externalReferences>
+      </role>
+    </predicate>
+    <!--t63 attack : A0[t55 three] A1[t61 petrol]-->
+    <predicate id="pr12">
+      <!--attack-->
+      <span>
+        <target id="t63"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="NomBank" reference="attack.01"/>
+        <externalRef resource="VerbNet" reference="judgment-33"/>
+        <externalRef resource="FrameNet+" reference="Attack"/>
+        <externalRef resource="PropBank" reference="attack.01"/>
+        <externalRef resource="ESO" reference="Attacking"/>
+        <externalRef resource="EventType" reference="contextual"/>
+        <externalRef resource="WordNet" reference="ili-30-01119169-v"/>
+      </externalReferences>
+      <role id="rl26" semRole="A0">
+        <!--three bank workers-->
+        <span>
+          <target id="t55"/>
+          <target id="t56"/>
+          <target id="t57" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="judgment-33@Agent"/>
+          <externalRef resource="FrameNet" reference="Attack@Assailant"/>
+          <externalRef resource="PropBank" reference="attack.01@0"/>
+        </externalReferences>
+      </role>
+      <role id="rl27" semRole="A1">
+        <!--petrol bomb-->
+        <span>
+          <target id="t61"/>
+          <target id="t62" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="judgment-33@Theme"/>
+          <externalRef resource="FrameNet-" reference="Attack@Victim"/>
+          <externalRef resource="PropBank" reference="attack.01@1"/>
+          <externalRef resource="ESO" reference="Attacking@damaging-undergoer"/>
+        </externalReferences>
+      </role>
+    </predicate>
+    <!--t71 turned : A1[t65 demonstrations] A2[t72 violent]-->
+    <predicate id="pr13">
+      <!--turned-->
+      <span>
+        <target id="t71"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="PropBank" reference="turn.02"/>
+        <externalRef resource="VerbNet" reference="convert-26.6.2"/>
+        <externalRef resource="VerbNet" reference="turn-26.6.1"/>
+        <externalRef resource="VerbNet" reference="turn-26.6.1-1"/>
+        <externalRef resource="FrameNet-" reference="Becoming"/>
+        <externalRef resource="FrameNet-" reference="Motion"/>
+        <externalRef resource="FrameNet-" reference="Undergo_change"/>
+        <externalRef resource="FrameNet-" reference="Cause_change"/>
+        <externalRef resource="PropBank" reference="turn.02"/>
+        <externalRef resource="ESO" reference="IntentionalEvent"/>
+        <externalRef resource="ESO" reference="Removing"/>
+        <externalRef resource="EventType" reference="contextual"/>
+        <externalRef resource="WordNet" reference="ili-30-01951937-v"/>
+        <externalRef resource="WordNet" reference="ili-30-02626604-v"/>
+        <externalRef resource="WordNet" reference="ili-30-00125841-v"/>
+        <externalRef resource="WordNet" reference="ili-30-00282523-v"/>
+        <externalRef resource="WordNet" reference="ili-30-02626934-v"/>
+      </externalReferences>
+      <role id="rl28" semRole="A1">
+        <!--demonstrations over the planned austerity measures-->
+        <span>
+          <target id="t65" head="yes"/>
+          <target id="t66"/>
+          <target id="t67"/>
+          <target id="t68"/>
+          <target id="t69"/>
+          <target id="t70"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="convert-26.6.2@Patient"/>
+          <externalRef resource="VerbNet" reference="turn-26.6.1@Patient"/>
+          <externalRef resource="FrameNet" reference="Becoming@Entity"/>
+          <externalRef resource="FrameNet" reference="Cause_change@Entity"/>
+          <externalRef resource="FrameNet" reference="Undergo_change@Attribute"/>
+          <externalRef resource="FrameNet" reference="Cause_change@Attribute"/>
+          <externalRef resource="FrameNet" reference="Undergo_change@Entity"/>
+          <externalRef resource="PropBank" reference="turn.02@1"/>
+        </externalReferences>
+      </role>
+      <role id="rl29" semRole="A2">
+        <!--violent-->
+        <span>
+          <target id="t72" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="convert-26.6.2@Goal"/>
+          <externalRef resource="VerbNet" reference="turn-26.6.1@Result"/>
+          <externalRef resource="FrameNet" reference="Becoming@Place"/>
+          <externalRef resource="FrameNet" reference="Cause_change@Final_category"/>
+          <externalRef resource="FrameNet" reference="Undergo_change@Final_category"/>
+          <externalRef resource="PropBank" reference="turn.02@2"/>
+        </externalReferences>
+      </role>
+    </predicate>
+    <!--t65 demonstrations : A1[t66 over]-->
+    <predicate id="pr14">
+      <!--demonstrations-->
+      <span>
+        <target id="t65"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="NomBank" reference="demonstration.01"/>
+        <externalRef resource="VerbNet" reference="conspire-71"/>
+        <externalRef resource="PropBank" reference="protest.01"/>
+        <externalRef resource="EventType" reference="communication"/>
+        <externalRef resource="WordNet" reference="ili-30-02521410-v"/>
+        <externalRef resource="WordNet" reference="ili-30-00910135-v"/>
+      </externalReferences>
+      <role id="rl30" semRole="A1">
+        <!--over the planned austerity measures-->
+        <span>
+          <target id="t66" head="yes"/>
+          <target id="t67"/>
+          <target id="t68"/>
+          <target id="t69"/>
+          <target id="t70"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="conspire-71@Theme"/>
+          <externalRef resource="PropBank" reference="protest.01@1"/>
+        </externalReferences>
+      </role>
+    </predicate>
+    <!--t70 measures : A1[t69 austerity]-->
+    <predicate id="pr15">
+      <!--measures-->
+      <span>
+        <target id="t70"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="NomBank" reference="measure.02"/>
+        <externalRef resource="VerbNet" reference="try-61"/>
+        <externalRef resource="FrameNet-" reference="Attempt"/>
+        <externalRef resource="FrameNet-" reference="Intentionally_create"/>
+        <externalRef resource="PropBank" reference="attempt.01"/>
+        <externalRef resource="ESO" reference="IntentionalEvent"/>
+        <externalRef resource="EventType" reference="contextual"/>
+        <externalRef resource="WordNet" reference="ili-30-01651293-v"/>
+        <externalRef resource="WordNet" reference="ili-30-02530167-v"/>
+      </externalReferences>
+      <role id="rl31" semRole="A1">
+        <!--austerity-->
+        <span>
+          <target id="t69" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="try-61@Theme"/>
+          <externalRef resource="FrameNet" reference="Attempt@Agent"/>
+          <externalRef resource="FrameNet" reference="Attempt@Goal"/>
+          <externalRef resource="PropBank" reference="attempt.01@1"/>
+        </externalReferences>
+      </role>
+    </predicate>
+    <!--t68 planned : A1[t67 the]-->
+    <predicate id="pr16">
+      <!--planned-->
+      <span>
+        <target id="t68"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="PropBank" reference="plan.01"/>
+        <externalRef resource="VerbNet" reference="wish-62"/>
+        <externalRef resource="FrameNet" reference="Purpose"/>
+        <externalRef resource="PropBank" reference="plan.01"/>
+        <externalRef resource="EventType" reference="cognition"/>
+        <externalRef resource="WordNet" reference="ili-30-00705227-v"/>
+      </externalReferences>
+      <role id="rl32" semRole="A1">
+        <!--the planned austerity measures-->
+        <span>
+          <target id="t67"/>
+          <target id="t68"/>
+          <target id="t69"/>
+          <target id="t70" head="yes"/>
+        </span>
+        <externalReferences>
+          <externalRef resource="VerbNet" reference="wish-62@Theme"/>
+          <externalRef resource="FrameNet" reference="Purpose@Attribute"/>
+          <externalRef resource="FrameNet" reference="Purpose@Goal"/>
+          <externalRef resource="FrameNet" reference="Purpose@Value"/>
+          <externalRef resource="PropBank" reference="plan.01@1"/>
+        </externalReferences>
+      </role>
+    </predicate>
+  </srl>
+  <constituency>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter1" label="TOP"/>
+      <nt id="nter2" label="S"/>
+      <nt id="nter3" label="S"/>
+      <nt id="nter4" label="NP"/>
+      <nt id="nter5" label="NP"/>
+      <nt id="nter6" label="NN"/>
+      <nt id="nter7" label=":"/>
+      <nt id="nter8" label="NP"/>
+      <nt id="nter9" label="JJ"/>
+      <nt id="nter10" label="JJ"/>
+      <nt id="nter11" label="NN"/>
+      <nt id="nter12" label="."/>
+      <nt id="nter13" label="''"/>
+      <nt id="nter14" label="VP"/>
+      <nt id="nter15" label="VBD"/>
+      <nt id="nter16" label="VP"/>
+      <nt id="nter17" label="VBN"/>
+      <nt id="nter18" label="."/>
+      <nt id="nter19" label="NP"/>
+      <nt id="nter20" label="NNP"/>
+      <nt id="nter21" label="VP"/>
+      <nt id="nter22" label="VBD"/>
+      <nt id="nter23" label="NP"/>
+      <nt id="nter24" label="NP"/>
+      <nt id="nter25" label="CD"/>
+      <nt id="nter26" label="NN"/>
+      <nt id="nter27" label="SBAR"/>
+      <nt id="nter28" label="S"/>
+      <nt id="nter29" label="NP"/>
+      <nt id="nter30" label="PRP"/>
+      <nt id="nter31" label="VP"/>
+      <nt id="nter32" label="VBP"/>
+      <nt id="nter33" label="NP"/>
+      <nt id="nter34" label="NN"/>
+      <nt id="nter35" label="PP"/>
+      <nt id="nter36" label="IN"/>
+      <nt id="nter37" label="NP"/>
+      <nt id="nter38" label="CD"/>
+      <nt id="nter39" label="."/>
+      <nt id="nter40" label="''"/>
+      <!--Terminals-->
+      <!--http-->
+      <t id="ter1">
+        <span>
+          <target id="t1"/>
+        </span>
+      </t>
+      <!--:-->
+      <t id="ter2">
+        <span>
+          <target id="t2"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter3">
+        <span>
+          <target id="t3"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter4">
+        <span>
+          <target id="t4"/>
+        </span>
+      </t>
+      <!--news-->
+      <t id="ter5">
+        <span>
+          <target id="t5"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter6">
+        <span>
+          <target id="t6"/>
+        </span>
+      </t>
+      <!--bbc-->
+      <t id="ter7">
+        <span>
+          <target id="t7"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter8">
+        <span>
+          <target id="t8"/>
+        </span>
+      </t>
+      <!--co-->
+      <t id="ter9">
+        <span>
+          <target id="t9"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter10">
+        <span>
+          <target id="t10"/>
+        </span>
+      </t>
+      <!--uk-->
+      <t id="ter11">
+        <span>
+          <target id="t11"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter12">
+        <span>
+          <target id="t12"/>
+        </span>
+      </t>
+      <!--2-->
+      <t id="ter13">
+        <span>
+          <target id="t13"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter14">
+        <span>
+          <target id="t14"/>
+        </span>
+      </t>
+      <!--hi-->
+      <t id="ter15">
+        <span>
+          <target id="t15"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter16">
+        <span>
+          <target id="t16"/>
+        </span>
+      </t>
+      <!--europe-->
+      <t id="ter17">
+        <span>
+          <target id="t17"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter18">
+        <span>
+          <target id="t18"/>
+        </span>
+      </t>
+      <!--8665488-->
+      <t id="ter19">
+        <span>
+          <target id="t19"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter20">
+        <span>
+          <target id="t20"/>
+        </span>
+      </t>
+      <!--stm-->
+      <t id="ter21">
+        <span>
+          <target id="t21"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre2" from="nter2" to="nter1" head="yes"/>
+      <edge id="tre3" from="nter3" to="nter2"/>
+      <edge id="tre4" from="nter4" to="nter3"/>
+      <edge id="tre5" from="nter5" to="nter4" head="yes"/>
+      <edge id="tre6" from="nter6" to="nter5" head="yes"/>
+      <edge id="tre7" from="ter1" to="nter6"/>
+      <edge id="tre8" from="nter7" to="nter4"/>
+      <edge id="tre9" from="ter2" to="nter7"/>
+      <edge id="tre10" from="nter8" to="nter4"/>
+      <edge id="tre11" from="nter9" to="nter8"/>
+      <edge id="tre12" from="ter3" to="nter9"/>
+      <edge id="tre13" from="nter10" to="nter8"/>
+      <edge id="tre14" from="ter4" to="nter10"/>
+      <edge id="tre15" from="nter11" to="nter8" head="yes"/>
+      <edge id="tre16" from="ter5" to="nter11"/>
+      <edge id="tre17" from="nter12" to="nter3"/>
+      <edge id="tre18" from="ter6" to="nter12"/>
+      <edge id="tre19" from="nter13" to="nter3"/>
+      <edge id="tre20" from="ter7" to="nter13"/>
+      <edge id="tre21" from="nter14" to="nter3" head="yes"/>
+      <edge id="tre22" from="nter15" to="nter14" head="yes"/>
+      <edge id="tre23" from="ter8" to="nter15"/>
+      <edge id="tre24" from="nter16" to="nter14"/>
+      <edge id="tre25" from="nter17" to="nter16" head="yes"/>
+      <edge id="tre26" from="ter9" to="nter17"/>
+      <edge id="tre27" from="nter18" to="nter2"/>
+      <edge id="tre28" from="ter10" to="nter18"/>
+      <edge id="tre29" from="nter19" to="nter2"/>
+      <edge id="tre30" from="nter20" to="nter19" head="yes"/>
+      <edge id="tre31" from="ter11" to="nter20"/>
+      <edge id="tre32" from="nter21" to="nter2" head="yes"/>
+      <edge id="tre33" from="nter22" to="nter21" head="yes"/>
+      <edge id="tre34" from="ter12" to="nter22"/>
+      <edge id="tre35" from="nter23" to="nter21"/>
+      <edge id="tre36" from="nter24" to="nter23" head="yes"/>
+      <edge id="tre37" from="nter25" to="nter24"/>
+      <edge id="tre38" from="ter13" to="nter25"/>
+      <edge id="tre39" from="nter26" to="nter24" head="yes"/>
+      <edge id="tre40" from="ter14" to="nter26"/>
+      <edge id="tre41" from="nter27" to="nter23"/>
+      <edge id="tre42" from="nter28" to="nter27" head="yes"/>
+      <edge id="tre43" from="nter29" to="nter28"/>
+      <edge id="tre44" from="nter30" to="nter29" head="yes"/>
+      <edge id="tre45" from="ter15" to="nter30"/>
+      <edge id="tre46" from="nter31" to="nter28" head="yes"/>
+      <edge id="tre47" from="nter32" to="nter31" head="yes"/>
+      <edge id="tre48" from="ter16" to="nter32"/>
+      <edge id="tre49" from="nter33" to="nter31"/>
+      <edge id="tre50" from="nter34" to="nter33" head="yes"/>
+      <edge id="tre51" from="ter17" to="nter34"/>
+      <edge id="tre52" from="nter35" to="nter31"/>
+      <edge id="tre53" from="nter36" to="nter35" head="yes"/>
+      <edge id="tre54" from="ter18" to="nter36"/>
+      <edge id="tre55" from="nter37" to="nter35"/>
+      <edge id="tre56" from="nter38" to="nter37" head="yes"/>
+      <edge id="tre57" from="ter19" to="nter38"/>
+      <edge id="tre58" from="nter39" to="nter2"/>
+      <edge id="tre59" from="ter20" to="nter39"/>
+      <edge id="tre60" from="nter40" to="nter2"/>
+      <edge id="tre61" from="ter21" to="nter40"/>
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter41" label="TOP"/>
+      <nt id="nter42" label="NP"/>
+      <nt id="nter43" label="NP"/>
+      <nt id="nter44" label="NNP"/>
+      <nt id="nter45" label="NN"/>
+      <nt id="nter46" label=":"/>
+      <nt id="nter47" label="NP"/>
+      <nt id="nter48" label="JJ"/>
+      <nt id="nter49" label="NNS"/>
+      <!--Terminals-->
+      <!--Greek-->
+      <t id="ter22">
+        <span>
+          <target id="t22"/>
+        </span>
+      </t>
+      <!--austerity-->
+      <t id="ter23">
+        <span>
+          <target id="t23"/>
+        </span>
+      </t>
+      <!--:-->
+      <t id="ter24">
+        <span>
+          <target id="t24"/>
+        </span>
+      </t>
+      <!--British-->
+      <t id="ter25">
+        <span>
+          <target id="t25"/>
+        </span>
+      </t>
+      <!--views-->
+      <t id="ter26">
+        <span>
+          <target id="t26"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre63" from="nter42" to="nter41" head="yes"/>
+      <edge id="tre64" from="nter43" to="nter42" head="yes"/>
+      <edge id="tre65" from="nter44" to="nter43"/>
+      <edge id="tre66" from="ter22" to="nter44"/>
+      <edge id="tre67" from="nter45" to="nter43" head="yes"/>
+      <edge id="tre68" from="ter23" to="nter45"/>
+      <edge id="tre69" from="nter46" to="nter42"/>
+      <edge id="tre70" from="ter24" to="nter46"/>
+      <edge id="tre71" from="nter47" to="nter42"/>
+      <edge id="tre72" from="nter48" to="nter47"/>
+      <edge id="tre73" from="ter25" to="nter48"/>
+      <edge id="tre74" from="nter49" to="nter47" head="yes"/>
+      <edge id="tre75" from="ter26" to="nter49"/>
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter50" label="TOP"/>
+      <nt id="nter51" label="S"/>
+      <nt id="nter52" label="NP"/>
+      <nt id="nter53" label="NNP"/>
+      <nt id="nter54" label="NN"/>
+      <nt id="nter55" label="VP"/>
+      <nt id="nter56" label="VBZ"/>
+      <nt id="nter57" label="ADJP"/>
+      <nt id="nter58" label="JJ"/>
+      <nt id="nter59" label="S"/>
+      <nt id="nter60" label="VP"/>
+      <nt id="nter61" label="TO"/>
+      <nt id="nter62" label="VP"/>
+      <nt id="nter63" label="VB"/>
+      <nt id="nter64" label="PP"/>
+      <nt id="nter65" label="IN"/>
+      <nt id="nter66" label="NP"/>
+      <nt id="nter67" label="NP"/>
+      <nt id="nter68" label="DT"/>
+      <nt id="nter69" label="JJ"/>
+      <nt id="nter70" label="NNS"/>
+      <nt id="nter71" label="CC"/>
+      <nt id="nter72" label="NP"/>
+      <nt id="nter73" label="NP"/>
+      <nt id="nter74" label="NNS"/>
+      <nt id="nter75" label="VP"/>
+      <nt id="nter76" label="VBN"/>
+      <nt id="nter77" label="PP"/>
+      <nt id="nter78" label="IN"/>
+      <nt id="nter79" label="NP"/>
+      <nt id="nter80" label="DT"/>
+      <nt id="nter81" label="NN"/>
+      <nt id="nter82" label="S"/>
+      <nt id="nter83" label="VP"/>
+      <nt id="nter84" label="TO"/>
+      <nt id="nter85" label="VP"/>
+      <nt id="nter86" label="VB"/>
+      <nt id="nter87" label="NP"/>
+      <nt id="nter88" label="DT"/>
+      <nt id="nter89" label="NNS"/>
+      <nt id="nter90" label="JJ"/>
+      <nt id="nter91" label="NN"/>
+      <nt id="nter92" label="."/>
+      <!--Terminals-->
+      <!--Greece's-->
+      <t id="ter27">
+        <span>
+          <target id="t27"/>
+        </span>
+      </t>
+      <!--parliament-->
+      <t id="ter28">
+        <span>
+          <target id="t28"/>
+        </span>
+      </t>
+      <!--is-->
+      <t id="ter29">
+        <span>
+          <target id="t29"/>
+        </span>
+      </t>
+      <!--due-->
+      <t id="ter30">
+        <span>
+          <target id="t30"/>
+        </span>
+      </t>
+      <!--to-->
+      <t id="ter31">
+        <span>
+          <target id="t31"/>
+        </span>
+      </t>
+      <!--vote-->
+      <t id="ter32">
+        <span>
+          <target id="t32"/>
+        </span>
+      </t>
+      <!--on-->
+      <t id="ter33">
+        <span>
+          <target id="t33"/>
+        </span>
+      </t>
+      <!--the-->
+      <t id="ter34">
+        <span>
+          <target id="t34"/>
+        </span>
+      </t>
+      <!--hefty-->
+      <t id="ter35">
+        <span>
+          <target id="t35"/>
+        </span>
+      </t>
+      <!--cuts-->
+      <t id="ter36">
+        <span>
+          <target id="t36"/>
+        </span>
+      </t>
+      <!--and-->
+      <t id="ter37">
+        <span>
+          <target id="t37"/>
+        </span>
+      </t>
+      <!--reforms-->
+      <t id="ter38">
+        <span>
+          <target id="t38"/>
+        </span>
+      </t>
+      <!--proposed-->
+      <t id="ter39">
+        <span>
+          <target id="t39"/>
+        </span>
+      </t>
+      <!--by-->
+      <t id="ter40">
+        <span>
+          <target id="t40"/>
+        </span>
+      </t>
+      <!--the-->
+      <t id="ter41">
+        <span>
+          <target id="t41"/>
+        </span>
+      </t>
+      <!--government-->
+      <t id="ter42">
+        <span>
+          <target id="t42"/>
+        </span>
+      </t>
+      <!--to-->
+      <t id="ter43">
+        <span>
+          <target id="t43"/>
+        </span>
+      </t>
+      <!--address-->
+      <t id="ter44">
+        <span>
+          <target id="t44"/>
+        </span>
+      </t>
+      <!--the-->
+      <t id="ter45">
+        <span>
+          <target id="t45"/>
+        </span>
+      </t>
+      <!--country's-->
+      <t id="ter46">
+        <span>
+          <target id="t46"/>
+        </span>
+      </t>
+      <!--financial-->
+      <t id="ter47">
+        <span>
+          <target id="t47"/>
+        </span>
+      </t>
+      <!--crisis-->
+      <t id="ter48">
+        <span>
+          <target id="t48"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter49">
+        <span>
+          <target id="t49"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre77" from="nter51" to="nter50" head="yes"/>
+      <edge id="tre78" from="nter52" to="nter51"/>
+      <edge id="tre79" from="nter53" to="nter52"/>
+      <edge id="tre80" from="ter27" to="nter53"/>
+      <edge id="tre81" from="nter54" to="nter52" head="yes"/>
+      <edge id="tre82" from="ter28" to="nter54"/>
+      <edge id="tre83" from="nter55" to="nter51" head="yes"/>
+      <edge id="tre84" from="nter56" to="nter55" head="yes"/>
+      <edge id="tre85" from="ter29" to="nter56"/>
+      <edge id="tre86" from="nter57" to="nter55"/>
+      <edge id="tre87" from="nter58" to="nter57" head="yes"/>
+      <edge id="tre88" from="ter30" to="nter58"/>
+      <edge id="tre89" from="nter59" to="nter57"/>
+      <edge id="tre90" from="nter60" to="nter59" head="yes"/>
+      <edge id="tre91" from="nter61" to="nter60" head="yes"/>
+      <edge id="tre92" from="ter31" to="nter61"/>
+      <edge id="tre93" from="nter62" to="nter60"/>
+      <edge id="tre94" from="nter63" to="nter62" head="yes"/>
+      <edge id="tre95" from="ter32" to="nter63"/>
+      <edge id="tre96" from="nter64" to="nter62"/>
+      <edge id="tre97" from="nter65" to="nter64" head="yes"/>
+      <edge id="tre98" from="ter33" to="nter65"/>
+      <edge id="tre99" from="nter66" to="nter64"/>
+      <edge id="tre100" from="nter67" to="nter66" head="yes"/>
+      <edge id="tre101" from="nter68" to="nter67"/>
+      <edge id="tre102" from="ter34" to="nter68"/>
+      <edge id="tre103" from="nter69" to="nter67"/>
+      <edge id="tre104" from="ter35" to="nter69"/>
+      <edge id="tre105" from="nter70" to="nter67" head="yes"/>
+      <edge id="tre106" from="ter36" to="nter70"/>
+      <edge id="tre107" from="nter71" to="nter66"/>
+      <edge id="tre108" from="ter37" to="nter71"/>
+      <edge id="tre109" from="nter72" to="nter66"/>
+      <edge id="tre110" from="nter73" to="nter72" head="yes"/>
+      <edge id="tre111" from="nter74" to="nter73" head="yes"/>
+      <edge id="tre112" from="ter38" to="nter74"/>
+      <edge id="tre113" from="nter75" to="nter72"/>
+      <edge id="tre114" from="nter76" to="nter75" head="yes"/>
+      <edge id="tre115" from="ter39" to="nter76"/>
+      <edge id="tre116" from="nter77" to="nter75"/>
+      <edge id="tre117" from="nter78" to="nter77" head="yes"/>
+      <edge id="tre118" from="ter40" to="nter78"/>
+      <edge id="tre119" from="nter79" to="nter77"/>
+      <edge id="tre120" from="nter80" to="nter79"/>
+      <edge id="tre121" from="ter41" to="nter80"/>
+      <edge id="tre122" from="nter81" to="nter79" head="yes"/>
+      <edge id="tre123" from="ter42" to="nter81"/>
+      <edge id="tre124" from="nter82" to="nter75"/>
+      <edge id="tre125" from="nter83" to="nter82" head="yes"/>
+      <edge id="tre126" from="nter84" to="nter83" head="yes"/>
+      <edge id="tre127" from="ter43" to="nter84"/>
+      <edge id="tre128" from="nter85" to="nter83"/>
+      <edge id="tre129" from="nter86" to="nter85" head="yes"/>
+      <edge id="tre130" from="ter44" to="nter86"/>
+      <edge id="tre131" from="nter87" to="nter85"/>
+      <edge id="tre132" from="nter88" to="nter87"/>
+      <edge id="tre133" from="ter45" to="nter88"/>
+      <edge id="tre134" from="nter89" to="nter87"/>
+      <edge id="tre135" from="ter46" to="nter89"/>
+      <edge id="tre136" from="nter90" to="nter87"/>
+      <edge id="tre137" from="ter47" to="nter90"/>
+      <edge id="tre138" from="nter91" to="nter87" head="yes"/>
+      <edge id="tre139" from="ter48" to="nter91"/>
+      <edge id="tre140" from="nter92" to="nter51"/>
+      <edge id="tre141" from="ter49" to="nter92"/>
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter93" label="TOP"/>
+      <nt id="nter94" label="S"/>
+      <nt id="nter95" label="NP"/>
+      <nt id="nter96" label="PRP"/>
+      <nt id="nter97" label="VP"/>
+      <nt id="nter98" label="VBZ"/>
+      <nt id="nter99" label="SBAR"/>
+      <nt id="nter100" label="NP"/>
+      <nt id="nter101" label="DT"/>
+      <nt id="nter102" label="NN"/>
+      <nt id="nter103" label="IN"/>
+      <nt id="nter104" label="S"/>
+      <nt id="nter105" label="NP"/>
+      <nt id="nter106" label="CD"/>
+      <nt id="nter107" label="NN"/>
+      <nt id="nter108" label="NNS"/>
+      <nt id="nter109" label="VP"/>
+      <nt id="nter110" label="VBD"/>
+      <nt id="nter111" label="PP"/>
+      <nt id="nter112" label="IN"/>
+      <nt id="nter113" label="NP"/>
+      <nt id="nter114" label="DT"/>
+      <nt id="nter115" label="NN"/>
+      <nt id="nter116" label="NN"/>
+      <nt id="nter117" label="NN"/>
+      <nt id="nter118" label="PP"/>
+      <nt id="nter119" label="IN"/>
+      <nt id="nter120" label="NP"/>
+      <nt id="nter121" label="NP"/>
+      <nt id="nter122" label="NNS"/>
+      <nt id="nter123" label="PP"/>
+      <nt id="nter124" label="IN"/>
+      <nt id="nter125" label="NP"/>
+      <nt id="nter126" label="NP"/>
+      <nt id="nter127" label="DT"/>
+      <nt id="nter128" label="VBN"/>
+      <nt id="nter129" label="NN"/>
+      <nt id="nter130" label="NNS"/>
+      <nt id="nter131" label="VP"/>
+      <nt id="nter132" label="VBN"/>
+      <nt id="nter133" label="ADJP"/>
+      <nt id="nter134" label="JJ"/>
+      <nt id="nter135" label="."/>
+      <!--Terminals-->
+      <!--It-->
+      <t id="ter50">
+        <span>
+          <target id="t50"/>
+        </span>
+      </t>
+      <!--comes-->
+      <t id="ter51">
+        <span>
+          <target id="t51"/>
+        </span>
+      </t>
+      <!--a-->
+      <t id="ter52">
+        <span>
+          <target id="t52"/>
+        </span>
+      </t>
+      <!--day-->
+      <t id="ter53">
+        <span>
+          <target id="t53"/>
+        </span>
+      </t>
+      <!--after-->
+      <t id="ter54">
+        <span>
+          <target id="t54"/>
+        </span>
+      </t>
+      <!--three-->
+      <t id="ter55">
+        <span>
+          <target id="t55"/>
+        </span>
+      </t>
+      <!--bank-->
+      <t id="ter56">
+        <span>
+          <target id="t56"/>
+        </span>
+      </t>
+      <!--workers-->
+      <t id="ter57">
+        <span>
+          <target id="t57"/>
+        </span>
+      </t>
+      <!--died-->
+      <t id="ter58">
+        <span>
+          <target id="t58"/>
+        </span>
+      </t>
+      <!--in-->
+      <t id="ter59">
+        <span>
+          <target id="t59"/>
+        </span>
+      </t>
+      <!--a-->
+      <t id="ter60">
+        <span>
+          <target id="t60"/>
+        </span>
+      </t>
+      <!--petrol-->
+      <t id="ter61">
+        <span>
+          <target id="t61"/>
+        </span>
+      </t>
+      <!--bomb-->
+      <t id="ter62">
+        <span>
+          <target id="t62"/>
+        </span>
+      </t>
+      <!--attack-->
+      <t id="ter63">
+        <span>
+          <target id="t63"/>
+        </span>
+      </t>
+      <!--as-->
+      <t id="ter64">
+        <span>
+          <target id="t64"/>
+        </span>
+      </t>
+      <!--demonstrations-->
+      <t id="ter65">
+        <span>
+          <target id="t65"/>
+        </span>
+      </t>
+      <!--over-->
+      <t id="ter66">
+        <span>
+          <target id="t66"/>
+        </span>
+      </t>
+      <!--the-->
+      <t id="ter67">
+        <span>
+          <target id="t67"/>
+        </span>
+      </t>
+      <!--planned-->
+      <t id="ter68">
+        <span>
+          <target id="t68"/>
+        </span>
+      </t>
+      <!--austerity-->
+      <t id="ter69">
+        <span>
+          <target id="t69"/>
+        </span>
+      </t>
+      <!--measures-->
+      <t id="ter70">
+        <span>
+          <target id="t70"/>
+        </span>
+      </t>
+      <!--turned-->
+      <t id="ter71">
+        <span>
+          <target id="t71"/>
+        </span>
+      </t>
+      <!--violent-->
+      <t id="ter72">
+        <span>
+          <target id="t72"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter73">
+        <span>
+          <target id="t73"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre143" from="nter94" to="nter93" head="yes"/>
+      <edge id="tre144" from="nter95" to="nter94"/>
+      <edge id="tre145" from="nter96" to="nter95" head="yes"/>
+      <edge id="tre146" from="ter50" to="nter96"/>
+      <edge id="tre147" from="nter97" to="nter94" head="yes"/>
+      <edge id="tre148" from="nter98" to="nter97" head="yes"/>
+      <edge id="tre149" from="ter51" to="nter98"/>
+      <edge id="tre150" from="nter99" to="nter97"/>
+      <edge id="tre151" from="nter100" to="nter99"/>
+      <edge id="tre152" from="nter101" to="nter100"/>
+      <edge id="tre153" from="ter52" to="nter101"/>
+      <edge id="tre154" from="nter102" to="nter100" head="yes"/>
+      <edge id="tre155" from="ter53" to="nter102"/>
+      <edge id="tre156" from="nter103" to="nter99" head="yes"/>
+      <edge id="tre157" from="ter54" to="nter103"/>
+      <edge id="tre158" from="nter104" to="nter99"/>
+      <edge id="tre159" from="nter105" to="nter104"/>
+      <edge id="tre160" from="nter106" to="nter105"/>
+      <edge id="tre161" from="ter55" to="nter106"/>
+      <edge id="tre162" from="nter107" to="nter105"/>
+      <edge id="tre163" from="ter56" to="nter107"/>
+      <edge id="tre164" from="nter108" to="nter105" head="yes"/>
+      <edge id="tre165" from="ter57" to="nter108"/>
+      <edge id="tre166" from="nter109" to="nter104" head="yes"/>
+      <edge id="tre167" from="nter110" to="nter109" head="yes"/>
+      <edge id="tre168" from="ter58" to="nter110"/>
+      <edge id="tre169" from="nter111" to="nter109"/>
+      <edge id="tre170" from="nter112" to="nter111" head="yes"/>
+      <edge id="tre171" from="ter59" to="nter112"/>
+      <edge id="tre172" from="nter113" to="nter111"/>
+      <edge id="tre173" from="nter114" to="nter113"/>
+      <edge id="tre174" from="ter60" to="nter114"/>
+      <edge id="tre175" from="nter115" to="nter113"/>
+      <edge id="tre176" from="ter61" to="nter115"/>
+      <edge id="tre177" from="nter116" to="nter113"/>
+      <edge id="tre178" from="ter62" to="nter116"/>
+      <edge id="tre179" from="nter117" to="nter113" head="yes"/>
+      <edge id="tre180" from="ter63" to="nter117"/>
+      <edge id="tre181" from="nter118" to="nter109"/>
+      <edge id="tre182" from="nter119" to="nter118" head="yes"/>
+      <edge id="tre183" from="ter64" to="nter119"/>
+      <edge id="tre184" from="nter120" to="nter118"/>
+      <edge id="tre185" from="nter121" to="nter120" head="yes"/>
+      <edge id="tre186" from="nter122" to="nter121" head="yes"/>
+      <edge id="tre187" from="ter65" to="nter122"/>
+      <edge id="tre188" from="nter123" to="nter120"/>
+      <edge id="tre189" from="nter124" to="nter123" head="yes"/>
+      <edge id="tre190" from="ter66" to="nter124"/>
+      <edge id="tre191" from="nter125" to="nter123"/>
+      <edge id="tre192" from="nter126" to="nter125" head="yes"/>
+      <edge id="tre193" from="nter127" to="nter126"/>
+      <edge id="tre194" from="ter67" to="nter127"/>
+      <edge id="tre195" from="nter128" to="nter126"/>
+      <edge id="tre196" from="ter68" to="nter128"/>
+      <edge id="tre197" from="nter129" to="nter126"/>
+      <edge id="tre198" from="ter69" to="nter129"/>
+      <edge id="tre199" from="nter130" to="nter126" head="yes"/>
+      <edge id="tre200" from="ter70" to="nter130"/>
+      <edge id="tre201" from="nter131" to="nter125"/>
+      <edge id="tre202" from="nter132" to="nter131" head="yes"/>
+      <edge id="tre203" from="ter71" to="nter132"/>
+      <edge id="tre204" from="nter133" to="nter131"/>
+      <edge id="tre205" from="nter134" to="nter133" head="yes"/>
+      <edge id="tre206" from="ter72" to="nter134"/>
+      <edge id="tre207" from="nter135" to="nter94"/>
+      <edge id="tre208" from="ter73" to="nter135"/>
+    </tree>
+  </constituency>
+  <temporalRelations>
+    <!--BEFORE(pr5, pr6)-->
+    <tlink id="tlink0" from="pr5" to="pr6" fromType="event" toType="event" relType="BEFORE"/>
+    <!--AFTER(pr10, pr16)-->
+    <tlink id="tlink1" from="pr10" to="pr16" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr10, pr13)-->
+    <tlink id="tlink2" from="pr10" to="pr13" fromType="event" toType="event" relType="AFTER"/>
+    <!--BEFORE(pr16, pr13)-->
+    <tlink id="tlink3" from="pr16" to="pr13" fromType="event" toType="event" relType="BEFORE"/>
+    <!--AFTER(pr3, pr7)-->
+    <tlink id="tlink4" from="pr3" to="pr7" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr10, pr15)-->
+    <tlink id="tlink5" from="pr10" to="pr15" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr4, pr7)-->
+    <tlink id="tlink6" from="pr4" to="pr7" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr8, pr13)-->
+    <tlink id="tlink7" from="pr8" to="pr13" fromType="event" toType="event" relType="AFTER"/>
+    <!--BEFORE(pr16, pr15)-->
+    <tlink id="tlink8" from="pr16" to="pr15" fromType="event" toType="event" relType="BEFORE"/>
+    <!--BEFORE(pr9, pr13)-->
+    <tlink id="tlink9" from="pr9" to="pr13" fromType="event" toType="event" relType="BEFORE"/>
+    <!--BEFORE(pr9, pr15)-->
+    <tlink id="tlink10" from="pr9" to="pr15" fromType="event" toType="event" relType="BEFORE"/>
+    <!--BEFORE(pr9, pr14)-->
+    <tlink id="tlink11" from="pr9" to="pr14" fromType="event" toType="event" relType="BEFORE"/>
+    <!--AFTER(pr8, pr16)-->
+    <tlink id="tlink12" from="pr8" to="pr16" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr3, pr4)-->
+    <tlink id="tlink13" from="pr3" to="pr4" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr9, pr16)-->
+    <tlink id="tlink14" from="pr9" to="pr16" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr8, pr9)-->
+    <tlink id="tlink15" from="pr8" to="pr9" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr8, pr15)-->
+    <tlink id="tlink16" from="pr8" to="pr15" fromType="event" toType="event" relType="AFTER"/>
+    <!--BEFORE(pr9, pr11)-->
+    <tlink id="tlink17" from="pr9" to="pr11" fromType="event" toType="event" relType="BEFORE"/>
+    <!--BEFORE(pr12, pr13)-->
+    <tlink id="tlink18" from="pr12" to="pr13" fromType="event" toType="event" relType="BEFORE"/>
+    <!--BEFORE(pr11, pr13)-->
+    <tlink id="tlink19" from="pr11" to="pr13" fromType="event" toType="event" relType="BEFORE"/>
+    <!--BEFORE(pr11, pr14)-->
+    <tlink id="tlink20" from="pr11" to="pr14" fromType="event" toType="event" relType="BEFORE"/>
+    <!--BEFORE(pr2, pr3)-->
+    <tlink id="tlink21" from="pr2" to="pr3" fromType="event" toType="event" relType="BEFORE"/>
+    <!--AFTER(pr10, pr14)-->
+    <tlink id="tlink22" from="pr10" to="pr14" fromType="event" toType="event" relType="AFTER"/>
+    <!--BEFORE(pr12, pr14)-->
+    <tlink id="tlink23" from="pr12" to="pr14" fromType="event" toType="event" relType="BEFORE"/>
+    <!--AFTER(pr8, pr12)-->
+    <tlink id="tlink24" from="pr8" to="pr12" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr11, pr16)-->
+    <tlink id="tlink25" from="pr11" to="pr16" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr11, pr15)-->
+    <tlink id="tlink26" from="pr11" to="pr15" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr8, pr11)-->
+    <tlink id="tlink27" from="pr8" to="pr11" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr10, pr11)-->
+    <tlink id="tlink28" from="pr10" to="pr11" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr2, pr5)-->
+    <tlink id="tlink29" from="pr2" to="pr5" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr6, pr7)-->
+    <tlink id="tlink30" from="pr6" to="pr7" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr12, pr15)-->
+    <tlink id="tlink31" from="pr12" to="pr15" fromType="event" toType="event" relType="AFTER"/>
+    <!--BEFORE(pr4, pr6)-->
+    <tlink id="tlink32" from="pr4" to="pr6" fromType="event" toType="event" relType="BEFORE"/>
+    <!--BEFORE(pr12, pr16)-->
+    <tlink id="tlink33" from="pr12" to="pr16" fromType="event" toType="event" relType="BEFORE"/>
+    <!--BEFORE(pr8, pr14)-->
+    <tlink id="tlink34" from="pr8" to="pr14" fromType="event" toType="event" relType="BEFORE"/>
+    <!--AFTER(pr2, pr4)-->
+    <tlink id="tlink35" from="pr2" to="pr4" fromType="event" toType="event" relType="AFTER"/>
+    <!--BEFORE(pr2, pr6)-->
+    <tlink id="tlink36" from="pr2" to="pr6" fromType="event" toType="event" relType="BEFORE"/>
+    <!--AFTER(pr2, pr7)-->
+    <tlink id="tlink37" from="pr2" to="pr7" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr5, pr7)-->
+    <tlink id="tlink38" from="pr5" to="pr7" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr8, pr10)-->
+    <tlink id="tlink39" from="pr8" to="pr10" fromType="event" toType="event" relType="AFTER"/>
+    <!--AFTER(pr3, pr5)-->
+    <tlink id="tlink40" from="pr3" to="pr5" fromType="event" toType="event" relType="AFTER"/>
+    <!--BEFORE(pr3, pr6)-->
+    <tlink id="tlink41" from="pr3" to="pr6" fromType="event" toType="event" relType="BEFORE"/>
+    <!--AFTER(pr14, pr16)-->
+    <tlink id="tlink42" from="pr14" to="pr16" fromType="event" toType="event" relType="AFTER"/>
+    <!--BEFORE(pr4, pr5)-->
+    <tlink id="tlink43" from="pr4" to="pr5" fromType="event" toType="event" relType="BEFORE"/>
+    <!--IS_INCLUDED(pr10, pr12)-->
+    <tlink id="tlink44" from="pr10" to="pr12" fromType="event" toType="event" relType="IS_INCLUDED"/>
+    <!--INCLUDES(pr9, pr12)-->
+    <tlink id="tlink45" from="pr9" to="pr12" fromType="event" toType="event" relType="INCLUDES"/>
+    <!--INCLUDES(pr14, pr13)-->
+    <tlink id="tlink46" from="pr14" to="pr13" fromType="event" toType="event" relType="INCLUDES"/>
+    <!--AFTER(pr14, pr15)-->
+    <tlink id="tlink47" from="pr14" to="pr15" fromType="event" toType="event" relType="AFTER"/>
+    <predicateAnchor id="an1" anchorTime="tmx0">
+      <span>
+        <target id="pr8"/>
+      </span>
+    </predicateAnchor>
+  </temporalRelations>
+  <topics>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.1462857723236084">Greece</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.06472497433423996">economic convergence</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.06361528486013412">public finance</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.06174138933420181">budget estimate</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.06156175211071968">stability programme</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.06112973392009735">economic forecasting</topic>
+  </topics>
+  <factualities>
+    <factuality id="f1">
+      <span>
+        <target id="t58"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="NON_FUTURE"/>
+      <factVal resource="factbank" value="CT+"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f2">
+      <span>
+        <target id="t48"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="CT+"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f3">
+      <span>
+        <target id="t62"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f4">
+      <span>
+        <target id="t68"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="NON_FUTURE"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f5">
+      <span>
+        <target id="t65"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="NON_FUTURE"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f6">
+      <span>
+        <target id="t51"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="NON_FUTURE"/>
+      <factVal resource="factbank" value="CT+"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f7">
+      <span>
+        <target id="t63"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f8">
+      <span>
+        <target id="t44"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="Uu"/>
+      <factVal resource="nwr:attributionCertainty" value="UNDERSPECIFIED"/>
+      <factVal resource="nwr:attributionPolarity" value="UNDERSPECIFIED"/>
+    </factuality>
+    <factuality id="f9">
+      <span>
+        <target id="t28"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="NON_FUTURE"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f10">
+      <span>
+        <target id="t70"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f11">
+      <span>
+        <target id="t71"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="NON_FUTURE"/>
+      <factVal resource="factbank" value="CT+"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f12">
+      <span>
+        <target id="t12"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="NON_FUTURE"/>
+      <factVal resource="factbank" value="CT+"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f13">
+      <span>
+        <target id="t39"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="NON_FUTURE"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f14">
+      <span>
+        <target id="t36"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f15">
+      <span>
+        <target id="t57"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="NON_FUTURE"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+    <factuality id="f16">
+      <span>
+        <target id="t32"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="Uu"/>
+      <factVal resource="nwr:attributionCertainty" value="UNDERSPECIFIED"/>
+      <factVal resource="nwr:attributionPolarity" value="UNDERSPECIFIED"/>
+    </factuality>
+  </factualities>
+</NAF>

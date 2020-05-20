@@ -1,0 +1,856 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <nafHeader>
+    <public publicId="5_3ecbplus.xml"/>
+    <linguisticProcessors layer="srl">
+      <lp name="ixa-pipe-srl-en" beginTimestamp="2015-09-22T11:44:58+0200" endTimestamp="2015-09-22T11:45:02+0200" version="1.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="topics">
+      <lp name="ixa-pipe-topic-en" beginTimestamp="2015-09-22T11:44:13+0200" endTimestamp="2015-09-22T11:44:16+0200" version="1.0.1-e5736af6cd0dabc10434ad6dcdaa86ecf361896c" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="coreferences">
+      <lp name="corefgraph-en" beginTimestamp="2015-09-22T09:44:44Z" endTimestamp="2015-09-22T09:44:47Z" version="0.8" hostname="newsreadervm"/>
+      <lp name="vua-event-coref-intradoc-wn-sim" timestamp="2015-09-22T11:45:04+0200" beginTimestamp="2015-09-22T11:45:04+0200" endTimestamp="2015-09-22T11:45:04+0200" version="3.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituency">
+      <lp name="ixa-pipe-parse-en-parser-chunking" beginTimestamp="2015-09-22T11:44:36+0200" endTimestamp="2015-09-22T11:44:44+0200" version="1.1.1-f4c6e03b9afd8b70d8cf403f43055d28e3b0e874" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="ixa-pipe-pos-en-maxent-100-c5-baseline-dict-penn" beginTimestamp="2015-09-22T11:44:18+0200" endTimestamp="2015-09-22T11:44:18+0200" version="1.4.3-192b8ca8980904d09e8d9f7343621174b6b98978" hostname="newsreadervm"/>
+      <lp name="ukb" beginTimestamp="2015-09-22T09:44:48Z" endTimestamp="2015-09-22T09:44:51Z" version="2.0.22.g0edc5ba" hostname="newsreadervm"/>
+      <lp name="It_Makes_Sense_WSD" timestamp="2015-09-22T11:44:57CEST" beginTimestamp="2015-09-22T11:44:56CEST" endTimestamp="2015-09-22T11:44:56CEST" version="0.4" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="markables">
+      <lp name="ixa-pipe-wikify-en" beginTimestamp="2015-09-22T11:44:18+0200" endTimestamp="2015-09-22T11:44:19+0200" version="1.2.1-b2d597d79cc928549bf6df6e13894a183be99dcf" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp name="ixa-pipe-srl-en" beginTimestamp="2015-09-22T11:44:58+0200" endTimestamp="2015-09-22T11:44:58+0200" version="1.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="opinions">
+      <lp name="Deluxe opinion miner (CRF+SVM)" timestamp="2015-09-22T11:44:48CEST" beginTimestamp="2015-09-22T11:44:48CEST" endTimestamp="2015-09-22T11:44:48CEST" version="10jan2014_2.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp name="ixa-pipe-nerc-en-newsreader-clusters-3-class-muc7-conll03-ontonotes-4.0" beginTimestamp="2015-09-22T11:44:19+0200" endTimestamp="2015-09-22T11:44:36+0200" version="1.5.2-5cacac28fcaa6e91d5f2a4cc9b486b24ac163641" hostname="newsreadervm"/>
+      <lp name="ixa-pipe-ned-en" beginTimestamp="2015-09-22T11:44:57+0200" endTimestamp="2015-09-22T11:44:57+0200" version="1.1.3-edd0c821360568dce8fbe83013de244d5c982159" hostname="newsreadervm"/>
+      <lp name="VUA-popen-ned-reranker" timestamp="2015-09-22T11:44:57CEST" beginTimestamp="2015-09-22T11:44:18CEST" endTimestamp="2015-09-22T11:44:57CEST" version="1.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="timeExpressions">
+      <lp name="TimePro-FBK" beginTimestamp="2015-09-22T11:45:02+0200" endTimestamp="2015-09-22T11:45:04+0200" version="v1.5, based on Yamcha" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="temporalRelations">
+      <lp name="TempRelPro-FBK" beginTimestamp="2015-09-22T11:45:04+0200" endTimestamp="2015-09-22T11:45:06+0200" version="2.5.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="causalRelations">
+      <lp name="CausalRelPro-FBK" beginTimestamp="2015-09-22T11:45:06+0200" endTimestamp="2015-09-22T11:45:07+0200" version="2.0.0" hostname="newsreadervm"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="factualities">
+      <lp name="vua-perspectives_factuality" version="1.0" timestamp="2015-09-22T11:45:08CEST" beginTimestamp="2015-09-22T11:44:13CEST" endTimestamp="2015-09-22T11:45:08CEST" hostname="newsreadervm"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>http : / / query . nytimes . com / gst / fullpage . html ? res=9402E6D71239F937A15756C0A9639C8B63 PHILADELPHIA 76ERS Fired Jim O'Brien , coach . Named Maurice Cheeks coach .</raw>
+  <text>
+    <wf id="w1" offset="0" length="4" sent="0">http</wf>
+    <wf id="w2" offset="5" length="1" sent="0">:</wf>
+    <wf id="w3" offset="7" length="1" sent="0">/</wf>
+    <wf id="w4" offset="9" length="1" sent="0">/</wf>
+    <wf id="w5" offset="11" length="5" sent="0">query</wf>
+    <wf id="w6" offset="17" length="1" sent="0">.</wf>
+    <wf id="w7" offset="19" length="7" sent="0">nytimes</wf>
+    <wf id="w8" offset="27" length="1" sent="0">.</wf>
+    <wf id="w9" offset="29" length="3" sent="0">com</wf>
+    <wf id="w10" offset="33" length="1" sent="0">/</wf>
+    <wf id="w11" offset="35" length="3" sent="0">gst</wf>
+    <wf id="w12" offset="39" length="1" sent="0">/</wf>
+    <wf id="w13" offset="41" length="8" sent="0">fullpage</wf>
+    <wf id="w14" offset="50" length="1" sent="0">.</wf>
+    <wf id="w15" offset="52" length="4" sent="0">html</wf>
+    <wf id="w16" offset="57" length="1" sent="0">?</wf>
+    <wf id="w17" offset="59" length="38" sent="0">res=9402E6D71239F937A15756C0A9639C8B63</wf>
+    <wf id="w18" offset="98" length="12" sent="1">PHILADELPHIA</wf>
+    <wf id="w19" offset="111" length="5" sent="1">76ERS</wf>
+    <wf id="w20" offset="117" length="5" sent="1">Fired</wf>
+    <wf id="w21" offset="123" length="3" sent="1">Jim</wf>
+    <wf id="w22" offset="127" length="7" sent="1">O'Brien</wf>
+    <wf id="w23" offset="135" length="1" sent="1">,</wf>
+    <wf id="w24" offset="137" length="5" sent="1">coach</wf>
+    <wf id="w25" offset="143" length="1" sent="1">.</wf>
+    <wf id="w26" offset="145" length="5" sent="1">Named</wf>
+    <wf id="w27" offset="151" length="7" sent="1">Maurice</wf>
+    <wf id="w28" offset="159" length="6" sent="1">Cheeks</wf>
+    <wf id="w29" offset="166" length="5" sent="1">coach</wf>
+    <wf id="w30" offset="172" length="1" sent="1">.</wf>
+  </text>
+  <terms>
+    <!--http-->
+    <term id="t1" type="open" lemma="http" pos="N" morphofeat="NN">
+      <span>
+        <target id="w1"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-06665847-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06665847-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--:-->
+    <term id="t2" type="close" lemma=":" pos="O" morphofeat=":">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <!--/-->
+    <term id="t3" type="open" lemma="/" pos="N" morphofeat="NN">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <!--/-->
+    <term id="t4" type="open" lemma="/" pos="N" morphofeat="NN">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <!--query-->
+    <term id="t5" type="open" lemma="query" pos="N" morphofeat="NN">
+      <span>
+        <target id="w5"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-07193596-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-07193596-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--.-->
+    <term id="t6" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <!--nytimes-->
+    <term id="t7" type="open" lemma="nytimes" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <!--.-->
+    <term id="t8" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <!--com-->
+    <term id="t9" type="open" lemma="com" pos="N" morphofeat="NN">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <!--/-->
+    <term id="t10" type="open" lemma="/" pos="N" morphofeat="NN">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <!--gst-->
+    <term id="t11" type="open" lemma="gst" pos="N" morphofeat="NN">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <!--/-->
+    <term id="t12" type="open" lemma="/" pos="N" morphofeat="NN">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <!--fullpage-->
+    <term id="t13" type="open" lemma="fullpage" pos="N" morphofeat="NN">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <!--.-->
+    <term id="t14" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <!--html-->
+    <term id="t15" type="open" lemma="html" pos="V" morphofeat="VB">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <!--?-->
+    <term id="t16" type="close" lemma="?" pos="O" morphofeat=".">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <!--res=9402E6D71239F937A15756C0A9639C8B63-->
+    <term id="t17" type="close" lemma="res=9402e6d71239f937a15756c0a9639c8b63" pos="O" morphofeat="''">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <!--PHILADELPHIA-->
+    <term id="t18" type="close" lemma="PHILADELPHIA" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w18"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09136182-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--76ERS-->
+    <term id="t19" type="open" lemma="76ERS" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <!--Fired-->
+    <term id="t20" type="open" lemma="fired" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w20"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-00864884-a" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--Jim-->
+    <term id="t21" type="close" lemma="Jim" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <!--O'Brien-->
+    <term id="t22" type="close" lemma="O'Brien" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w22"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-11211322-n" confidence="1.0"/>
+      </externalReferences>
+    </term>
+    <!--,-->
+    <term id="t23" type="close" lemma="," pos="O" morphofeat=",">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <!--coach-->
+    <term id="t24" type="open" lemma="coach" pos="N" morphofeat="NN">
+      <span>
+        <target id="w24"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09931640-n" confidence="0.644056"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02924116-n" confidence="0.117155"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-03895866-n" confidence="0.0896623"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09931418-n" confidence="0.0877419"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-03055670-n" confidence="0.0613847"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09931640-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-03055670-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02924116-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-03895866-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09931418-n"/>
+      </externalReferences>
+    </term>
+    <!--.-->
+    <term id="t25" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <!--Named-->
+    <term id="t26" type="close" lemma="named" pos="R" morphofeat="NNPS">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <!--Maurice-->
+    <term id="t27" type="close" lemma="Maurice" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <!--Cheeks-->
+    <term id="t28" type="close" lemma="cheeks" pos="R" morphofeat="NNPS">
+      <span>
+        <target id="w28"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="WordNet-3.0" reference="ili-30-05602835-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-04838210-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-05559727-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-06721813-n"/>
+      </externalReferences>
+    </term>
+    <!--coach-->
+    <term id="t29" type="open" lemma="coach" pos="N" morphofeat="NN">
+      <span>
+        <target id="w29"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09931640-n" confidence="0.644056"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-02924116-n" confidence="0.117155"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-03895866-n" confidence="0.0896623"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-09931418-n" confidence="0.0877419"/>
+        <externalRef resource="wn30g.bin64" reference="ili-30-03055670-n" confidence="0.0613847"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09931640-n" confidence="1.0"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-03055670-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-02924116-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-03895866-n"/>
+        <externalRef resource="WordNet-3.0" reference="ili-30-09931418-n"/>
+      </externalReferences>
+    </term>
+    <!--.-->
+    <term id="t30" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+  </terms>
+  <markables>
+    <!--http-->
+    <mark id="m1" source="DBpedia" lemma="http">
+      <span>
+        <target id="w1"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Hypertext_Transfer_Protocol" confidence="1.0" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--gst-->
+    <mark id="m2" source="DBpedia" lemma="gst">
+      <span>
+        <target id="w11"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Goods_and_Services_Tax_(New_Zealand)" confidence="0.5503723" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--PHILADELPHIA 76ERS-->
+    <mark id="m3" source="DBpedia" lemma="PHILADELPHIA 76ERS">
+      <span>
+        <target id="w18"/>
+        <target id="w19"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Philadelphia_76ers" confidence="1.0" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--Jim O'Brien-->
+    <mark id="m4" source="DBpedia" lemma="Jim O'Brien">
+      <span>
+        <target id="w21"/>
+        <target id="w22"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Jim_O'Brien_(basketball,_born_1952)" confidence="0.99962705" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--coach-->
+    <mark id="m5" source="DBpedia" lemma="coach">
+      <span>
+        <target id="w24"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Coach_(sport)" confidence="0.9656438" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--Maurice Cheeks-->
+    <mark id="m6" source="DBpedia" lemma="Maurice cheeks">
+      <span>
+        <target id="w27"/>
+        <target id="w28"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Maurice_Cheeks" confidence="1.0" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+    <!--coach-->
+    <mark id="m7" source="DBpedia" lemma="coach">
+      <span>
+        <target id="w29"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="spotlight" reference="http://dbpedia.org/resource/Coach_(sport)" confidence="0.9656438" reftype="en" source="en"/>
+      </externalReferences>
+    </mark>
+  </markables>
+  <deps>
+    <!--P(http, :)-->
+    <dep from="t1" to="t2" rfunc="P"/>
+    <!--NMOD(nytimes, /)-->
+    <dep from="t7" to="t3" rfunc="NMOD"/>
+    <!--NMOD(query, /)-->
+    <dep from="t5" to="t4" rfunc="NMOD"/>
+    <!--NMOD(nytimes, query)-->
+    <dep from="t7" to="t5" rfunc="NMOD"/>
+    <!--P(query, .)-->
+    <dep from="t5" to="t6" rfunc="P"/>
+    <!--NMOD(gst, nytimes)-->
+    <dep from="t11" to="t7" rfunc="NMOD"/>
+    <!--P(nytimes, .)-->
+    <dep from="t7" to="t8" rfunc="P"/>
+    <!--NMOD(/, com)-->
+    <dep from="t10" to="t9" rfunc="NMOD"/>
+    <!--NMOD(gst, /)-->
+    <dep from="t11" to="t10" rfunc="NMOD"/>
+    <!--NMOD(/, gst)-->
+    <dep from="t12" to="t11" rfunc="NMOD"/>
+    <!--NMOD(fullpage, /)-->
+    <dep from="t13" to="t12" rfunc="NMOD"/>
+    <!--APPO(http, fullpage)-->
+    <dep from="t1" to="t13" rfunc="APPO"/>
+    <!--P(fullpage, .)-->
+    <dep from="t13" to="t14" rfunc="P"/>
+    <!--AMOD(fullpage, html)-->
+    <dep from="t13" to="t15" rfunc="AMOD"/>
+    <!--P(http, ?)-->
+    <dep from="t1" to="t16" rfunc="P"/>
+    <!--P(http, res=9402E6D71239F937A15756C0A9639C8B63)-->
+    <dep from="t1" to="t17" rfunc="P"/>
+    <!--NMOD(76ERS, PHILADELPHIA)-->
+    <dep from="t19" to="t18" rfunc="NMOD"/>
+    <!--SBJ(Fired, 76ERS)-->
+    <dep from="t20" to="t19" rfunc="SBJ"/>
+    <!--NAME(O'Brien, Jim)-->
+    <dep from="t22" to="t21" rfunc="NAME"/>
+    <!--NMOD(coach, O'Brien)-->
+    <dep from="t29" to="t22" rfunc="NMOD"/>
+    <!--P(O'Brien, ,)-->
+    <dep from="t22" to="t23" rfunc="P"/>
+    <!--APPO(O'Brien, coach)-->
+    <dep from="t22" to="t24" rfunc="APPO"/>
+    <!--P(O'Brien, .)-->
+    <dep from="t22" to="t25" rfunc="P"/>
+    <!--NAME(Cheeks, Named)-->
+    <dep from="t28" to="t26" rfunc="NAME"/>
+    <!--NAME(Cheeks, Maurice)-->
+    <dep from="t28" to="t27" rfunc="NAME"/>
+    <!--NMOD(coach, Cheeks)-->
+    <dep from="t29" to="t28" rfunc="NMOD"/>
+    <!--PMOD(Fired, coach)-->
+    <dep from="t20" to="t29" rfunc="PMOD"/>
+    <!--P(Fired, .)-->
+    <dep from="t20" to="t30" rfunc="P"/>
+  </deps>
+  <entities>
+    <entity id="e1" type="ORGANIZATION">
+      <references>
+        <!--PHILADELPHIA-->
+        <span>
+          <target id="t18"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Philadelphia" confidence="0.9752713" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Philadelphia_76ers" confidence="0.01904403" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Philadelphia_County,_Pennsylvania" confidence="0.005445828" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Philadelphia_(film)" confidence="2.2922237E-4" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Philadelphia_(magazine)" confidence="9.625737E-6" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2005–06_Philadelphia_76ers_season" confidence="1.5063668E-15" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009–10_Philadelphia_76ers_season" confidence="4.8665338E-17" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2007–08_Philadelphia_76ers_season" confidence="4.3198376E-17" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2006–07_Philadelphia_76ers_season" confidence="3.1742176E-17" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008–09_Philadelphia_76ers_season" confidence="2.4809092E-17" reftype="en" source="en"/>
+        <externalRef resource="dbp" reference="http://dbpedia.org/resource/Philadelphia" confidence="1.0" source="POCUS"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="PERSON">
+      <references>
+        <!--Jim O'Brien-->
+        <span>
+          <target id="t21"/>
+          <target id="t22"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jim_O'Brien_(basketball,_born_1952)" confidence="0.99962705" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/James_Lawrence_O'Brien" confidence="2.0921257E-4" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Andrew_O'Brien_(rugby)" confidence="8.3343235E-5" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jim_O'Brien_(basketball,_born_1949)" confidence="7.6062766E-5" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jim_O'Brien_(reporter)" confidence="4.1249414E-6" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jim_O'Brien_(American_football)" confidence="1.6591902E-7" reftype="en" source="en"/>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jim_O'Brien_(footballer)" confidence="2.1551317E-8" reftype="en" source="en"/>
+        <externalRef resource="dbp" reference="http://dbpedia.org/resource/Jim_O'Brien_(basketball,_born_1952)" confidence="1.0" source="POCUS"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="PERSON">
+      <references>
+        <!--Maurice Cheeks-->
+        <span>
+          <target id="t27"/>
+          <target id="t28"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Maurice_Cheeks" confidence="1.0" reftype="en" source="en"/>
+        <externalRef resource="dbp" reference="http://dbpedia.org/resource/Maurice_Cheeks" confidence="1.0" source="POCUS"/>
+      </externalReferences>
+    </entity>
+  </entities>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <!--html-->
+      <span>
+        <target id="t15"/>
+      </span>
+    </coref>
+  </coreferences>
+  <srl>
+    <!--t15 html : A0[t3 /]-->
+    <predicate id="pr1">
+      <!--html-->
+      <span>
+        <target id="t15"/>
+      </span>
+      <externalReferences>
+        <externalRef resource="PropBank" reference="html.01"/>
+      </externalReferences>
+      <role id="rl1" semRole="A0">
+        <!--/ / query . nytimes . com / gst / fullpage . html-->
+        <span>
+          <target id="t3"/>
+          <target id="t4"/>
+          <target id="t5"/>
+          <target id="t6"/>
+          <target id="t7"/>
+          <target id="t8"/>
+          <target id="t9"/>
+          <target id="t10"/>
+          <target id="t11"/>
+          <target id="t12"/>
+          <target id="t13" head="yes"/>
+          <target id="t14"/>
+          <target id="t15"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+  <constituency>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter1" label="TOP"/>
+      <nt id="nter2" label="S"/>
+      <nt id="nter3" label="NP"/>
+      <nt id="nter4" label="NP"/>
+      <nt id="nter5" label="NP"/>
+      <nt id="nter6" label="NN"/>
+      <nt id="nter7" label=":"/>
+      <nt id="nter8" label="NP"/>
+      <nt id="nter9" label="JJ"/>
+      <nt id="nter10" label="JJ"/>
+      <nt id="nter11" label="NN"/>
+      <nt id="nter12" label="."/>
+      <nt id="nter13" label="NNS"/>
+      <nt id="nter14" label="."/>
+      <nt id="nter15" label="S"/>
+      <nt id="nter16" label="NP"/>
+      <nt id="nter17" label="NN"/>
+      <nt id="nter18" label="NN"/>
+      <nt id="nter19" label="NN"/>
+      <nt id="nter20" label="NN"/>
+      <nt id="nter21" label="ADJP"/>
+      <nt id="nter22" label="JJ"/>
+      <nt id="nter23" label="."/>
+      <nt id="nter24" label="''"/>
+      <nt id="nter25" label="."/>
+      <nt id="nter26" label="."/>
+      <!--Terminals-->
+      <!--http-->
+      <t id="ter1">
+        <span>
+          <target id="t1"/>
+        </span>
+      </t>
+      <!--:-->
+      <t id="ter2">
+        <span>
+          <target id="t2"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter3">
+        <span>
+          <target id="t3"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter4">
+        <span>
+          <target id="t4"/>
+        </span>
+      </t>
+      <!--query-->
+      <t id="ter5">
+        <span>
+          <target id="t5"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter6">
+        <span>
+          <target id="t6"/>
+        </span>
+      </t>
+      <!--nytimes-->
+      <t id="ter7">
+        <span>
+          <target id="t7"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter8">
+        <span>
+          <target id="t8"/>
+        </span>
+      </t>
+      <!--com-->
+      <t id="ter9">
+        <span>
+          <target id="t9"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter10">
+        <span>
+          <target id="t10"/>
+        </span>
+      </t>
+      <!--gst-->
+      <t id="ter11">
+        <span>
+          <target id="t11"/>
+        </span>
+      </t>
+      <!--/-->
+      <t id="ter12">
+        <span>
+          <target id="t12"/>
+        </span>
+      </t>
+      <!--fullpage-->
+      <t id="ter13">
+        <span>
+          <target id="t13"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter14">
+        <span>
+          <target id="t14"/>
+        </span>
+      </t>
+      <!--html-->
+      <t id="ter15">
+        <span>
+          <target id="t15"/>
+        </span>
+      </t>
+      <!--?-->
+      <t id="ter16">
+        <span>
+          <target id="t16"/>
+        </span>
+      </t>
+      <!--res=9402E6D71239F937A15756C0A9639C8B63-->
+      <t id="ter17">
+        <span>
+          <target id="t17"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre2" from="nter2" to="nter1" head="yes"/>
+      <edge id="tre3" from="nter3" to="nter2"/>
+      <edge id="tre4" from="nter4" to="nter3"/>
+      <edge id="tre5" from="nter5" to="nter4" head="yes"/>
+      <edge id="tre6" from="nter6" to="nter5" head="yes"/>
+      <edge id="tre7" from="ter1" to="nter6"/>
+      <edge id="tre8" from="nter7" to="nter4"/>
+      <edge id="tre9" from="ter2" to="nter7"/>
+      <edge id="tre10" from="nter8" to="nter4"/>
+      <edge id="tre11" from="nter9" to="nter8"/>
+      <edge id="tre12" from="ter3" to="nter9"/>
+      <edge id="tre13" from="nter10" to="nter8"/>
+      <edge id="tre14" from="ter4" to="nter10"/>
+      <edge id="tre15" from="nter11" to="nter8" head="yes"/>
+      <edge id="tre16" from="ter5" to="nter11"/>
+      <edge id="tre17" from="nter12" to="nter3"/>
+      <edge id="tre18" from="ter6" to="nter12"/>
+      <edge id="tre19" from="nter13" to="nter3" head="yes"/>
+      <edge id="tre20" from="ter7" to="nter13"/>
+      <edge id="tre21" from="nter14" to="nter2"/>
+      <edge id="tre22" from="ter8" to="nter14"/>
+      <edge id="tre23" from="nter15" to="nter2" head="yes"/>
+      <edge id="tre24" from="nter16" to="nter15"/>
+      <edge id="tre25" from="nter17" to="nter16"/>
+      <edge id="tre26" from="ter9" to="nter17"/>
+      <edge id="tre27" from="nter18" to="nter16"/>
+      <edge id="tre28" from="ter10" to="nter18"/>
+      <edge id="tre29" from="nter19" to="nter16"/>
+      <edge id="tre30" from="ter11" to="nter19"/>
+      <edge id="tre31" from="nter20" to="nter16" head="yes"/>
+      <edge id="tre32" from="ter12" to="nter20"/>
+      <edge id="tre33" from="nter21" to="nter15" head="yes"/>
+      <edge id="tre34" from="nter22" to="nter21" head="yes"/>
+      <edge id="tre35" from="ter13" to="nter22"/>
+      <edge id="tre36" from="nter23" to="nter2"/>
+      <edge id="tre37" from="ter14" to="nter23"/>
+      <edge id="tre38" from="nter24" to="nter2"/>
+      <edge id="tre39" from="ter15" to="nter24"/>
+      <edge id="tre40" from="nter25" to="nter2"/>
+      <edge id="tre41" from="ter16" to="nter25"/>
+      <edge id="tre42" from="nter26" to="nter2"/>
+      <edge id="tre43" from="ter17" to="nter26"/>
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter27" label="TOP"/>
+      <nt id="nter28" label="NP"/>
+      <nt id="nter29" label="NP"/>
+      <nt id="nter30" label="NNP"/>
+      <nt id="nter31" label="NNPS"/>
+      <nt id="nter32" label="NNPS"/>
+      <nt id="nter33" label="NNP"/>
+      <nt id="nter34" label="NNP"/>
+      <nt id="nter35" label=","/>
+      <nt id="nter36" label="NP"/>
+      <nt id="nter37" label="NN"/>
+      <nt id="nter38" label="."/>
+      <nt id="nter39" label="NNPS"/>
+      <nt id="nter40" label="NNP"/>
+      <nt id="nter41" label="NNP"/>
+      <nt id="nter42" label="NN"/>
+      <nt id="nter43" label="."/>
+      <!--Terminals-->
+      <!--PHILADELPHIA-->
+      <t id="ter18">
+        <span>
+          <target id="t18"/>
+        </span>
+      </t>
+      <!--76ERS-->
+      <t id="ter19">
+        <span>
+          <target id="t19"/>
+        </span>
+      </t>
+      <!--Fired-->
+      <t id="ter20">
+        <span>
+          <target id="t20"/>
+        </span>
+      </t>
+      <!--Jim-->
+      <t id="ter21">
+        <span>
+          <target id="t21"/>
+        </span>
+      </t>
+      <!--O'Brien-->
+      <t id="ter22">
+        <span>
+          <target id="t22"/>
+        </span>
+      </t>
+      <!--,-->
+      <t id="ter23">
+        <span>
+          <target id="t23"/>
+        </span>
+      </t>
+      <!--coach-->
+      <t id="ter24">
+        <span>
+          <target id="t24"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter25">
+        <span>
+          <target id="t25"/>
+        </span>
+      </t>
+      <!--Named-->
+      <t id="ter26">
+        <span>
+          <target id="t26"/>
+        </span>
+      </t>
+      <!--Maurice-->
+      <t id="ter27">
+        <span>
+          <target id="t27"/>
+        </span>
+      </t>
+      <!--Cheeks-->
+      <t id="ter28">
+        <span>
+          <target id="t28"/>
+        </span>
+      </t>
+      <!--coach-->
+      <t id="ter29">
+        <span>
+          <target id="t29"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter30">
+        <span>
+          <target id="t30"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre45" from="nter28" to="nter27" head="yes"/>
+      <edge id="tre46" from="nter29" to="nter28" head="yes"/>
+      <edge id="tre47" from="nter30" to="nter29"/>
+      <edge id="tre48" from="ter18" to="nter30"/>
+      <edge id="tre49" from="nter31" to="nter29"/>
+      <edge id="tre50" from="ter19" to="nter31"/>
+      <edge id="tre51" from="nter32" to="nter29"/>
+      <edge id="tre52" from="ter20" to="nter32"/>
+      <edge id="tre53" from="nter33" to="nter29"/>
+      <edge id="tre54" from="ter21" to="nter33"/>
+      <edge id="tre55" from="nter34" to="nter29" head="yes"/>
+      <edge id="tre56" from="ter22" to="nter34"/>
+      <edge id="tre57" from="nter35" to="nter28"/>
+      <edge id="tre58" from="ter23" to="nter35"/>
+      <edge id="tre59" from="nter36" to="nter28"/>
+      <edge id="tre60" from="nter37" to="nter36"/>
+      <edge id="tre61" from="ter24" to="nter37"/>
+      <edge id="tre62" from="nter38" to="nter36"/>
+      <edge id="tre63" from="ter25" to="nter38"/>
+      <edge id="tre64" from="nter39" to="nter36"/>
+      <edge id="tre65" from="ter26" to="nter39"/>
+      <edge id="tre66" from="nter40" to="nter36"/>
+      <edge id="tre67" from="ter27" to="nter40"/>
+      <edge id="tre68" from="nter41" to="nter36"/>
+      <edge id="tre69" from="ter28" to="nter41"/>
+      <edge id="tre70" from="nter42" to="nter36" head="yes"/>
+      <edge id="tre71" from="ter29" to="nter42"/>
+      <edge id="tre72" from="nter43" to="nter28"/>
+      <edge id="tre73" from="ter30" to="nter43"/>
+    </tree>
+  </constituency>
+  <topics>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.05721372738480568">EC infringement procedure</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.043107323348522186">common transport policy</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.03406525403261185">transport regulations</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.032873138785362244">fine</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.01937265135347843">merger control</topic>
+    <topic source="ixa-pipe-topic-en" method="JEX" confidence="0.019167644903063774">economic concentration</topic>
+  </topics>
+  <factualities>
+    <factuality id="f1">
+      <span>
+        <target id="t15"/>
+      </span>
+      <factVal resource="nwr:attributionTense" value="UNDERSPECIFIED"/>
+      <factVal resource="factbank" value="NONE"/>
+      <factVal resource="nwr:attributionCertainty" value="CERTAIN"/>
+      <factVal resource="nwr:attributionPolarity" value="POS"/>
+    </factuality>
+  </factualities>
+</NAF>
