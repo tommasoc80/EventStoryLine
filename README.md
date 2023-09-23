@@ -1,5 +1,8 @@
 # EventStoryLine
 
+[![DOI](https://zenodo.org/badge/92590634.svg)](https://zenodo.org/badge/latestdoi/92590634)
+
+
 This repository contains the following materials to extract storylines using the EventStoryLine Corpus (ESC):
 
 - annotated data in (CAT-)XML format (folder: annotated_data). To visualise the data, you have to use CAT (Content Annotation Tool: http://dh.fbk.eu/resources/cat-content-annotation-tool). Ask for an account, it's free.
